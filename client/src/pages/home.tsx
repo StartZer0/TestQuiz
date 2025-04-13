@@ -38,7 +38,7 @@ const Home: React.FC = () => {
   // Handle JSON file upload
   const handleJsonFileChange = async (file: File) => {
     setJsonFile(file);
-    
+
     // Generate a preview of the JSON file
     try {
       const previewText = await previewJsonFile(file, true);
@@ -60,12 +60,16 @@ const Home: React.FC = () => {
       return;
     }
 
+    console.log('Processing document:', documentFile.name);
     setLoading(true);
     try {
+      console.log('Calling extractQuestionsFromDocument...');
       const extractedData = await extractQuestionsFromDocument(documentFile);
+      console.log('Document processed successfully, setting quiz data...');
       setQuizData(extractedData);
       setCurrentStep('edit');
     } catch (error) {
+      console.error('Error in processDocument:', error);
       toast({
         title: "Error processing document",
         description: error instanceof Error ? error.message : "An unknown error occurred",
@@ -179,12 +183,12 @@ const Home: React.FC = () => {
       const response = await apiRequest('POST', '/api/quizzes/share', {
         quiz: quizData
       });
-      
+
       const data = await response.json();
       setQuizShareId(data.shareId);
       const shareUrl = window.location.origin + '/quiz/' + data.shareId;
       setQuizLink(shareUrl);
-      
+
       toast({
         title: "Quiz shared successfully",
         description: "Your quiz link is ready to share!",
@@ -255,26 +259,26 @@ const Home: React.FC = () => {
             <Card className="mb-8">
               <CardContent className="pt-6">
                 <h2 className="text-2xl font-semibold mb-6 text-center">Create a New Quiz</h2>
-                
+
                 {/* Upload Tabs */}
                 <div className="mb-8">
                   <div className="border-b border-neutral-200">
                     <nav className="flex -mb-px">
-                      <button 
+                      <button
                         onClick={() => setCurrentTab('upload')}
                         className={`py-4 px-6 font-medium text-sm border-b-2 focus:outline-none transition-colors ${
-                          currentTab === 'upload' 
-                            ? 'border-primary-600 text-primary-600' 
+                          currentTab === 'upload'
+                            ? 'border-primary-600 text-primary-600'
                             : 'border-transparent text-neutral-500 hover:text-neutral-700 hover:border-neutral-300'
                         }`}
                       >
                         Upload Document
                       </button>
-                      <button 
+                      <button
                         onClick={() => setCurrentTab('json')}
                         className={`py-4 px-6 font-medium text-sm border-b-2 focus:outline-none transition-colors ${
-                          currentTab === 'json' 
-                            ? 'border-primary-600 text-primary-600' 
+                          currentTab === 'json'
+                            ? 'border-primary-600 text-primary-600'
                             : 'border-transparent text-neutral-500 hover:text-neutral-700 hover:border-neutral-300'
                         }`}
                       >
@@ -283,20 +287,20 @@ const Home: React.FC = () => {
                     </nav>
                   </div>
                 </div>
-                
+
                 {/* Document Upload Form */}
                 {currentTab === 'upload' && (
                   <>
-                    <FileUpload 
+                    <FileUpload
                       accept=".docx,.doc"
                       onFileChange={handleDocumentFileChange}
                       label="Document Upload"
                       supportText="Supported formats: .docx, .doc"
                       fileType="document"
                     />
-                    
+
                     <div className="flex justify-center">
-                      <Button 
+                      <Button
                         onClick={processDocument}
                         disabled={!documentFile || loading}
                         className="px-6 py-3"
@@ -306,20 +310,20 @@ const Home: React.FC = () => {
                     </div>
                   </>
                 )}
-                
+
                 {/* JSON Import Form */}
                 {currentTab === 'json' && (
                   <>
                     {!showJsonInput ? (
                       <>
-                        <FileUpload 
+                        <FileUpload
                           accept=".json"
                           onFileChange={handleJsonFileChange}
                           label="Import Quiz JSON"
                           supportText="Compatible with DocQuiz JSON format"
                           fileType="JSON file"
                         />
-                        
+
                         {/* JSON Preview Section */}
                         {jsonFile && jsonPreview && (
                           <div className="mt-4 border rounded-md p-4 bg-neutral-50">
@@ -332,9 +336,9 @@ const Home: React.FC = () => {
                             </div>
                           </div>
                         )}
-                        
+
                         <div className="flex flex-col items-center justify-center space-y-4 mt-4">
-                          <Button 
+                          <Button
                             onClick={processJsonFile}
                             disabled={!jsonFile || loading}
                             className="px-6 py-3"
@@ -343,7 +347,7 @@ const Home: React.FC = () => {
                           </Button>
                           <div className="text-center">
                             <p className="text-sm text-neutral-500">or</p>
-                            <button 
+                            <button
                               onClick={() => setShowJsonInput(true)}
                               className="text-primary-600 text-sm font-medium hover:underline focus:outline-none"
                             >
@@ -364,14 +368,14 @@ const Home: React.FC = () => {
                           />
                         </div>
                         <div className="flex justify-center space-x-4">
-                          <Button 
+                          <Button
                             onClick={processJsonInput}
                             className="px-6 py-3"
                           >
                             Process JSON
                           </Button>
-                          <Button 
-                            variant="outline" 
+                          <Button
+                            variant="outline"
                             onClick={() => setShowJsonInput(false)}
                           >
                             Cancel
@@ -389,14 +393,14 @@ const Home: React.FC = () => {
               <CardContent className="pt-6">
                 <h3 className="text-lg font-semibold mb-4">Have a Quiz Link?</h3>
                 <div className="flex">
-                  <Input 
-                    type="text" 
-                    placeholder="Paste quiz link here" 
+                  <Input
+                    type="text"
+                    placeholder="Paste quiz link here"
                     value={quizLink}
                     onChange={(e) => setQuizLink(e.target.value)}
                     className="rounded-r-none"
                   />
-                  <Button 
+                  <Button
                     onClick={handleOpenQuizLink}
                     className="rounded-l-none"
                   >
@@ -419,7 +423,7 @@ const Home: React.FC = () => {
                     <span className="text-sm text-neutral-500">
                       {quizData.questions.length} questions extracted
                     </span>
-                    <button 
+                    <button
                       className="text-primary-600 hover:text-primary-500 font-medium text-sm focus:outline-none"
                       onClick={processDocument}
                     >
@@ -431,18 +435,18 @@ const Home: React.FC = () => {
                   </div>
                 </div>
               </div>
-              
+
               {/* Quiz Title */}
               <div className="px-6 py-4 border-b border-neutral-200">
                 <label className="block text-sm font-medium text-neutral-700 mb-1">Quiz Title</label>
-                <Input 
-                  type="text" 
-                  value={quizData.title} 
+                <Input
+                  type="text"
+                  value={quizData.title}
                   onChange={handleTitleChange}
                   className="w-full"
                 />
               </div>
-              
+
               {/* Quiz Items */}
               <div className="p-6">
                 <div className="space-y-6">
@@ -455,9 +459,9 @@ const Home: React.FC = () => {
                       onDelete={() => deleteQuestion(index)}
                     />
                   ))}
-                  
+
                   {/* Add Question Button */}
-                  <button 
+                  <button
                     onClick={addNewQuestion}
                     className="w-full py-3 border-2 border-dashed border-neutral-300 rounded-lg text-neutral-500 hover:text-primary-600 hover:border-primary-500 focus:outline-none transition-colors flex items-center justify-center"
                   >
@@ -468,16 +472,16 @@ const Home: React.FC = () => {
                   </button>
                 </div>
               </div>
-              
+
               {/* Action Buttons */}
               <div className="px-6 py-4 border-t border-neutral-200 flex justify-between">
-                <Button 
+                <Button
                   variant="outline"
                   onClick={() => setCurrentStep('upload')}
                 >
                   Back
                 </Button>
-                <Button 
+                <Button
                   onClick={() => setCurrentStep('export')}
                 >
                   Continue
@@ -493,7 +497,7 @@ const Home: React.FC = () => {
             <Card className="mb-8">
               <CardContent className="pt-6">
                 <h2 className="text-2xl font-semibold mb-6">Export & Share Quiz</h2>
-                
+
                 <div className="mb-8">
                   <h3 className="text-lg font-medium mb-4">Quiz Details</h3>
                   <div className="bg-neutral-50 p-4 rounded-lg border border-neutral-200">
@@ -507,14 +511,14 @@ const Home: React.FC = () => {
                     </div>
                   </div>
                 </div>
-                
+
                 <div className="grid md:grid-cols-2 gap-8">
                   {/* Export Options */}
                   <div>
                     <h3 className="text-lg font-medium mb-4">Export Options</h3>
-                    
+
                     <div className="space-y-4">
-                      <button 
+                      <button
                         onClick={handleDownloadJson}
                         className="w-full flex items-center justify-between p-4 border border-neutral-200 rounded-lg hover:border-primary-500 focus:outline-none focus:ring-2 focus:ring-primary-500 transition-colors"
                       >
@@ -533,21 +537,21 @@ const Home: React.FC = () => {
                       </button>
                     </div>
                   </div>
-                  
+
                   {/* Share Options */}
                   <div>
                     <h3 className="text-lg font-medium mb-4">Share Quiz</h3>
-                    
+
                     <div className="mb-6">
                       <label className="block text-sm font-medium text-neutral-700 mb-2">Shareable Link</label>
                       <div className="flex">
-                        <Input 
-                          type="text" 
+                        <Input
+                          type="text"
                           value={quizLink}
                           readOnly
                           className="rounded-r-none"
                         />
-                        <Button 
+                        <Button
                           onClick={quizLink ? copyLinkToClipboard : shareQuiz}
                           className="rounded-l-none"
                         >
@@ -560,16 +564,16 @@ const Home: React.FC = () => {
                 </div>
               </CardContent>
             </Card>
-            
+
             {/* Action Buttons */}
             <div className="flex justify-between">
-              <Button 
+              <Button
                 variant="outline"
                 onClick={() => setCurrentStep('edit')}
               >
                 Back to Edit
               </Button>
-              <Button 
+              <Button
                 onClick={() => setCurrentStep('quiz')}
               >
                 Take Quiz

@@ -90,17 +90,18 @@ export function calculateQuizResult(
       correct: boolean;
       userAnswer: string;
       correctAnswer: string;
+      questionText: string;
     }[]
   };
   
   quizData.questions.forEach(question => {
     const userAnswerId = userAnswers[question.id];
     const correctOption = question.options.find(opt => opt.isCorrect);
+    const userOption = question.options.find(opt => opt.id === userAnswerId);
     
     if (!correctOption) return;
     
     const isCorrect = userAnswerId === correctOption.id;
-    const userAnswerText = question.options.find(opt => opt.id === userAnswerId)?.text || '';
     
     if (isCorrect) {
       results.correctAnswers++;
@@ -111,8 +112,9 @@ export function calculateQuizResult(
     results.questionResults.push({
       questionId: question.id,
       correct: isCorrect,
-      userAnswer: userAnswerText,
-      correctAnswer: correctOption.text
+      userAnswer: userOption?.text || 'No answer',
+      correctAnswer: correctOption.text,
+      questionText: question.text
     });
   });
   

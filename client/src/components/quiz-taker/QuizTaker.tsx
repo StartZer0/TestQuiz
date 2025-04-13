@@ -1,132 +1,303 @@
 import React, { useState } from 'react';
 import { QuizData } from '@shared/schema';
-import Question from './Question';
+import { QuizResult } from '@/types/quiz';
 import { calculateQuizResult } from '@/lib/formatQuiz';
+import { Button } from '@/components/ui/button';
 
 interface QuizTakerProps {
   quizData: QuizData;
-  onComplete: (results: any) => void;
-  onExit: () => void;
+  onComplete: (results: QuizResult) => void;
+  onExit?: () => void; // Made optional since it's not being used
 }
 
-const QuizTaker: React.FC<QuizTakerProps> = ({ quizData, onComplete, onExit }) => {
+const QuizTaker: React.FC<QuizTakerProps> = ({ quizData, onComplete }) => {
   const [currentQuestion, setCurrentQuestion] = useState(0);
-  const [userAnswers, setUserAnswers] = useState<Record<string, string>>({});
+  const [selectedOptionId, setSelectedOptionId] = useState<string>('');
   const [answerSubmitted, setAnswerSubmitted] = useState(false);
-  const [completed, setCompleted] = useState(false);
-  
+  const [userAnswers, setUserAnswers] = useState<Record<string, string>>({});
+  const [quizCompleted, setQuizCompleted] = useState(false);
+  const [quizResults, setQuizResults] = useState<QuizResult | null>(null);
+
   const totalQuestions = quizData.questions.length;
   const currentQuestionData = quizData.questions[currentQuestion];
-  const selectedOptionId = userAnswers[currentQuestionData.id] || null;
-  
-  console.log("Current question:", currentQuestionData);
-  console.log("Selected option ID:", selectedOptionId);
-  console.log("All user answers:", userAnswers);
-  
-  const handleSelectOption = (optionId: string) => {
-    console.log("Select option called with:", optionId);
+
+  const handleOptionSelect = (optionId: string) => {
     if (!answerSubmitted) {
+      setSelectedOptionId(optionId);
+
+      // Immediately check the answer when an option is selected
       const newAnswers = {
         ...userAnswers,
-        [currentQuestionData.id]: optionId
+        [currentQuestionData.id]: optionId,
       };
-      console.log("Setting user answers to:", newAnswers);
       setUserAnswers(newAnswers);
-    }
-  };
-  
-  const handleCheckAnswer = () => {
-    console.log("Check answer called, selectedOptionId:", selectedOptionId);
-    if (selectedOptionId) {
       setAnswerSubmitted(true);
+
+      // If this is the last question, complete the quiz
+      if (currentQuestion === totalQuestions - 1) {
+        const results = calculateQuizResult(quizData, newAnswers);
+        setQuizResults(results);
+        setQuizCompleted(true);
+        // Don't call onComplete yet, let the user see the summary first
+      }
     }
   };
-  
+
+  // handleCheckAnswer is no longer needed as we check the answer immediately when an option is selected
+
   const handleNextQuestion = () => {
-    setAnswerSubmitted(false);
     if (currentQuestion < totalQuestions - 1) {
       setCurrentQuestion(currentQuestion + 1);
+      setSelectedOptionId('');
+      setAnswerSubmitted(false);
     } else {
-      setCompleted(true);
       const results = calculateQuizResult(quizData, userAnswers);
-      onComplete(results);
+      setQuizResults(results);
+      setQuizCompleted(true);
+      // Don't call onComplete yet, let the user see the summary first
     }
   };
-  
+
   const handlePreviousQuestion = () => {
     if (currentQuestion > 0) {
       setCurrentQuestion(currentQuestion - 1);
-      setAnswerSubmitted(false);
+      setSelectedOptionId(userAnswers[quizData.questions[currentQuestion - 1].id] || '');
+      setAnswerSubmitted(true);
     }
   };
-  
-  return (
-    <div className="bg-white rounded-lg shadow-md overflow-hidden">
-      {/* Quiz Header */}
-      <div className="bg-primary-600 text-white px-6 py-5">
-        <h2 className="text-xl font-semibold">{quizData.title}</h2>
-        <div className="flex justify-between items-center mt-2">
-          <span className="text-sm text-white/80">
-            Question {currentQuestion + 1} of {totalQuestions}
-          </span>
-          <div className="flex items-center space-x-1">
-            <span className="text-sm">Progress:</span>
-            <div className="w-32 h-2 bg-white/30 rounded-full">
+
+  // If quiz is completed, show results
+  if (quizCompleted && quizResults) {
+    return (
+      <div className="bg-white rounded-lg shadow-sm border border-neutral-200">
+        <div className="p-6">
+          <h2 className="text-2xl font-bold mb-2 text-center">Quiz Results</h2>
+          <p className="text-center text-neutral-500 mb-6">You have completed the quiz!</p>
+
+          {/* Progress bar */}
+          <div className="w-full max-w-md mx-auto mb-8">
+            <div className="w-full bg-gray-200 rounded-full h-2.5">
               <div
-                className="h-full bg-white rounded-full"
-                style={{ width: `${((currentQuestion + (answerSubmitted ? 1 : 0)) / totalQuestions) * 100}%` }}
+                className="bg-green-500 h-2.5 rounded-full"
+                style={{ width: `${Math.round(quizResults.score)}%` }}
               ></div>
             </div>
           </div>
+
+          <div className="bg-neutral-50 p-6 rounded-lg border border-neutral-200 mb-6 shadow-sm">
+            <h3 className="text-lg font-medium mb-4">{quizData.title}</h3>
+
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
+              <div className="text-center p-5 bg-white rounded-lg border border-neutral-200 shadow-sm">
+                <p className="text-sm text-neutral-500 mb-1">Score</p>
+                <p className="text-4xl font-bold text-primary-600">
+                  {Math.round(quizResults.score)}%
+                </p>
+              </div>
+              <div className="text-center p-5 bg-white rounded-lg border border-neutral-200 shadow-sm">
+                <p className="text-sm text-neutral-500 mb-1">Correct Answers</p>
+                <p className="text-4xl font-bold text-green-500">
+                  {quizResults.correctAnswers}
+                </p>
+              </div>
+              <div className="text-center p-5 bg-white rounded-lg border border-neutral-200 shadow-sm">
+                <p className="text-sm text-neutral-500 mb-1">Total Questions</p>
+                <p className="text-4xl font-bold text-neutral-700">
+                  {quizResults.totalQuestions}
+                </p>
+              </div>
+            </div>
+
+            <div className="space-y-4">
+              <h4 className="text-lg font-semibold mb-3 pb-2 border-b border-neutral-200">Question Breakdown</h4>
+              {quizResults.questionResults.map((result, index) => (
+                <div
+                  key={result.questionId}
+                  className={`p-4 rounded-lg border ${result.correct ? 'bg-green-50 border-green-200' : 'bg-red-50 border-red-200'}`}
+                >
+                  <div className="flex items-start">
+                    <div className="flex-shrink-0 mt-0.5 mr-3">
+                      {result.correct ? (
+                        <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 text-green-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        </svg>
+                      ) : (
+                        <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 text-red-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 14l2-2m0 0l2-2m-2 2l-2-2m2 2l2 2m7-2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        </svg>
+                      )}
+                    </div>
+                    <div className="flex-1">
+                      <p className="font-medium">Question {index + 1}</p>
+                      <p className="text-sm mt-1">{quizData.questions[index].text}</p>
+                      <div className="mt-2 text-sm">
+                        <p className="text-neutral-600">
+                          Your answer: <span className="font-medium">{result.userAnswer}</span>
+                        </p>
+                        {!result.correct && (
+                          <p className="text-neutral-600 mt-1">
+                            Correct answer: <span className="font-medium text-green-600">{result.correctAnswer}</span>
+                          </p>
+                        )}
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+
+          <div className="flex flex-col sm:flex-row justify-center gap-3 mt-8">
+            <Button
+              variant="outline"
+              onClick={() => {
+                setQuizCompleted(false);
+                setCurrentQuestion(0);
+                setSelectedOptionId('');
+                setAnswerSubmitted(false);
+                setUserAnswers({});
+              }}
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+              </svg>
+              Retake Quiz
+            </Button>
+            <Button onClick={() => onComplete(quizResults)}>
+              <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+              </svg>
+              Finish
+            </Button>
+          </div>
         </div>
       </div>
-      
-      {/* Question Content */}
-      <Question
-        question={currentQuestionData}
-        selectedOptionId={selectedOptionId}
-        answerSubmitted={answerSubmitted}
-        onSelectOption={handleSelectOption}
-      />
-      
-      {/* Action Buttons */}
+    );
+  }
+
+  // Otherwise show the quiz questions
+  return (
+    <div className="bg-white rounded-lg shadow-sm border border-neutral-200">
+      <div className="p-6">
+        <div className="mb-4">
+          <h2 className="text-xl font-semibold mb-1">{quizData.title}</h2>
+          <p className="text-sm text-neutral-500">
+            Question {currentQuestion + 1} of {totalQuestions}
+          </p>
+        </div>
+
+        <div className="mb-6">
+          <p className="text-lg mb-4">{currentQuestionData.text}</p>
+          <div className="space-y-3">
+            {currentQuestionData.options.map((option) => {
+              // Determine the styling based on whether the answer is submitted and correct
+              let optionStyle = "";
+
+              if (answerSubmitted) {
+                if (option.isCorrect) {
+                  // Enhanced green highlight for correct answers - ALWAYS highlight correct answer in green
+                  optionStyle = "border-green-500 bg-green-100 shadow-md shadow-green-100 ring-2 ring-green-500 text-green-700 font-medium";
+                } else if (selectedOptionId === option.id) {
+                  // Enhanced red highlight for incorrect answers - only if user selected this wrong answer
+                  optionStyle = "border-red-500 bg-red-100 shadow-md shadow-red-100 ring-2 ring-red-500 text-red-700 font-medium";
+                } else {
+                  // Slightly dimmed style for other options
+                  optionStyle = "border-neutral-200 bg-neutral-50 opacity-60";
+                }
+              } else if (selectedOptionId === option.id) {
+                optionStyle = "border-primary-500 bg-primary-50";
+              } else {
+                optionStyle = "border-neutral-200 hover:border-neutral-300 hover:bg-neutral-50";
+              }
+
+              return (
+                <button
+                  key={option.id}
+                  onClick={() => handleOptionSelect(option.id)}
+                  disabled={answerSubmitted}
+                  className={`w-full text-left p-5 rounded-lg border transition-all duration-300 ${optionStyle} ${answerSubmitted ? 'cursor-not-allowed' : 'cursor-pointer hover:shadow-sm'}`}
+                >
+                  <div className="flex items-center">
+                    <div className="flex-shrink-0 mr-3">
+                      {!answerSubmitted ? (
+                        <div className={`w-6 h-6 border rounded-full flex items-center justify-center ${selectedOptionId === option.id ? 'bg-primary-500 border-primary-500' : 'border-gray-400'}`}>
+                          {selectedOptionId === option.id && (
+                            <div className="w-2 h-2 bg-white rounded-full"></div>
+                          )}
+                        </div>
+                      ) : option.isCorrect ? (
+                        <div className="w-6 h-6 bg-green-500 rounded-full flex items-center justify-center shadow-sm">
+                          <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" />
+                          </svg>
+                        </div>
+                      ) : selectedOptionId === option.id ? (
+                        <div className="w-6 h-6 bg-red-500 rounded-full flex items-center justify-center shadow-sm">
+                          <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M6 18L18 6M6 6l12 12" />
+                          </svg>
+                        </div>
+                      ) : (
+                        <div className="w-6 h-6 border border-gray-300 rounded-full opacity-60"></div>
+                      )}
+                    </div>
+                    <div className="flex-grow font-medium">{option.text}</div>
+                  </div>
+                </button>
+              );
+            })}
+          </div>
+
+          {answerSubmitted && (
+            <div className={`mt-6 p-4 rounded-lg border ${selectedOptionId && currentQuestionData.options.find(opt => opt.id === selectedOptionId)?.isCorrect
+              ? 'bg-green-100 border-green-300 shadow-sm'
+              : 'bg-red-100 border-red-300 shadow-sm'}`}>
+              <div className="flex items-start">
+                <div className="flex-shrink-0 mr-3">
+                  {selectedOptionId && currentQuestionData.options.find(opt => opt.id === selectedOptionId)?.isCorrect ? (
+                    <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 text-green-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                    </svg>
+                  ) : (
+                    <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 text-red-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 14l2-2m0 0l2-2m-2 2l-2-2m2 2l2 2m7-2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                    </svg>
+                  )}
+                </div>
+                <div>
+                  <p className="font-semibold text-lg">
+                    {selectedOptionId && currentQuestionData.options.find(opt => opt.id === selectedOptionId)?.isCorrect
+                      ? "Correct! Great job!"
+                      : "Incorrect"}
+                  </p>
+                  {!(selectedOptionId && currentQuestionData.options.find(opt => opt.id === selectedOptionId)?.isCorrect) && (
+                    <p className="mt-1">
+                      The correct answer is: <span className="font-medium text-green-600">{currentQuestionData.options.find(opt => opt.isCorrect)?.text}</span>
+                    </p>
+                  )}
+                </div>
+              </div>
+            </div>
+          )}
+        </div>
+      </div>
+
       <div className="px-6 py-4 border-t border-neutral-200 flex justify-between">
-        <button
+        <Button
+          variant="outline"
           onClick={handlePreviousQuestion}
           disabled={currentQuestion === 0}
-          className="px-4 py-2 border border-neutral-300 text-neutral-700 rounded-lg disabled:opacity-50 disabled:cursor-not-allowed hover:bg-neutral-50 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 transition-colors"
         >
           Previous
-        </button>
-        
+        </Button>
+
         <div>
-          {!answerSubmitted && !completed && (
-            <button
-              onClick={handleCheckAnswer}
-              disabled={!selectedOptionId}
-              className="px-6 py-2 bg-primary-600 text-white font-medium rounded-lg shadow hover:bg-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 transition-colors disabled:opacity-70 disabled:hover:bg-primary-600"
-            >
-              Check Answer
-            </button>
-          )}
-          
-          {answerSubmitted && !completed && (
-            <button
-              onClick={handleNextQuestion}
-              className="px-6 py-2 bg-primary-600 text-white font-medium rounded-lg shadow hover:bg-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 transition-colors"
-            >
-              {currentQuestion < totalQuestions - 1 ? "Next Question" : "Finish Quiz"}
-            </button>
-          )}
-          
-          {completed && (
-            <button
-              onClick={onExit}
-              className="px-6 py-2 bg-primary-600 text-white font-medium rounded-lg shadow hover:bg-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-500 focus:ring-offset-2 transition-colors"
-            >
-              View Results
-            </button>
-          )}
+          <Button
+            onClick={handleNextQuestion}
+            disabled={!answerSubmitted}
+          >
+            {currentQuestion < totalQuestions - 1 ? "Next Question" : "Finish Quiz"}
+          </Button>
         </div>
       </div>
     </div>
