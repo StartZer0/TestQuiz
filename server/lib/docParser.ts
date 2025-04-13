@@ -171,13 +171,8 @@ export async function parseDocx(buffer: Buffer): Promise<{ title: string; questi
           const optionLetter = optionMatch[1];
           let optionText = optionMatch[2].trim();
           
-          // For compound questions with numbered references, keep the original format
-          // This preserves options like "A) 1, 2" as they are
-          if (isCompoundQuestion && numbersList.length > 0) {
-            // Keep the option text as is, don't expand the references
-            // This maintains the format of "A) 1, 2" rather than expanding to full texts
-            optionText = optionMatch[2].trim();
-          }
+          // Format the option consistently
+          optionText = `${optionLetter}) ${optionText}`;
           
           // Check if this option is marked as correct
           const isCorrect = formatCorrectAnswer(para) || 

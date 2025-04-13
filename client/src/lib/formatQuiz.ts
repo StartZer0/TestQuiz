@@ -45,6 +45,36 @@ export async function parseQuizJsonFile(file: File): Promise<QuizData> {
   });
 }
 
+// Generate a preview of a JSON file (returns JSON as string and optionally formatted)
+export async function previewJsonFile(file: File, pretty: boolean = true): Promise<string> {
+  return new Promise((resolve, reject) => {
+    const reader = new FileReader();
+    
+    reader.onload = (event) => {
+      try {
+        const json = event.target?.result as string;
+        // Verify it's valid JSON by parsing it
+        const data = JSON.parse(json);
+        
+        // Return the string, optionally pretty-printed
+        if (pretty) {
+          resolve(JSON.stringify(data, null, 2));
+        } else {
+          resolve(json);
+        }
+      } catch (error) {
+        reject(new Error('Invalid JSON file format'));
+      }
+    };
+    
+    reader.onerror = () => {
+      reject(new Error('Error reading file'));
+    };
+    
+    reader.readAsText(file);
+  });
+}
+
 // Calculate quiz result
 export function calculateQuizResult(
   quizData: QuizData, 
