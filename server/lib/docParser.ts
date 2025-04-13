@@ -154,7 +154,12 @@ export async function parseDocx(buffer: Buffer): Promise<{ title: string; questi
       if (currentQuestion && isCompoundQuestion && /^\d+[\.\)]/.test(text) && !(/^[A-Z][\.\)]/.test(text))) {
         const itemMatch = text.match(/^\d+[\.\)]\s*(.*)/);
         if (itemMatch) {
-          numbersList.push(itemMatch[1].trim());
+          const itemNumber = numbersList.length + 1;
+          const itemText = itemMatch[1].trim();
+          numbersList.push(itemText);
+          
+          // For medical exam format, add the numbered items to the question text directly
+          currentQuestion.text = `${currentQuestion.text}\n\n${itemNumber}. ${itemText}`;
         }
         continue;
       }
@@ -166,25 +171,12 @@ export async function parseDocx(buffer: Buffer): Promise<{ title: string; questi
           const optionLetter = optionMatch[1];
           let optionText = optionMatch[2].trim();
           
-          // Check if this option refers to numbered items for compound questions
+          // For compound questions with numbered references, keep the original format
+          // This preserves options like "A) 1, 2" as they are
           if (isCompoundQuestion && numbersList.length > 0) {
-            // Parse references to numbered items like "1, 2" or "3, 4"
-            const references = optionText.split(/,\s*|\s+and\s+/).map(ref => ref.trim());
-            let referencedItems = [];
-            
-            for (const ref of references) {
-              // Try to convert the reference to an index in our numbered list
-              const refIndex = parseInt(ref) - 1;
-              if (!isNaN(refIndex) && refIndex >= 0 && refIndex < numbersList.length) {
-                referencedItems.push(`${ref}. ${numbersList[refIndex]}`);
-              } else {
-                // If can't resolve, just keep the original text
-                referencedItems.push(ref);
-              }
-            }
-            
-            // Format the option to include the references
-            optionText = referencedItems.join(', ');
+            // Keep the option text as is, don't expand the references
+            // This maintains the format of "A) 1, 2" rather than expanding to full texts
+            optionText = optionMatch[2].trim();
           }
           
           // Check if this option is marked as correct
@@ -224,23 +216,24 @@ export async function parseDocx(buffer: Buffer): Promise<{ title: string; questi
       questions.push(currentQuestion);
     }
     
-    // For compound questions, add the numbered items to the question text
+    // Ensure each question has at least one correct answer
     questions.forEach(question => {
-      // If this is a compound question where options reference numbered items
-      const hasNumberedReferences = question.options.some(opt => 
-        /^\d+\./.test(opt.text) || /\d+,\s*\d+/.test(opt.text)
-      );
-      
-      if (hasNumberedReferences) {
-        // Add the numbered list to the beginning of each option
-        // This clarifies what the references mean
-        // No change needed here as we already processed this when creating options
-      }
-      
-      // Ensure there's at least one correct answer
       const hasCorrectAnswer = question.options.some(opt => opt.isCorrect);
       if (!hasCorrectAnswer && question.options.length > 0) {
-        question.options[0].isCorrect = true;
+        // Try to find correct answer by analyzing option texts
+        // In some medical question formats, the correct answer might be marked in various ways
+        const correctOptionIndex = question.options.findIndex(opt => {
+          return opt.text.includes("-----") || // Marked with dashes
+                 opt.text.includes("(correct)") || // Explicitly marked
+                 /\([\+✓]\)/.test(opt.text); // Has a check or plus mark
+        });
+        
+        if (correctOptionIndex !== -1) {
+          question.options[correctOptionIndex].isCorrect = true;
+        } else {
+          // If no markings found, default to first option
+          question.options[0].isCorrect = true;
+        }
       }
     });
     
