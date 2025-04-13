@@ -37,8 +37,25 @@ const AnswerOption: React.FC<AnswerOptionProps> = ({
     return classes;
   };
 
+  // Handle the click event
+  const handleClick = () => {
+    if (!isSubmitted) {
+      onSelect();
+    }
+  };
+
   return (
-    <div className={getClasses()} onClick={!isSubmitted ? onSelect : undefined}>
+    <div 
+      className={getClasses()} 
+      onClick={handleClick}
+      role="button"
+      tabIndex={0}
+      onKeyPress={(e) => {
+        if (e.key === 'Enter' || e.key === ' ') {
+          handleClick();
+        }
+      }}
+    >
       <div className="flex items-start">
         <div className="flex-shrink-0 mt-0.5">
           <div 
@@ -66,7 +83,7 @@ const AnswerOption: React.FC<AnswerOptionProps> = ({
             )}
           </div>
         </div>
-        <span className="ml-3">{option.text}</span>
+        <span className="ml-3" dangerouslySetInnerHTML={{ __html: option.text }}></span>
       </div>
     </div>
   );
