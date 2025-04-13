@@ -6,7 +6,7 @@ import QuizItem from '@/components/quiz-editor/QuizItem';
 import QuizTaker from '@/components/quiz-taker/QuizTaker';
 import { QuizStep, QuizState } from '@/types/quiz';
 import { extractQuestionsFromDocument, createEmptyQuestion } from '@/lib/extractQuestions';
-import { downloadQuizJson, parseQuizJsonFile } from '@/lib/formatQuiz';
+import { downloadQuizJson, parseQuizJsonFile, previewJsonFile } from '@/lib/formatQuiz';
 import { QuizData } from '@shared/schema';
 import { useToast } from '@/hooks/use-toast';
 import { apiRequest } from '@/lib/queryClient';
@@ -22,6 +22,7 @@ const Home: React.FC = () => {
   const [documentFile, setDocumentFile] = useState<File | null>(null);
   const [jsonFile, setJsonFile] = useState<File | null>(null);
   const [jsonInput, setJsonInput] = useState<string>('');
+  const [jsonPreview, setJsonPreview] = useState<string>('');
   const [showJsonInput, setShowJsonInput] = useState(false);
   const [loading, setLoading] = useState(false);
   const [quizData, setQuizData] = useState<QuizData | null>(null);
@@ -35,8 +36,17 @@ const Home: React.FC = () => {
   };
 
   // Handle JSON file upload
-  const handleJsonFileChange = (file: File) => {
+  const handleJsonFileChange = async (file: File) => {
     setJsonFile(file);
+    
+    // Generate a preview of the JSON file
+    try {
+      const previewText = await previewJsonFile(file, true);
+      setJsonPreview(previewText);
+    } catch (error) {
+      console.error('Error generating JSON preview:', error);
+      setJsonPreview('');
+    }
   };
 
   // Process document to extract questions
@@ -310,7 +320,20 @@ const Home: React.FC = () => {
                           fileType="JSON file"
                         />
                         
-                        <div className="flex flex-col items-center justify-center space-y-4">
+                        {/* JSON Preview Section */}
+                        {jsonFile && jsonPreview && (
+                          <div className="mt-4 border rounded-md p-4 bg-neutral-50">
+                            <h4 className="text-sm font-medium mb-2 flex items-center justify-between">
+                              <span>JSON Preview</span>
+                              <span className="text-xs text-neutral-500">{jsonFile.name}</span>
+                            </h4>
+                            <div className="overflow-auto max-h-64 bg-white p-2 rounded border border-neutral-200">
+                              <pre className="text-xs font-mono whitespace-pre-wrap text-neutral-800">{jsonPreview}</pre>
+                            </div>
+                          </div>
+                        )}
+                        
+                        <div className="flex flex-col items-center justify-center space-y-4 mt-4">
                           <Button 
                             onClick={processJsonFile}
                             disabled={!jsonFile || loading}
