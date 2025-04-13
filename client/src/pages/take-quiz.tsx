@@ -13,7 +13,7 @@ interface TakeQuizProps {
   };
 }
 
-const TakeQuiz: React.FC<TakeQuizProps> = ({ params }: TakeQuizProps) => {
+const TakeQuiz: React.FC<TakeQuizProps> = ({ params }) => {
   const { shareId } = params;
   const [, navigate] = useLocation();
   const { toast } = useToast();
@@ -22,13 +22,6 @@ const TakeQuiz: React.FC<TakeQuizProps> = ({ params }: TakeQuizProps) => {
 
   const { data: quiz, isLoading, error } = useQuery({
     queryKey: [`/api/quizzes/${shareId}`],
-    queryFn: async ({ queryKey }: { queryKey: string[] }) => {
-      const response = await fetch(queryKey[0]);
-      if (!response.ok) {
-        throw new Error('Failed to fetch quiz');
-      }
-      return response.json();
-    }
   });
 
   // Handle quiz completion
@@ -112,7 +105,7 @@ const TakeQuiz: React.FC<TakeQuizProps> = ({ params }: TakeQuizProps) => {
 
                 <div className="space-y-4">
                   <h4 className="font-medium">Question Breakdown</h4>
-                  {quizResults.questionResults.map((result: { questionId: string; correct: boolean; userAnswer: string; correctAnswer: string }, index: number) => (
+                  {quizResults.questionResults.map((result, index) => (
                     <div
                       key={result.questionId}
                       className={`p-4 rounded-lg border ${

@@ -56,14 +56,20 @@ app.use((req, res, next) => {
     serveStatic(app);
   }
 
-  // For local development
-  if (process.env.NODE_ENV !== 'production') {
-    const port = process.env.PORT || 3000;
-    server.listen(port, () => {
+  // For local development and non-serverless environments
+  if (process.env.NODE_ENV !== 'production' || process.env.NETLIFY !== 'true') {
+    const port = process.env.PORT || 5000;
+    server.listen({
+      port: Number(port),
+      host: "0.0.0.0",
+      reusePort: true,
+    }, () => {
       log(`serving on port ${port}`);
     });
   }
 
-  // For serverless environments like Vercel
-  export default server;
+  // For serverless environments like Netlify and Vercel
+  // Export the Express app and server for serverless functions
+  module.exports = server;
+  module.exports.handler = server;
 })();

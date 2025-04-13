@@ -7,39 +7,18 @@ export async function extractQuestionsFromDocument(file: File): Promise<{ title:
     formData.append('document', file);
 
     // Send the file to the backend for processing
-    console.log('Sending file to backend for processing...');
-
-    // Use XMLHttpRequest instead of fetch for better file upload handling
-    return new Promise((resolve, reject) => {
-      const xhr = new XMLHttpRequest();
-
-      xhr.open('POST', '/api/quizzes/extract', true);
-
-      xhr.onload = function() {
-        console.log('Response status:', xhr.status);
-
-        if (xhr.status >= 200 && xhr.status < 300) {
-          try {
-            const data = JSON.parse(xhr.responseText);
-            console.log('Received data from server:', data);
-            resolve(data);
-          } catch (jsonError) {
-            console.error('Error parsing JSON response:', jsonError);
-            reject(new Error('Failed to parse server response'));
-          }
-        } else {
-          console.error('Server returned error:', xhr.responseText);
-          reject(new Error(xhr.responseText || 'Failed to process document'));
-        }
-      };
-
-      xhr.onerror = function() {
-        console.error('Network error occurred');
-        reject(new Error('Network error occurred'));
-      };
-
-      xhr.send(formData);
+    const response = await fetch('/api/quizzes/extract', {
+      method: 'POST',
+      body: formData,
     });
+
+    if (!response.ok) {
+      const error = await response.text();
+      throw new Error(error || 'Failed to process document');
+    }
+
+    const data = await response.json();
+    return data;
   } catch (error) {
     console.error('Error extracting questions:', error);
     throw error;
