@@ -19,16 +19,24 @@ const QuizTaker: React.FC<QuizTakerProps> = ({ quizData, onComplete, onExit }) =
   const currentQuestionData = quizData.questions[currentQuestion];
   const selectedOptionId = userAnswers[currentQuestionData.id] || null;
   
+  console.log("Current question:", currentQuestionData);
+  console.log("Selected option ID:", selectedOptionId);
+  console.log("All user answers:", userAnswers);
+  
   const handleSelectOption = (optionId: string) => {
+    console.log("Select option called with:", optionId);
     if (!answerSubmitted) {
-      setUserAnswers({
+      const newAnswers = {
         ...userAnswers,
         [currentQuestionData.id]: optionId
-      });
+      };
+      console.log("Setting user answers to:", newAnswers);
+      setUserAnswers(newAnswers);
     }
   };
   
   const handleCheckAnswer = () => {
+    console.log("Check answer called, selectedOptionId:", selectedOptionId);
     if (selectedOptionId) {
       setAnswerSubmitted(true);
     }

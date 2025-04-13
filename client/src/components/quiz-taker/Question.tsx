@@ -53,15 +53,21 @@ const Question: React.FC<QuestionProps> = ({
       </div>
       
       <div className="space-y-3 mb-6">
-        {question.options.map(option => (
-          <AnswerOption
-            key={option.id}
-            option={option}
-            isSelected={selectedOptionId === option.id}
-            isSubmitted={answerSubmitted}
-            onSelect={() => onSelectOption(option.id)}
-          />
-        ))}
+        {question.options.map(option => {
+          console.log(`Rendering option ${option.id}, isSelected: ${selectedOptionId === option.id}`);
+          return (
+            <AnswerOption
+              key={option.id}
+              option={option}
+              isSelected={selectedOptionId === option.id}
+              isSubmitted={answerSubmitted}
+              onSelect={() => {
+                console.log(`Option ${option.id} selected`);
+                onSelectOption(option.id);
+              }}
+            />
+          );
+        })}
       </div>
       
       {answerSubmitted && (
