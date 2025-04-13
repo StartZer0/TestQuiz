@@ -38,23 +38,20 @@ const AnswerOption: React.FC<AnswerOptionProps> = ({
   };
 
   // Handle the click event
-  const handleClick = () => {
+  const handleClick = (e: React.MouseEvent) => {
+    e.preventDefault();
     if (!isSubmitted) {
+      console.log("Option selected:", option.text);
       onSelect();
     }
   };
 
   return (
-    <div 
-      className={getClasses()} 
+    <button 
+      type="button"
+      className={getClasses() + " w-full text-left"}
       onClick={handleClick}
-      role="button"
-      tabIndex={0}
-      onKeyPress={(e) => {
-        if (e.key === 'Enter' || e.key === ' ') {
-          handleClick();
-        }
-      }}
+      disabled={isSubmitted}
     >
       <div className="flex items-start">
         <div className="flex-shrink-0 mt-0.5">
@@ -83,9 +80,10 @@ const AnswerOption: React.FC<AnswerOptionProps> = ({
             )}
           </div>
         </div>
+        {/* Use dangerouslySetInnerHTML to display HTML content */}
         <span className="ml-3" dangerouslySetInnerHTML={{ __html: option.text }}></span>
       </div>
-    </div>
+    </button>
   );
 };
 

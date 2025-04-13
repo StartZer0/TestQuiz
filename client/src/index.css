@@ -11,3 +11,26 @@
     @apply font-sans antialiased bg-background text-foreground;
   }
 }
+
+/* Custom styles for the quiz content */
+.question-content {
+  @apply text-lg font-medium;
+}
+
+/* Ensure numbered items are properly styled */
+.question-content ol {
+  @apply list-decimal pl-6 space-y-2 my-3;
+}
+
+.question-content ul {
+  @apply list-disc pl-6 space-y-2 my-3;
+}
+
+.question-content p {
+  @apply mb-2;
+}
+
+/* Style numbered items */
+.question-content p:has(span[style*="font-size: 12pt"]) {
+  @apply pl-2 border-l-2 border-neutral-200;
+}

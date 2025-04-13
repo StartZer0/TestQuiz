@@ -10,6 +10,7 @@ import MyQuizzes from "@/pages/my-quizzes";
 import QuizDetail from "@/pages/quiz-detail";
 import TakeQuiz from "@/pages/take-quiz";
 import Help from "@/pages/help";
+import TestOption from "@/pages/test-option";
 
 function Router() {
   return (
@@ -23,6 +24,7 @@ function Router() {
         {(params) => <QuizDetail params={params} />}
       </Route>
       <Route path="/help" component={Help} />
+      <Route path="/test-options" component={TestOption} />
       {/* Fallback to 404 */}
       <Route component={NotFound} />
     </Switch>
