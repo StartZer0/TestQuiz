@@ -2,20 +2,33 @@ import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 import path from "path";
 
-// Only import Replit plugins in development environment
+// Load Replit plugins
 const loadReplitPlugins = () => {
-  if (process.env.NODE_ENV !== "production") {
-    try {
-      // Dynamic imports for Replit plugins
-      const themePlugin = require("@replit/vite-plugin-shadcn-theme-json");
-      const runtimeErrorOverlay = require("@replit/vite-plugin-runtime-error-modal");
-      return [themePlugin.default(), runtimeErrorOverlay.default()];
-    } catch (error) {
-      console.warn("Replit plugins not available, skipping...");
-      return [];
+  try {
+    // Dynamic imports for Replit plugins
+    const themePlugin = require("@replit/vite-plugin-shadcn-theme-json");
+    const runtimeErrorOverlay = require("@replit/vite-plugin-runtime-error-modal");
+
+    // Check if we're in a Replit environment
+    const isReplitEnv = process.env.REPL_ID !== undefined;
+
+    // Load cartographer plugin only in Replit environment
+    let plugins = [themePlugin.default(), runtimeErrorOverlay.default()];
+
+    if (isReplitEnv && process.env.NODE_ENV !== "production") {
+      try {
+        const cartographer = require("@replit/vite-plugin-cartographer");
+        plugins.push(cartographer.cartographer());
+      } catch (err) {
+        console.warn("Cartographer plugin not available");
+      }
     }
+
+    return plugins;
+  } catch (error) {
+    console.warn("Replit plugins not available, skipping...");
+    return [];
   }
-  return [];
 };
 
 export default defineConfig({

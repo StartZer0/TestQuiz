@@ -5,10 +5,11 @@
   "license": "MIT",
   "scripts": {
     "dev": "NODE_ENV=development tsx server/index.ts",
-    "build": "vite build && mkdir -p dist/functions && cp -r netlify/functions/* dist/functions/ && esbuild server/index.ts --platform=node --packages=external --bundle --format=cjs --outdir=dist",
+    "build": "vite build && esbuild server/index.ts --platform=node --packages=external --bundle --format=cjs --outdir=dist",
     "start": "NODE_ENV=production node dist/index.js",
     "check": "tsc",
-    "db:push": "drizzle-kit push"
+    "db:push": "drizzle-kit push",
+    "replit:dev": "NODE_ENV=development REPL_ENVIRONMENT=true tsx server/index.ts"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.1",
