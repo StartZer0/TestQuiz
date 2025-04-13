@@ -11,8 +11,24 @@ export function formatCorrectAnswer(paraElement: Element): boolean {
   }
   
   // Check for trailing markers, like "E) 2, 3 -----" (dashes indicate correct answer)
-  if (text.includes('-----') || text.includes('(correct)') || text.includes('✓')) {
+  if (text.includes('-----') || 
+      text.includes('(correct)') || 
+      text.includes('✓') || 
+      text.match(/\s+[-–—]{3,}\s*$/)) {
     return true;
+  }
+  
+  // Medical exam format often has the correct answer marked with dashes at the end
+  // Look for options like "C) Hiperaktivlik -----" where the dashes indicate it's correct
+  const optionMatch = text.match(/^([A-Z])[\.\)]\s*(.*)/);
+  if (optionMatch) {
+    const optionLetter = optionMatch[1];
+    const optionText = optionMatch[2].trim();
+    
+    // If the option text has trailing dashes
+    if (optionText.match(/\s+[-–—]{3,}\s*$/)) {
+      return true;
+    }
   }
   
   // Check for bold text

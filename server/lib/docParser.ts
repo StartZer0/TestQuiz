@@ -52,166 +52,194 @@ export async function parseDocx(buffer: Buffer): Promise<{ title: string; questi
     const paragraphs = Array.from(document.querySelectorAll('p'));
     const questions: QuizQuestion[] = [];
     
-    // Track different question states
+    // Variables to track parsing state
     let currentQuestion: QuizQuestion | null = null;
-    let numbersList: string[] = []; // Store numbered list items for compound questions
-    let isCollectingNumbers = false;
-    let compoundAnswerOptions: QuizOption[] = [];
+    let collectingOptions = false;
+    let currentOptions: QuizOption[] = [];
+    let numbersList: string[] = [];
+    let isCompoundQuestion = false;
+    let skipParagraphs = 0;
     
+    // First pass: detect numbered questions (like "301) Question") and collect them
     for (let i = 0; i < paragraphs.length; i++) {
+      if (skipParagraphs > 0) {
+        skipParagraphs--;
+        continue;
+      }
+      
       const para = paragraphs[i];
       const text = para.textContent?.trim() || '';
       
-      // Skip empty paragraphs
-      if (!text) continue;
+      // Skip empty paragraphs or structural elements like "-----"
+      if (!text || text === '-----' || text.match(/^\s*$/) || text.match(/^\s*[\-_]{3,}\s*$/)) {
+        continue;
+      }
       
-      // Identify if this is a numbered list item (like "1. Item text")
-      const isNumberedItem = /^\d+[\.\)]/.test(text);
+      // Special case for medical exam format: detect numbered questions (301), 302), etc.)
+      const numQuestionMatch = text.match(/^(\d{2,})[\.\)]\s*(.*)/);
       
-      // Check if this is a compound answer option (like "A) 1, 2" or "B) 3, 4")
-      const isCompoundOption = /^[A-Z][\.\)]\s*\d+,\s*\d+/.test(text) || 
-                               /^[A-Z][\.\)]\s*\d+\s+and\s+\d+/.test(text);
-      
-      // Is this a potential question?
-      if (
-        text.endsWith('?') || 
-        // Numbered questions like "301) Question text?"
-        /^\d{2,}[\.\)]/.test(text) ||
-        // Check if followed by what looks like options
-        (i < paragraphs.length - 1 && (isLikelyOption(paragraphs[i+1].textContent) || isCompoundOption))
-      ) {
-        // Complete previous question if any
-        if (currentQuestion && (currentQuestion.options.length > 0 || compoundAnswerOptions.length > 0)) {
-          // If we were collecting compound answers, process them now
-          if (compoundAnswerOptions.length > 0) {
-            currentQuestion.options = compoundAnswerOptions;
-            // Reset compound collection
-            compoundAnswerOptions = [];
-            numbersList = [];
+      if (numQuestionMatch) {
+        // If we were already collecting a question, save it first
+        if (currentQuestion && currentOptions.length > 0) {
+          currentQuestion.options = currentOptions;
+          
+          // Ensure we have at least one correct answer marked
+          if (!currentOptions.some(opt => opt.isCorrect)) {
+            // Try to identify the correct option (look for marking, etc.)
+            for (let j = 0; j < currentOptions.length; j++) {
+              if (currentOptions[j].text.includes('-----')) {
+                currentOptions[j].isCorrect = true;
+                break;
+              }
+            }
+            
+            // If still no correct answer is identified, default to first option
+            if (!currentOptions.some(opt => opt.isCorrect) && currentOptions.length > 0) {
+              currentOptions[0].isCorrect = true;
+            }
           }
+          
           questions.push(currentQuestion);
         }
         
-        // Reset number collection state
-        isCollectingNumbers = false;
-        
         // Start a new question
+        const questionNumber = numQuestionMatch[1];
+        const questionText = numQuestionMatch[2];
+        
         currentQuestion = {
           id: nanoid(),
-          text: text,
+          text: `${questionNumber}) ${questionText}`,
           type: 'multiple-choice',
           options: [],
           required: true,
           points: 1
         };
         
-        // Check if the question has an associated image
-        const questionImages = document.querySelectorAll(`img[data-emu-id]`);
-        Array.from(questionImages).forEach(img => {
-          const emuId = img.getAttribute('data-emu-id');
-          if (emuId && imageMap[emuId]) {
-            currentQuestion.imageUrl = imageMap[emuId];
-          }
-        });
+        // Reset options and state
+        currentOptions = [];
+        collectingOptions = true;
+        numbersList = [];
+        isCompoundQuestion = false;
         
-        // Check if this might be the start of a compound question with numbered items
-        if (i < paragraphs.length - 1) {
-          const nextText = paragraphs[i+1].textContent?.trim() || '';
-          if (/^\d+[\.\)]/.test(nextText)) {
-            isCollectingNumbers = true;
+        // Check if this is a compound question with numbered items for reference
+        // Look ahead for numbered list items
+        let hasNumberItems = false;
+        let optionsStartIndex = -1;
+        
+        // Look through the next paragraphs to identify the structure
+        for (let j = i + 1; j < Math.min(i + 15, paragraphs.length); j++) {
+          const nextText = paragraphs[j].textContent?.trim() || '';
+          
+          // If empty, continue
+          if (!nextText) continue;
+          
+          // Check if it's a numbered item (1., 2., etc.)
+          if (/^\d+[\.\)]/.test(nextText) && !(/^[A-Z][\.\)]/.test(nextText))) {
+            hasNumberItems = true;
+          } 
+          // Check if it's an option (A), B), etc.)
+          else if (/^[A-Z][\.\)]/.test(nextText)) {
+            optionsStartIndex = j;
+            break;
           }
         }
         
+        // If we have numbered items followed by option items, it's a compound question
+        isCompoundQuestion = hasNumberItems && optionsStartIndex > -1;
+        
         continue;
       }
       
-      // If collecting numbered items for a compound question
-      if (currentQuestion && isCollectingNumbers && isNumberedItem) {
-        numbersList.push(text.replace(/^\d+[\.\)]\s*/, '').trim());
+      // Process numbered list items for compound questions
+      if (currentQuestion && isCompoundQuestion && /^\d+[\.\)]/.test(text) && !(/^[A-Z][\.\)]/.test(text))) {
+        const itemMatch = text.match(/^\d+[\.\)]\s*(.*)/);
+        if (itemMatch) {
+          numbersList.push(itemMatch[1].trim());
+        }
         continue;
       }
       
-      // Check if this is a compound answer option that references numbered items
-      if (currentQuestion && isCompoundOption && numbersList.length > 0) {
-        // This is a compound answer option, e.g., "A) 1, 2" or "A) 1, 4"
-        const optionText = text.replace(/^[A-Z][\.\)]\s*/, '').trim();
-        const isCorrect = formatCorrectAnswer(para);
-        
-        // Add to compound answer options
-        compoundAnswerOptions.push({
-          id: nanoid(),
-          text: optionText,
-          isCorrect
-        });
-        
-        // If this is the last option, we should stop collecting
-        if (text.startsWith('E)') || (i < paragraphs.length - 1 && !isLikelyOption(paragraphs[i+1].textContent))) {
-          // After collecting all compound options, determine the correct one if not already marked
-          if (!compoundAnswerOptions.some(opt => opt.isCorrect)) {
-            const correctIndex = identifyCorrectCompoundAnswer(compoundAnswerOptions.map(opt => opt.text));
-            if (correctIndex >= 0 && correctIndex < compoundAnswerOptions.length) {
-              compoundAnswerOptions[correctIndex].isCorrect = true;
-            } else if (compoundAnswerOptions.length > 0) {
-              // Default to first option if can't determine
-              compoundAnswerOptions[0].isCorrect = true;
+      // Process options (A), B), etc.)
+      if (currentQuestion && collectingOptions && /^[A-Z][\.\)]/.test(text)) {
+        const optionMatch = text.match(/^([A-Z])[\.\)]\s*(.*)/);
+        if (optionMatch) {
+          const optionLetter = optionMatch[1];
+          let optionText = optionMatch[2].trim();
+          
+          // Check if this option refers to numbered items for compound questions
+          if (isCompoundQuestion && numbersList.length > 0) {
+            // Parse references to numbered items like "1, 2" or "3, 4"
+            const references = optionText.split(/,\s*|\s+and\s+/).map(ref => ref.trim());
+            let referencedItems = [];
+            
+            for (const ref of references) {
+              // Try to convert the reference to an index in our numbered list
+              const refIndex = parseInt(ref) - 1;
+              if (!isNaN(refIndex) && refIndex >= 0 && refIndex < numbersList.length) {
+                referencedItems.push(`${ref}. ${numbersList[refIndex]}`);
+              } else {
+                // If can't resolve, just keep the original text
+                referencedItems.push(ref);
+              }
             }
+            
+            // Format the option to include the references
+            optionText = referencedItems.join(', ');
           }
           
-          // Update the question text to include numbered items
-          if (currentQuestion && numbersList.length > 0) {
-            // Format the list nicely
-            const numberedListFormatted = numbersList.map((item, idx) => `${idx + 1}. ${item}`).join('\n');
-            currentQuestion.text = `${currentQuestion.text}\n\n${numberedListFormatted}`;
-          }
+          // Check if this option is marked as correct
+          const isCorrect = formatCorrectAnswer(para) || 
+                           text.includes('-----') || 
+                           text.includes('(correct)') || 
+                           optionText.endsWith('-----');
           
-          // Move to standard option processing
-          isCollectingNumbers = false;
+          // Remove any marking symbols from the option text
+          optionText = optionText.replace(/\s*-----.*$/, '');
+          
+          currentOptions.push({
+            id: nanoid(),
+            text: optionText,
+            isCorrect
+          });
         }
-        
         continue;
       }
       
-      // Regular option processing for standard MC questions
-      if (currentQuestion && isLikelyOption(text) && !isCollectingNumbers) {
-        // Extract the option text, removing the prefix (A), B), etc.)
-        const optionText = text.replace(/^[A-Z][\.\)]\s*|\•\s*|\-\s*|\+\s*/, '').trim();
-        
-        // Check if this is marked as the correct answer 
-        const isCorrect = formatCorrectAnswer(para);
-        
-        // Add the option to the current question
-        currentQuestion.options.push({
-          id: nanoid(),
-          text: optionText,
-          isCorrect
-        });
+      // If not a question, numbered item, or option, but still within a question boundary
+      // Most likely additional text that should be part of the current question
+      if (currentQuestion && !collectingOptions && text) {
+        currentQuestion.text += '\n' + text;
       }
     }
     
-    // Process the last question if not added yet
-    if (currentQuestion) {
-      if (compoundAnswerOptions.length > 0) {
-        // If the last question had compound answers
-        currentQuestion.options = compoundAnswerOptions;
-        
-        // Update question text with numbered items if needed
-        if (numbersList.length > 0) {
-          const numberedListFormatted = numbersList.map((item, idx) => `${idx + 1}. ${item}`).join('\n');
-          currentQuestion.text = `${currentQuestion.text}\n\n${numberedListFormatted}`;
-        }
+    // Add the last question if needed
+    if (currentQuestion && currentOptions.length > 0) {
+      currentQuestion.options = currentOptions;
+      
+      // Ensure we have at least one correct answer
+      if (!currentOptions.some(opt => opt.isCorrect) && currentOptions.length > 0) {
+        currentOptions[0].isCorrect = true;
       }
       
-      if (currentQuestion.options.length > 0) {
-        questions.push(currentQuestion);
-      }
+      questions.push(currentQuestion);
     }
     
-    // Ensure at least one correct answer per question
+    // For compound questions, add the numbered items to the question text
     questions.forEach(question => {
-      const hasCorrectAnswer = question.options.some(opt => opt.isCorrect);
+      // If this is a compound question where options reference numbered items
+      const hasNumberedReferences = question.options.some(opt => 
+        /^\d+\./.test(opt.text) || /\d+,\s*\d+/.test(opt.text)
+      );
       
+      if (hasNumberedReferences) {
+        // Add the numbered list to the beginning of each option
+        // This clarifies what the references mean
+        // No change needed here as we already processed this when creating options
+      }
+      
+      // Ensure there's at least one correct answer
+      const hasCorrectAnswer = question.options.some(opt => opt.isCorrect);
       if (!hasCorrectAnswer && question.options.length > 0) {
-        // If no option is marked correct, default to the first one
         question.options[0].isCorrect = true;
       }
     });
@@ -222,22 +250,4 @@ export async function parseDocx(buffer: Buffer): Promise<{ title: string; questi
     console.error('Error parsing document:', error);
     throw new Error('Failed to parse document content');
   }
-}
-
-// Helper to determine if text is likely an option
-function isLikelyOption(text: string | null): boolean {
-  if (!text) return false;
-  text = text.trim();
-  
-  // Common patterns for options:
-  // - A), B), etc.
-  // - a), b), etc.
-  // - 1., 2., etc. (numbered options)
-  // - Bullet points (• or -)
-  // - Plus sign (+) for correct answers
-  return /^[A-Za-z][\.\)]/.test(text) || 
-         /^\d+[\.\)]/.test(text) ||
-         /^\•/.test(text) || 
-         /^\-/.test(text) ||
-         /^\+/.test(text);
 }
