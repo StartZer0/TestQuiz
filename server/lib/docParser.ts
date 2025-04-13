@@ -1,9 +1,29 @@
 import mammoth from 'mammoth';
 import { JSDOM } from 'jsdom';
-import { formatCorrectAnswer, identifyCorrectCompoundAnswer } from './formatParser';
+import { formatCorrectAnswer } from './formatParser';
 import { extractImages } from './imageExtractor';
 import { QuizQuestion, QuizOption } from '@shared/schema';
 import { nanoid } from 'nanoid';
+
+// Helper function to identify correct answer in compound questions
+function identifyCorrectCompoundAnswer(options: string[]): number {
+  // Check for explicit markings like "-----" or "(correct)" that might be appended
+  for (let i = 0; i < options.length; i++) {
+    const option = options[i];
+    if (option.includes('-----') || 
+        option.includes('(correct)') || 
+        option.includes('✓') ||
+        // Check for specific highlighting pattern at end of option
+        /\s+[-–—]{3,}$/.test(option)) {
+      return i;
+    }
+  }
+  
+  // If no explicit marking was found, we might need to use other heuristics
+  // For example, in some formats the last option is often correct
+  // But this is very domain-specific, so we return -1 to indicate no definitive answer
+  return -1;
+}
 
 /**
  * Parse a .docx document and extract quiz questions
@@ -87,13 +107,12 @@ export async function parseDocx(buffer: Buffer): Promise<{ title: string; questi
         
         // Check if the question has an associated image
         const questionImages = document.querySelectorAll(`img[data-emu-id]`);
-        for (const img of questionImages) {
+        Array.from(questionImages).forEach(img => {
           const emuId = img.getAttribute('data-emu-id');
           if (emuId && imageMap[emuId]) {
             currentQuestion.imageUrl = imageMap[emuId];
-            break;
           }
-        }
+        });
         
         // Check if this might be the start of a compound question with numbered items
         if (i < paragraphs.length - 1) {
