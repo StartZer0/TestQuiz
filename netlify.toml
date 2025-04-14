@@ -10,10 +10,7 @@
 # Configure function for handling binary files
 [functions]
   node_bundler = "esbuild"
-
-  # Configure the upload function specifically
-  [functions.upload]
-    included_files = ["dist/lib/**"]
+  external_node_modules = ["mammoth", "jsdom", "multer"]
 
 # Configure file upload handling
 [[headers]]
