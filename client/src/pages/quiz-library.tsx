@@ -114,7 +114,7 @@ const QuizLibrary: React.FC = () => {
     <div className="container mx-auto px-4 py-8">
       <h1 className="text-3xl font-bold mb-6 text-center">Medical Quiz Library</h1>
       <p className="text-center text-neutral-600 mb-8">
-        Select from our pre-loaded medical quiz collection to start practicing
+        Choose from the complete quiz or specific sections to start practicing
       </p>
 
       {loading && !selectedQuiz ? (
@@ -194,32 +194,47 @@ const QuizLibrary: React.FC = () => {
 
           {/* Section Quizzes */}
           {sectionQuizzes.length > 0 && (
-            <div>
-              <h2 className="text-2xl font-semibold mb-4">Quiz Sections</h2>
-              <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-                {sectionQuizzes.map((quiz) => (
-                  <Card
-                    key={quiz.id}
-                    className={`cursor-pointer transition-all duration-300 hover:shadow-md ${
-                      selectedQuiz?.id === quiz.id
-                        ? `border-2 border-${quiz.color}-500 shadow-md`
-                        : 'border border-neutral-200'
-                    }`}
-                    onClick={() => handleQuizSelect(quiz)}
-                  >
-                    <CardContent className="p-4">
-                      <div className="flex items-center">
-                        <div className={`flex-shrink-0 w-10 h-10 bg-${quiz.color}-100 text-${quiz.color}-600 rounded-full flex items-center justify-center text-xl mr-3`}>
-                          {quiz.icon}
+            <div className="mt-8">
+              <h2 className="text-2xl font-semibold mb-6 text-gray-800 border-b pb-2">Quiz Sections</h2>
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                {sectionQuizzes.map((quiz) => {
+                  // Define color classes based on quiz.color
+                  const colorClasses = {
+                    blue: { bg: 'bg-blue-50', border: 'border-blue-200', text: 'text-blue-700', icon: 'bg-blue-100 text-blue-600' },
+                    green: { bg: 'bg-green-50', border: 'border-green-200', text: 'text-green-700', icon: 'bg-green-100 text-green-600' },
+                    purple: { bg: 'bg-purple-50', border: 'border-purple-200', text: 'text-purple-700', icon: 'bg-purple-100 text-purple-600' },
+                    orange: { bg: 'bg-orange-50', border: 'border-orange-200', text: 'text-orange-700', icon: 'bg-orange-100 text-orange-600' },
+                    red: { bg: 'bg-red-50', border: 'border-red-200', text: 'text-red-700', icon: 'bg-red-100 text-red-600' },
+                    indigo: { bg: 'bg-indigo-50', border: 'border-indigo-200', text: 'text-indigo-700', icon: 'bg-indigo-100 text-indigo-600' }
+                  };
+
+                  const colors = colorClasses[quiz.color] || colorClasses.blue;
+
+                  return (
+                    <Card
+                      key={quiz.id}
+                      className={`cursor-pointer transition-all duration-300 hover:shadow-md ${colors.bg} ${colors.border} border shadow-sm`}
+                      onClick={() => handleQuizSelect(quiz)}
+                    >
+                      <CardContent className="p-5">
+                        <div className="flex items-center">
+                          <div className={`flex-shrink-0 w-12 h-12 ${colors.icon} rounded-full flex items-center justify-center text-xl mr-4 shadow-sm`}>
+                            {quiz.icon}
+                          </div>
+                          <div>
+                            <h3 className={`text-lg font-semibold ${colors.text} mb-1`}>{quiz.title}</h3>
+                            <div className="flex items-center">
+                              <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 text-gray-500 mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                              </svg>
+                              <p className="text-sm text-gray-600">{quiz.questionCount} Questions</p>
+                            </div>
+                          </div>
                         </div>
-                        <div>
-                          <h3 className="text-lg font-semibold">{quiz.title}</h3>
-                          <p className="text-sm text-neutral-500">{quiz.questionCount} Questions</p>
-                        </div>
-                      </div>
-                    </CardContent>
-                  </Card>
-                ))}
+                      </CardContent>
+                    </Card>
+                  );
+                })}
               </div>
             </div>
           )}
