@@ -1,56 +1,6 @@
 {
   "quizzes": [
     {
-      "id": "quiz_1_200",
-      "title": "Medical Quiz 1-200",
-      "description": "Questions 1-200 from the complete medical quiz set",
-      "questionCount": 200,
-      "filePath": "/quiz-data/quiz_1_200.json",
-      "category": "section",
-      "icon": "🩺",
-      "color": "blue"
-    },
-    {
-      "id": "quiz_201_400",
-      "title": "Medical Quiz 201-400",
-      "description": "Questions 201-400 from the complete medical quiz set",
-      "questionCount": 200,
-      "filePath": "/quiz-data/quiz_201_400.json",
-      "category": "section",
-      "icon": "💉",
-      "color": "green"
-    },
-    {
-      "id": "quiz_401_600",
-      "title": "Medical Quiz 401-600",
-      "description": "Questions 401-600 from the complete medical quiz set",
-      "questionCount": 200,
-      "filePath": "/quiz-data/quiz_401_600.json",
-      "category": "section",
-      "icon": "🧬",
-      "color": "purple"
-    },
-    {
-      "id": "quiz_601_800",
-      "title": "Medical Quiz 601-800",
-      "description": "Questions 601-800 from the complete medical quiz set",
-      "questionCount": 200,
-      "filePath": "/quiz-data/quiz_601_800.json",
-      "category": "section",
-      "icon": "🧪",
-      "color": "orange"
-    },
-    {
-      "id": "quiz_801_1000",
-      "title": "Medical Quiz 801-1000",
-      "description": "Questions 801-1000 from the complete medical quiz set",
-      "questionCount": 200,
-      "filePath": "/quiz-data/quiz_801_1000.json",
-      "category": "section",
-      "icon": "💊",
-      "color": "red"
-    },
-    {
       "id": "quiz_full_1000",
       "title": "Complete Medical Quiz (1000 Questions)",
       "description": "All 1000 questions from the complete medical quiz set",
