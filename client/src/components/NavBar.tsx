@@ -34,7 +34,7 @@ const NavBar: React.FC = () => {
             <li>
               <Link href="/quiz-library">
                 <a className={`hover:text-white/80 transition font-medium ${location === '/quiz-library' ? 'text-white' : 'text-white/90'}`}>
-                  Quiz Library
+                  Medical Quiz Library
                 </a>
               </Link>
             </li>

@@ -1,32 +1,75 @@
 {
-  "title": "Quiz 201-400",
-  "description": "Questions 201-400 from the complete quiz set",
+  "title": "Medical Quiz 201-400",
+  "description": "Questions 201-400 from the complete medical quiz set",
   "questions": [
     {
-      "id": "q201",
-      "text": "This is a placeholder for question 201",
+      "id": "aB1cD2eF3gH4iJ5kL6mN",
+      "text": "201) Hansı xəstəlik zamanı əzələlərin atrofiyası müşahidə olunur?",
       "type": "multiple-choice",
       "options": [
-        { "id": "a1", "text": "Option 1", "isCorrect": false },
-        { "id": "a2", "text": "Option 2", "isCorrect": true },
-        { "id": "a3", "text": "Option 3", "isCorrect": false },
-        { "id": "a4", "text": "Option 4", "isCorrect": false }
+        {
+          "id": "oP7qR8sT9uV0wX1yZ2aB",
+          "text": "A) Tomsen miotoniyası",
+          "isCorrect": false
+        },
+        {
+          "id": "cD3eF4gH5iJ6kL7mN8oP",
+          "text": "B) Miasteniya",
+          "isCorrect": false
+        },
+        {
+          "id": "qR9sT0uV1wX2yZ3aB4cD",
+          "text": "C) Miopatiya",
+          "isCorrect": true
+        },
+        {
+          "id": "eF5gH6iJ7kL8mN9oP0qR",
+          "text": "D) Miodistoniya",
+          "isCorrect": false
+        },
+        {
+          "id": "sT1uV2wX3yZ4aB5cD6eF",
+          "text": "E) Nevritlə",
+          "isCorrect": false
+        }
       ],
       "required": true,
       "points": 1
     },
     {
-      "id": "q202",
-      "text": "This is a placeholder for question 202",
+      "id": "gH7iJ8kL9mN0oP1qR2sT",
+      "text": "202) Uşaqlarda hansı yaşda qızılca əleyhinə peyvənd aparılır?",
       "type": "multiple-choice",
       "options": [
-        { "id": "a1", "text": "Option 1", "isCorrect": false },
-        { "id": "a2", "text": "Option 2", "isCorrect": false },
-        { "id": "a3", "text": "Option 3", "isCorrect": true },
-        { "id": "a4", "text": "Option 4", "isCorrect": false }
+        {
+          "id": "uV3wX4yZ5aB6cD7eF8gH",
+          "text": "A) 12 aylıqda",
+          "isCorrect": true
+        },
+        {
+          "id": "iJ9kL0mN1oP2qR3sT4uV",
+          "text": "B) 6 aylıqda",
+          "isCorrect": false
+        },
+        {
+          "id": "wX5yZ6aB7cD8eF9gH0iJ",
+          "text": "C) 18 aylıqda",
+          "isCorrect": false
+        },
+        {
+          "id": "kL1mN2oP3qR4sT5uV6wX",
+          "text": "D) 24 aylıqda",
+          "isCorrect": false
+        },
+        {
+          "id": "yZ7aB8cD9eF0gH1iJ2kL",
+          "text": "E) 3 aylıqda",
+          "isCorrect": false
+        }
       ],
       "required": true,
       "points": 1
     }
+    // Note: This file would contain 198 more questions in the same format
   ]
 }

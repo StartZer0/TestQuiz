@@ -387,9 +387,9 @@ const Home: React.FC = () => {
               <Card className="hover:shadow-md transition-shadow bg-gradient-to-br from-blue-50 to-indigo-50 border-blue-200">
                 <CardContent className="p-6">
                   <div className="absolute top-3 right-3 bg-blue-500 text-white text-xs px-2 py-1 rounded-full">New</div>
-                  <h2 className="text-2xl font-semibold mb-3 text-blue-700">Quiz Library</h2>
+                  <h2 className="text-2xl font-semibold mb-3 text-blue-700">Medical Quiz Library</h2>
                   <p className="text-blue-600 mb-6">
-                    Access our pre-loaded quiz collection with 1000+ questions.
+                    Access our pre-loaded medical quiz collection with 1000+ questions in 5 sections.
                   </p>
                   <Button
                     className="w-full bg-blue-500 hover:bg-blue-600"

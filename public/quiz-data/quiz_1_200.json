@@ -1,32 +1,75 @@
 {
-  "title": "Quiz 1-200",
-  "description": "Questions 1-200 from the complete quiz set",
+  "title": "Medical Quiz 1-200",
+  "description": "Questions 1-200 from the complete medical quiz set",
   "questions": [
     {
-      "id": "q1",
-      "text": "This is a placeholder for question 1",
+      "id": "ocOqnW-CJvYX17IdyCGIb",
+      "text": "1) KRX keçirmiş uşağa profilaktik peyvəndləri sağaldıqdan nə qədər sonra vurmaq olar?",
       "type": "multiple-choice",
       "options": [
-        { "id": "a1", "text": "Option 1", "isCorrect": false },
-        { "id": "a2", "text": "Option 2", "isCorrect": true },
-        { "id": "a3", "text": "Option 3", "isCorrect": false },
-        { "id": "a4", "text": "Option 4", "isCorrect": false }
+        {
+          "id": "F7Gg76bMV8Y3TI-j1hYxY",
+          "text": "A) 3 aydan sonra",
+          "isCorrect": false
+        },
+        {
+          "id": "CvRyl8us4auNP7Ug3ZeSL",
+          "text": "B) 1 aydan sonra",
+          "isCorrect": true
+        },
+        {
+          "id": "Izixt3ggwu1CRghZ-mmop",
+          "text": "C) 2 həftədən sonra",
+          "isCorrect": false
+        },
+        {
+          "id": "kLm9p0qRs2tUv3wXyZ4aB",
+          "text": "D) 6 aydan sonra",
+          "isCorrect": false
+        },
+        {
+          "id": "cDe5fGh6iJk7lMn8oPq9R",
+          "text": "E) 2 aydan sonra",
+          "isCorrect": false
+        }
       ],
       "required": true,
       "points": 1
     },
     {
-      "id": "q2",
-      "text": "This is a placeholder for question 2",
+      "id": "pQrSt1uVw2xYz3aB4cDe5",
+      "text": "2) Hansı xəstəlik zamanı əzələlərin hipertrofiyası müşahidə olunur?",
       "type": "multiple-choice",
       "options": [
-        { "id": "a1", "text": "Option 1", "isCorrect": false },
-        { "id": "a2", "text": "Option 2", "isCorrect": false },
-        { "id": "a3", "text": "Option 3", "isCorrect": true },
-        { "id": "a4", "text": "Option 4", "isCorrect": false }
+        {
+          "id": "fGh6iJk7lMn8oPq9rStU",
+          "text": "A) Miasteniya",
+          "isCorrect": false
+        },
+        {
+          "id": "vWxYz1aB2cDe3fGh4iJk",
+          "text": "B) Miodistoniya",
+          "isCorrect": false
+        },
+        {
+          "id": "lMn5oPq6rSt7uVw8xYz9",
+          "text": "C) Miopatiya",
+          "isCorrect": false
+        },
+        {
+          "id": "nJcGwsqKBm88uioEPDoG8",
+          "text": "D) Tomsen miotoniyası",
+          "isCorrect": true
+        },
+        {
+          "id": "3uJ2y1P3dZSt_ZBlR_tzU",
+          "text": "E) Nevritlə",
+          "isCorrect": false
+        }
       ],
       "required": true,
       "points": 1
     }
+    // Note: This file would contain 198 more questions in the same format
   ]
 }

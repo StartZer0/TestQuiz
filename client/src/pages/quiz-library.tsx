@@ -49,15 +49,15 @@ const QuizLibrary: React.FC = () => {
 
     try {
       setLoading(true);
-      
+
       // Fetch the selected quiz
       const quizData = await fetchQuizById(selectedQuiz.id);
-      
+
       // Store the quiz data in localStorage
       localStorage.setItem('selectedQuizData', JSON.stringify(quizData));
       localStorage.setItem('questionLimit', questionLimit.toString());
       localStorage.setItem('shuffleQuestions', shuffleQuestions.toString());
-      
+
       // Navigate to the quiz page
       navigate('/take-preloaded-quiz');
     } catch (error) {
@@ -76,9 +76,9 @@ const QuizLibrary: React.FC = () => {
 
   return (
     <div className="container mx-auto px-4 py-8">
-      <h1 className="text-3xl font-bold mb-6 text-center">Quiz Library</h1>
+      <h1 className="text-3xl font-bold mb-6 text-center">Medical Quiz Library</h1>
       <p className="text-center text-neutral-600 mb-8">
-        Select a quiz from our pre-loaded collection to start practicing
+        Select a quiz section from our pre-loaded medical collection to start practicing
       </p>
 
       {loading && !selectedQuiz ? (
@@ -93,11 +93,11 @@ const QuizLibrary: React.FC = () => {
               <h2 className="text-2xl font-semibold mb-4">Complete Quiz Set</h2>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                 {fullQuizzes.map((quiz) => (
-                  <Card 
+                  <Card
                     key={quiz.id}
                     className={`cursor-pointer transition-all duration-300 hover:shadow-md ${
-                      selectedQuiz?.id === quiz.id 
-                        ? `border-2 border-${quiz.color}-500 shadow-md` 
+                      selectedQuiz?.id === quiz.id
+                        ? `border-2 border-${quiz.color}-500 shadow-md`
                         : 'border border-neutral-200'
                     }`}
                     onClick={() => handleQuizSelect(quiz)}
@@ -138,11 +138,11 @@ const QuizLibrary: React.FC = () => {
               <h2 className="text-2xl font-semibold mb-4">Quiz Sections</h2>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                 {sectionQuizzes.map((quiz) => (
-                  <Card 
+                  <Card
                     key={quiz.id}
                     className={`cursor-pointer transition-all duration-300 hover:shadow-md ${
-                      selectedQuiz?.id === quiz.id 
-                        ? `border-2 border-${quiz.color}-500 shadow-md` 
+                      selectedQuiz?.id === quiz.id
+                        ? `border-2 border-${quiz.color}-500 shadow-md`
                         : 'border border-neutral-200'
                     }`}
                     onClick={() => handleQuizSelect(quiz)}
@@ -169,7 +169,7 @@ const QuizLibrary: React.FC = () => {
             <Card className="mt-8 border-t-4 border-primary-500">
               <CardContent className="p-6">
                 <h2 className="text-xl font-semibold mb-4">Configure Your Quiz</h2>
-                
+
                 <div className="mb-6">
                   <h3 className="font-medium mb-2">Selected Quiz:</h3>
                   <div className={`p-3 bg-${selectedQuiz.color}-50 border border-${selectedQuiz.color}-200 rounded-lg`}>
@@ -184,7 +184,7 @@ const QuizLibrary: React.FC = () => {
                     </div>
                   </div>
                 </div>
-                
+
                 {/* Question Limit Slider */}
                 <div className="mb-6">
                   <div className="p-4 bg-blue-50 border border-blue-200 rounded-lg shadow-sm">
@@ -211,7 +211,7 @@ const QuizLibrary: React.FC = () => {
                         {questionLimit}
                       </div>
                     </div>
-                    
+
                     <div className="px-2 mt-4">
                       <Slider
                         id="question-limit"
@@ -229,7 +229,7 @@ const QuizLibrary: React.FC = () => {
                     </div>
                   </div>
                 </div>
-                
+
                 {/* Shuffle Toggle */}
                 <div className="mb-6">
                   <div className={`p-4 rounded-lg transition-colors duration-300 ${shuffleQuestions
@@ -264,7 +264,7 @@ const QuizLibrary: React.FC = () => {
                           </p>
                         </div>
                       </div>
-                      <div 
+                      <div
                         className={`w-12 h-6 flex items-center rounded-full p-1 cursor-pointer transition-colors duration-300 ${
                           shuffleQuestions ? 'bg-green-500 justify-end' : 'bg-neutral-300 justify-start'
                         }`}
@@ -275,7 +275,7 @@ const QuizLibrary: React.FC = () => {
                     </div>
                   </div>
                 </div>
-                
+
                 <div className="flex justify-center">
                   <Button
                     onClick={handleStartQuiz}
