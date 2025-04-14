@@ -7,10 +7,24 @@
   command = "npm run dev"
   port = 3000
 
+# Configure function for handling binary files
+[functions]
+  node_bundler = "esbuild"
+
+# Configure file upload handling
+[[headers]]
+  for = "/api/*"
+  [headers.values]
+    Content-Type = "application/json"
+    Access-Control-Allow-Origin = "*"
+    Access-Control-Allow-Headers = "*"
+    Access-Control-Allow-Methods = "GET, POST, PUT, DELETE, OPTIONS"
+
 [[redirects]]
   from = "/api/*"
   to = "/.netlify/functions/server/:splat"
   status = 200
+  force = true
 
 [[redirects]]
   from = "/*"

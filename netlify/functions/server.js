@@ -17,5 +17,14 @@ try {
   server = app;
 }
 
-// Export the serverless handler
-exports.handler = serverless(server);
+// Configure serverless options for handling multipart form data
+const serverlessOptions = {
+  binary: true, // Enable binary support for file uploads
+  request: {
+    // Configure AWS Lambda to handle multipart form data
+    payloadFormatVersion: '2.0',
+  }
+};
+
+// Export the serverless handler with options
+exports.handler = serverless(server, serverlessOptions);
