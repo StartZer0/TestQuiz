@@ -104,8 +104,11 @@ const QuizLibrary: React.FC = () => {
   };
 
   // Group quizzes by category
+  console.log('Quiz catalog data:', quizCatalog);
   const sectionQuizzes = quizCatalog.filter(quiz => quiz.category === 'section');
+  console.log('Section quizzes:', sectionQuizzes);
   const fullQuizzes = quizCatalog.filter(quiz => quiz.category === 'full');
+  console.log('Full quizzes:', fullQuizzes);
 
   return (
     <div className="container mx-auto px-4 py-8">
@@ -121,23 +124,21 @@ const QuizLibrary: React.FC = () => {
       ) : (
         <div className="grid grid-cols-1 gap-8">
           {/* Featured Quizzes */}
+          {console.log('Should render full quizzes?', fullQuizzes.length > 0)}
           {fullQuizzes.length > 0 && (
             <div>
               <h2 className="text-2xl font-semibold mb-4">Complete Quiz Set</h2>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                {console.log('Rendering full quizzes:', fullQuizzes)}
                 {fullQuizzes.map((quiz) => (
                   <Card
                     key={quiz.id}
-                    className={`cursor-pointer transition-all duration-300 hover:shadow-md ${
-                      selectedQuiz?.id === quiz.id
-                        ? `border-2 border-${quiz.color}-500 shadow-md`
-                        : 'border border-neutral-200'
-                    }`}
+                    className="cursor-pointer transition-all duration-300 hover:shadow-md border border-neutral-200"
                     onClick={() => handleQuizSelect(quiz)}
                   >
                     <CardContent className="p-6">
                       <div className="flex items-start">
-                        <div className={`flex-shrink-0 w-12 h-12 bg-${quiz.color}-100 text-${quiz.color}-600 rounded-full flex items-center justify-center text-2xl mr-4`}>
+                        <div className="flex-shrink-0 w-12 h-12 bg-indigo-100 text-indigo-600 rounded-full flex items-center justify-center text-2xl mr-4">
                           {quiz.icon}
                         </div>
                         <div>
