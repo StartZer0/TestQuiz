@@ -23,13 +23,13 @@
           "isCorrect": false
         },
         {
-          "id": "kLm9p0qRs2tUv3wXyZ4aB",
-          "text": "D) 6 aydan sonra",
+          "id": "9JiZ4dE7E-ukSiv0cR2Pb",
+          "text": "D) 2 aydan sonra",
           "isCorrect": false
         },
         {
-          "id": "cDe5fGh6iJk7lMn8oPq9R",
-          "text": "E) 2 aydan sonra",
+          "id": "ihZILL0bDoGg-pfzmZCAV",
+          "text": "E) 3,5 aydan sonra",
           "isCorrect": false
         }
       ],
@@ -37,23 +37,6755 @@
       "points": 1
     },
     {
-      "id": "pQrSt1uVw2xYz3aB4cDe5",
-      "text": "2) Hansı xəstəlik zamanı əzələlərin hipertrofiyası müşahidə olunur?",
+      "id": "W-rExEY_8OHpdhQtLkGi7",
+      "text": "2) Fenilketonuriyanın laborator diaqnostikasına hansı aididir?",
       "type": "multiple-choice",
       "options": [
         {
-          "id": "fGh6iJk7lMn8oPq9rStU",
-          "text": "A) Miasteniya",
+          "id": "QsJFs_5x2GkPMX2PevgVh",
+          "text": "A) Üçxlorlu dəmirlə sınaq",
+          "isCorrect": true
+        },
+        {
+          "id": "K1LN7Yt31umUy9PiCllxy",
+          "text": "B) Seruloplazminə görə qanın müəyinəsi",
           "isCorrect": false
         },
         {
-          "id": "vWxYz1aB2cDe3fGh4iJk",
-          "text": "B) Miodistoniya",
+          "id": "PipGCCuiRDt3o3J1o_XLg",
+          "text": "C) Zülal fraksiyalarının təyini",
           "isCorrect": false
         },
         {
-          "id": "lMn5oPq6rSt7uVw8xYz9",
-          "text": "C) Miopatiya",
+          "id": "X1o4zRBxsKZH8jLOF2itj",
+          "text": "D) Asetona görə sınaq",
+          "isCorrect": false
+        },
+        {
+          "id": "blubJDhaBUZ-T-q2adlcs",
+          "text": "E) Qan və sidikdə kreatinfosfokinazanın təyini",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "f7svzVonkmWjpcac4_vTw",
+      "text": "3) Sadalanan simptomlardan kəllədaxili təzyiqin artmasını göstərən rentgenoloji alamat hansidir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "-y_duZjd_leOA3xw_Y7Nk",
+          "text": "A) Kalsiumun oqranizmdən xaric olması əlaməti",
+          "isCorrect": false
+        },
+        {
+          "id": "MO9bipkshFiBX6pBN3YWs",
+          "text": "B) Beyin qabığı neyrodinamikasının pozulması",
+          "isCorrect": false
+        },
+        {
+          "id": "u75n-hEnyyFkzPYspj0dj",
+          "text": "C) Exoensefaloskopiyada M-exonun yerinin dəyişməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "6Md93nEDUahRs-4jTztg0",
+          "text": "D) Kəllə tikişlərinin aralanması",
+          "isCorrect": true
+        },
+        {
+          "id": "-Ns7vc0bcO5hTQnxeOIOx",
+          "text": "E) Göz dibində durğunluq əlamətləri",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "ruIeejBCOCFPweMaxfz63",
+      "text": "4) Suçiçayi zamanı hansı halda antibiotiklar təyin olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "2TsJToBrUXa-JkGh90Tkm",
+          "text": "A) Ağır forma zamanı",
+          "isCorrect": false
+        },
+        {
+          "id": "Ur9Oa-MoVZ5hGGgDzPpTT",
+          "text": "B) Irinli ağırlaşmalar zamanı",
+          "isCorrect": true
+        },
+        {
+          "id": "s5WHlKtn6_pxlqeWCgBtX",
+          "text": "C) Ağırlaşmaların profilaktikası məqsədilə",
+          "isCorrect": false
+        },
+        {
+          "id": "-oFmJaxRqi-BJSZiZywn0",
+          "text": "D) Ensefalit zamanı",
+          "isCorrect": false
+        },
+        {
+          "id": "qqnc2SvRMfqTXRsTdYqsX",
+          "text": "E) Təyin olunmur",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "DIeyRX_kSzgIBbkXT2Cay",
+      "text": "5) 4 yaşlı uşaqda baxış zamanı bütün limfa qruplarında çoxsaylı böyümüş, yumşaq, ağrısız, hərəkətli limfa düyünləri ailənir. Uşaq bir qədər pastozdur, dəri örtükləri avazımışdır, azələ tonusu zaif inkişaf etmişdir, bədən kütləsi yaşına görə çoxdur. Qanın ümumi analizində limfositoz və monositoz qeyd olunur. Başqa orqan və sistemlərdə ciddi dəyişiliklər yoxdur. Sadalanan əlamətlər aşağıdakılardan hansına aididir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "GixULLO5zti5GvsX-IUoh",
+          "text": "A) Sağlam uşaqda normal limfatik sistem",
+          "isCorrect": false
+        },
+        {
+          "id": "YOUNGQz-PTNCJwb8iM31F",
+          "text": "B) Vərəm",
+          "isCorrect": false
+        },
+        {
+          "id": "qKoZBcVzcss3w-JH3mXkO",
+          "text": "C) Məxmərək",
+          "isCorrect": false
+        },
+        {
+          "id": "A4HsyBQKlGND610n3Q9a7",
+          "text": "D) Sucicayi",
+          "isCorrect": false
+        },
+        {
+          "id": "7IdcyOlvaRBHaZWiF8tLS",
+          "text": "E) Limfatiko-hipoplastik konstitusional anomaliyası (diatez)",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "5mi7U7NyFIkaEjVbwyG1V",
+      "text": "6) Hansı hallarda uşaqlarda sümüklərin uzanma prosessi pozulmur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "sYvH25UXh2W-XG19mRQZI",
+          "text": "A) Raxit keçirdikdə",
+          "isCorrect": false
+        },
+        {
+          "id": "MuD64xp1OS6bti7nXbTcg",
+          "text": "B) Revmatoid artriti keçirdikdə",
+          "isCorrect": false
+        },
+        {
+          "id": "wHIl__R7EZVX1vn_bquu9",
+          "text": "C) Hormonlar qəbul etdikdə",
+          "isCorrect": false
+        },
+        {
+          "id": "EjRqXmU8DFZSnCutJjR2l",
+          "text": "D) Osteomielit keçirdikdə",
+          "isCorrect": false
+        },
+        {
+          "id": "2CxcL_i2Wz1vE0fDuCR1U",
+          "text": "E) Aktiv.həyat tərzi olanda",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "e1r-eapkgsDHBj7Q1_41x",
+      "text": "7) Uşaqda sümük toxumasının intensiv inkişafı nə ilə bərabər müşahidə olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "tZ9gizOQXSZ1JFjb2Ke3Q",
+          "text": "A) Tez-tez sınıqlar baş verir",
+          "isCorrect": false
+        },
+        {
+          "id": "lhX8T-5eMbrPOASqpxGLE",
+          "text": "B) Sümük ətrafı nahiyədə intensiv qan dövranı",
+          "isCorrect": true
+        },
+        {
+          "id": "wFRJf6WBTPzgk8gf0lblo",
+          "text": "C) Hematogen osteomielitlər mümkün olmur",
+          "isCorrect": false
+        },
+        {
+          "id": "zAT6_CfhLkcj-oU22o2J0",
+          "text": "D) Osteoporoz baş verir",
+          "isCorrect": false
+        },
+        {
+          "id": "NWD6qPv-LSRq7zlr6Xsx-",
+          "text": "E) Sümük atrafinda qan dövranının zəif olması",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Fj9Y6ApB2c04g3ImfYOKh",
+      "text": "8) Hansı amil osteosinteza mənfi təsir göstərmir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "qdxzrIt60m_lXdeT2NL-P",
+          "text": "A) Zülalın, elektrolitlərin, mikroelementlərin defisiti",
+          "isCorrect": false
+        },
+        {
+          "id": "yAWUMiso2qgseXHsNqi3N",
+          "text": "B) Rasional qidalanma",
+          "isCorrect": true
+        },
+        {
+          "id": "HDf1Zpe_X6VldZGRPwGW9",
+          "text": "C) Hipodinamiya",
+          "isCorrect": false
+        },
+        {
+          "id": "R4rNNCf8uLPL3gpcHQiVB",
+          "text": "D) Daxili sekresiya vəzlərinin hormon sintezi funksiyasının pozulması",
+          "isCorrect": false
+        },
+        {
+          "id": "1wrf0YDisX4J7xpUFCuhI",
+          "text": "E) Daxili orqanların funksional pozğunluğu",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "90I83mKsrC-Pzv5PYS14k",
+      "text": "9) Sümük sisteminin patologiyasını aşkar edən əsas müayinə hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "p6KEYr0VxA_PsY60PeUyD",
+          "text": "A) Qanın ümumi analizi",
+          "isCorrect": false
+        },
+        {
+          "id": "JIOwIk54aMHWK3OIBpyxp",
+          "text": "B) Rentgenoqrafiya",
+          "isCorrect": true
+        },
+        {
+          "id": "3UmNgyGPPsA78R9fn9SOM",
+          "text": "C) Elektroensefaloqrafiya",
+          "isCorrect": false
+        },
+        {
+          "id": "gfkWFTlNr4skpLfQC_NIt",
+          "text": "D) Xronaksimetriya",
+          "isCorrect": false
+        },
+        {
+          "id": "KwhUSaEsIEj8d9X97AOjm",
+          "text": "E) Elektromioqrafiya",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "JieRA5lPp18jo1CZrRB9k",
+      "text": "10) Sinir - artretik diatezin alamatlərinə aid olmayan hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "c2o9X8y2UEBMLhhsg_6Gw",
+          "text": "A) Dizuriya",
+          "isCorrect": false
+        },
+        {
+          "id": "3YZ_9MF3zrNSdQtvf9HXe",
+          "text": "B) Alkaloz",
+          "isCorrect": true
+        },
+        {
+          "id": "IOPlmSrBPRbrnOBlKsV63",
+          "text": "C) Asidoz",
+          "isCorrect": false
+        },
+        {
+          "id": "m43oDUHrLrvHwP6XjnzMp",
+          "text": "D) Asetonemik qusma",
+          "isCorrect": false
+        },
+        {
+          "id": "h6mPJ8zL7JMH_AQYzlbNA",
+          "text": "E) Oynaq ağrıları",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "K2UVmWBd_05SlAGhrAVpT",
+      "text": "11) Konstitusiya anomaliyalarına aid olmayan forma hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "vwWksCze5YZnWKHLkwxB3",
+          "text": "A) Ekssudativ - kataral",
+          "isCorrect": false
+        },
+        {
+          "id": "vWHUILrjFYbgglDO7Q9hD",
+          "text": "B) Allergik (atopik)",
+          "isCorrect": false
+        },
+        {
+          "id": "4SNDGmQmgiUwmqtibrFl2",
+          "text": "C) Limfatiko - hipoplastik",
+          "isCorrect": false
+        },
+        {
+          "id": "L0VIIoZgELyOweSOhGiGW",
+          "text": "D) Toksikoseptik",
+          "isCorrect": true
+        },
+        {
+          "id": "6-jSuiFLU9B2Mw6--989Y",
+          "text": "E) Sinir - artritik",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Pdvqh68iWAJ58kDw1PAIv",
+      "text": "12) Postnatal dövrdə hipotrofiyanın əmələ gəlmə səbəblərinə aid olmayan hansidir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "LV7v6WkH3QMELxOJt3XiT",
+          "text": "A) Anadangəlmə inkişaf qüsurları",
+          "isCorrect": false
+        },
+        {
+          "id": "CXHyvwyYPhnm43Z-eYLGz",
+          "text": "B) Yaşa müvafiq təbii qidalanma",
+          "isCorrect": true
+        },
+        {
+          "id": "bLKZFEX11MhA85zexbj0g",
+          "text": "C) Endokrin sistemin patoloqiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "4m9Gi2bIIjOhf4rsdu0xx",
+          "text": "D) MSS patoloqiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "iqjruqTs-Bx9gqtGcsAAz",
+          "text": "E) Malabsorbsiya sindromu",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "vBZFIbQoeAijrqyvYW3MC",
+      "text": "13) Raxitəbənzər xəstəliklərə aid deyil:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "tqwbjxctIiIE2NhzXdS61",
+          "text": "A) Hiperfosfatemiya",
+          "isCorrect": false
+        },
+        {
+          "id": "LTlksmyh3Wwqc0nNjlfLi",
+          "text": "B) Birincili xondrodistrofiya",
+          "isCorrect": false
+        },
+        {
+          "id": "ym5Mu7dVGGM5KhVZYfqsb",
+          "text": "C) Idiopatik raxit",
+          "isCorrect": false
+        },
+        {
+          "id": "yoCFDp-97tu7gWUXz4pxU",
+          "text": "D) Reyter sindromu",
+          "isCorrect": true
+        },
+        {
+          "id": "YLRgI07sshjMoCQIFD2xl",
+          "text": "E) Sindrom Debre - de Toni - Fankoni",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "0cj-l1W9FCY9SOTGAOzik",
+      "text": "14) Postnatal spesifik profilaktika zamanı vitamin D hansı dozada verilir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "B85uqpidV9pM25XWHs_45",
+          "text": "A) 100 - 200 ME sutkada",
+          "isCorrect": false
+        },
+        {
+          "id": "CFyzjecr9Bb0i9xFNU-u8",
+          "text": "B) 100 - 200 ME həftədə 1 dəfə",
+          "isCorrect": false
+        },
+        {
+          "id": "ZcFvQeo1Yb6r0tre701Kq",
+          "text": "C) 400 - 500 ME həftədə 1 dəfə",
+          "isCorrect": false
+        },
+        {
+          "id": "r5lZp3QnhOQiibLDZXDih",
+          "text": "D) 750 ÷ 1000 ME sutkada",
+          "isCorrect": false
+        },
+        {
+          "id": "_C05TR38FjsDkOKXVU-vv",
+          "text": "E) 400 - 500 ME sutkada",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "hikSenhg7bnfa6lGvsjLi",
+      "text": "15) Aşağıdakılardan hansı D vitamini-defisitli raxiti təsdiqliyən laborator müayinə deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "APdbRWRWyO2JyJLhWNn29",
+          "text": "A) Qan zərdabında Ca səviyyəsinin təyini",
+          "isCorrect": false
+        },
+        {
+          "id": "idDXJ5ipv2fYWvYr6-I2E",
+          "text": "B) Pandi sınağı",
+          "isCorrect": true
+        },
+        {
+          "id": "yc_igz8BLiCEjTVU846X1",
+          "text": "C) Qan zərdabında P səviyyəsinin təyini",
+          "isCorrect": false
+        },
+        {
+          "id": "Bw1u2xCfoEcH4uEjD1zmP",
+          "text": "D) Qələvi fosfatazanın qanda təyini",
+          "isCorrect": false
+        },
+        {
+          "id": "5ALHVF9MXYWeQh-N7QxCF",
+          "text": "E) Sulkoviç sınağı",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Eln4mkgnZlBbNkanzcFUe",
+      "text": "16) 5 yaşlı uşaq bir udum sirkə turşusu içmişdir və dərhal xəstəxanaya çatdırılmışdır. Bu zəhərlənmədə mədənin yuyulma qaydası nəcə olmalıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "lsLQ3lBQyHUjKNskYwaFr",
+          "text": "A) Mədə yuyulması ancaq zondsuz üsulla aparılır",
+          "isCorrect": false
+        },
+        {
+          "id": "CrJcRhPcJ6isuchwKMCrJ",
+          "text": "B) Mədə yuyulması soyuq su ilə zond vasitəsi ilə aparılır",
+          "isCorrect": true
+        },
+        {
+          "id": "kdbQPYW18UY2uaTLtR_-5",
+          "text": "C) Mədə yuyulması ancaq ilk bir saat ərzində aparılır",
+          "isCorrect": false
+        },
+        {
+          "id": "TcEAEQLpMYd5_nEsEyPSb",
+          "text": "D) Mədə yuyulması ancaq qanlı qusma olanda aparılır",
+          "isCorrect": false
+        },
+        {
+          "id": "uLPzHYr64NDcq23yOWBKK",
+          "text": "E) Mədə natrium bikarbonat məhlulu ilə yuyulur",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "sTIO7SUaG3728WdHCzkel",
+      "text": "17) Poliomiyelit xəstəliyi keçirmiş uşağın qanında hansı anticisimlərin əmələ gəlməsi müşahidə edilir və eyni zamanda ömürlük immunitetin olmasını göstərir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "MM31ThhvEkItZw8L0-9bn",
+          "text": "A) Ig A",
+          "isCorrect": false
+        },
+        {
+          "id": "phkdxJG4VUzcyfsmg754A",
+          "text": "B) Ig A və Ig M",
+          "isCorrect": false
+        },
+        {
+          "id": "sWYisHTvIPA2xDjvgBwHD",
+          "text": "C) Ig M",
+          "isCorrect": false
+        },
+        {
+          "id": "aJA3peko-JDHO2436ExnG",
+          "text": "D) Ig G",
+          "isCorrect": true
+        },
+        {
+          "id": "zyDi_nWmI5yC_WqtFBNKh",
+          "text": "E) Ig M və Ig G",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "IfY1LLfJnTVwx5nCk6_Ot",
+      "text": "18) Qalaktozanın əsas xüsusiyyəti hansı cavabda göstərilib?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "mQkZgHcusnye_4vVEIwd7",
+          "text": "A) Bağırsağın normal mikroflorasının inkişafına imkan yaradır",
+          "isCorrect": false
+        },
+        {
+          "id": "HHTWjNT2Ls7Ahpf9F-Eop",
+          "text": "B) Böyrəklərə zülal yükünü azaldır",
+          "isCorrect": false
+        },
+        {
+          "id": "mNR0lKfUPvhT-r-E_1xGE",
+          "text": "C) Bağırsaqların motorikasını stimulə edir",
+          "isCorrect": false
+        },
+        {
+          "id": "PV-pTitXk2JeMQvLLKDve",
+          "text": "D) Neyronların strukturuna daxil olan zülalların sintezində iştirak edir",
+          "isCorrect": true
+        },
+        {
+          "id": "YDTv8u9gBy6Yr_vBoYGIp",
+          "text": "E) İmmun müdafiəni artırır",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "rqjvtjmCINk-XG3-xYS_j",
+      "text": "19) Yenidoğulmuşlarda BCJ peyvəndin dozası:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "VFob99PDYFt6zuZkMNpNO",
+          "text": "A) 0,01 mq",
+          "isCorrect": false
+        },
+        {
+          "id": "0bxuD_Iul1_k1Nfm_ne56",
+          "text": "B) 5 mq",
+          "isCorrect": false
+        },
+        {
+          "id": "Qs78mHdMfQ8Zd_N9eTrU4",
+          "text": "C) 0.05 mq",
+          "isCorrect": true
+        },
+        {
+          "id": "VCWnls5MJBjO0Rw0JxEXE",
+          "text": "D) 0.005 mq",
+          "isCorrect": false
+        },
+        {
+          "id": "9EW05zDo11Dh1441EmgOw",
+          "text": "E) 0.5 mq",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "-9UZVrg22QyJE7C8_2Qc8",
+      "text": "20) Yenidoğulmuşlarda BCJ peyvəndin inyeksiya yerində nə vaxt papula, vezikula və ya pustula əmələ gəlir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "1MV7VDipwVMQZknwIJzFg",
+          "text": "A) 1-ci həftənin sonunda",
+          "isCorrect": false
+        },
+        {
+          "id": "7QSjyAdf4BhUU4GxDo5Va",
+          "text": "B) 3-4 günündə",
+          "isCorrect": false
+        },
+        {
+          "id": "6aqS8-ZBd1he48PdnzCzq",
+          "text": "C) 2-ci həftənin sonunda",
+          "isCorrect": false
+        },
+        {
+          "id": "uzKkQ90Q2kw-uVa5nrlaY",
+          "text": "D) 4-6 həftədən sonra",
+          "isCorrect": true
+        },
+        {
+          "id": "y2PGoZv0ZIyLtBiTBobVo",
+          "text": "E) 8-10 günündə",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "3Gcv7mfZHPkIpFjSXkl0C",
+      "text": "21) Doğuş zalında və doğuş palatalarında havanın hərarəti nəcə dərəcə olmalıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "b7Miev-53hakad6GY8ZxK",
+          "text": "A) 24-26°C az olmayaraq",
+          "isCorrect": true
+        },
+        {
+          "id": "jx9mcFfOGeRBLaNqIT6ye",
+          "text": "B) 18-20°C az olmayaraq",
+          "isCorrect": false
+        },
+        {
+          "id": "vD_FXXdY_HK7-Ey9lxZOQ",
+          "text": "C) 20-22°C az olmayaraq",
+          "isCorrect": false
+        },
+        {
+          "id": "0Yse5l8VsPN7OoNQ7xkMi",
+          "text": "D) 22-24°C az olmayaraq",
+          "isCorrect": false
+        },
+        {
+          "id": "pWHriM3hiD66o4VKcGk6G",
+          "text": "E) 26-28°C az olmayaraq",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "EzMYvq1vqv0ilabZOZ8gi",
+      "text": "22) Şəkərli diabetli analardan doğulan yenidoğulmuşlarda qıcolma sindromunun əsas səbəbi hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "abi9PsTblYL2JG32K90CV",
+          "text": "A) Asfiksiya və doğuş travması",
+          "isCorrect": false
+        },
+        {
+          "id": "JCEJpMBqvFFYsOG2pIqsO",
+          "text": "B) MSS inkişaf qüsurları",
+          "isCorrect": false
+        },
+        {
+          "id": "8RxfRb15k6-hx0w_Ts-fU",
+          "text": "C) Hipoqlikemiya və hipokalsiemiya",
+          "isCorrect": true
+        },
+        {
+          "id": "T-MlO_FH2FiB6DvZacGgV",
+          "text": "D) Hipotermiya",
+          "isCorrect": false
+        },
+        {
+          "id": "c1c1eOx_xwZXyae8YeD6O",
+          "text": "E) Hiperbilirubinemiya",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "8j6Z68_6U1jaU1EgB6wIC",
+      "text": "23) Yenidoğulmuşda Ht səviyyəsi 65% artıq olarsa nə müşahidə olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "I5uGcKOn7xq9MLeXv_VDx",
+          "text": "A) Ağır hiperbillirubinemiya",
+          "isCorrect": false
+        },
+        {
+          "id": "qbWf4vIMSJLhpTKA7e81n",
+          "text": "B) MSS sönməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "PaKHOFHXgG4QveqSImq7i",
+          "text": "C) Sianoz",
+          "isCorrect": false
+        },
+        {
+          "id": "D4MYdddXyRM1rBy0i6GZF",
+          "text": "D) Tənəffüs pozuntuları",
+          "isCorrect": false
+        },
+        {
+          "id": "gudaHxq8NkJy6ucl9u6C9",
+          "text": "E) Bütün cavablar düzdür",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "A8CqzAqH5qhKoC2evM45J",
+      "text": "24) Hipotireozun gecikmiş simptomlarına aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "-o8aKF2b2T7KjfBmfDn0L",
+          "text": "A) Ödemlər, kobut, aşağı səs",
+          "isCorrect": false
+        },
+        {
+          "id": "EL1-PFDnUHqgOwXE0Jflq",
+          "text": "B) Psixomotor inkişafın ləngiməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "BrVLGHkKBLIzGBYe97dir",
+          "text": "C) Ekzoftalm",
+          "isCorrect": true
+        },
+        {
+          "id": "3a7Dpe0DA2dOXdD-TCctK",
+          "text": "D) Dərinin quruluğu",
+          "isCorrect": false
+        },
+        {
+          "id": "GygwuDy5P70wbbW_S2kBr",
+          "text": "E) Qəbizliya meyillik, uzun sürən sarılıq",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "MDsGNzM8nav7vmTutJUw5",
+      "text": "25) Hemorragik sindromun hansı növündə Vitamin K təyini patogenetik terapiyadır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "0r6ph46g7pF7peWOGEHgr",
+          "text": "A) Koaqulopatiyalarda",
+          "isCorrect": false
+        },
+        {
+          "id": "rETB5GoMjoSKtOzaoawjf",
+          "text": "B) Kapillaropatiyalarda",
+          "isCorrect": false
+        },
+        {
+          "id": "9puBSncP1oYJ1tZfkNrFL",
+          "text": "C) Fibrinolizda",
+          "isCorrect": false
+        },
+        {
+          "id": "3tfgFTM2p2gqzsNO4Aozn",
+          "text": "D) Hipoprotrombinemiyalarda",
+          "isCorrect": true
+        },
+        {
+          "id": "MjwFY47ZNDEl75_JIuRXe",
+          "text": "E) Trombositopeniyalarda",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "nJrwUDj5hAuowcQ6SOvWi",
+      "text": "26) Şəkərli diabetli analardan olan yenidoğulmuşlarda hansı xarakterdir deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "oUeOat-bJzMiG2dELRItE",
+          "text": "A) hipoglikemiya",
+          "isCorrect": false
+        },
+        {
+          "id": "voEpZEkq0H03SEI46Qyyw",
+          "text": "B) hipokalsiyemiya",
+          "isCorrect": false
+        },
+        {
+          "id": "fqbNKV-RGIrGRXEqSy9pS",
+          "text": "C) hiperglikemiya",
+          "isCorrect": true
+        },
+        {
+          "id": "tzVActmMjTFmmcMmUAGNI",
+          "text": "D) hipomaqniyemiya",
+          "isCorrect": false
+        },
+        {
+          "id": "4oaT92huvqyxMJiRlzF_7",
+          "text": "E) hiperbillirubinemiya",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "TIdNg6ICiwY3Gq1O4Ar6s",
+      "text": "27) Hipomaqnemiya üçün hansı alamətlər səciyyəvidir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "I75dGvZl_laW0g955hKEX",
+          "text": "A) təngnəfəslik",
+          "isCorrect": false
+        },
+        {
+          "id": "6RvoeROSq3hAOcYaXHV3Y",
+          "text": "B) bradikardiya",
+          "isCorrect": false
+        },
+        {
+          "id": "pkh_RpYQXO43YgaFmRjin",
+          "text": "C) tənəffüsün pozulması",
+          "isCorrect": false
+        },
+        {
+          "id": "QsKjs_i4ZcYqh1T4T5eOv",
+          "text": "D) MSS sönməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "_XvU3QVnKvsM-vaM4rqRJ",
+          "text": "E) MSS oyanıqlığı",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "EFP1I3FatVA2KQZlom04C",
+      "text": "28) Öd yollarının atreziyası ilə yenidoğulmuşlarda əmələ gələn hemorragik sindromun inkişafı nə ilə alaqəlidir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "NuVS6mv7DjUghhKAvwMFD",
+          "text": "A) bağırsaqda vitamin K sorulmasının pozulması",
+          "isCorrect": true
+        },
+        {
+          "id": "o5o_6JdJ3LoozOd7Ym0OY",
+          "text": "B) qara ciyərin parenximasının zədələnməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "xhvZDs5Cwj3GI7Gg5VpP7",
+          "text": "C) plazmanın laxtalanma amillərinin sintezinin pozulması",
+          "isCorrect": false
+        },
+        {
+          "id": "GppTWcxSMJzMwS3U3D-yI",
+          "text": "D) öd turşularının trombositlərinin funksiyasına mənfi təsiri",
+          "isCorrect": false
+        },
+        {
+          "id": "ld1hpn9O6cuEdwG536VRM",
+          "text": "E) kapillyarların keçiriciliyinin artması",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "XXT-RjElKtNiLOxqlibCA",
+      "text": "29) Qan dövranı çatışmazlığın hansı səbəbi ekstrakardial sayılır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "_M7UNj_6JhnRnLx45_vO_",
+          "text": "A) Anemiya, hipertireoz",
+          "isCorrect": true
+        },
+        {
+          "id": "QiMa7BHKrE5WtpO-gzQ83",
+          "text": "B) Ürəyin qapaq qüsurları",
+          "isCorrect": false
+        },
+        {
+          "id": "j_sJKzrx_nMQMJVUMvEKp",
+          "text": "C) Miokardın fibroelastozu",
+          "isCorrect": false
+        },
+        {
+          "id": "n01XKk05Qp-Ie8z6ljigN",
+          "text": "D) ÜİX, kəskin miokard infarktı, infarktan sonrakı kardioskleroz",
+          "isCorrect": false
+        },
+        {
+          "id": "Z_4qmVkMR5ykJ9J2i_Y3a",
+          "text": "E) Hipertrofik kardiomiopatiya",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "CW2Ozt0CArhhsrWCax3JR",
+      "text": "30) Erkən neonatal dövrdə hansı amillər hemorragik sindromun inkişafına səbəb ola bilər?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "tyDuEXo4yh9hmHQda4-Ve",
+          "text": "A) Bütün sədələnən amillər",
+          "isCorrect": true
+        },
+        {
+          "id": "uhD77B1Yt3RD1Ao97wjg3",
+          "text": "B) Spesifik bətndaxili infeksiyalar",
+          "isCorrect": false
+        },
+        {
+          "id": "J87uqn10gIOmzMp3IEIDj",
+          "text": "C) Ağır asfiksiya",
+          "isCorrect": false
+        },
+        {
+          "id": "0bVkXZZ_p7qzXVIt58s8T",
+          "text": "D) Hipotermiya",
+          "isCorrect": false
+        },
+        {
+          "id": "X8tgGLzgSHChIBIB7ZV5d",
+          "text": "E) Ananın doğuşdan qabaq, qanaxmaya meyilliyi artıran, dərmanların qəbulu",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "vdloXCGwUFuVnZ2JQ5XwK",
+      "text": "31) Hemorragik xəstəliyə hansı əlamət xəsdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "p1RVtmPumk1MNv0ViiqsO",
+          "text": "A) Trombositopeniya",
+          "isCorrect": false
+        },
+        {
+          "id": "K1hLzeiHfaRDO7mrcJRtb",
+          "text": "B) Protrombin kompleksinin azalması",
+          "isCorrect": true
+        },
+        {
+          "id": "hsJdjWR-mm4x7MjfLfijf",
+          "text": "C) Fibrinogenin azalması",
+          "isCorrect": false
+        },
+        {
+          "id": "hlw49UbOnx-COQtGw5yWq",
+          "text": "D) Qanda globulinlərin enməsi (VIII, IX, X faktorlar)",
+          "isCorrect": false
+        },
+        {
+          "id": "k_6JP-X4dTitDddXiiNuv",
+          "text": "E) Fibrinilizin artması",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "UMG9pf_ZGkRwuu9rM7kys",
+      "text": "32) Ananın və yenidoğulmuşun rezus uyğunsuzluğu zamanı hansı hallarda daha çox yenidoğulmuşun hemolitik xəstəliyi əmələ gəlir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "7NG5jT5Sepc46XNAyZkJM",
+          "text": "A) Ana tərəfindən nənə rezus müsbətdir",
+          "isCorrect": false
+        },
+        {
+          "id": "cP_z3XHkGtFG69u22BbVS",
+          "text": "B) Ana tərəfindən nənə rezus mənfiidir",
+          "isCorrect": true
+        },
+        {
+          "id": "Ys3HmahzbzW3lwyAPflIZ",
+          "text": "C) Ata tərəfindən nənə rezus mənfiidir",
+          "isCorrect": false
+        },
+        {
+          "id": "opy3EerNdKU2v7Q1XwseX",
+          "text": "D) Ata tərəfindən nənə rezus müsbətdir",
+          "isCorrect": false
+        },
+        {
+          "id": "sjr5Xm_yFh6aXLKOtx-MN",
+          "text": "E) Ana tərəfindən baba rezus müsbətdir",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "MFJQ8Kpmg9b5Qxigjr0HY",
+      "text": "33) Desruktiv pnevmoniyaya şübhə zamanı hansı alamətlər həlledicidir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "e1mHizEvsK3KbqnQcCNSY",
+          "text": "A) infeksion toksikozun olması",
+          "isCorrect": false
+        },
+        {
+          "id": "t3u10LhRSZoNJxKRgLG5f",
+          "text": "B) auskultativ alamətlər",
+          "isCorrect": false
+        },
+        {
+          "id": "wvZY_1iGB3E18JsTHJpiO",
+          "text": "C) hərarət",
+          "isCorrect": false
+        },
+        {
+          "id": "apnfbqHnD7akNenSYrjtx",
+          "text": "D) Perkutor əlamətlər",
+          "isCorrect": true
+        },
+        {
+          "id": "tBjm_xJr3BtS-rkJqQcml",
+          "text": "E) ifadəli tənəffüs çatışmazlığı",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "-NjwSoof46cHvM8M3zqhp",
+      "text": "34) Yenidoğulmuşların hemolitik xəstəliyin sarılıq formasında hansı zədələnmə daha ağır hesab olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "qmj7rxK1bK7f1nSu74R-X",
+          "text": "A) Ürək çatışmazlığı",
+          "isCorrect": false
+        },
+        {
+          "id": "QF8NWLOApLg9VAYVhkwhS",
+          "text": "B) Tənəffüs çatışmazlığı",
+          "isCorrect": false
+        },
+        {
+          "id": "ZRZQiTxVs6CK6ZVRUCFd-",
+          "text": "C) Qaraciyərin zədələnməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "l2Yp3lPb7ExT3G-ATgEc7",
+          "text": "D) Anemiya",
+          "isCorrect": false
+        },
+        {
+          "id": "Rg5M2hjHQ4CTfKru1i9c2",
+          "text": "E) MSS zədələnməsi",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Bf7Wd3nkEiju1Kf1pxwnF",
+      "text": "35) Vərəmə qarşı peyvənd hansı uşaq qrupunda qəti əks qöstərişdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "HJxA59wNwiM5pPDo9bFg5",
+          "text": "A) Anadangəlmə fermentopatiyalarda",
+          "isCorrect": true
+        },
+        {
+          "id": "xaI8Pat7_EzAnL1rFd4cL",
+          "text": "B) hemolitik xəstəliyi ilə olan uşaqlar",
+          "isCorrect": false
+        },
+        {
+          "id": "TcghloCcM5TmmAlGslbQf",
+          "text": "C) bütün cavablar düzdür",
+          "isCorrect": false
+        },
+        {
+          "id": "acAyW2pMhDtQ4UNf67nw9",
+          "text": "D) anadangəlmə inkişaf qüsurları ilə doğulanlar",
+          "isCorrect": false
+        },
+        {
+          "id": "ajNE_BZf_ZKDPvYo7mHMK",
+          "text": "E) cəkisi 1500 q az olan vaxtından əvəl doğulanlar",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "9u6zDvHN2pGVNhDCFMK83",
+      "text": "36) Hansı sindrom \"hestasion yaşına görə balaca\" yenidoğulmuşlarda səciyyəvidir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "lb9GZO7OcYAZINkqyr6FD",
+          "text": "A) Hipokalsiyemiya",
+          "isCorrect": false
+        },
+        {
+          "id": "qvwV03X3V04Em5SFi4w3s",
+          "text": "B) Polisitemiya",
+          "isCorrect": false
+        },
+        {
+          "id": "ylu7ChEktxsFVDE5z3rbw",
+          "text": "C) Bütün sadalanlar",
+          "isCorrect": true
+        },
+        {
+          "id": "AAz-CRSQUbAEuDbVSS7PB",
+          "text": "D) Hipoglikemiya",
+          "isCorrect": false
+        },
+        {
+          "id": "ZFdPiqYIRCag9D1DbO02V",
+          "text": "E) Hipotermiya",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "rypc60BLLSNQIiqjBdwD7",
+      "text": "37) Yenidoğulanlarda hansı halda apnoe tutmaları ola bilər?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "3pdiNAOjsWGSMVSNuFKmd",
+          "text": "A) Hialin membran xəstəliyində",
+          "isCorrect": false
+        },
+        {
+          "id": "3d-gm6RffcBQeFY9PqlBb",
+          "text": "B) Ürək-damar patologiyalarında",
+          "isCorrect": false
+        },
+        {
+          "id": "KQVnXVtc3wSNQL_bTcIbK",
+          "text": "C) Bütün sadalanan xəstəliklərdə",
+          "isCorrect": true
+        },
+        {
+          "id": "6PqP5cNt3Lxv9UwTJz118",
+          "text": "D) Sepsisdə",
+          "isCorrect": false
+        },
+        {
+          "id": "CfvVBl-gZcMpyT-xyiOHi",
+          "text": "E) Mədəcikdaxili qansızmada",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "RT-46p9Mhpc7db0XJC2A_",
+      "text": "38) Vaxtından əvəl doğulan uşaqda mədəcikdaxili qansızmaya hansı əlamət şübhə doğurur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "PyQ5j23vs2Ib9mObRaELt",
+          "text": "A) Sianoz",
+          "isCorrect": false
+        },
+        {
+          "id": "_3JGki9VyVqe1tQ9UCIIx",
+          "text": "B) Ətrafların titrəməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "05igJ7TwZnAkYtNSWzooF",
+          "text": "C) Taxikardiya",
+          "isCorrect": false
+        },
+        {
+          "id": "4qZeJ00EvrGu9qRGRmnhD",
+          "text": "D) Apnoe tutmaları",
+          "isCorrect": true
+        },
+        {
+          "id": "NQPhumvWPSWq9b-mI1CKM",
+          "text": "E) Təngnəfəslik",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "QaM8SeIKuzP_QAsfXnrYf",
+      "text": "39) Vaxtından əvəl doğulanlar arasında ölüm daha çox nə vaxt rast gəlir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "EdGGMiO0eN9pm_AFNRocq",
+          "text": "A) Antenatal",
+          "isCorrect": false
+        },
+        {
+          "id": "t2kwAnmDOC1g7GuGMKbhk",
+          "text": "B) Bütün dövrlərdə eyni tezliklə",
+          "isCorrect": false
+        },
+        {
+          "id": "9le8I4lx2XR2vn_eqV8Px",
+          "text": "C) Erkən neonatal",
+          "isCorrect": true
+        },
+        {
+          "id": "pr3IWh9zzQh2vl8idMv0I",
+          "text": "D) Geçikmiş neonatal",
+          "isCorrect": false
+        },
+        {
+          "id": "d2MQ3U_QW0HLpPEO4uGcT",
+          "text": "E) İntranatal",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "VvtMqeIClXj-cvlQq3AYR",
+      "text": "40) Yenidoğulmuşda hipotermiya stressı zamanı metabolizmin hansı dəyişiklikləri əmələ gəlmir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "ma8ScmdAojnU8b-7kR1Sj",
+          "text": "A) Metabolik alkoloz",
+          "isCorrect": true
+        },
+        {
+          "id": "D4fQNAXKj_qbfFZgeCJjb",
+          "text": "B) Metabolik asidoz",
+          "isCorrect": false
+        },
+        {
+          "id": "GNCYs-AnEVSG1hrUYUnfp",
+          "text": "C) Qanın laxtalanmasının pozulması",
+          "isCorrect": false
+        },
+        {
+          "id": "YZ1fZA7V6tjv7KoWvuy0p",
+          "text": "D) Oksigen sarfinin artması",
+          "isCorrect": false
+        },
+        {
+          "id": "VfZtNAf1j1Q0OXaIYhnm5",
+          "text": "E) Enerji ehtiyatlarının tükənməsi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "k2PlHvP9rt2RfM-lVVhHU",
+      "text": "41) Surfaktantın sintezi prosesində metiltransferaz sistemin aktivliyini hansı amillər ləngidir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "ilymPT6osqkJ69Va9RJFT",
+          "text": "A) Bütün sadalanan amillər",
+          "isCorrect": true
+        },
+        {
+          "id": "ug2O5F4bK0_YV59gwqq9z",
+          "text": "B) hipoksiya",
+          "isCorrect": false
+        },
+        {
+          "id": "uL-TvDBLbhU1SdnCSb5US",
+          "text": "C) asidoz",
+          "isCorrect": false
+        },
+        {
+          "id": "RsDeBW4L8YXo0_BknEsxt",
+          "text": "D) ağ ciyərlərdə perfuziyanın pozulması",
+          "isCorrect": false
+        },
+        {
+          "id": "nsBnRtU-_Ivqh8Zi-pSey",
+          "text": "E) hipotermiya",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "IEJDONDKn4Bz3S0RirKV1",
+      "text": "42) Vaxtından əvəl doğulanlarda billirubin intoksikasiyası həyatın əsasən hansı günündə inkişaf edir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "Tk1D7szJGFZtxibgKN8Zb",
+          "text": "A) 3-4-cü gün",
+          "isCorrect": false
+        },
+        {
+          "id": "KvLYtCZAsoDb_6z2mHt86",
+          "text": "B) 7-8-ci gün",
+          "isCorrect": false
+        },
+        {
+          "id": "zWetMk0foiP6NOsoiceB8",
+          "text": "C) 1-2-ci gün",
+          "isCorrect": false
+        },
+        {
+          "id": "bKoVy7en7-uIVQNKZxDTg",
+          "text": "D) 5-6-cı gün",
+          "isCorrect": true
+        },
+        {
+          "id": "fWua14L45VqqcQbOtVzan",
+          "text": "E) 9-10-cu gün",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "WkPSBNFOQx33cIe85kdbR",
+      "text": "43) Aşağıdakı səbəblərdən hansı vaxtından əvəl doğulanlarda daha çox qıcolma sindromunu əmələ gətirir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "Q4m9VAiVTSsrsMmAAb4BI",
+          "text": "A) Mübadilə pozuntuları (hipoglikemiya, hipokalsiemiya)",
+          "isCorrect": true
+        },
+        {
+          "id": "OiWYrF5bAzyiSWfBXSok3",
+          "text": "B) Asfiksiya",
+          "isCorrect": false
+        },
+        {
+          "id": "ggLf5D7gbnabx4-819eir",
+          "text": "C) MSS prenatal zədələnməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "CEupRIu_P57O7VuQzv_ck",
+          "text": "D) Kəllədaxili doğuş zamanı travma",
+          "isCorrect": false
+        },
+        {
+          "id": "_w54ZUIRv5o1_IkZCKm4a",
+          "text": "E) Bətndaxili infeksiyalar",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "zlGCQ4Cnv27BJ5UYpeTd2",
+      "text": "44) Vaxtından əvəl doğulan uşağın qidalandırma üsulu nədən asılıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "aMrCAfa93BNMJ3OiJth1h",
+          "text": "A) Hestasion yaşından",
+          "isCorrect": false
+        },
+        {
+          "id": "Nz3S8PlKz1OlY4nioflDH",
+          "text": "B) Postnatal yaşdan",
+          "isCorrect": false
+        },
+        {
+          "id": "h9Y49AUToPjPcjNr6c2UK",
+          "text": "C) Doğumun hansı yolla başa çatmasından",
+          "isCorrect": false
+        },
+        {
+          "id": "ogaGhB9KENtPxrttAaIjz",
+          "text": "D) Doğuş zamanı bədən kütləsindən",
+          "isCorrect": false
+        },
+        {
+          "id": "7X2JR5TCBZKTOEDcyQqWA",
+          "text": "E) Funksional yetkinlik və uşağın ümumi vəziyyətindən",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "vSAsj4VqqOcuvYlkDT5UB",
+      "text": "45) Vaxtından əvəl doğulan uşaqlara verilən qida qarışığının 100 ml-də zülalların miqdarı nə qədər olmalıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "1eVdajBvsfZ6Xmwj_nKob",
+          "text": "A) 2,5-3,0 q.",
+          "isCorrect": false
+        },
+        {
+          "id": "VOkEgIZOpFZ-yleRKftk6",
+          "text": "B) 3,5-4,0 q.",
+          "isCorrect": false
+        },
+        {
+          "id": "FeSVahtEvIe7J6zSc0bNb",
+          "text": "C) 1.2-1,7 q.",
+          "isCorrect": true
+        },
+        {
+          "id": "BQajhESkRqMX2g0l1uyCw",
+          "text": "D) 3,0-3,2 q.",
+          "isCorrect": false
+        },
+        {
+          "id": "PinvsslTHYgyTiDgQHwpz",
+          "text": "E) 1,5-2,0 q",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "UoAxB3fb7fik57gn4btnq",
+      "text": "46) Yenidoğulmuş uşaqda bağırsaq keçilməzliyinə şübhə yarandıqda, birinci növbədə rengen müayinəinin hansı üsulu istifadə olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "IyKlKiD2sKH856A7iX5lH",
+          "text": "A) Döş gəfəsin və qarın boşluğunun şaquli vəziyyətdə rentgen müayinəsi",
+          "isCorrect": true
+        },
+        {
+          "id": "rZkWUotxGeA7GNo9_PcG-",
+          "text": "B) Mədə və bağırsaqların yodlipol ilə müayinəsi",
+          "isCorrect": false
+        },
+        {
+          "id": "8elksrqQAoYtDzkcUnJdY",
+          "text": "C) Mədə və bağırsaqların barium ilə müayinəsi",
+          "isCorrect": false
+        },
+        {
+          "id": "1_RDDkzlPjsnxiTBjt0Bc",
+          "text": "D) İrriqoskopiya",
+          "isCorrect": false
+        },
+        {
+          "id": "baSiUhLoX4NElk-WUjVZA",
+          "text": "E) Qarın boşluğunun üfüqi vəziyyətdə rentgen müayinəsi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "-xYEAl2mdSxVLYhBfkkS_",
+      "text": "47) Sadalanan əlamətlərin hansı həyatın birinci saatlarında gida borusunun atreziyasına şübhə doğurur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "YBxro-j9_meQLfh1xapgK",
+          "text": "A) Öd ilə qusma",
+          "isCorrect": false
+        },
+        {
+          "id": "oBSAb5IDl5vN8R1pNmSAf",
+          "text": "B) Dodaqlarda köpük ifrazı",
+          "isCorrect": true
+        },
+        {
+          "id": "_5yi3tXDU4L7zGbmCYDYF",
+          "text": "C) Qan qarışığı ilə qusma",
+          "isCorrect": false
+        },
+        {
+          "id": "iJ1Vt3VJnoUEpKcGF5R7_",
+          "text": "D) Nəcisin ifrazının olmaması",
+          "isCorrect": false
+        },
+        {
+          "id": "fU7ZIlabO8HUwV9B6-ixJ",
+          "text": "E) Qarında köpmə",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "sAJ8Vgxd3Zqx6CMf1axsj",
+      "text": "48) Xoanaların atreziyası üçün hansı əlamətlər xasdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "p8dYsTggVew0Q1DYyqjfn",
+          "text": "A) doğulandan dərhal sonra burunla nəfəsalmanın çətinləşməsi",
+          "isCorrect": true
+        },
+        {
+          "id": "cEhKS-pNE7JfCXlnQGTI1",
+          "text": "B) burundan ifrazat",
+          "isCorrect": false
+        },
+        {
+          "id": "BV9F0VKzkX4zH2zSefkUH",
+          "text": "C) periodik olaraq tənəffüs pozulması",
+          "isCorrect": false
+        },
+        {
+          "id": "cE7l_5ciZvbzIYlM0-C69",
+          "text": "D) yemək zamanı çeçəmə",
+          "isCorrect": false
+        },
+        {
+          "id": "AFhx76VAChhvhny4QgON_",
+          "text": "E) qulaqdan ifrazat",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "GPPzKLgSUPOskLy_J9jkZ",
+      "text": "49) Bakterial infeksiyanın diaqnostikası üçün hansı göstərici işlədilə bilər?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "Vo0mKF3-TgCldqmT-bhRl",
+          "text": "A) Leykositlərin ümumi sayı",
+          "isCorrect": false
+        },
+        {
+          "id": "yWwQ1C5nZu_M_3CyDdRPb",
+          "text": "B) C-reaktiv zülal",
+          "isCorrect": false
+        },
+        {
+          "id": "lzTMEWXTu3FmvTN-s9m1r",
+          "text": "C) Orta molekul səviyyəsi",
+          "isCorrect": false
+        },
+        {
+          "id": "forkd6bW9SsJN_vIagzXs",
+          "text": "D) Bütün göstəricilər",
+          "isCorrect": true
+        },
+        {
+          "id": "fueAgjTrWL6nURYmwzu-9",
+          "text": "E) Krebs intoksikasiyasının leykositar indeksi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "KAxM-8E_1ixB2S7PT0lKp",
+      "text": "50) Hansı müayinə üsulu irsi mübadilə xəstəliklərini daha dəqiq təsdiq edir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "I55WaXFzKN_eNXW-bNImi",
+          "text": "A) Ekizlər üsulu",
+          "isCorrect": false
+        },
+        {
+          "id": "6Z4jpO6541Wn6os8jVSa4",
+          "text": "B) Sitoloji",
+          "isCorrect": false
+        },
+        {
+          "id": "UHlqHbmJhw1EhH9s3W70u",
+          "text": "C) Genetik",
+          "isCorrect": true
+        },
+        {
+          "id": "qTq9diM4UMUqEopsiScq5",
+          "text": "D) Genealoji",
+          "isCorrect": false
+        },
+        {
+          "id": "DpbTuXEAlA9m61JsXWOgx",
+          "text": "E) Klinik",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "JIVVsiellq1-by_jHwJof",
+      "text": "51) Həqiqi melenanı yalandan necə ayırmaq olar?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "KpbDoKJhHgobk_nZjWDlu",
+          "text": "A) Qanda Hb səviyyəsi ilə",
+          "isCorrect": false
+        },
+        {
+          "id": "BvsSZuVxsnPfwNO0Khs64",
+          "text": "B) Nəcisdə hemoglobinin növünü müayinə etməklə (Apt sınağı)",
+          "isCorrect": true
+        },
+        {
+          "id": "lwOiSIEOLt8xZlxhSmLZz",
+          "text": "C) Anamnezə görə",
+          "isCorrect": false
+        },
+        {
+          "id": "bQaZq7Egsa3R0XBxprcUF",
+          "text": "D) Klinik əlamətlərlə",
+          "isCorrect": false
+        },
+        {
+          "id": "046mf6-89gIX2C0aKG_AL",
+          "text": "E) Qanaxma müddətinin təyini ilə",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "UiZnyWlbDGLLHJ6XklPty",
+      "text": "52) Erkən neonatal dövrdə Hb-nin səviyyəsinin enməinə leykopoez necə reaksiya verir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "RYx-YoheFgrEEbk5JARtk",
+          "text": "A) Leykopeniya ilə",
+          "isCorrect": false
+        },
+        {
+          "id": "poZv6I94v3WlJru8HwTgq",
+          "text": "B) Reaksiya vermir",
+          "isCorrect": false
+        },
+        {
+          "id": "9XVk3jPaYtl9eHt56kcxj",
+          "text": "C) Leykositozla",
+          "isCorrect": true
+        },
+        {
+          "id": "hRLxUUJGCfFoQoaZWaZAN",
+          "text": "D) Leykoformulanın sola meylliyi ilə",
+          "isCorrect": false
+        },
+        {
+          "id": "oasBMRfyZ8-9GB2VwdHvJ",
+          "text": "E) Limfositozla",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "DRmjoYauAlW0-EkeyFTsL",
+      "text": "53) Qıcolma sindromu ilə yenidoğulmuşda diaqnostik məqsədli ilə hansı müayinələri aparmaq lazımdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "G3v6N-TzKKJFcfcj3WoJ7",
+          "text": "A) Bütün müayinələr aparılmalıdır",
+          "isCorrect": true
+        },
+        {
+          "id": "oCqLTGSfGIIZrKbyL9k1F",
+          "text": "B) Qlükozanın səviyyəsini yoxlamaq",
+          "isCorrect": false
+        },
+        {
+          "id": "mKKGLrLSPjUkQ6RsHx0C5",
+          "text": "C) Qanda kalsiumun səviyyəsi",
+          "isCorrect": false
+        },
+        {
+          "id": "XuPWn-i4M63rGR0Hp7UAo",
+          "text": "D) Qanın klinik müayinəsi",
+          "isCorrect": false
+        },
+        {
+          "id": "AIxMSf4KlaTRoVUgocdAE",
+          "text": "E) Lyumbal punksiya və likvorun müayinəsi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "MC54z2hkX-bNycRICrYRC",
+      "text": "54) Sadalanan əlamətlərin hansı yenidoğulmuşda lyumbal punksiyaya birbaşa göstərişidir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "RBF2Ed4aalv7y77-5VAXa",
+          "text": "A) Bütün sadalanan əlamətlər",
+          "isCorrect": false
+        },
+        {
+          "id": "8lZeBPvWZmQQgeq7ut0zT",
+          "text": "B) Əzələ hipotiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "Hc308l4hnBAOpaeyThzwQ",
+          "text": "C) Hipertermiya",
+          "isCorrect": false
+        },
+        {
+          "id": "jTi0Yzfvvwr6SNWKbGi8C",
+          "text": "D) Hiporefleksiya və adinamiya",
+          "isCorrect": false
+        },
+        {
+          "id": "AKkE6cCmHUDInslCbJFbP",
+          "text": "E) Qicolma",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "cdB67oFBRuwWStvE2t4O2",
+      "text": "55) Xromosom xəstəliyinin diaqnozunu hansı müayinə daha dəqiq təsdiq edir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "6ns71-JJd88RGamkntQkX",
+          "text": "A) Genealoji müayinələr",
+          "isCorrect": false
+        },
+        {
+          "id": "jgEEjr8qlBaeYKRLHW30e",
+          "text": "B) Klinik müayinə",
+          "isCorrect": false
+        },
+        {
+          "id": "flAvOhNBTfLrDVKHL4LFw",
+          "text": "C) Biokimyəvi müayinə",
+          "isCorrect": false
+        },
+        {
+          "id": "lhRXrziCpmMcIvIyATMX8",
+          "text": "D) Kariotipin və cinsi xromatinin təyini",
+          "isCorrect": true
+        },
+        {
+          "id": "BBjwxoqNYEJe6th8VYAQ3",
+          "text": "E) Mikrobioloji müayinə",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "RN4sVDzinBk3Nsd6MgxVM",
+      "text": "56) Yenidoğulmuşlarda fizioloji sarılığı üçün hansı əlamət xarakter deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "DhLsGgh4IcHLnpgoIqyKE",
+          "text": "A) Glyukuroniltransferazanın aktivliyi aşağıdır",
+          "isCorrect": false
+        },
+        {
+          "id": "OIIkbKrWAeVdfAj3NW51r",
+          "text": "B) Zərdabda bilirubinin ən yüksək səviyyəsi 108 mkmol/l 3-cü gündə çatır",
+          "isCorrect": false
+        },
+        {
+          "id": "qEhUK9qbz_aQApXMFQl0U",
+          "text": "C) Həyatın ilk iki günündə sarılığın meydana çıxması",
+          "isCorrect": true
+        },
+        {
+          "id": "-GD4MWfO82Rfw0BVxcNWr",
+          "text": "D) Sərılıq həyatın 2-3 günündə başlanır",
+          "isCorrect": false
+        },
+        {
+          "id": "DTDFtBHp4Hm31wKwrDitl",
+          "text": "E) Ödün enerqohepatik dövriyyəsi artmışdır",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "v-kEh-vmEVUnnoHG59GmQ",
+      "text": "57) Mama-ginekoloq sizi xəbərdar edir ki, zahı ana Hepatit B sathi antigenin (HBsAg) daşıyıcısıdır. Körpəyə görə sizin birinci növbədə hərəkətləriniz hansı olacaq?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "_75ZYOyhpZfT5AHZCuZwg",
+          "text": "A) Körpəyə hepatit B qarşı immunoqlobulinin və peyvəndin təyin edilməsi",
+          "isCorrect": true
+        },
+        {
+          "id": "HxDpTQB573SyOu4hgRTml",
+          "text": "B) Hərəkətsizlik, anadan dölə transplasentar keçən anticismlər körpəni hepatitdan qoruyur",
+          "isCorrect": false
+        },
+        {
+          "id": "Dm14pSVzEOk66sJj_tj45",
+          "text": "C) İnfeksiyanın yayılmaması üçün uşağın izolyasiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "DfrWUBnBIJIXP1bzWaYyC",
+          "text": "D) HBsAg uşağın skriningi",
+          "isCorrect": false
+        },
+        {
+          "id": "O3Binnj5wI9yrMPUEkwzR",
+          "text": "E) Hepatit B antigenına ananın skriningi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "bYTEBKfunuyn7B1hK9JeP",
+      "text": "58) Vaxtından əvəl doğulan 1 həftəlik uşaq üçün Hb-in hansı səviyyəsi normal sayılır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "IDj0IK6p7RXmDLrLmsauN",
+          "text": "A) 130 q/l az olmayaraq",
+          "isCorrect": false
+        },
+        {
+          "id": "e139eqqM32bBTkEngpnJG",
+          "text": "B) 180 q/l az olmayaraq",
+          "isCorrect": false
+        },
+        {
+          "id": "xkWozK7ce2EAqCaFKjzOd",
+          "text": "C) 150 q/l az olmayaraq",
+          "isCorrect": true
+        },
+        {
+          "id": "hykij9vqzBfishkTBQ9yR",
+          "text": "D) 170 q/l az olmayaraq",
+          "isCorrect": false
+        },
+        {
+          "id": "CWhH1Mc8_PzCjqnNFxyGz",
+          "text": "E) 120 q/l az olmayaraq",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "61HAwtIG3Sf_uO1TmayoC",
+      "text": "59) Vaxtından əvəl doğulan 2 həftəlik uşaq üçün Hb-in hansı səviyyəsi normal sayılır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "LYPSkVpz4hwgH2E63nZeh",
+          "text": "A) 180 q/l az olmayaraq",
+          "isCorrect": false
+        },
+        {
+          "id": "BUa2HhX5IN_UNWVRnayOA",
+          "text": "B) 170 q/l az olmayaraq",
+          "isCorrect": false
+        },
+        {
+          "id": "MmveHzIDVRdsXmY7R0eX6",
+          "text": "C) 120 q/l az olmayaraq",
+          "isCorrect": false
+        },
+        {
+          "id": "ARwJFDibuzA-KMy-PEznV",
+          "text": "D) 150 q/l az olmayaraq",
+          "isCorrect": false
+        },
+        {
+          "id": "qSEtFvj2Ju6L565lGfqF8",
+          "text": "E) 130 q/l az olmayaraq",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "vSl13g5H8gZaoH5naP4o6",
+      "text": "60) Vaxtından əvəl doğulan 3 həftəlik uşaq üçün Hb-in hansı səviyyəsi normal sayılır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "RVtKYmVBYVuLsIrRL61gE",
+          "text": "A) 150 q/l az olmayaraq",
+          "isCorrect": false
+        },
+        {
+          "id": "ks4TWNfoveh7T1ldszYET",
+          "text": "B) 130 q/l az olmayaraq",
+          "isCorrect": false
+        },
+        {
+          "id": "nKn8Man4WjP6HrZZUp4eT",
+          "text": "C) 170 q/l az olmayaraq",
+          "isCorrect": false
+        },
+        {
+          "id": "RcaG6ceBC4IalZil3KHeX",
+          "text": "D) 180 q/l az olmayaraq",
+          "isCorrect": false
+        },
+        {
+          "id": "SxtDA_U_YGk5IsrEIeJcM",
+          "text": "E) 120 q/l az olmayaraq",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "HzksqL_hCFrboFmrrurEC",
+      "text": "61) Vaxtında doğulmuş körpədə dövr edən qanın (DQH) həcmi nə qədərdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "S0yUNsSF88MMGBGU_m1gh",
+          "text": "A) 120-130 ml/kq",
+          "isCorrect": false
+        },
+        {
+          "id": "3ysaAXzYiHL_iMAV0gtKI",
+          "text": "B) 80-90 ml/kq",
+          "isCorrect": true
+        },
+        {
+          "id": "oPrSXHLzdpXERiyFB18y9",
+          "text": "C) 60-70 ml/kq",
+          "isCorrect": false
+        },
+        {
+          "id": "rdlAjL_m7Hfyr8ncl_cKo",
+          "text": "D) 110-120 ml/kq",
+          "isCorrect": false
+        },
+        {
+          "id": "hmDxWpjGTViAcH9lAy1EF",
+          "text": "E) 100-120 ml/kq",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "J7grKF3uiWWC35nYATV04",
+      "text": "62) Vaxtında doğulmuş uşaqda mərkəzi venoz təzyiq nə qədərdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "K-Ji7gNtm1E21_NVOw5eP",
+          "text": "A) 10-12 cm su süt",
+          "isCorrect": false
+        },
+        {
+          "id": "0CcPf7WsEj6jP5v2zRvUz",
+          "text": "B) 2-4 sm su süt",
+          "isCorrect": false
+        },
+        {
+          "id": "kRTf4tBlE6eF4vBjYFmUl",
+          "text": "C) 4-6 sm su süt",
+          "isCorrect": true
+        },
+        {
+          "id": "U5VPJ7Ts36P5wNyEwiTK4",
+          "text": "D) 8-10 cm su süt",
+          "isCorrect": false
+        },
+        {
+          "id": "tHKVyus26k5rsyh91tuhD",
+          "text": "E) 1-2 sm su süt",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "EKTwd3OTXd0b51wNDIL3d",
+      "text": "63) Vaxtından əvəl doğulmuş uşağın göbək ciyəsinin qanında IgA və IgM səviyyəsinin artması nəyi bildirir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "D1KgALix-8bqIDD3tyKyF",
+          "text": "A) Uşağın yetişkənlik səviyyəsini",
+          "isCorrect": false
+        },
+        {
+          "id": "_C6sGcVngauVCBZX8db8V",
+          "text": "B) Anada gecikmiş hestozu",
+          "isCorrect": false
+        },
+        {
+          "id": "tcSqzs_hCHtdK0ySwq0k0",
+          "text": "C) Bətndaxili hipoksiyanı",
+          "isCorrect": false
+        },
+        {
+          "id": "NuHhNZchgraIKyvHncuA1",
+          "text": "D) Ciftin keçirmə qabiliyyətinin artmasını",
+          "isCorrect": false
+        },
+        {
+          "id": "VCd5QuFFswPITQGWEfjii",
+          "text": "E) Antigen ilə qarşılaşma (infeksiyalaşmanı)",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "HrNdgMhbDcrWgYfXc3STe",
+      "text": "64) Vaxtından əvəl doğulmuş körpədə dövr edən qanın həcmi nə qədərdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "P4QiHft6ScLoIjXkW848Y",
+          "text": "A) 120-130 ml/kq",
+          "isCorrect": false
+        },
+        {
+          "id": "ztvXGeHD5eblfzHuwkiDt",
+          "text": "B) 110-120 ml/kq",
+          "isCorrect": false
+        },
+        {
+          "id": "Lxm397IL2BdxUJJLOfKKD",
+          "text": "C) 80-90 ml/kq",
+          "isCorrect": false
+        },
+        {
+          "id": "V0RcFQ8cvFk-MSSQxigv4",
+          "text": "D) 60-70 ml/kq",
+          "isCorrect": false
+        },
+        {
+          "id": "etROG9e-dzrj-sQq9t4Z3",
+          "text": "E) 100-120 ml/kq",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "6qQSJPs-w_UXJiUyT_GBy",
+      "text": "65) Sağlam yenidoğulmuşun qan zərdabında Na-un miqdarı nə qədərdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "5KHU0sjJheu-FxgSuCZwY",
+          "text": "A) 120-130 mmol/l",
+          "isCorrect": false
+        },
+        {
+          "id": "QiQ1514lrejA_cE2yH0i8",
+          "text": "B) 150-160 mmol/l",
+          "isCorrect": false
+        },
+        {
+          "id": "b0b4YXqk0O59VjjTVWwmW",
+          "text": "C) 110-120 mmol/l",
+          "isCorrect": false
+        },
+        {
+          "id": "TtK9wT4LCvsvRDheHtjOw",
+          "text": "D) 135-145 mmol/l",
+          "isCorrect": true
+        },
+        {
+          "id": "neOUchaJYuFnHpfxXRMNV",
+          "text": "E) 160 mmol/l artıq",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "LuQvGu3iUPgMub0s6-2CP",
+      "text": "66) Asfiksiya zamanı nəyin riski artır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "q-FLysHTD55pLLjd9Jrv7",
+          "text": "A) Bütün cavablar düzdür",
+          "isCorrect": true
+        },
+        {
+          "id": "STkT7c_qRABkCcbSUvNc-",
+          "text": "B) Hipoglikemiya",
+          "isCorrect": false
+        },
+        {
+          "id": "pARy8C2VGKDjctI7lfU6v",
+          "text": "C) Hipotermiya",
+          "isCorrect": false
+        },
+        {
+          "id": "6LigaJj8Li1-3q6kwavXx",
+          "text": "D) Mədəcikdaxili qansızma",
+          "isCorrect": false
+        },
+        {
+          "id": "9OGPNaysMHRkpLzf9dX4f",
+          "text": "E) İfeksiya",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "-PaHa76E9cCzR2Ao1h8Nw",
+      "text": "67) Vaxtında doğulmuş yenidoğulmuşların qanında glükozanın hansı minimal səviyyəsində simptomatik hipoglikemiya başlanır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "zRNHFneYrcgy3VuWKmt21",
+          "text": "A) 3,3 mmol/l",
+          "isCorrect": false
+        },
+        {
+          "id": "Vf0Uhx7hqQURXZsmfUM1L",
+          "text": "B) 0,5 mmol/l",
+          "isCorrect": false
+        },
+        {
+          "id": "vv3VcF4SniWYacEHRQrZK",
+          "text": "C) 1,65 mmol/l",
+          "isCorrect": true
+        },
+        {
+          "id": "fq8PJRjmKfks_7sg7N5th",
+          "text": "D) 2,75 mmol/l",
+          "isCorrect": false
+        },
+        {
+          "id": "zOJSoGT5J_JEwCITHt1qC",
+          "text": "E) 1,2 mmol/l",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "7yEHFWNr1rM6xkxQ565Vs",
+      "text": "68) Ana tərəfindən sadalananlardan hansı döşə qoymaq üçün əks göstəriş deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "bOfDVE6wfDDes7V0YUuol",
+          "text": "A) Bədxassəli törəmələr",
+          "isCorrect": false
+        },
+        {
+          "id": "V7rgL3yymC2Kj-pK-gtNH",
+          "text": "B) ana südünün əkilməsindən stafilokokkun tapılması",
+          "isCorrect": true
+        },
+        {
+          "id": "u9XWOTK26EeqUUo2MfQ6X",
+          "text": "C) QİÇS-infeksiya",
+          "isCorrect": false
+        },
+        {
+          "id": "CbOFznfJkoIOnehFb4Mb1",
+          "text": "D) Kəskin psixi xəstəliklər",
+          "isCorrect": false
+        },
+        {
+          "id": "H2ka_-7SAl23TLHO_s1hz",
+          "text": "E) Vərəmin açıq forması",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "KDIWO5P9Ciyp1mBcVlPgN",
+      "text": "69) Ana südü ilə qidalanmaya uşaq tərəfindən əks göstərişlərə hansı aididir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "Vt2W1B0Ba7784nkcEE1xp",
+          "text": "A) fenilketonuriya",
+          "isCorrect": true
+        },
+        {
+          "id": "2-hWS9Vm_tuYbXDhU5sEi",
+          "text": "B) Mukovissidoz",
+          "isCorrect": false
+        },
+        {
+          "id": "NG02WXAxFGHJaJ_1bWRYO",
+          "text": "C) Seliakiya",
+          "isCorrect": false
+        },
+        {
+          "id": "Cg_bQe9CIFqci718mhprr",
+          "text": "D) Allergik diatezin aydın klinikası",
+          "isCorrect": false
+        },
+        {
+          "id": "PIWUa6PRJ5bBTfWX854Gm",
+          "text": "E) Hipolaktaziya",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "zSViYUavP3OKFnwBjRojM",
+      "text": "70) Aşağıda sadalananlardan hansı yenidoğulmuşun ana südü ilə qidalanmasına qəti əks göstəriş deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "yJIjC1Vg0EkP6i7Qtz9jj",
+          "text": "A) Əmizdirən qadında mastit",
+          "isCorrect": true
+        },
+        {
+          "id": "KDD59nUYWHObYnNhbVFev",
+          "text": "B) Anada açıq vərəm",
+          "isCorrect": false
+        },
+        {
+          "id": "1OIRadb7DTpqz883v_0aE",
+          "text": "C) Anada xroniki böyrək çatışmazlığı",
+          "isCorrect": false
+        },
+        {
+          "id": "X6uJcaEflAbpP2aY7I2p8",
+          "text": "D) Ana levomicetin qəbul edir",
+          "isCorrect": false
+        },
+        {
+          "id": "cZ-Bd9XGnPwEDxL9Iwe8m",
+          "text": "E) Uşaqda qalaktozemiya",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "V8I6Mo2H22_GvFzbdC_3r",
+      "text": "71) Ana südü ilə qidalanmada olan körpəyə ilk əlavə qida nə zaman verilir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "UqzwA8qFqOhYw5S0ZaGL9",
+          "text": "A) 3-4 ayından",
+          "isCorrect": false
+        },
+        {
+          "id": "l-hJ7cvyspMgdPu9lllJT",
+          "text": "B) 2-3 ayından",
+          "isCorrect": false
+        },
+        {
+          "id": "Ffd3p31qJ3GnruITNI8rT",
+          "text": "C) 5-6 ayından",
+          "isCorrect": true
+        },
+        {
+          "id": "R_fk6MfaYDJ-wj6O7u-E-",
+          "text": "D) 8-9 ayından",
+          "isCorrect": false
+        },
+        {
+          "id": "gCluIV5M7XDJDrRcKrjZZ",
+          "text": "E) 7-8 ayından",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "NULLgPscu6JiMDCgzESlH",
+      "text": "72) Hansı yaşa qədər uşaqlara inək südü vermək olmaz?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "Z4qPMiBei3xU6HCXEpjQJ",
+          "text": "A) 6 ayına qədər",
+          "isCorrect": false
+        },
+        {
+          "id": "0Ywe6dQGl5WJbLx5pc7JE",
+          "text": "B) 9 ayına qədər",
+          "isCorrect": false
+        },
+        {
+          "id": "50mX8Euoizu1ni8w-kV6t",
+          "text": "C) 4 aya qədər",
+          "isCorrect": false
+        },
+        {
+          "id": "170LICa0Q9wO0AMvf15mH",
+          "text": "D) 1 yaşına qədər",
+          "isCorrect": true
+        },
+        {
+          "id": "SuD4t4x3bU66cOyNdSNh8",
+          "text": "E) 2 yaşa qədər",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Xljt84lt5lBFOw97UwF2O",
+      "text": "73) 5-dəfəlik qidalanma zamanı südəmər körpənin qidalanma arası intervalı nəcə olur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "vPqDsgaIQiOqY67Fesjuu",
+          "text": "A) 4,5 saat",
+          "isCorrect": false
+        },
+        {
+          "id": "CHCZ8EF5fqTckLIjaWNGn",
+          "text": "B) 2,5 saat",
+          "isCorrect": false
+        },
+        {
+          "id": "wFgF1JBQx7pMSO1A8JfLu",
+          "text": "C) 3 saat",
+          "isCorrect": false
+        },
+        {
+          "id": "dmgcMu7dYaKK2nuiJxbLY",
+          "text": "D) 3,5 saat",
+          "isCorrect": false
+        },
+        {
+          "id": "8H5n_eIcj5XYMJ3Kz5uig",
+          "text": "E) 4 saat",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "xaD7hgZbH54hSDiywrCK2",
+      "text": "74) 4000 qr bədən çəkisi olan 1 aylıq körpənin sutkalıq qidasının həcmi nə qədər olmalıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "txfI11TFlV6jtt22NRHn0",
+          "text": "A) 300 ml",
+          "isCorrect": false
+        },
+        {
+          "id": "AnBIUTW8_mGUKJwrBxRY5",
+          "text": "B) 600 ml",
+          "isCorrect": false
+        },
+        {
+          "id": "JYzyI4YoBqJOwVtkH1i2x",
+          "text": "C) 500 ml",
+          "isCorrect": false
+        },
+        {
+          "id": "-xuCClANMisFoqpeyGxdS",
+          "text": "D) 400 ml",
+          "isCorrect": false
+        },
+        {
+          "id": "HHh2rOYL3HoYzGmuxPLTf",
+          "text": "E) 800 ml",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "gskP-e0CMxNXBniMFIf6q",
+      "text": "75) 5400 qr. bədən çəkisi olan 3 aylıq körpənin sutkalıq qidasının həcmi nə qədərdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "EY4cEUDhfJciIfhywB1JO",
+          "text": "A) 500 ml",
+          "isCorrect": false
+        },
+        {
+          "id": "04ajFQbsNlY11DxbjMJFm",
+          "text": "B) 700 ml",
+          "isCorrect": false
+        },
+        {
+          "id": "RfnrIny2PSM7W5WgORjTo",
+          "text": "C) 900 ml",
+          "isCorrect": true
+        },
+        {
+          "id": "QWlscnLvVPwUrM-1D56Wc",
+          "text": "D) 800 ml",
+          "isCorrect": false
+        },
+        {
+          "id": "e3_64jvPbCo_FlwbrOWuH",
+          "text": "E) 1000 ml",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "k2Zkk8_8mGys2HHBwjvJX",
+      "text": "76) 7 aylıq körpənin qidalanma miqdarı \"həcm\" üsulla nəcə olmalıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "fft6hHfSnpOjNYgtZYCFb",
+          "text": "A) 600 ml",
+          "isCorrect": false
+        },
+        {
+          "id": "HudHefdx-D2vacV7U-mmF",
+          "text": "B) 800 ml",
+          "isCorrect": false
+        },
+        {
+          "id": "_0LRibPHrq-zNFze5Pe60",
+          "text": "C) 500 ml",
+          "isCorrect": false
+        },
+        {
+          "id": "dOqwET7IHItqlHzd1QG7d",
+          "text": "D) 700 ml",
+          "isCorrect": false
+        },
+        {
+          "id": "HIZ-ggCaEdnN-1aVkCjd-",
+          "text": "E) 1000 ml",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "QN1UDd8apvfuYIv67Pgaw",
+      "text": "77) Uşağın rasionuna hansı şirədən başlamaq məsləhətdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "JJE-hvmRSpC7SQYq6WqWJ",
+          "text": "A) Albalı",
+          "isCorrect": false
+        },
+        {
+          "id": "je4Eyq9phHTyNXxh46phg",
+          "text": "B) Çiyələk",
+          "isCorrect": false
+        },
+        {
+          "id": "7QeYtMMVRmVGAoWm8_M3L",
+          "text": "C) Alma",
+          "isCorrect": true
+        },
+        {
+          "id": "BRLeXUv4sT3_-0UBl201A",
+          "text": "D) Portağal",
+          "isCorrect": false
+        },
+        {
+          "id": "akNJgN-ASqOht23CxUCF1",
+          "text": "E) Üzüm",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "FdxvylgL5e7QnfBGKKSWR",
+      "text": "78) Həyatının birinci ilində əlavə qida olaraq qidalandırmaq üçün taxıl sıyıqlarından hansı məsləhətdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "YOtjrHLqDW6gjG8aDSIxz",
+          "text": "A) Düyü, mannı, qarabaşaq",
+          "isCorrect": false
+        },
+        {
+          "id": "HyWn7kPPSnCpbv07bFQGw",
+          "text": "B) Vələmir, düyü, arpa",
+          "isCorrect": false
+        },
+        {
+          "id": "d0WT15FgClG34b5bJ9Euo",
+          "text": "C) Mannı, qarğıdalı, düyü",
+          "isCorrect": false
+        },
+        {
+          "id": "Y9bBKsvqGgW5BJafS1T8y",
+          "text": "D) Qarğıdalı, düyü, qarabaşaq",
+          "isCorrect": true
+        },
+        {
+          "id": "JSGBXekO6pUVPVg7xbQw4",
+          "text": "E) Yulaf, darı, arpa",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Nv2BkuWEraXf_nRY6mwIa",
+      "text": "79) Tərkibində əlavələr olan (bal, ləpə, kakao və s.) olan sıyıqlar hansı yaşdan tez vermək olmaz?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "4NoORhREuPh-IutGLJ_0u",
+          "text": "A) 11-12 ay",
+          "isCorrect": true
+        },
+        {
+          "id": "dufN5NR8hIJtFT4jsoLcU",
+          "text": "B) 7-8 ay",
+          "isCorrect": false
+        },
+        {
+          "id": "xBynu-2pjMx1HXCQ1c-DL",
+          "text": "C) 9-10 ay",
+          "isCorrect": false
+        },
+        {
+          "id": "eRfIO6yBRra8gF02IvUDs",
+          "text": "D) 5-6 ay",
+          "isCorrect": false
+        },
+        {
+          "id": "dQ3pO_ey7Os8kPfo_SPZk",
+          "text": "E) 15-16 ay",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "fWD5Bywzxf2a-JtXzbSJl",
+      "text": "80) Ət farşı sağlam uşağın rasionuna nə zaman daxil edilir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "XJ9379lyoKfBIft-XCusb",
+          "text": "A) 8-8,5 ay",
+          "isCorrect": true
+        },
+        {
+          "id": "KyAKsbZH_qMz9GmV4AVgp",
+          "text": "B) 10-10,5 ay",
+          "isCorrect": false
+        },
+        {
+          "id": "9Y6iwf4OTWPE9PLIbLh2S",
+          "text": "C) 9-9,5 ay",
+          "isCorrect": false
+        },
+        {
+          "id": "vGI0IsHKoayunU9xJKVxz",
+          "text": "D) 7-7,5 ay",
+          "isCorrect": false
+        },
+        {
+          "id": "dGHaBIGLhYZLbVXhYBf_f",
+          "text": "E) 5-5.5 ay",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "DkV6KvDJNlhB5qsxRPwQJ",
+      "text": "81) Sağlam uşağa kiftə 1 yaşa qədər hansı aydan verilir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "L2lC1Bdl1W2aP4z3oAaDg",
+          "text": "A) 8 ay",
+          "isCorrect": false
+        },
+        {
+          "id": "S-q8SEVwjvvR4M_g46LzQ",
+          "text": "B) 1 yaşdan tez olmaz",
+          "isCorrect": false
+        },
+        {
+          "id": "xGTbB_-2Sg3kvvsunR6dt",
+          "text": "C) 10 ay",
+          "isCorrect": true
+        },
+        {
+          "id": "SyEITfdKzXyVRQmZTllEY",
+          "text": "D) 9 ay",
+          "isCorrect": false
+        },
+        {
+          "id": "VxhO70l0NJZABfCmuMZ-F",
+          "text": "E) 7 ay",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "a5x9UWLDy_iqv766UZKuJ",
+      "text": "82) Buxarda bişirilmiş kotlet uşağa hansı vaxt verilir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "yoKlJjJTmGAhJOSaU5eVe",
+          "text": "A) 12 ayından",
+          "isCorrect": true
+        },
+        {
+          "id": "Qg1RIEyojlAsq2MReamhC",
+          "text": "B) 9",
+          "isCorrect": false
+        },
+        {
+          "id": "H2_cSDo6CWV7phye3MkAf",
+          "text": "C) 7",
+          "isCorrect": false
+        },
+        {
+          "id": "cDBrHZMvq7uN0Qvm8c0rl",
+          "text": "D) 10",
+          "isCorrect": false
+        },
+        {
+          "id": "SUSXguHpTWvJOYED3-fVj",
+          "text": "E) 8",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "KMXRg5wNWPzB8VNAzuVTF",
+      "text": "83) Südəmər körpəyə yumurta sarısı hansı aydan tez verilmir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "r5qpUB21uHRy5-Gztifjs",
+          "text": "A) 7 ay",
+          "isCorrect": true
+        },
+        {
+          "id": "bUSO7mP8nWyLiUcoyfgPG",
+          "text": "B) 5",
+          "isCorrect": false
+        },
+        {
+          "id": "xJAojXiJ29gQkdayHIeVz",
+          "text": "C) 10",
+          "isCorrect": false
+        },
+        {
+          "id": "ITle0wFr4PBPZadzbHRnf",
+          "text": "D) 12",
+          "isCorrect": false
+        },
+        {
+          "id": "J79NBUtd8G-wUpgDZmh78",
+          "text": "E) 4",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "i3rqnqZpoQeOdjFyUnhl2",
+      "text": "84) 1 yaşına qədər körpəyə qidasına əlavə olunan şəkərin miqdarı sutkalıq maximum nə qədər olmalıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "398BBUBO6sOzOumK1kTo3",
+          "text": "A) 10 q",
+          "isCorrect": false
+        },
+        {
+          "id": "K0Ip3I8tSuGuOWNh27Jkk",
+          "text": "B) 25 q",
+          "isCorrect": true
+        },
+        {
+          "id": "m8Z7Oghr_r5_f-VBXg_gG",
+          "text": "C) 65 q",
+          "isCorrect": false
+        },
+        {
+          "id": "DQsx6dVD-snAwaHVVTtTM",
+          "text": "D) 75 q",
+          "isCorrect": false
+        },
+        {
+          "id": "asMZS_oN8ehq8IKzusoNj",
+          "text": "E) 50 q",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "ODam6JKJs2FjgRuHVwPQn",
+      "text": "85) Hipolaktasiyanın kliniki alamətlərinə sadalananlardan hansı aid deyildir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "7ZYvvtcglBgKJ_KCdcK1n",
+          "text": "A) Çəkinin az artımı",
+          "isCorrect": false
+        },
+        {
+          "id": "zGfcvhkKnYkN4xB9o9L2Z",
+          "text": "B) Nəciz ifrazının az olması",
+          "isCorrect": false
+        },
+        {
+          "id": "oIsqaJmMZbwyMLHfMxk3N",
+          "text": "C) Susuzlama",
+          "isCorrect": false
+        },
+        {
+          "id": "OMg4cIFpG5UN8igDR4n_Y",
+          "text": "D) Sidik ifrazının azalması",
+          "isCorrect": false
+        },
+        {
+          "id": "AmDl8UFjBsi4k_3RJKspi",
+          "text": "E) Qarnın köp olması",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "gxutnNgpzbQfUuAqV85D8",
+      "text": "86) Əlavə qidanı uşağa hansı zaman vermək məqsədəuyğundur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "df1ri9ccUnJ8xvt708XD0",
+          "text": "A) Ana südü ilə qidalandırmanın sonunda",
+          "isCorrect": true
+        },
+        {
+          "id": "0ldv12hPAbUXAg15qfza5",
+          "text": "B) Ana südü ilə qidalanmanın əvvəlində",
+          "isCorrect": false
+        },
+        {
+          "id": "tGE-dUVsKCL-rQ_YwRpid",
+          "text": "C) Yalnız ən birinci və ən sonuncu qidalanma zamanı",
+          "isCorrect": false
+        },
+        {
+          "id": "jDL3xg435eClTB2okY4DP",
+          "text": "D) Qidalanmanı onunla əvəz etmək",
+          "isCorrect": false
+        },
+        {
+          "id": "4Q_oG3Hz-W1AyAPJGGhgf",
+          "text": "E) Ana südü ilə qidalanma zamanı və ortasında",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "jk6XkgvlAtbaaeLOeCNpc",
+      "text": "87) Yüksək uyğunlaşdırılmış təqib formulaları və \"təqib\" qrupunun qarışıqları arasında əsas fərq nədir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "MtzML2kJ1NE7fouF20ta-",
+          "text": "A) Mineral duzların tərkibində",
+          "isCorrect": false
+        },
+        {
+          "id": "T03Shg_oplwFSzVs5LgLw",
+          "text": "B) Yağ komponenti kimi",
+          "isCorrect": true
+        },
+        {
+          "id": "icDdFPKd0r4aMF59_EMuc",
+          "text": "C) Vitaminlərin tərkibində",
+          "isCorrect": false
+        },
+        {
+          "id": "1OzYAb9ux32ylePrWkBjE",
+          "text": "D) Zülal komponenti kimi",
+          "isCorrect": false
+        },
+        {
+          "id": "okOn6IR0fCGJInJFXT3JE",
+          "text": "E) Karbohidrat komponenti kimi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "MG3i3ng9zvnUi9Ct7215z",
+      "text": "88) Sosis və sardelkaları uşaqlara hansı yaşına kimi vermək məsləhət deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "y0NTBRsOrGIKppLQzT8Xf",
+          "text": "A) 2 yaş",
+          "isCorrect": true
+        },
+        {
+          "id": "qfVg7UNxuuLtArhi0FWun",
+          "text": "B) 5 yaş",
+          "isCorrect": false
+        },
+        {
+          "id": "_Obxfo2m5u8WeyhJnaJf2",
+          "text": "C) 7 yaş",
+          "isCorrect": false
+        },
+        {
+          "id": "YFGwxwoc5T40OVwUZtZ31",
+          "text": "D) 10 yaş",
+          "isCorrect": false
+        },
+        {
+          "id": "YH1umn5lC8KY6tQVmH8AF",
+          "text": "E) 1 yaş",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Yrp83gcYjL320nqkUJkz_",
+      "text": "89) Asfiksiya ilə doğulan uşaqların reanimasiyasının ilk etapı hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "-QOQG1qRYZs0Fu7vo6-kg",
+          "text": "A) Ağız boşluğunda olan seliyin kateter ilə sovrulması",
+          "isCorrect": true
+        },
+        {
+          "id": "A-y3WwzcwJDKUd2EH5fyX",
+          "text": "B) Urayin ikincili masajı",
+          "isCorrect": false
+        },
+        {
+          "id": "eumvgWMc6BUfasdKstJ9O",
+          "text": "C) Göbəyin işlənməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "zHPKdGX8kEvEwrFEKRDP1",
+          "text": "D) Xarici tənəffüsün bərpası",
+          "isCorrect": false
+        },
+        {
+          "id": "qHpV1T3_EEDj4XsBDLWN4",
+          "text": "E) Ciyərlərin ikincili ventilyasiyası",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "J-lO6dDq5_JXb_5oO5M0c",
+      "text": "90) Kəllədaxili qansızma diaqnozunun təsdiqi üçün hansı müayinə olunmalıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "wkl_asMxerAPPm0ulq6lu",
+          "text": "A) Qanda səkərin təyini",
+          "isCorrect": false
+        },
+        {
+          "id": "Nfdx6U7xbXdQjrcB2y-i9",
+          "text": "B) Göz dibinin müayinəsi",
+          "isCorrect": true
+        },
+        {
+          "id": "lOTts9uL5GkMnOQA1jKv3",
+          "text": "C) Kallənin RQ-ması",
+          "isCorrect": false
+        },
+        {
+          "id": "cRhAfAgroQnj46UtFiS9b",
+          "text": "D) Neyrosonoqrafiya",
+          "isCorrect": false
+        },
+        {
+          "id": "nP--jo9wnZuXqtP2VZX2j",
+          "text": "E) Lümbal punksiya",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "lw1r9tnBeo-2u6QmNxVhD",
+      "text": "91) Sinir sisteminin travmatik zədələnməsinə aid deyil:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "6KiRVxj5DX_1oYjor0THO",
+          "text": "A) Onurga beyinə qansızma",
+          "isCorrect": false
+        },
+        {
+          "id": "7Z-qr29t4__pIJ_wtiEmT",
+          "text": "B) Diafraqmal sinirin zədələnməsi",
+          "isCorrect": true
+        },
+        {
+          "id": "NWk7p8AAU4hXIjyMudQwE",
+          "text": "C) Beyindaxili doğuş travması",
+          "isCorrect": false
+        },
+        {
+          "id": "sqYMrUm95NnW9zq3FbnR1",
+          "text": "D) İşemik hemorragik zədələnməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "0z7j4dvFpSF8zy-4n3Q7T",
+          "text": "E) Subaraxnoidal qansızma",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Gjzd9454IxaRiVqVmEM_G",
+      "text": "92) Yenidoğulmuşların aspirasiyasının əsas səbəbləri hansılardır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "Ojgi6vqvl7ex2CBe5oRjz",
+          "text": "A) Anadangəlmə ürək qüsuru",
+          "isCorrect": false
+        },
+        {
+          "id": "nrqguxqbGz2N4veIg1XlJ",
+          "text": "B) Dölün hipoksiyası",
+          "isCorrect": true
+        },
+        {
+          "id": "d4YNmenXZuEFCVBwPxkg4",
+          "text": "C) Ananın infeksiya xəstəliyi",
+          "isCorrect": false
+        },
+        {
+          "id": "FQ0kCGEBuzmwYQAO4Euq6",
+          "text": "D) Yenidoğulmuşların hemolitik xəstəliyi",
+          "isCorrect": false
+        },
+        {
+          "id": "Mh49HApd9Jm7vrQie6vjS",
+          "text": "E) Vaxtından əvəl doğulma",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "iXrV1tLF2l1iMowiEIj_6",
+      "text": "93) Massiv mekonial aspirasiya ilə doğulan uşaqlara xarakter deyil:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "MMIMHGPUxntiZ_CrpxWhe",
+          "text": "A) Dərinin və selikli qişaların sianozu",
+          "isCorrect": false
+        },
+        {
+          "id": "7LcFFGbEVb8_d9bXp1Zw6",
+          "text": "B) Doş qəfəsinin assimetriyası",
+          "isCorrect": false
+        },
+        {
+          "id": "Y61e_jr3utspYy7_Wenm7",
+          "text": "C) kiçik qabarcıqlı xırıltılar",
+          "isCorrect": true
+        },
+        {
+          "id": "T5ZX6NjU8T_Z2k-Jj73Lk",
+          "text": "D) Ciyərlərdə xırıltının olmaması",
+          "isCorrect": false
+        },
+        {
+          "id": "n_mSYTY76o3c7itp9vBKP",
+          "text": "E) pO2 azalması, pCO2 yüksəlməsi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "187eGaL9TyruRVuhqV_8R",
+      "text": "94) Yenidoğulmuşun qanında hansı müşahidə olunmur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "GxGPZUoTo2E7p9Sp7eggr",
+          "text": "A) Yüksək HB",
+          "isCorrect": false
+        },
+        {
+          "id": "eX5Y0Dtx_YlnSbbw_06go",
+          "text": "B) Anizositoz, makrositoz",
+          "isCorrect": false
+        },
+        {
+          "id": "7U9oLGbeWvuTwF3949nDa",
+          "text": "C) Eritrositoz",
+          "isCorrect": false
+        },
+        {
+          "id": "AujCeKgkzPIyLKppTgrRT",
+          "text": "D) Nisbi polisitemiya",
+          "isCorrect": false
+        },
+        {
+          "id": "96InwScgd80rGF5i_yG6r",
+          "text": "E) Aşağı rənq.göstəricisi",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "58xfh57dqMd1qcR7jBZB9",
+      "text": "95) Tibbi etika və deontologiyanən norma və prinsipləri hansı münasibətlər sferasına aididir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "p8oCmij9lCdq_zJhaXZFn",
+          "text": "A) Həkim və xəstə münasibətləri;",
+          "isCorrect": true
+        },
+        {
+          "id": "SwOL2o6Xkuo_yG7EYtOgE",
+          "text": "B) Müəllim və tələbə münasibətləri;",
+          "isCorrect": false
+        },
+        {
+          "id": "L9kP0lT_zFX_e5mEEXsHs",
+          "text": "C) Hüquşunas və zərərçəkən şəxs münasibətləri;",
+          "isCorrect": false
+        },
+        {
+          "id": "HInFDbh8oTtmn6EnO9uV6",
+          "text": "D) Mühəndislə və fəhlə münasibətləri",
+          "isCorrect": false
+        },
+        {
+          "id": "twfpPhnbzTMxyqaTEeVdF",
+          "text": "E) Satıcı və alıcı münasibətləri;",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "sqS6mCfs7SbaPlbJj6ckp",
+      "text": "96) Həkim və xəstə arasında münasibətlərdə yol verilməzdir:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "OtsM5kbhfL8UdlpKK4Fl_",
+          "text": "A) Hörmət",
+          "isCorrect": false
+        },
+        {
+          "id": "83EI1LHbAlWwnc6DrhhSt",
+          "text": "B) İnam",
+          "isCorrect": false
+        },
+        {
+          "id": "F4OToDpeunYRzamm-deog",
+          "text": "C) Dəstək",
+          "isCorrect": false
+        },
+        {
+          "id": "td06RmYZ92QVRfUqSvUn2",
+          "text": "D) Acıma",
+          "isCorrect": false
+        },
+        {
+          "id": "gfl4j31o0KxUuPl2HlGHZ",
+          "text": "E) Laqeyidlik",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "FeL_8DXJnSQPJKq5R8Xz7",
+      "text": "97) Etikanın elm kimi düzgün tərifi hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "J_EICO8wuAtoQ4Qxye2ng",
+          "text": "A) Etika - təbiətə olan dəyişikliklərinin araşdırılması elmidir.",
+          "isCorrect": false
+        },
+        {
+          "id": "HAgUA5Xc7H1pbzQ57QJEg",
+          "text": "B) Etika- cəmiyyətdə özünü düzgün aparmaq bacarığı elmidir;",
+          "isCorrect": false
+        },
+        {
+          "id": "s2jAGiFw_BocY-U2Im-2H",
+          "text": "C) Etika - təbiət və mənəvi münasibətlərin mənşəyi və etik prinsiplər elmidir;",
+          "isCorrect": true
+        },
+        {
+          "id": "G3ylQvThiypkeulwUMRN3",
+          "text": "D) Etika - canlıların bir-birinə olan münasibətlər elmidir;",
+          "isCorrect": false
+        },
+        {
+          "id": "PHqR2JlCZ0LLgAINgV0cn",
+          "text": "E) Etika - insan münasibətlərində pisliyi minimuma endirməsi elmidir;",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "NL8ErZTuDOFB25x8KiAWQ",
+      "text": "98) Əhalinin sağlamlıq durumunun ölkədə olan vəziyyəti dəqiq nümayiş etdirən göstərici hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "FeEhIVpDSrhO2Esm-fcFS",
+          "text": "A) Orta tibb işçilərinin sayı",
+          "isCorrect": false
+        },
+        {
+          "id": "cskmVewf8_0LU6RX1rNl7",
+          "text": "B) Ölüm səviyyəsi",
+          "isCorrect": false
+        },
+        {
+          "id": "5re3Psp3LJ372sBuCQY59",
+          "text": "C) Körpə ölümü",
+          "isCorrect": true
+        },
+        {
+          "id": "zJthvHFeGWicH8vANtnAe",
+          "text": "D) Əhalinin bir nəfərə düşən həkimlərin sayı",
+          "isCorrect": false
+        },
+        {
+          "id": "nwH8c2AOFKHqDWJmG_jyx",
+          "text": "E) Doğum səviyyəsi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "R744hZaJl6mWwWD9opLsH",
+      "text": "99) Salıə həkiminin vəzifələrinə aid olmayanı göstərin:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "IMXVtfnwpM7o5hg2RXa9J",
+          "text": "A) Uşağa evdə tibbi yardımın həyata keçirilməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "fG50opTM-1tQRF3dPvGZ7",
+          "text": "B) Ambulator qəbulu həyata keçirilməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "IwHyQtz9QQi_I0SULg_60",
+          "text": "C) Ana südü ilə qidalanmanın dəstəklənməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "4l9wd3A7gpcNDXnmV66yC",
+          "text": "D) Erkən yaşlı uşaqlarda defisit vəziyyətlərinin profilaktikası",
+          "isCorrect": false
+        },
+        {
+          "id": "AeDiTJnaE_VoSyCskO9a6",
+          "text": "E) İxtisaslaşdırılmış tibbi yardımın həyata keçirilməsi",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "nLMa8Q4zP3MTue5ECUO5g",
+      "text": "100) Dispanserizasiya nədir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "Tw3Q4xLZ_yNn-FHW83c8i",
+          "text": "A) Xroniki xəstələrin aşkarlanması",
+          "isCorrect": false
+        },
+        {
+          "id": "MEJl-4YdxibYEA11V0US_",
+          "text": "B) İrsi xəstələrin müçahidə olunması",
+          "isCorrect": false
+        },
+        {
+          "id": "7Wov6pfVnlQCi9Wt1nFCb",
+          "text": "C) Xəstə uşaqların müalicəsi",
+          "isCorrect": false
+        },
+        {
+          "id": "qyRcKH0TIKuVRGrwIW5gQ",
+          "text": "D) Sağlam və xəstə uşaqların dinamik müşahidəsi",
+          "isCorrect": true
+        },
+        {
+          "id": "VkU9mOSdRLIKIexLo7GBg",
+          "text": "E) Sağlam uşaqların müayinəsi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "IokYVcPAo12YRbs46uf67",
+      "text": "101) Dispanserizasiya özündə hansı etapları əks etdirir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "gnBBt7wX2jEqX3zLiP1Vx",
+          "text": "A) Dispanserizasiya olunan uşaqların aktiv sistemli şəkildə müşahidə, kompleks müalicə və patronaj kimi tədbirlərin həyata keçirilməsi;",
+          "isCorrect": false
+        },
+        {
+          "id": "-aLztmT1-SDxuXxNDc7Fw",
+          "text": "B) Qeyd edilənlərin həmisinin;",
+          "isCorrect": true
+        },
+        {
+          "id": "m_6N-xrI9tUM5XpuTJajW",
+          "text": "C) İctimai profilaktik tədbirlərinin (səhiyyə maarifinə dair) təşkili",
+          "isCorrect": false
+        },
+        {
+          "id": "ABJ6sMZK0uk8Vxu7_xq4s",
+          "text": "D) Dispanserizasiya olunması nəzərdə tutulan kontingentin müəyyən edilməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "Ka_GoROXmQI8KfijDfD9a",
+          "text": "E) Xəstələrin aktiv aşkarlanması və düzgün qeydiyyatın təşkili;",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "LgNcT7TS-PR7fExbesf1b",
+      "text": "102) Dispanserizasiya nə üçün lazımdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "q8MBG4d9bfr6kX3Rks5UA",
+          "text": "A) Xəstə uşaqlara müalicə tədbirləri həyata keçirmək üçün",
+          "isCorrect": false
+        },
+        {
+          "id": "QwzVmzWNwBCzkTdMxDK-u",
+          "text": "B) Xroniki xəstəlikləri müalicə etmək üçün",
+          "isCorrect": false
+        },
+        {
+          "id": "0ApN3PTiPxdjhTv3w-7e8",
+          "text": "C) Uyğun yaş qruplarından olan uşaqların mütəmadi planlı profilaktik baxışları, diaqnostik tədbirləri, mütəxəssislərin məsləhətləri nəticəsində uşağın sağlamlığının qorunması və vaxtında lazımi addımların həyata keçirilməsi üçün;",
+          "isCorrect": true
+        },
+        {
+          "id": "OsWjf8fPEj1xgEaV8Lujm",
+          "text": "D) Xəstəliklərin qarşısının alınması üçün",
+          "isCorrect": false
+        },
+        {
+          "id": "8SNb5NvHRTr-ehw8077wu",
+          "text": "E) Sağlam uşaqlaqların sağlamlıqlarını qorumaq və xəstə uşaqlarının səhətini bərpa etmək üçün",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "f1wmbzwip4zEOPWh3-fv3",
+      "text": "103) Reabilitasiya tədbirləri nədən asılıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "-UKf4p1Wd7sSf9yHDGAMp",
+          "text": "A) Qeyd edilənlərin həmisindən;",
+          "isCorrect": true
+        },
+        {
+          "id": "WSi9Q32RHV787lmN7OVwm",
+          "text": "B) Prosesin mərhələsindən;",
+          "isCorrect": false
+        },
+        {
+          "id": "oc68ubNVkGTD8QZKbIlKQ",
+          "text": "C) Prosesin gedişindən;",
+          "isCorrect": false
+        },
+        {
+          "id": "rxtqkrv00FqGtRanJzbNJ",
+          "text": "D) Ağırlaşmaların tezliyindən;",
+          "isCorrect": false
+        },
+        {
+          "id": "MpFQ3LEoCx5sRReCy3a-H",
+          "text": "E) Xəstəliyin simptomlarının aktivliyindən;",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "GhLhtCaOTXHm2MAwa1Kbd",
+      "text": "104) Uşaq əhalisinin dispanserizasiyası hansı tədbirləri özündə əks etdirir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "SriRLtnKU7WRO5zWwkqym",
+          "text": "A) Ehtiyac duyularsa diaqnostik üsulların istifadəsi ilə bu kimi uşaqların yenidən və əlavə müəyyənə olunması;",
+          "isCorrect": false
+        },
+        {
+          "id": "tCCyRv9aBzAnKCG5xCTZJ",
+          "text": "B) Xəstəliklərin erkən aşkarlanması məqsədilə uşaqların sağlamlıq vəziyyətinin dinamik müşahidəsi və davamlı şəkildə vacib olan tibbi-sağlamlaşdıran kompleks tədbirlərin həyata keçirilməsi;",
+          "isCorrect": false
+        },
+        {
+          "id": "cwfw6a8RlZS5h7kTkcTj3",
+          "text": "C) İnstrumental və laborator müəyyənələrin həcmi ilə müəyyən olunan mütəmadi tibbi baxışlar;",
+          "isCorrect": false
+        },
+        {
+          "id": "xsmBRQM4Ke4fvHCdvLRYa",
+          "text": "D) Riskli amilləri olan uşaqların erkən aşkarlanması məqsədilə sağlamlıq vəziyyətinin müəyyən etmə və qiymətləndirilməsi;",
+          "isCorrect": false
+        },
+        {
+          "id": "B_xaLLgXs-YQqHX6WBesV",
+          "text": "E) Qeyd edilənlərin həmisinin;",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "refci5tAvhE_EKBdjl0YM",
+      "text": "105) Uşağın sağlamlıq durumunun kompleks qiymətləndirilməsi hansı meyarlara əsaslanır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "7BEkiS6u8r92-bwlUz8pw",
+          "text": "A) Funksional pozuntular, yaxud xroniki xəstəliklərin (patoloji prosesinin kliniki variantını və gediş fazasını nəzərə alaraq) olub-olmaması;",
+          "isCorrect": false
+        },
+        {
+          "id": "m9JUuqf9xhBI9GDprtT-N",
+          "text": "B) Orqanizmin əsas sistemlərinin funksional vəziyyəti;",
+          "isCorrect": false
+        },
+        {
+          "id": "S05MJ-rP_6-huUz0Bg88s",
+          "text": "C) Qeyd edilənlərin həmisinə",
+          "isCorrect": true
+        },
+        {
+          "id": "YkiaAxXjaI_OBnuHjF3bm",
+          "text": "D) Nail olmuş inkişafın səviyyəsi və onun harmonikliyi;",
+          "isCorrect": false
+        },
+        {
+          "id": "gip8Qc1imqMUqNxc8BGjx",
+          "text": "E) Orqanizmin xarici xoşağəlməz təsirlərə müqavimətinin dərəcəsi;",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "2igvi-trCXXEvVVopCl70",
+      "text": "106) Nəcə sağlamlıq qrupları mövcuddur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "Snb7_1FuUxgKM41KwJbRP",
+          "text": "A) 3",
+          "isCorrect": false
+        },
+        {
+          "id": "54EnOO8taAAILGZFDaLu2",
+          "text": "B) 1",
+          "isCorrect": false
+        },
+        {
+          "id": "yxc03RJ8dLLtwBKo4L64R",
+          "text": "C) 2",
+          "isCorrect": false
+        },
+        {
+          "id": "4HjKg7rImBkJ0-zpUZhB1",
+          "text": "D) 5",
+          "isCorrect": true
+        },
+        {
+          "id": "YxLoveMprdDUCzKZ6VK7n",
+          "text": "E) 4",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Vy4bRVbBPPSjtkV-B7-xy",
+      "text": "107) Xroniki patologiya ilə uşaqlar hansı qruplara aid ola bilərlər?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "I1cFbX-Bhq_qVgtiKOO3g",
+          "text": "A) 1,2,5",
+          "isCorrect": false
+        },
+        {
+          "id": "0rwTfjpcvXAIxQRBxJlMa",
+          "text": "B) 3,4,5",
+          "isCorrect": true
+        },
+        {
+          "id": "xy4Ox576pfaCr3bRsIgNl",
+          "text": "C) 1,3,4",
+          "isCorrect": false
+        },
+        {
+          "id": "XwEx_7YBwFVMTRGqjOh0B",
+          "text": "D) 1,3,5",
+          "isCorrect": false
+        },
+        {
+          "id": "zfQueBGQ3YtgA6Ml-Pja6",
+          "text": "E) 2,3,4",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "I45t0-bREIWMkQVZbLoFj",
+      "text": "108) Forma № 030/u tibbi sənəd nəcə adlanır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "OWlnK8GQ68w592GgvnHfN",
+          "text": "A) Uşağın inkişafı tarixi",
+          "isCorrect": false
+        },
+        {
+          "id": "to3V0IhfzuzdONne1Y48d",
+          "text": "B) Yoluxucu xəstəlik barədə təcili bildiriş",
+          "isCorrect": false
+        },
+        {
+          "id": "OM5n0SU4yP9LkuCXPdODq",
+          "text": "C) Uşaqların dispanser müşahidə kartı",
+          "isCorrect": true
+        },
+        {
+          "id": "gEkD-KaZ6E3UHdCyPcecA",
+          "text": "D) Profilaktik peyvəndlər kartı",
+          "isCorrect": false
+        },
+        {
+          "id": "YSCNblDVWMIg7MxtKcbge",
+          "text": "E) Diaqnozların qeydiyyatı üçün statistik talon",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "yQIizfVVE18b9CEJQhweM",
+      "text": "109) Forma AZS 112/u tibbi sənəd nəcə adlanır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "bTovC3X3lcAvoekNUr_2o",
+          "text": "A) Diaqnozların qeydiyyatı üçün statistik talon",
+          "isCorrect": false
+        },
+        {
+          "id": "HV5VEU_W40Y5VHPkZfA4R",
+          "text": "B) Yoluxucu xəstəlik barədə təcili bildiriş",
+          "isCorrect": false
+        },
+        {
+          "id": "sCyYz3l6lo8Z3v1UEC4kb",
+          "text": "C) Profilaktik peyvəndlər üzrə kart",
+          "isCorrect": false
+        },
+        {
+          "id": "Kx4TaVbxMERSvwdW0TqgH",
+          "text": "D) Uşağın inkişaf tarixi",
+          "isCorrect": true
+        },
+        {
+          "id": "PIU8tQZZhho9yYe6vjLg6",
+          "text": "E) Uşaqların dispanser müşahidə kartı",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "KriMi4uphKVlM8xcwAhsf",
+      "text": "110) Dispanserizasiya məqsədilə həyata keçirilən profilaktik baxış zamanı hansı müəyyənə aparılmır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "O0SPu1whX42VqMe7b2SEC",
+          "text": "A) Plantoqrafiya;",
+          "isCorrect": false
+        },
+        {
+          "id": "NbFmBCoxmiE33XFsuTi5A",
+          "text": "B) Qanın ümumi analizi;",
+          "isCorrect": false
+        },
+        {
+          "id": "kief43QI9lrKvCGjQ8jbJ",
+          "text": "C) Sistoqrafiya;",
+          "isCorrect": true
+        },
+        {
+          "id": "IgkTu_-ULtzGIp4v5DAGi",
+          "text": "D) Antropometrik müəyyənələr;",
+          "isCorrect": false
+        },
+        {
+          "id": "TLTLECs4F8j3Qgj-230hm",
+          "text": "E) Arterial təzyiqin ölçülməsi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "m5QyGMW-D2M7HXW0AAhm6",
+      "text": "111) Dispanserizasiya məqsədilə həyata keçirilən profilaktik baxış zamanı hansı müəyyənə aparılır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "pJ1hB-tFp04DAQKVg_y14",
+          "text": "A) Exokardioqrafiya;",
+          "isCorrect": false
+        },
+        {
+          "id": "8thqyR1oDUmnejUgndkwA",
+          "text": "B) Sistoqrafiya",
+          "isCorrect": false
+        },
+        {
+          "id": "LZXjFfnfd6YZitHOquNAp",
+          "text": "C) Qanın ümumi analizi;",
+          "isCorrect": true
+        },
+        {
+          "id": "9qTHhjL_dJ20GLen88jry",
+          "text": "D) Beynin kompyuter tomoqrafiyası;",
+          "isCorrect": false
+        },
+        {
+          "id": "AyQBKcGviZHsww3r2M4ec",
+          "text": "E) Ultrasəs müəyyənəsi;",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "5c6OHAqnVMUTsirvASlxH",
+      "text": "112) Xroniki xəstəlikləri olan uşaqlar hansı həkim tərəfindən müşahidə edilir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "KWMooWzaB6PHoyLteCeIB",
+          "text": "A) Pediatr;",
+          "isCorrect": false
+        },
+        {
+          "id": "QBcneOvGJ9aG29T1EZOF9",
+          "text": "B) Qeydiyyatçı",
+          "isCorrect": false
+        },
+        {
+          "id": "_Zf6dU5UUMR7UY_cqzOUD",
+          "text": "C) Baş həkim",
+          "isCorrect": false
+        },
+        {
+          "id": "0kyBWS9dsjxLX5_qAC5M9",
+          "text": "D) Pediatr və həkim-mütəxəssis;",
+          "isCorrect": true
+        },
+        {
+          "id": "D6PMFq6gPzAB-lbzmCtEM",
+          "text": "E) Həkim-mütəxəssis;",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "C9lDvgPfAoEgwVOJUo5yF",
+      "text": "113) Uşaqların sağlamlığı ilə bağlı nəticələr hansı tibbi sənəddə qeyd edilir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "6aNQoIuneNAIcS_RBE5q1",
+          "text": "A) Yoluxucu xəstəlik barədə təcili bildiriş",
+          "isCorrect": false
+        },
+        {
+          "id": "Zb0720HOMX4HTHzrinJr8",
+          "text": "B) Profilaktik peyvəndlər kartı",
+          "isCorrect": false
+        },
+        {
+          "id": "8Yf_eltUtGs6QcaATb0oh",
+          "text": "C) Uşağın inkişafı tarixi",
+          "isCorrect": true
+        },
+        {
+          "id": "IcN06vxrGQQ7ujvH_DL_O",
+          "text": "D) Diaqnozların qeydiyyatı üçün statistik talon",
+          "isCorrect": false
+        },
+        {
+          "id": "bMM52ZKkdATWScOg-nA2d",
+          "text": "E) Uşaqların dispanser müşahidə kartı",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "_0Eef3aKaxQq5GW_HQ4fd",
+      "text": "114) Yenidoğulmuş uşağın poliklinikaya ilk gəlişində hansı tədbir aparılmır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "nvXv7Hylw_RLsKaPJ5qmJ",
+          "text": "A) Forma 112-a ilk epikrizin qeydiyyatı;",
+          "isCorrect": false
+        },
+        {
+          "id": "sOcqzI3pqU70Acpy0iFQY",
+          "text": "B) Ana südü ilə qidalanma və qulluq barədə tövsiyyələr;",
+          "isCorrect": false
+        },
+        {
+          "id": "0DzJz8SskwA_z5qZqAsr3",
+          "text": "C) Oftalmoloq, nevroloq və ortoped-carrahin məsləhəti",
+          "isCorrect": false
+        },
+        {
+          "id": "nuJeJxfVQ9knKMEwxUunL",
+          "text": "D) Sağlamlıq qrupun qiymətləndirilməsi;",
+          "isCorrect": false
+        },
+        {
+          "id": "N0gD5mbi7SYHZeV7PAdgj",
+          "text": "E) Stomatoloqun məsləhəti;",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "2ooGQD9BRefTLVum4SsMS",
+      "text": "115) Sahə pediatrın əsas iş istiqamətinə aid olmayanı göstərin:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "BiycseZrU0hof9Uk0dX8G",
+          "text": "A) Elmi iş",
+          "isCorrect": false
+        },
+        {
+          "id": "Lii5YVPI8XE9LkpZQNbeB",
+          "text": "B) Profilaktik iş",
+          "isCorrect": false
+        },
+        {
+          "id": "lRRhWC_jX7aiFr1e_MwhS",
+          "text": "C) Hüquq-məsləhət işi",
+          "isCorrect": true
+        },
+        {
+          "id": "M70JkRB4c8RGv1c1c1JZn",
+          "text": "D) Tibbi-diaqnostik iş",
+          "isCorrect": false
+        },
+        {
+          "id": "ff1_GwdnUQIyb2mMn9NzS",
+          "text": "E) Əhalinin səhiyyə maarifləndirilməsi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "6b_mL1oeHYaAxVN6USydl",
+      "text": "116) 7 günlük oğlan uşağı sahə pediatr tərəfindən müəyyənə olunur.",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "ZJI1YKre5ILgqsdbuCz1q",
+          "text": "A) IIA sağlamlıq qrupu;",
+          "isCorrect": true
+        },
+        {
+          "id": "AQQjvH-sIyfBG4u9_Ptsa",
+          "text": "B) IV sağlamlıq qrupu;",
+          "isCorrect": false
+        },
+        {
+          "id": "pBEkBUIWNTyvSXlVSz1f_",
+          "text": "C) I sağlamlıq qrupu;",
+          "isCorrect": false
+        },
+        {
+          "id": "QAwErDYONYd8TVEUo0fw8",
+          "text": "D) III sağlamlıq qrupu;",
+          "isCorrect": false
+        },
+        {
+          "id": "ttAVlhaIovyDcMju0PJSF",
+          "text": "E) IIБ sağlamlıq qrupu;",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "5ounp-DM38LE2JaYXRKH8",
+      "text": "117) Uşaq poliklinikasının bölmələrinə aid olmayanı göstərin:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "DudyuJU0BSSH8MFWvZ4t5",
+          "text": "A) Sağlam uşaq otağı",
+          "isCorrect": false
+        },
+        {
+          "id": "z8HfW-qjsLg5RTl1GbxK_",
+          "text": "B) Ailəyə dəstək otağı",
+          "isCorrect": false
+        },
+        {
+          "id": "p3Fnao7YwUemvOK1Z-UrZ",
+          "text": "C) Qeydiyyat otağı;",
+          "isCorrect": false
+        },
+        {
+          "id": "crRjkQGqEgPMiQ38IqXmm",
+          "text": "D) Peyvənd kabineti",
+          "isCorrect": false
+        },
+        {
+          "id": "U3TPeCLH7EEDcib5BI2Fq",
+          "text": "E) Uşaqların pohrizli qidalanması üçün yeməkxana;",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "jH_boYH4Uflr59HaIiosR",
+      "text": "118) Uşaq poliklinikasının bölmələrinə aid olmayanı göstərin:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "mas-LpIZ3PxXl275KCp9Y",
+          "text": "A) Ftiziatriya şöbəsi;",
+          "isCorrect": true
+        },
+        {
+          "id": "uI7slPIWgJLW-xttZpm3_",
+          "text": "B) İlkin xəstələri qəbul etmək üçün bokslar;",
+          "isCorrect": false
+        },
+        {
+          "id": "SXzx0Wi5AE4o5z2N9rEv7",
+          "text": "C) Qeydiyyat",
+          "isCorrect": false
+        },
+        {
+          "id": "ZGYF8-xe6In-PrtJFMVM7",
+          "text": "D) Fizikal müalicə metodlar üçün kabinet;",
+          "isCorrect": false
+        },
+        {
+          "id": "3C9_APEsGyXOqvTxuPdTI",
+          "text": "E) Rentgen kabinet",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "6wjiKG7xpbb6nYqF9NpDh",
+      "text": "119) Uşaq poliklinikasında mütləq sənəd sayılır:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "X0Z1ta9fdizTiPibUn8Yt",
+          "text": "A) Məktəbdə dərsə davamiyyət arayışı;",
+          "isCorrect": false
+        },
+        {
+          "id": "cymwCLbZFtP7Hop0IAPeN",
+          "text": "B) Xəstəlik tarixi;",
+          "isCorrect": false
+        },
+        {
+          "id": "MUW3TiOPrrthJ-1JrgPIs",
+          "text": "C) Xəstəxandan xəstənin çıxarış kartı",
+          "isCorrect": false
+        },
+        {
+          "id": "TCtExO5ZdVHKiHIGmf-vF",
+          "text": "D) Uşaqın irsiyyəti haqqında kartı;",
+          "isCorrect": false
+        },
+        {
+          "id": "uzgnJSDVOGVbU35kvLNLg",
+          "text": "E) Uşağın fərdi inkişaf kartı;",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "b4sPUsM7ZcruQVxn0Rgq3",
+      "text": "120) Uşaq poliklinikasının vəzifələrinə daxil deyil:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "_361bdAASAmCLXcHYrd4_",
+          "text": "A) Profilaktik iş",
+          "isCorrect": false
+        },
+        {
+          "id": "E3Z1x-3gvSsn_jPJlrEKC",
+          "text": "B) Evdə tibbi yardımın təşkili və tədbiqi;",
+          "isCorrect": false
+        },
+        {
+          "id": "t3XaV26trWvgRAuPmZOqC",
+          "text": "C) Səhiyyə-maarifi işinin tədbiqi",
+          "isCorrect": false
+        },
+        {
+          "id": "AgD1KYgx_6K7BXpfoPAOr",
+          "text": "D) Xüsusi uşaq evlərində tibbi yardımın təşkili;",
+          "isCorrect": true
+        },
+        {
+          "id": "kBRKp2wg8Tec7EXSAiBkP",
+          "text": "E) Südəmər uşaqların dispanser müşahidəsinin aparılması;",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "v4xLyq3j7MSG8oNwhZXw9",
+      "text": "121) Sahə həkim-pediatrın vəzifələrinə daxil deyil:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "eIpwaR0DQZPHbMJFEf5bi",
+          "text": "A) Ana südü qidalanmasının dəstəklənməsi;",
+          "isCorrect": false
+        },
+        {
+          "id": "OzShndZA9-ecGDvE-mCh6",
+          "text": "B) Ambulator qəbulun aparılması;",
+          "isCorrect": false
+        },
+        {
+          "id": "dN_pMPcd44F7DpiVgRcNH",
+          "text": "C) Evdə uşağa tibbi yardımın edilməsi;",
+          "isCorrect": false
+        },
+        {
+          "id": "KmChJG8VMVSee4Kx_dqfH",
+          "text": "D) Erkən yaşlı uşaqlarda defisit vəziyyətlərin profilaktikasının tədbiqi;",
+          "isCorrect": false
+        },
+        {
+          "id": "drqCI9fo1ZzOtdFxRfD5N",
+          "text": "E) Xüsusiləşdirilmiş həkim tibbi yardımın aparılması;",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Gq6ZsQcAjA6EC-KtGR9JO",
+      "text": "122) Salıə həkim-pediatrın vəzifələrinə daxil deyil:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "3gWH23dsW9jX3gIKuDM1e",
+          "text": "A) Skarlatina ilə əlaqəli qeydiyyatın aparılması;",
+          "isCorrect": false
+        },
+        {
+          "id": "mf_TjrFqj2GFAxiKcOovj",
+          "text": "B) Evdə yenidoğulmuşa patronajın tədbiqi;",
+          "isCorrect": false
+        },
+        {
+          "id": "lIDJv4lTpuc600eH-MUTJ",
+          "text": "C) Hospitalizasiya üçün göndərişin hazırlanması",
+          "isCorrect": false
+        },
+        {
+          "id": "CwNcteHAP0-5NOpk72fG5",
+          "text": "D) İnfeksiya olan ocaqda dezinfeksiyanın aparılması;",
+          "isCorrect": true
+        },
+        {
+          "id": "V2RPgC5gOdFcRWFEec0sG",
+          "text": "E) Doğuşqabağı patronajin tədbiqi;",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "lw_roSMnVZoqXrhPhtK3c",
+      "text": "123) Sağlam, normal inkişafı və normal funksional səviyyəsi ilə olan uşaqlar hansı sağlamlıq qrupuna aididir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "L1YsYQQsRSiYx1zgBy_my",
+          "text": "A) 3",
+          "isCorrect": false
+        },
+        {
+          "id": "BvpbXoyEj_uvXWVpOPOD6",
+          "text": "B) 4",
+          "isCorrect": false
+        },
+        {
+          "id": "DKd6ewTfhd_Rj2xfQ9GRx",
+          "text": "C) 2",
+          "isCorrect": false
+        },
+        {
+          "id": "ZqxpaamQ4jgD7HrFduttj",
+          "text": "D) 5",
+          "isCorrect": false
+        },
+        {
+          "id": "jtbhsfA0kRlFY-YGcRTuW",
+          "text": "E) 1",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "YIDUA6P10mj7-xMOKZdqL",
+      "text": "124) Sağlam, lakin funksional və bəzi morfoloji dəyişikləri, eyni zamanda kəskin və xroniki xəstəliklərə müqaviməti aşağı olan uşaqlar hansı sağlamlıq qrupuna aididirlər?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "Qy8jmmnqWx6BN8hqTWZ1_",
+          "text": "A) 5",
+          "isCorrect": false
+        },
+        {
+          "id": "9_pgAYkwDd26OSESAqehG",
+          "text": "B) 3",
+          "isCorrect": false
+        },
+        {
+          "id": "0-MjrQX6XITkL01QxCkfa",
+          "text": "C) 1",
+          "isCorrect": false
+        },
+        {
+          "id": "RuV2qczm9lfwnFq9D3_mW",
+          "text": "D) 2",
+          "isCorrect": true
+        },
+        {
+          "id": "S0Q9v3VnLw6zocQiWA6g7",
+          "text": "E) 4",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "RZr5EjfVThJJN5rDxydWs",
+      "text": "125) Orqanizmin funksional imkanlarının saxlanılması ilə, xroniki xəstəliyinin kompensasiya vəziyyətdə olan uşaqlar hansı sağlamlıq qrupuna aididir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "Sv1Oq5r6LtaH83V8EjIJy",
+          "text": "A) 4",
+          "isCorrect": false
+        },
+        {
+          "id": "n9C8p30_7i3npEC-aGTao",
+          "text": "B) 1",
+          "isCorrect": false
+        },
+        {
+          "id": "dsFC2R45liplBvj0MHxA_",
+          "text": "C) 5",
+          "isCorrect": false
+        },
+        {
+          "id": "EeMWHlcjVAu8aGgIcmknw",
+          "text": "D) 2",
+          "isCorrect": false
+        },
+        {
+          "id": "zcY2p_F-qT_JY2YmrjRZh",
+          "text": "E) 3",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "DRTHAwTadPEbM2y-RBRTq",
+      "text": "126) Orqanizmin funksional imkanlarının aşağı olan, xroniki xəstəliyinin subkompensasiya vəziyyətdə olan uşaqlar hansı sağlamlıq qrupuna aididirlər?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "BaezhuTMZL8ExwZ1-kDLK",
+          "text": "A) 2",
+          "isCorrect": false
+        },
+        {
+          "id": "AqqtkUscsTeddgalJj22s",
+          "text": "B) 1",
+          "isCorrect": false
+        },
+        {
+          "id": "7i2yccuHGsxfnQf9FgQaU",
+          "text": "C) 5",
+          "isCorrect": false
+        },
+        {
+          "id": "IQyHvF9enQ4hS4m5MFX7t",
+          "text": "D) 4",
+          "isCorrect": true
+        },
+        {
+          "id": "uyZ4bFIkXYV1QMPG84bwS",
+          "text": "E) 3",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "2-Gu7VfGpFb-mQHDIUUSm",
+      "text": "127) Orqanizmin funksional imkanlarının həddən aşağı olan, xroniki xəstəliyinin dekompensasiya vəziyyətdə olan uşaqlar hansı sağlamlıq qrupuna aididirlər?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "OQSR8hdoFIjon-0RelCau",
+          "text": "A) 1",
+          "isCorrect": false
+        },
+        {
+          "id": "sWxcvr1p1zs6MiNUsr_bE",
+          "text": "B) 5",
+          "isCorrect": true
+        },
+        {
+          "id": "fhQdyK_5rlVDFkOtx6kHF",
+          "text": "C) 3",
+          "isCorrect": false
+        },
+        {
+          "id": "2dqfK182DWITeb-VA_pyP",
+          "text": "D) 4",
+          "isCorrect": false
+        },
+        {
+          "id": "gdfyK4PKtjyeisJk2kLzV",
+          "text": "E) 2",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "zqFFpBkbO_ihlx20c0cJm",
+      "text": "128) Revmatizmlə bağlı stasionar müalicədən sonra uşağın hansı tibb müəssisəsinə göndərilməsi tövsiyə olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "zDZEsxWNn0oIkqbWPjSpY",
+          "text": "A) Sanitar-epidemioloji stansiyaya",
+          "isCorrect": false
+        },
+        {
+          "id": "AaUeCAxamhz1yXVzzaSiH",
+          "text": "B) Sanatoriyaya",
+          "isCorrect": true
+        },
+        {
+          "id": "hy48EFNecButTqpsMjdP6",
+          "text": "C) Diaqnostik mərkəz",
+          "isCorrect": false
+        },
+        {
+          "id": "9C49TeyUtb37aRboqCqqn",
+          "text": "D) Vərəm dispanserinə",
+          "isCorrect": false
+        },
+        {
+          "id": "E-xDgUg1fG1GXxi0rmukK",
+          "text": "E) Poliklinikaya",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "u9eaKDKEx2NCjDHXtF7zW",
+      "text": "129) Homiləliyin hansı müddətində ikincili doğuşqabağı patronaj keçirilir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "hs6dgQNdJxtklwbVgZWlK",
+          "text": "A) 1-ci həftədə",
+          "isCorrect": false
+        },
+        {
+          "id": "pFuFSdV5K-FJi_yU8-k37",
+          "text": "B) 2-ci ayında",
+          "isCorrect": false
+        },
+        {
+          "id": "rA-ErfNChg3ZatpGQa-OF",
+          "text": "C) 32-ci həftədən sonra",
+          "isCorrect": true
+        },
+        {
+          "id": "rfxD9oS9etusWaqBpkUOo",
+          "text": "D) 10 həftəyə qədər",
+          "isCorrect": false
+        },
+        {
+          "id": "xzAc2E2iedevMtHCyxe9X",
+          "text": "E) 3-cü ayında",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "-cAI8p3crtTRLOW0ankgD",
+      "text": "130) Doğuşqabağı patronaj zamanı hansı perinatal risk amilləri müəyyən olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "QbxfobsgvDCYCanKpAbYG",
+          "text": "A) Ana və atanın sağlamlıq durumu;",
+          "isCorrect": false
+        },
+        {
+          "id": "tvXKuHIvcrqphNnTjipe8",
+          "text": "B) Qənəətbəxş olmayan irsiyyət, mama-ginekoloji anamnez, ana və atanın sağlamlıq durumu, dölün bətndaxili inkişafında ağırlaşma, sosial-məişət şəraitı;",
+          "isCorrect": true
+        },
+        {
+          "id": "cCXjh6rSSzuGFAqip4UY2",
+          "text": "C) Sosial-məişət faktorlar",
+          "isCorrect": false
+        },
+        {
+          "id": "-4Z5p1KM4k4zJvftobIBW",
+          "text": "D) Dölün bətndaxili inkişafında ağırlaşma",
+          "isCorrect": false
+        },
+        {
+          "id": "NUXwyc3D9Auou6WljXfSx",
+          "text": "E) Ağır yüklü irsiyyət, ağır yüklü mama-ginekoloji anamnez;",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "9GqBXQtcCwFFb6uqvNgGQ",
+      "text": "131) İlkin patronajı kim həyata keçirir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "dEm0lb4gPT39UeDj9fwZ4",
+          "text": "A) Pediatr və uşaq nevroloqu",
+          "isCorrect": false
+        },
+        {
+          "id": "XpJGXm_v8szxmjCaTo2AW",
+          "text": "B) Pediatr va terapevt",
+          "isCorrect": false
+        },
+        {
+          "id": "OmERBKEHd6bmfxwQbJNeP",
+          "text": "C) Pediatr va tibb bacısı",
+          "isCorrect": true
+        },
+        {
+          "id": "MWYEorKhTPydUhPmuDiQv",
+          "text": "D) Pediatr",
+          "isCorrect": false
+        },
+        {
+          "id": "3gjU6MwWDTB5ZOQvVv9xb",
+          "text": "E) Tibb bacısı",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "4L1pv-1-OayzObNNcOC5o",
+      "text": "132) Yenidoğulmuşun ilkin patronajı nə zaman həyata keçirilir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "_0g6AqyDnXEYfLVUhOm7P",
+          "text": "A) Həyatın 10-cu günündə",
+          "isCorrect": false
+        },
+        {
+          "id": "8JsxmluC6dxNNo3ruNEbD",
+          "text": "B) 6 ay yaşında",
+          "isCorrect": false
+        },
+        {
+          "id": "KiKw2JiSlrRmm-oKZaJ6J",
+          "text": "C) 2 ay yaşında",
+          "isCorrect": false
+        },
+        {
+          "id": "cImrRW9f5wGbMjUGnmX3B",
+          "text": "D) 1 ay yaşında",
+          "isCorrect": false
+        },
+        {
+          "id": "rxFH8ZTj7Pd-qYACvilU0",
+          "text": "E) Doğum edvindən çıxandan sonra ilk 3 gün ərzində",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Phq1Pheqx_SzMxKh7K02M",
+      "text": "133) Yenidoğulmuşda ilkin patronaj nəticəsində nəcə risk qrup ayrılır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "-7mIUC0FloBABXJ2WN0Rz",
+          "text": "A) 5",
+          "isCorrect": true
+        },
+        {
+          "id": "scezvwOuxjGCgCEu0b3fb",
+          "text": "B) 3",
+          "isCorrect": false
+        },
+        {
+          "id": "7nJUmkP62QFwpo7m5hrkH",
+          "text": "C) 1",
+          "isCorrect": false
+        },
+        {
+          "id": "gu_O1mAao6oai03zZV_yT",
+          "text": "D) 2",
+          "isCorrect": false
+        },
+        {
+          "id": "EMmLKzRwqRylPC4wLJdW8",
+          "text": "E) 4",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "LlSht47xxPrqpm26tivuq",
+      "text": "134) İlkin patronaj zamanı anamnezin hansı sahələrinin toplanması daxildir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "ZS_IFxjMavm9gFRcAens4",
+          "text": "A) Sosial",
+          "isCorrect": false
+        },
+        {
+          "id": "HhRnDImAg43kBIejBILC_",
+          "text": "B) Geneoloji",
+          "isCorrect": false
+        },
+        {
+          "id": "FD_sJkCs8Yu0CQOK5kUXw",
+          "text": "C) Geneoloji, mama-ginekoloji",
+          "isCorrect": false
+        },
+        {
+          "id": "Lfwv2RU-EFbkEDNUg0Dlt",
+          "text": "D) Mama-ginekoloji",
+          "isCorrect": false
+        },
+        {
+          "id": "qMs8H94CpZAtXkTqZ7IMB",
+          "text": "E) Geneoloji, mama-ginekoloji, sosial",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "bCr1ezKxUFYHvHLzuCo2V",
+      "text": "135) Uşağın anasında doğuş və doğuşdan sonrakı dövrdə yaranan infeksiya uşağın hansı vəziyyətinin əmələ gəlməsi üçün risk faktorudur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "GlePe_nVI8RrZ0Fdc5O5R",
+          "text": "A) MSS patologiyası üçün",
+          "isCorrect": false
+        },
+        {
+          "id": "Q3oZ9B1LfmHqyS6ntakN0",
+          "text": "B) Trofik pozuntular üçün",
+          "isCorrect": false
+        },
+        {
+          "id": "14C2o1jRwgdFka4FnfHal",
+          "text": "C) Anadangəlmə qüsur və irsiyyət ilə bağlı xəstəliklərin əmələ gəlməsi üçün",
+          "isCorrect": false
+        },
+        {
+          "id": "wTIOrwqxpz4ciMD5dggkx",
+          "text": "D) Bətndaxili infeksiyalaşma üçün",
+          "isCorrect": true
+        },
+        {
+          "id": "oQBmwf3eyUKd4q_WHC7Nw",
+          "text": "E) Heç bir təhlükə törətmir",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Un_LhjRbenRBSdqzBTDxi",
+      "text": "136) \"İnkişaf\" termini özündə əks etdirmir:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "SOyEAkRvVE-7WbKxjHjbK",
+          "text": "A) Hərəki",
+          "isCorrect": false
+        },
+        {
+          "id": "NY2CY7T2ugV-Kicl16HTA",
+          "text": "B) Ünsiyyat;",
+          "isCorrect": false
+        },
+        {
+          "id": "_m_Aqcz7XiLbSWyAGJEfw",
+          "text": "C) Nitq;",
+          "isCorrect": false
+        },
+        {
+          "id": "YibxgOKGGjMIiDlotK2Zt",
+          "text": "D) Qavrama;",
+          "isCorrect": false
+        },
+        {
+          "id": "NhJ2Kqk7EYQlfhkN4R3BI",
+          "text": "E) Qidalanma;",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "DAAxH19Xq25weetuuIPXZ",
+      "text": "137) Uşaq ən yüksək ölüm riskinə hansı yaşlarda məruz qalır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "vWNkpegkTjGywb38AWFUi",
+          "text": "A) 5 yaşında",
+          "isCorrect": false
+        },
+        {
+          "id": "1_rjAmvTuDjGz4fETLtyn",
+          "text": "B) Həyatının ilk ayında",
+          "isCorrect": true
+        },
+        {
+          "id": "9y4k1ejS19Cn2XbvNNYtw",
+          "text": "C) 11 yaşında",
+          "isCorrect": false
+        },
+        {
+          "id": "x_DKMljv5waevI4bPAuak",
+          "text": "D) 15 yaşında",
+          "isCorrect": false
+        },
+        {
+          "id": "qxlyv8UgPf5Jqgwqbo3xk",
+          "text": "E) 17 yaşında",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "HBrtAKKIff5ZDmv36YpDV",
+      "text": "138) Həkim tərəfindən xəstəyə təqdim edilən adekvat məlumatlardan sonra xəstənin könüllü şəkildə müalicə olunmağa razılıq verməsinə dair sənəd nəcə adlanır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "IK2am14Wwe2fg5zIn0cBB",
+          "text": "A) Pasiyentin hüququna dair məlumat",
+          "isCorrect": false
+        },
+        {
+          "id": "DiydXPaBy3tjBmRx34avN",
+          "text": "B) Malumatlı razılaşma",
+          "isCorrect": true
+        },
+        {
+          "id": "hP_M4fOJDigQffiU-IdJE",
+          "text": "C) Xəstənin davranışı barədə məlumat",
+          "isCorrect": false
+        },
+        {
+          "id": "Fp8Jbn-zBy_jqB2wnRWrp",
+          "text": "D) Xəstəlik barədə cixarış",
+          "isCorrect": false
+        },
+        {
+          "id": "jFD6T6XYCApt7km0bOve5",
+          "text": "E) Xəstəliyə aid dərmanlar üzrə məlumat",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "mxCEwsRbQV_80q33ZPVzC",
+      "text": "139) Ikin səhiyyə xidmətlərinə aid deyil:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "ABmy7s-dZV_bCKzqQeASg",
+          "text": "A) Vərəm əleyhinə dispanser",
+          "isCorrect": false
+        },
+        {
+          "id": "v3JOH0T58UR8h_05pZWtj",
+          "text": "B) Poliklinika",
+          "isCorrect": false
+        },
+        {
+          "id": "mvIxWtR-1GI9nlojnxeta",
+          "text": "C) Hüquq məsləhətxanası",
+          "isCorrect": true
+        },
+        {
+          "id": "t-WOTcVRzGcPw3Edf9jHD",
+          "text": "D) Kənd məntəqəsi",
+          "isCorrect": false
+        },
+        {
+          "id": "MFdN88YZHQ9FWKVHlmnfF",
+          "text": "E) Narkoloji dispanser",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "AJts6Nyyq2zBs1UPAhISO",
+      "text": "140) Pediatrın sahəsində əsas yüksək riskli ailələrə aid deyil:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "M6rDBpAXaEkktX5rPvx4K",
+          "text": "A) Sağlam tam olan ailələr",
+          "isCorrect": true
+        },
+        {
+          "id": "9Ck7d5TZRlTD7KgXkyaxT",
+          "text": "B) Nənə-baba himayəsində olan uşaqlı ailələr;",
+          "isCorrect": false
+        },
+        {
+          "id": "FpTfSdP9b26i3MM49YBWW",
+          "text": "C) Miqrant ailələr;",
+          "isCorrect": false
+        },
+        {
+          "id": "vavVuLK1QqkQZneVAFC2x",
+          "text": "D) Narkotik istifadəçi olan ailələr;",
+          "isCorrect": false
+        },
+        {
+          "id": "ufBABHqjCeo4Hk0-mJbfe",
+          "text": "E) Aşağı gəliri olan ailələr;",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "NFmAX5X3prhYluhcj1Lg9",
+      "text": "141) Təbii qidalanmada olan 1 aylıq uşaqda \"sərbəst qidalanma\" qaydalarına aşağıdakılardan hansı aid deyil:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "0mVtE5iiMaBrcnWLGuIGx",
+          "text": "A) 100 ml qədər suyun verilməsi;",
+          "isCorrect": true
+        },
+        {
+          "id": "GH1Fe1XywLHZQmMkjySct",
+          "text": "B) hər qida qəbulunda müxtəlif həcmdə qidanın qəbul edilməsi.",
+          "isCorrect": false
+        },
+        {
+          "id": "7x5ntDPfTxLHlqWsWv7mR",
+          "text": "C) uşağın istəyinə görə qidalandırılması;",
+          "isCorrect": false
+        },
+        {
+          "id": "FCvJLbByWeo8i40hTpH1v",
+          "text": "D) gecə vaxtı qidanın verilməsi;",
+          "isCorrect": false
+        },
+        {
+          "id": "wFO46MoPYimwei1GE3FDt",
+          "text": "E) qidalar arasında fasilələrin gözlənilməməsi.;",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "doWqd-WOXjzgQ_m-vpY8-",
+      "text": "142) İlk günlərdə ifraz olunan süddə hansı maddələr azdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "gEBKph8bjOYk_fXZ3c7go",
+          "text": "A) Vitamin E;",
+          "isCorrect": false
+        },
+        {
+          "id": "GJS_A6Mrw3Y1Wi6pVMPxp",
+          "text": "B) Zülal;",
+          "isCorrect": false
+        },
+        {
+          "id": "Mos-bu7bvdwHUIxdjP2xw",
+          "text": "C) Süd şəkəri;",
+          "isCorrect": true
+        },
+        {
+          "id": "7a5SFL8RIrtHkcLZ2Qp26",
+          "text": "D) Karotin;",
+          "isCorrect": false
+        },
+        {
+          "id": "jWw5fNFFIs0vJ6XXZw3_h",
+          "text": "E) Vitamin C;",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "OlwdjifEJBg5LeRUelHfR",
+      "text": "143) Qadın südünə hansı heyvanın südü nisbətən yaxındır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "-5tHb9gg8j_Giz9oWWnwP",
+          "text": "A) Uzunqulaq;",
+          "isCorrect": true
+        },
+        {
+          "id": "dBbN7qEV0Lof0VUbMqBeM",
+          "text": "B) Camış;",
+          "isCorrect": false
+        },
+        {
+          "id": "TR2-53gAyU1Vj33dt8Jmy",
+          "text": "C) İnək;",
+          "isCorrect": false
+        },
+        {
+          "id": "hrnean7_rXpF5bFGRE5tS",
+          "text": "D) Keçi;",
+          "isCorrect": false
+        },
+        {
+          "id": "qwzWeW4mrDDmiwOgr0df8",
+          "text": "E) Heç bir heyvanın.",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Gu-TnN0bQ6Nti2ZgsaiqB",
+      "text": "144) Şkarin düsturuna əsasən 4 həftəlik uşaq gün ərzində aşağıdakı miqdarda süd almalıdır:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "-C_8c324j5_i-TT9vrWqf",
+          "text": "A) 750 ml;",
+          "isCorrect": false
+        },
+        {
+          "id": "jhRdHK_4tRfJIdSQLevTu",
+          "text": "B) 600 ml;",
+          "isCorrect": true
+        },
+        {
+          "id": "_0j-ktIPsXT5vM75MQMHT",
+          "text": "C) 700 ml;",
+          "isCorrect": false
+        },
+        {
+          "id": "d9ZtX2dH41czi1BOZwuJ6",
+          "text": "D) 850 ml;",
+          "isCorrect": false
+        },
+        {
+          "id": "W5g6EUfbAAfTKshDQOU5g",
+          "text": "E) 800 ml;",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "h2TEH2e2ue9D2DBi2KvS9",
+      "text": "145) 5800 q çəkidə olan 4 aylıq uşaq həcm üsula görə gün ərzində aşağıdakı miqdarda süd almalıdır",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "Vz2dQE0oearImDxor9Ob0",
+          "text": "A) 900 ml;",
+          "isCorrect": false
+        },
+        {
+          "id": "sPBi_8_jUstQawphf-ZPS",
+          "text": "B) 800 ml;",
+          "isCorrect": false
+        },
+        {
+          "id": "NtIy809UTyEFT1-zQxRGh",
+          "text": "C) 780 ml;",
+          "isCorrect": false
+        },
+        {
+          "id": "kd0bCRh_yPnHfd06Xk0fA",
+          "text": "D) 830 ml;",
+          "isCorrect": true
+        },
+        {
+          "id": "meWlGdCYihIVBqWUeniKy",
+          "text": "E) 850 ml;",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "D9CG2naPCoD-DNKt-JZ-A",
+      "text": "146) Finkelşteyn düsturuna əsasən 3 kq çəkidə 5 günlük uşaq gün ərzində hansı həcmdə süd qəbul etməlidir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "RpcFlVNZ__LzNiLvgNtjz",
+          "text": "A) 400 ml;",
+          "isCorrect": false
+        },
+        {
+          "id": "f1C9wE_FP8JVve9kuVbGn",
+          "text": "B) 250 ml;",
+          "isCorrect": false
+        },
+        {
+          "id": "mW8ygnTYrZ2FFIx2YASrf",
+          "text": "C) 450 ml;",
+          "isCorrect": false
+        },
+        {
+          "id": "lSHAERuh3oJ2plQl7xHS7",
+          "text": "D) 350 ml;",
+          "isCorrect": true
+        },
+        {
+          "id": "oN_Bg_8h-irSxj-okh-Ty",
+          "text": "E) 300 ml;",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Bej3mck2Z9gAvSG6WzOWs",
+      "text": "147) Kaloraj üsuluna əsasən 5 kq çəkidə 3 aylıq uşaq gün ərzində nə qədər süd almalıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "S_IDIHyGdawYqlbhLv_QC",
+          "text": "A) 900 ml;",
+          "isCorrect": false
+        },
+        {
+          "id": "3-a6a2kNfOF5Yh8iUglUL",
+          "text": "B) 820 ml;",
+          "isCorrect": true
+        },
+        {
+          "id": "kQ39Zj7y8PDKnMqjcKFcV",
+          "text": "C) 780 ml;",
+          "isCorrect": false
+        },
+        {
+          "id": "hOZOkDEZyVZCYkH_ZzDxg",
+          "text": "D) 800 ml;",
+          "isCorrect": false
+        },
+        {
+          "id": "yB_Y0IJ8tguMmhQ3E4TmZ",
+          "text": "E) 860 ml;",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "SDiezJ_S1cDYlGuEydGPJ",
+      "text": "148) Ana südünün verilməsinə əks göstəriş sayılmır:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "L13RM1GJu8usaOF_IO3TI",
+          "text": "A) Anada 1 həftə müddətində vərəmin müalicəsinin başlanması.",
+          "isCorrect": false
+        },
+        {
+          "id": "WOdgLU-d0UYoGrDQbB5_W",
+          "text": "B) Ananın vinkristinlə müalicə alması;",
+          "isCorrect": false
+        },
+        {
+          "id": "m1LXDzqrM_aZ9zAwoiwvd",
+          "text": "C) Anada 38°C qızdırma;",
+          "isCorrect": true
+        },
+        {
+          "id": "mfZVLoHUw_ldAseAoSyxc",
+          "text": "D) Uşaqda genetik testlə qalaktaza fermentinin çatışmazlığı aşkarlansa;",
+          "isCorrect": false
+        },
+        {
+          "id": "r-uvRrQ_s1GeCf0RvVhAn",
+          "text": "E) Döşün areolasında qabarcıqlı səpkilərin olması;",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "3d5AU6ffBPfQ71DzdCTBt",
+      "text": "149) İnək südünə dözümsüzlüyü qeyd olunan yenidoğulmuşlara aşağıdakı qarışıqlar təyin olunmalıdır:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "aHU5CoZ8k0xp61zXN9YZM",
+          "text": "A) Malyutka, Humana HA, Frisomel;",
+          "isCorrect": false
+        },
+        {
+          "id": "oqxeuxuhWkI7uTZlndFgl",
+          "text": "B) Frisovom, Nutrilon antireflyuks;",
+          "isCorrect": false
+        },
+        {
+          "id": "ZGsrt2yRw7R_Yoll5yesM",
+          "text": "C) Nutrilon pepti gastro, Nutramigen, Preqestimil;",
+          "isCorrect": true
+        },
+        {
+          "id": "ZaoG3Pj2hgcQfKYalV4y8",
+          "text": "D) Nutrilon soya, Alsoy, Frisosoy;",
+          "isCorrect": false
+        },
+        {
+          "id": "8UDdRyHNkXtRJiZBDQOz8",
+          "text": "E) Nutrilak azlaktozalı, Alsoy, Nutrilon azlaktozalı;",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "z_V7KMbOcBHdm381JUZty",
+      "text": "150) Qeyd olunan sıyıqlardan hansı qlüten tərkiblidir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "6yQaNRS00kvrV8Z0hr5Iu",
+          "text": "A) qarğıdalı;",
+          "isCorrect": false
+        },
+        {
+          "id": "EcbC3vwoINidgk2THwz1l",
+          "text": "B) buğda;",
+          "isCorrect": true
+        },
+        {
+          "id": "jt-U-vcu880OI50bmcrP4",
+          "text": "C) qarabaşaq;",
+          "isCorrect": false
+        },
+        {
+          "id": "MlwIilGS9vtgZVVQDrD_T",
+          "text": "D) darı.",
+          "isCorrect": false
+        },
+        {
+          "id": "j8nXS1gRnN4QSLtZVkYIm",
+          "text": "E) düyü;",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "TRr41rflJ48hy7NM60N88",
+      "text": "151) Tərəvəz püresi nəcənci aydan uşağın rasionuna əlavə oluna bilər?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "Z0X1BwDo3hxcSEW0GGIoZ",
+          "text": "A) 9 aydan;",
+          "isCorrect": false
+        },
+        {
+          "id": "ba84liOYtc4ul7IxCVE2g",
+          "text": "B) 3 aydan;",
+          "isCorrect": false
+        },
+        {
+          "id": "hSPvfxv2zlnrp1jdjKKBE",
+          "text": "C) 4-6 ayından.",
+          "isCorrect": false
+        },
+        {
+          "id": "GkS45NSN74eUsFefj9WKR",
+          "text": "D) 6 aydan;",
+          "isCorrect": true
+        },
+        {
+          "id": "nxq8dwgJH3WKeoEgWpkng",
+          "text": "E) 2-3 ayından;",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Er0vrf-KcNoYbJAcXJT_t",
+      "text": "152) Yumurta sarısı nəcənci aydan uşağın rasionuna əlavə oluna bilər?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "JJ70CUt0IwqXPDfU6N7DJ",
+          "text": "A) 3-cü aydan;",
+          "isCorrect": false
+        },
+        {
+          "id": "FZq3osmxg4Zhr8I1v-mru",
+          "text": "B) 4-cü aydan;",
+          "isCorrect": false
+        },
+        {
+          "id": "UEj2fHIx5WAiVSTusUsNI",
+          "text": "C) 6 aydan etibarən;",
+          "isCorrect": true
+        },
+        {
+          "id": "js64ajfh0IMnhLOvp2IOT",
+          "text": "D) 7-ci aydan;",
+          "isCorrect": false
+        },
+        {
+          "id": "hGIBBjePeAeRzKxsHyLta",
+          "text": "E) 5-ci aydan;",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "A5JGusg1gtKP4Zc550I-F",
+      "text": "153) Yeni qidaların verilmə qaydalarına aid olmayanı göstərin:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "brImay97uBqLo3eKIXjRJ",
+          "text": "A) Hər yeni məhsul 1-2 günlük intervalla verilə bilər;",
+          "isCorrect": true
+        },
+        {
+          "id": "XpS3oyZu2Pj3dLjyfUBOr",
+          "text": "B) Hər yeni qida monokomponent olmalıdır;",
+          "isCorrect": false
+        },
+        {
+          "id": "yzkh4Z1CCMiBINGDaDvXO",
+          "text": "C) Yeni qidalar günün birinci yarısında uşağa təklif olunmalıdır",
+          "isCorrect": false
+        },
+        {
+          "id": "CC4haavrPa9vDttSPGO8Y",
+          "text": "D) Yeni qidaların verilməsi 1 çay qaşığı ilə başlanmalıdır;",
+          "isCorrect": false
+        },
+        {
+          "id": "_JJBTwReZMlOV3pDRmAko",
+          "text": "E) Yeni qidalar ana südünün qəbulundan əvvəl verilməlidir;",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "8Zl6PM_4p0NEpNDWuxuQi",
+      "text": "154) Vitamin C ilə zəngin olan qida məhsulunu göstərin?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "TCG4z0KhdLhqFldaVSBUh",
+          "text": "A) Alma;",
+          "isCorrect": true
+        },
+        {
+          "id": "E-Oh9l8dD-_zTjeVvouZc",
+          "text": "B) Albalı;",
+          "isCorrect": false
+        },
+        {
+          "id": "ye_MSwSoxRMxMIPrjQknZ",
+          "text": "C) Kələm;",
+          "isCorrect": false
+        },
+        {
+          "id": "Sggi_vrTXdMBkYravXYr8",
+          "text": "D) Ət;",
+          "isCorrect": false
+        },
+        {
+          "id": "bGyom9gxjlOyXiTEe0f87",
+          "text": "E) Xiyar;",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "w6HHFpmdKA0U1xxrpp5Q4",
+      "text": "155) Qusma və qaytarma sindromu zamanı süni qidalanmada olan yenidoğulmuşa hansı qarışıqları təyin edilməlidir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "8ABr1hQKigpUvd29-dBLx",
+          "text": "A) Nan turesıdlı, Nutrilon-Omneo;",
+          "isCorrect": false
+        },
+        {
+          "id": "ZCBTkc0H1HgJL4Ijk_C3t",
+          "text": "B) Humana HA, Nutrilon HA.",
+          "isCorrect": false
+        },
+        {
+          "id": "aQ_SO-TUvyTxXVNW9AORT",
+          "text": "C) Frisovom, Nutrilon-antireflyuks;",
+          "isCorrect": true
+        },
+        {
+          "id": "4zbWLBEIqUWV0NXvUlUnv",
+          "text": "D) Alfare, Nutrilon Pepti Gastro;",
+          "isCorrect": false
+        },
+        {
+          "id": "tn2d4sYkuOUI9m1KQeyfg",
+          "text": "E) Humana, Alsoy;",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "O0goLiE8cTia-KYlLO5tm",
+      "text": "156) Prebiotik xüsusiyyəti hansı qarışıqda voxdur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "9jXTzjis1kZraiH64clAX",
+          "text": "A) Nutrisoya;",
+          "isCorrect": true
+        },
+        {
+          "id": "2Ezg6yS6GzFX_dnUJInqO",
+          "text": "B) Nan bifidobakteriyalarla;",
+          "isCorrect": false
+        },
+        {
+          "id": "OzI24B7-IJYvZNn20Z8EQ",
+          "text": "C) Similak Premium;",
+          "isCorrect": false
+        },
+        {
+          "id": "p26iWrIbTN3auAar566fA",
+          "text": "D) Nan turş südlü;",
+          "isCorrect": false
+        },
+        {
+          "id": "E99Sxl5z0HRtQCo6SAXeF",
+          "text": "E) Nutrilak Premium.",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Fn2yU4Sks4_Bs2znY8v2L",
+      "text": "157) Uşaqlarda bronxial astma nəyin əsasında inkişaf edir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "-dx3N35-LcsmuFTvELa7E",
+          "text": "A) bronxların hiperreaktivliyi və plevranın iltihabı",
+          "isCorrect": false
+        },
+        {
+          "id": "6CuDs5P8LdidM1G-yDuZ3",
+          "text": "B) bronxların hiperreaktivliyi və ağ ciyərlərin xronik iltihabı",
+          "isCorrect": false
+        },
+        {
+          "id": "E1cqxW9HcVfrpgDaP6U3K",
+          "text": "C) bronxların və plevranın iltihabı",
+          "isCorrect": false
+        },
+        {
+          "id": "_Pfhh3pWyKIoUNLDplqBq",
+          "text": "D) bronxların xronik allergik iltihabı və onların hiperreaktivliyi",
+          "isCorrect": true
+        },
+        {
+          "id": "SP5cRqY-huTeggdo0-E0l",
+          "text": "E) bronx və ağ ciyərlərin xronik iltihabı",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "0iiwmXXszqvfPjHZOUSLn",
+      "text": "158) Vaxtında doğulan uşaqların qidalanması üçün istifadə edilən adaptasiya edilmiş qarışıqlara olan tələblərə aid olmayanı göstərin:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "g6lbW9Z59uRXWzgNX7PT1",
+          "text": "A) dəmirin miqdarı balanslaşdırılmalıdır;",
+          "isCorrect": false
+        },
+        {
+          "id": "IWkRo9CqUVACyPopCwRwR",
+          "text": "B) makro- və mikroelementlərin, suda və yağda həll olunan vitaminlərin geniş kompleksi mövcud olmalıdır.",
+          "isCorrect": false
+        },
+        {
+          "id": "6r-Nl66qkWwK3kBFxyJ4q",
+          "text": "C) qarışığın zülal komponentinin 60%-dən çoxunu kazein təşkil etməlidir;",
+          "isCorrect": true
+        },
+        {
+          "id": "Hzq8LnVr62uXh0hle5i5a",
+          "text": "D) yüksək enerji dəyəri olmalıdır;",
+          "isCorrect": false
+        },
+        {
+          "id": "AUBq7rb1lQ_wf8isWlpHV",
+          "text": "E) zərdab zülalların konsentrasiyası 60%-dən az olmamalıdır;",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Sh5OSJccmfN4dG6uNH7Gs",
+      "text": "159) Diffuz bronxial obstruksiya nəyin nəticəsində əmələ gəlir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "i1yDy39gjVsovhnBK8kc7",
+          "text": "A) bronxokonstriksiya, emfizema",
+          "isCorrect": false
+        },
+        {
+          "id": "i5Ut7mk2MOMlgZpmHrFFs",
+          "text": "B) bronxokonstriksiya, seliyin hipersekresiyası və bronxların ödemi",
+          "isCorrect": true
+        },
+        {
+          "id": "87tbnBeb6tyTZNCq0wyQK",
+          "text": "C) bronxoektaz, pnevmofibroz, emfizema",
+          "isCorrect": false
+        },
+        {
+          "id": "Faqva3E5g1vZ2S9DVcBpR",
+          "text": "D) bronxoektaz, pnevmoskleroz;",
+          "isCorrect": false
+        },
+        {
+          "id": "QYN5w193lWcLPVUnA_lvJ",
+          "text": "E) bronxokonstriksiya, pnevmofibroz, pnevmoskleroz",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "0YrD7FQ_dXmyB1fNGso41",
+      "text": "160) Uşaqlarda bronxial astma zamanı xarici tənəffüs funksiyasının pozulmasının hansı növü rast gəlir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "S8xyntVhtN4zNnmMzXqpJ",
+          "text": "A) ventilyasiya - perfuziya pozulması;",
+          "isCorrect": false
+        },
+        {
+          "id": "x7kHuSXydyI9Zo5EgJGVn",
+          "text": "B) diffuziya pozulması;",
+          "isCorrect": false
+        },
+        {
+          "id": "pTCusq4kUmxmGhOhghk4q",
+          "text": "C) Obstruktiv ventilyasiya pozulması;",
+          "isCorrect": true
+        },
+        {
+          "id": "iA_jbKR_jzrtiEMj8MV3j",
+          "text": "D) qarışıq pozulma;",
+          "isCorrect": false
+        },
+        {
+          "id": "bY8OfDC4Bz_CFbm0MBj0g",
+          "text": "E) restriktiv ventilyasiya pozulması;",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "I9HNKtz2zDjvLkhUnP6xK",
+      "text": "161) Uşaqlarda bronxial astma zamanı hansı klinik əlamət olmur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "G9VAz-19TgtVKZ9q53q_E",
+          "text": "A) distansion fitverici xırıltılar",
+          "isCorrect": false
+        },
+        {
+          "id": "gPLyzZkjGsJTo2ssxe-aG",
+          "text": "B) ekspirator təngnəfəslik",
+          "isCorrect": false
+        },
+        {
+          "id": "7NR3PG7bQReey2o9ultMf",
+          "text": "C) öskürək və / və ya tənəffüsün çətinləşməsi tutmaları",
+          "isCorrect": false
+        },
+        {
+          "id": "zScRf4_rKXkB4mvee1VAw",
+          "text": "D) ağ ciyərlərdə yayılmış quru fitverici xırıltılar",
+          "isCorrect": false
+        },
+        {
+          "id": "LSTJSDFGdmA6gYmKxyIsw",
+          "text": "E) bitonal öskürək",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "7dLmpgxN-5CI2O19k68GO",
+      "text": "162) Uşaqlarda bronxial astma zamanı hansı fəsad rast gəlmir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "9aX_WdHy9BVBF_R68aWf2",
+          "text": "A) plevrit",
+          "isCorrect": true
+        },
+        {
+          "id": "RKKNNc3nVeB2LCunwMalk",
+          "text": "B) emfizema",
+          "isCorrect": false
+        },
+        {
+          "id": "RubeF0dCHn_1r4HBs46Ob",
+          "text": "C) spontan pnevmotoraks",
+          "isCorrect": false
+        },
+        {
+          "id": "W4A85-dmRI9mcKtAQQMDF",
+          "text": "D) qarışıq",
+          "isCorrect": false
+        },
+        {
+          "id": "FnAZqeD7-opu7G0tm-QlJ",
+          "text": "E) ağ ciyərlərin atelektazı",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "7QY3pkz84foRxJDK5Dpvc",
+      "text": "163) Bronxial astmanın əmələ gəlməsində əsas irsi meyillik faktorları hansılardır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "55cjGTgrtjK_etsgF9Vvl",
+          "text": "A) irsi sistem xəstəlikləri",
+          "isCorrect": false
+        },
+        {
+          "id": "CpMy9uCCPsV9gTsVPccu7",
+          "text": "B) genlərin mutasiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "G0IsFfguQE5itx4mBaLfk",
+          "text": "C) irq müxtəlifliyi",
+          "isCorrect": false
+        },
+        {
+          "id": "CVxS9JzQQKY6yfYBW2zBr",
+          "text": "D) uşağın hansı cinsə aid olması",
+          "isCorrect": false
+        },
+        {
+          "id": "X4M6UhQXzjXvhmlO98Q0c",
+          "text": "E) uşaqda və / və ya valideynlərdə atopiya və bronxların hiperreaktivliyi",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "ugGj4xgQTDtvn5qFJ93gX",
+      "text": "164) Assimmetrik boyun tonik reflexsi hansı patologiyası olan uşaqlarda daha çox rast gəlinir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "mMf6i4UHycPESwvZv5D3Y",
+          "text": "A) böyrəklərin anadangəlmə patologiyası olan uşaqlarda",
+          "isCorrect": false
+        },
+        {
+          "id": "Ga5mGfegxK5OZsbVbSnN0",
+          "text": "B) mədə-bağırsaq sistemində inkişaf qüsuru olan uşaqlarda",
+          "isCorrect": false
+        },
+        {
+          "id": "IHwv5l2veBJl-Kn5AasSb",
+          "text": "C) uşaq serebral iflici olanlarda (başını yana çevirən zaman yaranır)",
+          "isCorrect": true
+        },
+        {
+          "id": "wL4sqV1cnzXMTEP-EAeUg",
+          "text": "D) kəskin RVİ olan xəstələrdə (yalnız yüksək hərarəti olan zaman)",
+          "isCorrect": false
+        },
+        {
+          "id": "6gxWBVawCB4w2IiHOiyYG",
+          "text": "E) anadangəlmə ürək qüsurları olanlarda",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "o039nVNqEEyacHYjS1Xl8",
+      "text": "165) Sağlam kiçik yaşlı uşaqlarda zəif assimmetrik boyun tonik reflexsi hansı yaşda müşahidə edilə bilər?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "bZj1RhSacd2NiIohAU_vg",
+          "text": "A) 2 aydan -4 ayına qədər",
+          "isCorrect": true
+        },
+        {
+          "id": "kGKK5-HoVy25uVXpsdbkU",
+          "text": "B) 6 aydan -10 aylığa qədər",
+          "isCorrect": false
+        },
+        {
+          "id": "4807uJaQX65oW5xREy7xG",
+          "text": "C) 1 aydan -2 aya qədər",
+          "isCorrect": false
+        },
+        {
+          "id": "vAE8D2BljhJuejhS7OqeB",
+          "text": "D) 1 aydan -6 aya qədər",
+          "isCorrect": false
+        },
+        {
+          "id": "EZA-h8O8FPorUa4fwr7qj",
+          "text": "E) 1 yaşdan -18 ayadək",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "nFic9JcvFbQP7btpJ4rQE",
+      "text": "166) Qohumlar arasında nigah nə ilə təhlükəlidir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "0C-_kd4ijX9z0C-AIneW8",
+          "text": "A) Mutasiyanın əmələ gəlməsi ilə",
+          "isCorrect": false
+        },
+        {
+          "id": "jQQW3jrWqD5RvZnah2Q1O",
+          "text": "B) İrsi resessiv genin yüksək rastgəlmə ehtimalı ilə",
+          "isCorrect": true
+        },
+        {
+          "id": "QjEc6wxPwq2Qz0ZTFAYSW",
+          "text": "C) Uşağın vaxtından əvəl doğulması ilə",
+          "isCorrect": false
+        },
+        {
+          "id": "FkWJMMMch42EEiKXh7SF-",
+          "text": "D) İnfeksion embriopatiyanın formalaşması ilə",
+          "isCorrect": false
+        },
+        {
+          "id": "OCK_rfLxwdY-gJe0HK3IC",
+          "text": "E) Sonsuzluqla",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Wc4fmXLh3dfHoOSWGharZ",
+      "text": "167) Humoral immunitet göstəricilərinə hansılar aididir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "I3zTby_bJe4Ql4VpqPQeO",
+          "text": "A) A, M, G, E immunoqlobulinlərin vəziyyəti",
+          "isCorrect": true
+        },
+        {
+          "id": "XFH1668_bV1dJltb5itN2",
+          "text": "B) leykositlərin blasttransformasiya reaksiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "Dz19uPqp7xqX-yPUVhpNd",
+          "text": "C) faqositozun parametrləri",
+          "isCorrect": false
+        },
+        {
+          "id": "G_ojnZvXEh7l-jtw1WHWP",
+          "text": "D) rozetka əmələ gəlmə reaksiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "VQtmASn7Ih8Prh9mmyFCB",
+          "text": "E) normal killer hüceyrələrin miqdarı (CD 16)",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "oreAm9qALXA26FhxyK0aZ",
+      "text": "168) Hüceyrə immunitetinin defisiti üçün nə xarakterdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "XyNFPUekBU4ZQVWtPHuJE",
+          "text": "A) Proqnostik xoşağəlməzən xəstəliklər",
+          "isCorrect": false
+        },
+        {
+          "id": "GIbtcLOQ61Hjt2uReqykB",
+          "text": "B) Tez-tez bakterial infeksiyalar",
+          "isCorrect": true
+        },
+        {
+          "id": "8zLcWLCiqwf97gzSE4ICF",
+          "text": "C) BSJ vaksinasiyasına reaksiyanın olmaması",
+          "isCorrect": false
+        },
+        {
+          "id": "CvFzKrAH_2018XHHkdidg",
+          "text": "D) Tez-tez virus infeksiyaları",
+          "isCorrect": false
+        },
+        {
+          "id": "NU6EXKeGBFcWXS1vSvYfP",
+          "text": "E) Göbələk xəstəlikləri",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "O_wq-mmT7x-KfKnPODRma",
+      "text": "169) Spesifik mühafizə faktorlarına nə aididir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "6lpv-7_KybMzIqYDeYafu",
+          "text": "A) Anticisimlər",
+          "isCorrect": true
+        },
+        {
+          "id": "W78kGc5tNb7UPPE9WpVWg",
+          "text": "B) Şişlərin nekroz faktoru",
+          "isCorrect": false
+        },
+        {
+          "id": "BwHnmToHb_0D35df_h12u",
+          "text": "C) Prostoqlandinlər",
+          "isCorrect": false
+        },
+        {
+          "id": "x4jSZb8L4UUiyMmp6_pRY",
+          "text": "D) C-reaktiv zülalı",
+          "isCorrect": false
+        },
+        {
+          "id": "YPMXDmF76AMI57QgNirXT",
+          "text": "E) Komplement sistemi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "8eOhOb_DODp0jKT4BSjQV",
+      "text": "170) İkincili immun çatışmazlıq nə zaman tez-tez müşahidə olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "JCz5FbAzNtljItE-hLziY",
+          "text": "A) Revmatizmdə",
+          "isCorrect": false
+        },
+        {
+          "id": "IHc_uR9aYFBAKqQj8QexH",
+          "text": "B) Hemovaskulitdə",
+          "isCorrect": false
+        },
+        {
+          "id": "rVLz4uALaIR65St20_UVR",
+          "text": "C) Pielonefrit zamanı",
+          "isCorrect": false
+        },
+        {
+          "id": "MOFlQG9iPRtlBNSyNKofI",
+          "text": "D) Kəskin nefritdə",
+          "isCorrect": false
+        },
+        {
+          "id": "d0G7N4jJWNkkJ0BOt4OMx",
+          "text": "E) Nefrotik sindromda",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "J2qb8cybN2q0clTnBFmW8",
+      "text": "171) Böyrəkiüstü vəzin qabıq maddəsi hansını ifraz etmir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "9PIDh647FuBNc0_9NX7bp",
+          "text": "A) AKTH (adenokortikotrop hormon-",
+          "isCorrect": true
+        },
+        {
+          "id": "LgrEW9mqq6NV7BLEsDHlC",
+          "text": "B) Aldosteron",
+          "isCorrect": false
+        },
+        {
+          "id": "Vo403Me-kyYQ9lCywBgyL",
+          "text": "C) Noradrenalin",
+          "isCorrect": false
+        },
+        {
+          "id": "EkDQK5bYazouy97Lt5CWt",
+          "text": "D) Androgenlər",
+          "isCorrect": false
+        },
+        {
+          "id": "Bb-OI10SVMM8K_uib22b9",
+          "text": "E) Kortizon",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "FxdbcDgpudqzN9NfJPXxd",
+      "text": "172) Qida allergiyasının müalicəsində istifadə olunan preparat hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "t_0YfVYiCARBwzHcpOanQ",
+          "text": "A) Stuqeron",
+          "isCorrect": false
+        },
+        {
+          "id": "iiZK5hQDVKAwV9MPB1s8C",
+          "text": "B) salbutamol",
+          "isCorrect": false
+        },
+        {
+          "id": "DH31A_T2Ir7D9HkHwG2py",
+          "text": "C) Eufillin",
+          "isCorrect": false
+        },
+        {
+          "id": "Q0s6mgJbdVl4HEA8r-5TL",
+          "text": "D) montelukast",
+          "isCorrect": false
+        },
+        {
+          "id": "zgTU30tFdVYHqvPnoevIe",
+          "text": "E) Suprastin",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "g1aZMtleO9-yEQbLzp8hl",
+      "text": "173) Ağır formalı atopik dermatiti olan uşaqların həyatlarının birinci ilində süni qidalanmanı nə ilə aparmaq məqsədəuyğundur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "PupkdH8_fRB7DNzijKnc_",
+          "text": "A) Soya qarışıqları ilə",
+          "isCorrect": false
+        },
+        {
+          "id": "Hm5rBYJ03no3IgSJ3mQke",
+          "text": "B) İnək südü əsasında adaptasiya olunmuş qarışıqlarla",
+          "isCorrect": false
+        },
+        {
+          "id": "_Nrq1GyOsKeuu7dh14cbM",
+          "text": "C) Hissəvi hidroliz olunmuş zülalı əsasında qarışıqlarla",
+          "isCorrect": false
+        },
+        {
+          "id": "JQYY288CXc6BEsucwJHxO",
+          "text": "D) Yüksək hidroliz olunmuş qarışıqlarla",
+          "isCorrect": true
+        },
+        {
+          "id": "ZPbYiNRv5r9QZ2vGfi624",
+          "text": "E) Turş-süd qarışıqları ilə",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "AfDJJwaKm01MsWppI4KGX",
+      "text": "174) Göstərilən xəstəliklərdən hansı qida allergiyasının nəticəsi deyildir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "avFH2bDCx7A1JIHWcF-A9",
+          "text": "A) Seboreyalı dermatit",
+          "isCorrect": true
+        },
+        {
+          "id": "T-t_41KXrcRKmaaU-1wQK",
+          "text": "B) Rinit",
+          "isCorrect": false
+        },
+        {
+          "id": "aTzWz4cz6u6w1LR-SSzrk",
+          "text": "C) Kvinke ödemi",
+          "isCorrect": false
+        },
+        {
+          "id": "6vo0oGGKMHUtnvZBAb-AW",
+          "text": "D) Övrə",
+          "isCorrect": false
+        },
+        {
+          "id": "B5jCXnTNr2WRltEFtETbJ",
+          "text": "E) Atopik dermatit",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "xkFOLtuv0oJ4lkxJqJryg",
+      "text": "175) Aşağıdakılardan hansı allergik rinitlərin müalicəsində xəstəlikdən azad olunma imkanını verir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "lDH2iLJcPvfgMtNAO6HW0",
+          "text": "A) Spesifik hiposensibilizasiya",
+          "isCorrect": true
+        },
+        {
+          "id": "iZvAMfvdOnyp1U5kj9BVE",
+          "text": "B) Fizioterapiya",
+          "isCorrect": false
+        },
+        {
+          "id": "eCl9PuS6_AhOfdmKb6YAv",
+          "text": "C) İnhalyasiya kortikosteroidlər",
+          "isCorrect": false
+        },
+        {
+          "id": "9XbhBldxAr5aUJVjZvJGj",
+          "text": "D) Antihistamin preparatlar",
+          "isCorrect": false
+        },
+        {
+          "id": "sTOZZhkTBiwulkz4yhk0S",
+          "text": "E) Allergenin eliminasiyası",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "GwGt9nysI_UA60Y_exR85",
+      "text": "176) Böyrəkiüstü vəzin qabıq maddəsi hansını ifraz etmir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "F-nH_vUdDAuAoL3GOtK65",
+          "text": "A) Kortizol",
+          "isCorrect": false
+        },
+        {
+          "id": "m3QDTDt6z0DN0kIybbXlP",
+          "text": "B) Hidrokortizon",
+          "isCorrect": false
+        },
+        {
+          "id": "a_MW1IBzEyDCqt1A-amQL",
+          "text": "C) Noradrenalin",
+          "isCorrect": true
+        },
+        {
+          "id": "0oSO_W8GtPq_r5ELbbff_",
+          "text": "D) Aldrosteron",
+          "isCorrect": false
+        },
+        {
+          "id": "QYd7kHs-m36-YUofVBWUS",
+          "text": "E) Androgenlər",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "7xIWUck3bx3sRJGv5q1uV",
+      "text": "177) Yalançı allergik reaksiya aşağıdakıardan hansı faktorun hesabına əmələ gəlmir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "KqUq0gTRUcYZgRpoZl_4F",
+          "text": "A) Fiziki faktorlar",
+          "isCorrect": false
+        },
+        {
+          "id": "fp1U2mSycN4ZoB_0mufXP",
+          "text": "B) C5a, C3a, anafilatoksinləri",
+          "isCorrect": false
+        },
+        {
+          "id": "p865ocYZCRtznE49Y6Kum",
+          "text": "C) Dərman preparatları",
+          "isCorrect": false
+        },
+        {
+          "id": "sEjd2O6MbE_I8m5p0VrXt",
+          "text": "D) Atopik anticisimlər",
+          "isCorrect": true
+        },
+        {
+          "id": "jBgCP7GCpmyrhIHyyMFjj",
+          "text": "E) P substansiyası",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "7WgUfm-isNAh_54iKrAOC",
+      "text": "178) I tip allergik reaksiyaların diaqnozu üçün aşağıdakı göstəricilər daha çox əhəmiyyət kəsb edir:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "VGqG85kgiGgvYiD_LGkva",
+          "text": "A) Qanda eozinofiliya",
+          "isCorrect": false
+        },
+        {
+          "id": "alRHqrd23N-Qorlz_mvqt",
+          "text": "B) Sidikdə histaminin miqdarının yüksəlməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "-jJPBd9Rx6vCYiDCRmXqm",
+          "text": "C) Dövr edən immun komplekslərin yüksək səviyyəsi",
+          "isCorrect": false
+        },
+        {
+          "id": "9IiJ6YF9PY-vSHIj68Ikc",
+          "text": "D) T-supressorların yüksək səviyyəsi",
+          "isCorrect": false
+        },
+        {
+          "id": "ziI3hMFZzd2kP4gXUj4BG",
+          "text": "E) Qan zərdabında İgE-nin artması",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "avj2GlG_pvufm-AKThtqx",
+      "text": "179) Yalançı allergik reaksiya üçün daha xarakterikdir:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "n_nj_kt2q9pdmKSk-HhcU",
+          "text": "A) İmmunoloji mərhələnin olmaması",
+          "isCorrect": true
+        },
+        {
+          "id": "_Aea0Uly5KalEzmMtmviF",
+          "text": "B) İgE-nin yüksək səviyyəsi",
+          "isCorrect": false
+        },
+        {
+          "id": "KKdTQZW-yT6TrbHWDU8QF",
+          "text": "C) Yerli eozinofiliya",
+          "isCorrect": false
+        },
+        {
+          "id": "zRVPbG9vt252miQMNGfsw",
+          "text": "D) «Səbəbkars» antigenə qarşı dərinin müsbət sınağı",
+          "isCorrect": false
+        },
+        {
+          "id": "vH8uNMeOs-g4HsGFT8QbD",
+          "text": "E) Antigenlə təkrar kontakt zamanı reaksiyanın güclənməsi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "7faPpgLqZemqt8AK0GI8f",
+      "text": "180) Hansı yaş dövründə uşaqlarda İgG miqdarı aşağıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "q0-SA_fQplCj50lbByX1e",
+          "text": "A) 9-12 ay",
+          "isCorrect": false
+        },
+        {
+          "id": "TnUCPZIc9csYQzeliLTKn",
+          "text": "B) 12-15 ay",
+          "isCorrect": false
+        },
+        {
+          "id": "I5QdHfTPSwH73vNdPT0aQ",
+          "text": "C) 6-9 ay",
+          "isCorrect": false
+        },
+        {
+          "id": "zgDEoTFiIFKQUuwmShpQN",
+          "text": "D) 0-3 ay",
+          "isCorrect": false
+        },
+        {
+          "id": "aU1eOaAwQhGbiw1MgPuSp",
+          "text": "E) 3-6 ay",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "twoD7njVWdg_ZF34o3rBW",
+      "text": "181) Qan zərdabında IgA-n səviyyəsi uşaqlarda böyüklərinkinə çatır:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "rqKCmHpJZX4EwcHrZQ-z4",
+          "text": "A) 10-12 yaşda",
+          "isCorrect": true
+        },
+        {
+          "id": "00v1kCoAZyfsX-piUYeYI",
+          "text": "B) 5-6 yaşda",
+          "isCorrect": false
+        },
+        {
+          "id": "6DQIMvsEhnSJNAtnSVgom",
+          "text": "C) 8-10 yaşda",
+          "isCorrect": false
+        },
+        {
+          "id": "HpC6DOoj-e8W6PbNcpfKt",
+          "text": "D) 4-5 yaşda",
+          "isCorrect": false
+        },
+        {
+          "id": "xPT2ZGev9pRz94JwgH7tx",
+          "text": "E) 6-7 yaşda",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "jb5oZL_JATffVD48G0jaA",
+      "text": "182) Qan zərdabında İgM-in səviyyəsi uşaqlarda böyüklərinkinə çatır:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "oDYeY4WHJ45-xwVjdjM4n",
+          "text": "A) 8-10 yaşda",
+          "isCorrect": false
+        },
+        {
+          "id": "DvnYgzYvKZdWftNk9yz6M",
+          "text": "B) 6-7 yaşda",
+          "isCorrect": false
+        },
+        {
+          "id": "zZ8gdnANwBWv8-ZvZQD01",
+          "text": "C) 7-8 yaşda",
+          "isCorrect": false
+        },
+        {
+          "id": "9oTpQOALrzXIcwY-vsZMY",
+          "text": "D) 5-6 yaşda",
+          "isCorrect": false
+        },
+        {
+          "id": "OESiCIxq5niL_djJ9D892",
+          "text": "E) 4-5 yaşda",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "z-3sB6KuG96QPmcnhkzsN",
+      "text": "183) Anadan dölə transplasentar verilən Ig hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "EPbrKW6JLbMqxukjFwZmI",
+          "text": "A) G",
+          "isCorrect": true
+        },
+        {
+          "id": "8U27aqSLnhSXuCVscc_QF",
+          "text": "B) G və E",
+          "isCorrect": false
+        },
+        {
+          "id": "VLLcussJnrNyps2V5DYvn",
+          "text": "C) M",
+          "isCorrect": false
+        },
+        {
+          "id": "GrGdnDSuWvNttIco39eNa",
+          "text": "D) A",
+          "isCorrect": false
+        },
+        {
+          "id": "XqzGtjtsfnfFgWjN_X5Qf",
+          "text": "E) A və M",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "DQzG_TEUTr8VEScMaYAqN",
+      "text": "184) Limfositopoezin mərkəzi üzvünə hansı aididir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "s02f43kPwiijgg1x3VisF",
+          "text": "A) dalaq",
+          "isCorrect": false
+        },
+        {
+          "id": "Fl_SeNF1YbQWKmhg4M1i8",
+          "text": "B) sümük iliyi",
+          "isCorrect": true
+        },
+        {
+          "id": "oiafFDeognapjiPT-RPas",
+          "text": "C) limfa vəziləri",
+          "isCorrect": false
+        },
+        {
+          "id": "NKMLne_20FAlLF-9VbFFD",
+          "text": "D) böyrəküstü vəzi",
+          "isCorrect": false
+        },
+        {
+          "id": "ZsoXlvSOXBmHTeXNVqQby",
+          "text": "E) qaraciyər",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "mL6P8aCtEgrbuAgUCmaFh",
+      "text": "185) İnterferon müdafiə sistemində hansı xüsusiyyəti ilə iştirak edir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "ily3MXVie8qiYBWrmLf8c",
+          "text": "A) bakteriya əleyhinə, əgər bakteriyalar hüceyrə kənarında lokalizasiya olarsa",
+          "isCorrect": false
+        },
+        {
+          "id": "ogclLqLEnO-noiFMEjOnH",
+          "text": "B) immun kompleksin formalaşmasında",
+          "isCorrect": false
+        },
+        {
+          "id": "QbBGlM_mTA4aZNt_HSEBE",
+          "text": "C) virus və toksin əleyhinə",
+          "isCorrect": false
+        },
+        {
+          "id": "wcIt_UQBi8Cj6OxuPQv9f",
+          "text": "D) toksin əleyhinə",
+          "isCorrect": false
+        },
+        {
+          "id": "0J3GdeWKZjAj3LKbrNdNB",
+          "text": "E) virus əleyhinə",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "aP2ewuG4F-IwzNXbpxQe9",
+      "text": "1. faqositoz i\n2. T limfositlər\n3. monositlər\n4. limfokain\n5. B limfositlər",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "ZFoo-SffajdYrFIyAloPN",
+          "text": "A) 2,5",
+          "isCorrect": false
+        },
+        {
+          "id": "xpmTOV2gmMWpG8eQIA55k",
+          "text": "B) 2,4",
+          "isCorrect": false
+        },
+        {
+          "id": "vbohgLd8LkxOFMWKxGQcr",
+          "text": "C) 1,3",
+          "isCorrect": true
+        },
+        {
+          "id": "-uR9r80lHiH4tZ4wrC71p",
+          "text": "D) 3,5",
+          "isCorrect": false
+        },
+        {
+          "id": "XsHgco2PmlF30bMjJWSx9",
+          "text": "E) 1,4",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "AGhbjFq3L0-R9NMWb_K7M",
+      "text": "187) Çəngələbənzər vəzin yaşla bağlı fizioloji involyusiyası nə vaxt başlayır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "WtNhAwM80js2Pd2FXvYYF",
+          "text": "A) 6 yaşdan",
+          "isCorrect": false
+        },
+        {
+          "id": "UD_cbB2yJ7-o6m-TZQN0c",
+          "text": "B) 3 yaşdan",
+          "isCorrect": false
+        },
+        {
+          "id": "rRPiDIpXnyLQSM4xZw3jQ",
+          "text": "C) 14 yaşdan",
+          "isCorrect": false
+        },
+        {
+          "id": "PvZNZXhcOY7RxDELvrrFi",
+          "text": "D) 10 yaşdan",
+          "isCorrect": false
+        },
+        {
+          "id": "5EuBEGmY4UAki_56SEFsh",
+          "text": "E) 1 yaşdan",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "G34lzn-atNV9zl-sgrpFN",
+      "text": "188) Timusun hipoplaziyası hansı patologiya zamanı rast gəlinir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "tbP3y6e-868qBcHwgKfaD",
+          "text": "A) Addison xəstəliyində",
+          "isCorrect": false
+        },
+        {
+          "id": "flPUcw7CY0sivpVcCRHM2",
+          "text": "B) Hipertireoz",
+          "isCorrect": false
+        },
+        {
+          "id": "xnkIarItxJje_uvK0BWed",
+          "text": "C) Miasteniya",
+          "isCorrect": false
+        },
+        {
+          "id": "tmaKFNOvo_XxCAFzzC4Bi",
+          "text": "D) Timoma",
+          "isCorrect": false
+        },
+        {
+          "id": "6O9RsDUruobUHb3wZX5mW",
+          "text": "E) Viskot - Oldriç sindromu",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "KF1OIVGHWSkED1AjUZ-Dd",
+      "text": "189) Çəngələbənzər vəzin hiperplaziyası nə zaman müşahidə edilir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "gAMgyUsYsFxFBfr9vke5y",
+          "text": "A) Edwards sindromunda",
+          "isCorrect": false
+        },
+        {
+          "id": "CnfgZRyevCe7mXtXIOZOH",
+          "text": "B) Hipokortisizimdə",
+          "isCorrect": true
+        },
+        {
+          "id": "kzxopTfQX3c4cC-nPfybr",
+          "text": "C) Daun xəstəliyində",
+          "isCorrect": false
+        },
+        {
+          "id": "sGnJOvzP8O4PYBWcfZsGj",
+          "text": "D) Viskot - Oldriç sindromunda",
+          "isCorrect": false
+        },
+        {
+          "id": "twsorUaiubxHru0jc15Rp",
+          "text": "E) Lui - Bar sindromunda",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "SsCowt6woCzwIyot2WA74",
+      "text": "190) Dalağın büyüməsi hansı xəstəliyə xəs deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "BNFFmPAg2tGly5EHEL_13",
+          "text": "A) Sepsis",
+          "isCorrect": false
+        },
+        {
+          "id": "Fg7nC2PTa7fhoYxmpgQkK",
+          "text": "B) Dəmirdefisitli anemiya",
+          "isCorrect": true
+        },
+        {
+          "id": "RV-IFeX_kt5jobrvJBxwm",
+          "text": "C) Hemolitik anemiya",
+          "isCorrect": false
+        },
+        {
+          "id": "NJDWzWv7-QD694agwr218",
+          "text": "D) Kəskin hepatit",
+          "isCorrect": false
+        },
+        {
+          "id": "TGe8oPkRPKhnLXobEqg4_",
+          "text": "E) Vərəm",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "3xThB4VgjxNBLBgHpElpi",
+      "text": "191) Limfatik düyünlərin struktur və funksional differensiasiyası nə vaxt tamamlanır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "bGcdWlCrwLHshmlmQTJoJ",
+          "text": "A) 1-3 yaşda",
+          "isCorrect": false
+        },
+        {
+          "id": "Oar6uEnfIVSFOA53MNxIr",
+          "text": "B) 1 ayında",
+          "isCorrect": false
+        },
+        {
+          "id": "7LEjTXl33g5l3nS6-d0hJ",
+          "text": "C) 7-8 yaşda",
+          "isCorrect": false
+        },
+        {
+          "id": "r215ztJPGE38X6MxZ8bw2",
+          "text": "D) 5-6 yaşda",
+          "isCorrect": false
+        },
+        {
+          "id": "ih2DNl0zawft23RIS-fdI",
+          "text": "E) 12-13 yaşda",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "eaVcz9Kmy_KvgNNaGhEMD",
+      "text": "192) 1-3 yaşlı uşaqlarda limfa düyünlərin morfofunksional yetişməməzliyi nəyə səbəb ola bilər?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "qZooKEDxi55B8bmyDLeRm",
+          "text": "A) Mikroorqanizimlərin zərərsizləşdirilməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "kmzEAd39EZKoVEdanG89I",
+          "text": "B) Limfa düyünlərin irinli reaksiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "4Wfp8RIp-FD-9SUdwbhGk",
+          "text": "C) Limfa düyünlərin kazeoz reaksiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "DuUmYMuesPwthKDHUc5gM",
+          "text": "D) İltihabi prosessin generalizasiyası, sepsis",
+          "isCorrect": true
+        },
+        {
+          "id": "WFzX3WS7QRZDVZQzMw2kn",
+          "text": "E) Limfadenitlər",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "07SZav30VU-I9HCRLfnkL",
+      "text": "6) Yara yerini yandırmaq",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "CRgKS5ugD34HKbWV3HC95",
+          "text": "A) 1,2,3",
+          "isCorrect": false
+        },
+        {
+          "id": "r2sCOdWSqY9f-tBcLg84Y",
+          "text": "B) 1,2,6",
+          "isCorrect": true
+        },
+        {
+          "id": "4ZCT6sZkJzcOaik0Ld3be",
+          "text": "C) 4,5,6",
+          "isCorrect": false
+        },
+        {
+          "id": "Z7zZaqgzd-PqG_UnzXFmF",
+          "text": "D) 1,3,5",
+          "isCorrect": false
+        },
+        {
+          "id": "cmkCntb0U2O-a-f3wIiXB",
+          "text": "E) 1,3,4",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "k73vgENZEyshDRlbiEPX5",
+      "text": "194) 1 həftədən sonra poliomielitlə xəstələnmiş uşağın qanında hansı anticisimlərin titrinin 1:4-dən çox artması xəstələnmənin diaqnostik təsdiqi sayılır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "sKFJkOpFtIgIUuSCe2wgU",
+          "text": "A) Ig A",
+          "isCorrect": false
+        },
+        {
+          "id": "jCZcqFyFoYd9OXV3E88Xh",
+          "text": "B) Ig A və Ig M",
+          "isCorrect": false
+        },
+        {
+          "id": "UQpX3dJ8mWAyJcA0ldpff",
+          "text": "C) Ig G",
+          "isCorrect": false
+        },
+        {
+          "id": "4dgosexVF5rVBc5t047Dm",
+          "text": "D) Ig M",
+          "isCorrect": true
+        },
+        {
+          "id": "oBfUXhD4vU-qkx6f_oAqb",
+          "text": "E) Ig M və Ig G",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "NvTahsjImWQdBqx3TSHD_",
+      "text": "195) Aşağıdakılardan hansı konyuqasiya olmuş (düz) hiperbilirubinemiya üçün doğrudur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "eFT9XBMyy12diFQCdYTUy",
+          "text": "A) Hemolizin nəticəsində yaranır",
+          "isCorrect": false
+        },
+        {
+          "id": "VR3zLfF0VcUcMN4OQIQi8",
+          "text": "B) Hamişə patoloji vəziyyətin əlamətidir",
+          "isCorrect": true
+        },
+        {
+          "id": "3VHWRT3ToeFPO4al-l87J",
+          "text": "C) Fizioloji vəziyyətə aididir",
+          "isCorrect": false
+        },
+        {
+          "id": "UzF00fCrR0rVI6R8C6Bdd",
+          "text": "D) Nüvə sarılığı törədir",
+          "isCorrect": false
+        },
+        {
+          "id": "8fU-bxUEbift5N63tVUog",
+          "text": "E) Xolestaz əlamətinə aid deyil",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "xkyq2iCkmGB_bXDT5ZKdw",
+      "text": "196) Qeyri-düz hiperbilirubinemiya hansı xəstəlik üçün xarakterdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "OuFywZMiwD8K3cleKY1Ez",
+          "text": "A) Tranzitər neonatal xolestaz",
+          "isCorrect": false
+        },
+        {
+          "id": "2LgLEIgzBZRWNhTSgRI1B",
+          "text": "B) Sitrin defisiti",
+          "isCorrect": false
+        },
+        {
+          "id": "QksDe6WQfJf0k4CqZyrSB",
+          "text": "C) Kriqler-Najar sindromu",
+          "isCorrect": true
+        },
+        {
+          "id": "LA7-Z71e6R5Scn8Sbhe0C",
+          "text": "D) alfa-1-antitripsin defisiti",
+          "isCorrect": false
+        },
+        {
+          "id": "syR049GYRw4yZhdyxdace",
+          "text": "E) Rotor sindromu",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "VFUQJhO-04eirjXP1hyoh",
+      "text": "197) Hansı bətndaxili infeksiya üçün baş beyində kalsifikatların olması xarakterikdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "iMTJPpXvvZbyxE5IJH1yG",
+          "text": "A) Listerioz",
+          "isCorrect": false
+        },
+        {
+          "id": "ndtsFi8wDxuPwhlv6PI4A",
+          "text": "B) IIV-infeksiya",
+          "isCorrect": false
+        },
+        {
+          "id": "LZh_v90qfsKkQbXI5a3_y",
+          "text": "C) Xlamidioz",
+          "isCorrect": false
+        },
+        {
+          "id": "UpSG1a1A3_MBWluKPEYlJ",
+          "text": "D) Toksoplazmoz",
+          "isCorrect": true
+        },
+        {
+          "id": "xqRNl-aJG5lYyAfMMXuhT",
+          "text": "E) B-hepatiti",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "dPzGbXau2RFlWIu7UBdVk",
+      "text": "198) Aşağıdakılardan hansı birinci dərəcəli serebral işemiya əlamətinə aididir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "fcUJMxumufvxguiXl1CaO",
+          "text": "A) Böyük əmgəyin şişkinliyi",
+          "isCorrect": false
+        },
+        {
+          "id": "GhZUelKsrkN7ps9KcTzxu",
+          "text": "B) Oyanıqlıq sindromu",
+          "isCorrect": true
+        },
+        {
+          "id": "TOGI4JF-kOuq_0QmDnWnB",
+          "text": "C) Koma",
+          "isCorrect": false
+        },
+        {
+          "id": "ZZO30aoIJZ-EmsOIp9qlo",
+          "text": "D) Qicolma",
+          "isCorrect": false
+        },
+        {
+          "id": "7Hu4Yk-kyHokax8xtIrU-",
+          "text": "E) Qreffe simptomu",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "-mphuycIQ6DbBLRp2cOfD",
+      "text": "199) Yenidoğulmuşlarda laxtalanma faktorunun aşağı olması onları qoruyur:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "ikgj5RH9VxTDOLN1KJ9kL",
+          "text": "A) hemoqlobinin səviyyəsinin azalmasından",
+          "isCorrect": false
+        },
+        {
+          "id": "OcnZa1BrVxmaAgwkJkOFT",
+          "text": "B) trombositlərin miqdarının azalmasından",
+          "isCorrect": false
+        },
+        {
+          "id": "vq_nWHVXMYTFePijH7nLz",
+          "text": "C) emboliyadan",
+          "isCorrect": false
+        },
+        {
+          "id": "Of2Tv-KY6sLA7xJE0dZow",
+          "text": "D) arterial təzyiqin yüksəlməsindən",
+          "isCorrect": false
+        },
+        {
+          "id": "sdd5lAye-lUkvlCw15Igb",
+          "text": "E) trombozdan",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "zu9xzwH5wWD8BexBfW0vx",
+      "text": "200) Uşaqlarda əzələlərin hipertrofiyası hansı xəstəliklərdə müşahidə olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "lakZF6bl0pq8HQk13P1Mu",
+          "text": "A) Artritlər",
+          "isCorrect": false
+        },
+        {
+          "id": "8SVeXuohJjpGrg3GHnlNI",
+          "text": "B) Poliomielit",
+          "isCorrect": false
+        },
+        {
+          "id": "1IPyyUqnevnnjijxvPz5P",
+          "text": "C) Proqressiv əzələ distrofiyası",
           "isCorrect": false
         },
         {
@@ -70,6 +6802,5 @@
       "required": true,
       "points": 1
     }
-    // Note: This file would contain 198 more questions in the same format
   ]
 }
