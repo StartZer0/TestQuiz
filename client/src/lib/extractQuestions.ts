@@ -7,7 +7,14 @@ export async function extractQuestionsFromDocument(file: File): Promise<{ title:
     formData.append('document', file);
 
     // Send the file to the backend for processing
-    const response = await fetch('/api/quizzes/extract', {
+    // Use the dedicated Netlify function for file uploads in production
+    const apiUrl = process.env.NODE_ENV === 'production'
+      ? '/.netlify/functions/upload/extract'
+      : '/api/quizzes/extract';
+
+    console.log('Sending file to:', apiUrl);
+
+    const response = await fetch(apiUrl, {
       method: 'POST',
       body: formData,
     });

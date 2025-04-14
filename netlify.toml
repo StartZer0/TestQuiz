@@ -11,6 +11,10 @@
 [functions]
   node_bundler = "esbuild"
 
+  # Configure the upload function specifically
+  [functions.upload]
+    included_files = ["dist/lib/**"]
+
 # Configure file upload handling
 [[headers]]
   for = "/api/*"
@@ -20,6 +24,14 @@
     Access-Control-Allow-Headers = "*"
     Access-Control-Allow-Methods = "GET, POST, PUT, DELETE, OPTIONS"
 
+# Specific redirect for file uploads
+[[redirects]]
+  from = "/api/quizzes/extract"
+  to = "/.netlify/functions/upload/extract"
+  status = 200
+  force = true
+
+# General API redirects
 [[redirects]]
   from = "/api/*"
   to = "/.netlify/functions/server/:splat"
