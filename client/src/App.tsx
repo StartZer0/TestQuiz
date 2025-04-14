@@ -11,6 +11,7 @@ import QuizDetail from "@/pages/quiz-detail";
 import TakeQuiz from "@/pages/take-quiz";
 import Help from "@/pages/help";
 import TestOption from "@/pages/test-option";
+import CombineQuizzes from "@/pages/combine-quizzes";
 
 function Router() {
   return (
@@ -25,6 +26,7 @@ function Router() {
       </Route>
       <Route path="/help" component={Help} />
       <Route path="/test-options" component={TestOption} />
+      <Route path="/combine-quizzes" component={CombineQuizzes} />
       {/* Fallback to 404 */}
       <Route component={NotFound} />
     </Switch>
