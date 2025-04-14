@@ -16,6 +16,7 @@ import { Card, CardContent } from '@/components/ui/card';
 import { shuffleArray } from '@/lib/utils';
 import { Switch } from '@/components/ui/switch';
 import { Label } from '@/components/ui/label';
+import { Slider } from '@/components/ui/slider';
 
 const Home: React.FC = () => {
   const [, navigate] = useLocation();
@@ -34,6 +35,9 @@ const Home: React.FC = () => {
   const [quizLink, setQuizLink] = useState<string>('');
   const [shuffleQuestions, setShuffleQuestions] = useState<boolean>(false);
   const [originalQuizData, setOriginalQuizData] = useState<QuizData | null>(null);
+  const [questionLimit, setQuestionLimit] = useState<number>(60);
+  const [fullQuizData, setFullQuizData] = useState<QuizData | null>(null);
+  const [hasMoreQuestions, setHasMoreQuestions] = useState<boolean>(false);
 
   // Handle document file upload and processing
   const handleDocumentFileChange = (file: File) => {
@@ -68,8 +72,12 @@ const Home: React.FC = () => {
     setLoading(true);
     try {
       const extractedData = await extractQuestionsFromDocument(documentFile);
-      setQuizData(extractedData);
-      setOriginalQuizData(extractedData);
+      setFullQuizData(extractedData);
+
+      // Apply question limit if there are more questions than the limit
+      const limitedData = selectRandomQuestions(extractedData, questionLimit, shuffleQuestions);
+      setQuizData(limitedData);
+      setOriginalQuizData(limitedData);
       setCurrentStep('edit');
     } catch (error) {
       toast({
@@ -96,8 +104,12 @@ const Home: React.FC = () => {
     setLoading(true);
     try {
       const parsedData = await parseQuizJsonFile(jsonFile);
-      setQuizData(parsedData);
-      setOriginalQuizData(parsedData);
+      setFullQuizData(parsedData);
+
+      // Apply question limit if there are more questions than the limit
+      const limitedData = selectRandomQuestions(parsedData, questionLimit, shuffleQuestions);
+      setQuizData(limitedData);
+      setOriginalQuizData(limitedData);
       setCurrentStep('quiz');
     } catch (error) {
       toast({
@@ -123,8 +135,12 @@ const Home: React.FC = () => {
 
     try {
       const parsedData = JSON.parse(jsonInput) as QuizData;
-      setQuizData(parsedData);
-      setOriginalQuizData(parsedData);
+      setFullQuizData(parsedData);
+
+      // Apply question limit if there are more questions than the limit
+      const limitedData = selectRandomQuestions(parsedData, questionLimit, shuffleQuestions);
+      setQuizData(limitedData);
+      setOriginalQuizData(limitedData);
       setCurrentStep('quiz');
     } catch (error) {
       toast({
@@ -224,6 +240,45 @@ const Home: React.FC = () => {
     }
   };
 
+  // Function to select random questions from the full quiz data
+  const selectRandomQuestions = (data: QuizData, limit: number, shuffle: boolean = false) => {
+    if (!data || !data.questions || data.questions.length === 0) return data;
+
+    // Store the full quiz data if not already stored
+    if (!fullQuizData) {
+      setFullQuizData(data);
+    }
+
+    // Check if we have more questions than the limit
+    const totalQuestions = data.questions.length;
+    setHasMoreQuestions(totalQuestions > limit);
+
+    // If we don't have more questions than the limit, return all questions
+    if (totalQuestions <= limit) {
+      return shuffle ? {
+        ...data,
+        questions: shuffleArray(data.questions)
+      } : data;
+    }
+
+    // Select random questions
+    let selectedQuestions = [...data.questions];
+
+    // Shuffle the questions if needed
+    if (shuffle) {
+      selectedQuestions = shuffleArray(selectedQuestions);
+    }
+
+    // Take only the first 'limit' questions
+    selectedQuestions = selectedQuestions.slice(0, limit);
+
+    // Return the limited quiz data
+    return {
+      ...data,
+      questions: selectedQuestions
+    };
+  };
+
   // Handle shuffle toggle
   const handleShuffleToggle = (checked: boolean) => {
     setShuffleQuestions(checked);
@@ -241,6 +296,35 @@ const Home: React.FC = () => {
       // Restore original order
       setQuizData(originalQuizData);
     }
+  };
+
+  // Handle question limit change
+  const handleQuestionLimitChange = (value: number) => {
+    setQuestionLimit(value);
+
+    if (!fullQuizData) return;
+
+    // Apply the new limit to the quiz data
+    const limitedQuizData = selectRandomQuestions(fullQuizData, value, shuffleQuestions);
+    setQuizData(limitedQuizData);
+    setOriginalQuizData(limitedQuizData);
+  };
+
+  // Generate a new set of random questions
+  const handleGenerateNewQuiz = () => {
+    if (!fullQuizData) return;
+
+    // Select a new set of random questions
+    const newQuizData = selectRandomQuestions(fullQuizData, questionLimit, true);
+    setQuizData(newQuizData);
+    setOriginalQuizData(newQuizData);
+    // Reset quiz state
+    setCurrentStep('quiz');
+
+    toast({
+      title: "New Quiz Generated",
+      description: `Generated a new quiz with ${questionLimit} random questions.`
+    });
   };
 
   // Handle quiz completion
@@ -596,19 +680,48 @@ const Home: React.FC = () => {
               >
                 Back to Edit
               </Button>
-              <div className="flex flex-col items-end space-y-2">
-                <div className="flex items-center space-x-2 mb-2">
+              <div className="flex flex-col items-end space-y-4">
+                <div className="flex items-center space-x-3 p-3 bg-primary-50 border border-primary-200 rounded-lg">
+                  <div className="flex items-center space-x-2">
+                    <div className="bg-primary-100 p-1.5 rounded-full">
+                      <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 text-primary-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4" />
+                      </svg>
+                    </div>
+                    <Label htmlFor="shuffle-export" className="cursor-pointer font-medium">
+                      Shuffle Questions
+                    </Label>
+                  </div>
                   <Switch
                     id="shuffle-export"
                     checked={shuffleQuestions}
                     onCheckedChange={handleShuffleToggle}
+                    className="scale-125"
                   />
-                  <Label htmlFor="shuffle-export" className="cursor-pointer text-sm">
-                    Shuffle Questions
-                  </Label>
                 </div>
+
+                {/* Question Limit (if applicable) */}
+                {hasMoreQuestions && fullQuizData && (
+                  <div className="flex items-center space-x-3 p-3 bg-neutral-50 border border-neutral-200 rounded-lg">
+                    <div className="flex-1">
+                      <Label htmlFor="export-limit" className="font-medium block mb-1">
+                        Questions: {questionLimit}
+                      </Label>
+                      <Slider
+                        id="export-limit"
+                        min={10}
+                        max={Math.min(fullQuizData.questions.length, 100)}
+                        step={5}
+                        value={[questionLimit]}
+                        onValueChange={(value) => handleQuestionLimitChange(value[0])}
+                      />
+                    </div>
+                  </div>
+                )}
+
                 <Button
                   onClick={() => setCurrentStep('quiz')}
+                  className="px-6"
                 >
                   Take Quiz
                 </Button>
@@ -622,20 +735,91 @@ const Home: React.FC = () => {
           <div className="max-w-3xl mx-auto">
             <Card className="mb-4">
               <CardContent className="pt-6">
-                <div className="flex items-center justify-between">
-                  <div className="flex items-center space-x-2">
-                    <Switch
-                      id="shuffle-mode"
-                      checked={shuffleQuestions}
-                      onCheckedChange={handleShuffleToggle}
-                    />
-                    <Label htmlFor="shuffle-mode" className="cursor-pointer">
-                      Shuffle Questions
-                    </Label>
+                <div className="space-y-6">
+                  {/* Shuffle Toggle - More Visible */}
+                  <div className="p-4 bg-primary-50 border border-primary-200 rounded-lg">
+                    <div className="flex items-center justify-between">
+                      <div className="flex items-center space-x-3">
+                        <div className="bg-primary-100 p-2 rounded-full">
+                          <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 text-primary-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4" />
+                          </svg>
+                        </div>
+                        <div>
+                          <Label htmlFor="shuffle-mode" className="text-base font-medium cursor-pointer">
+                            Shuffle Questions
+                          </Label>
+                          <p className="text-sm text-neutral-600 mt-1">
+                            {shuffleQuestions ? 'Questions will be presented in random order' : 'Questions will be presented in original order'}
+                          </p>
+                        </div>
+                      </div>
+                      <Switch
+                        id="shuffle-mode"
+                        checked={shuffleQuestions}
+                        onCheckedChange={handleShuffleToggle}
+                        className="scale-125"
+                      />
+                    </div>
                   </div>
-                  <div className="text-sm text-neutral-500">
-                    {shuffleQuestions ? 'Questions will be presented in random order' : 'Questions will be presented in original order'}
-                  </div>
+
+                  {/* Question Limit Slider */}
+                  {hasMoreQuestions && fullQuizData && (
+                    <div className="p-4 bg-neutral-50 border border-neutral-200 rounded-lg">
+                      <div className="flex items-center justify-between mb-3">
+                        <div className="flex items-center space-x-3">
+                          <div className="bg-neutral-100 p-2 rounded-full">
+                            <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 text-neutral-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
+                            </svg>
+                          </div>
+                          <div>
+                            <Label htmlFor="question-limit" className="text-base font-medium">
+                              Number of Questions
+                            </Label>
+                            <p className="text-sm text-neutral-600 mt-1">
+                              Select {questionLimit} out of {fullQuizData.questions.length} available questions
+                            </p>
+                          </div>
+                        </div>
+                        <div className="text-xl font-bold text-primary-600">
+                          {questionLimit}
+                        </div>
+                      </div>
+
+                      <div className="px-2">
+                        <Slider
+                          id="question-limit"
+                          min={10}
+                          max={Math.min(fullQuizData.questions.length, 100)}
+                          step={5}
+                          value={[questionLimit]}
+                          onValueChange={(value) => handleQuestionLimitChange(value[0])}
+                          className="my-4"
+                        />
+                        <div className="flex justify-between text-xs text-neutral-500">
+                          <span>10</span>
+                          <span>{Math.min(fullQuizData.questions.length, 100)}</span>
+                        </div>
+                      </div>
+                    </div>
+                  )}
+
+                  {/* Generate New Quiz Button */}
+                  {hasMoreQuestions && fullQuizData && (
+                    <div className="flex justify-center">
+                      <Button
+                        onClick={handleGenerateNewQuiz}
+                        variant="outline"
+                        className="w-full py-6 text-base"
+                      >
+                        <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+                        </svg>
+                        Generate Another Test with Different Questions
+                      </Button>
+                    </div>
+                  )}
                 </div>
               </CardContent>
             </Card>
