@@ -10,27 +10,30 @@ TestQuiz is an interactive quiz application that allows users to create, take, a
 - View detailed results summary at the end of each quiz
 - Share quizzes with others
 
-## Deployment on Replit
+## Deployment on Netlify
 
-This application is configured for easy deployment on Replit:
+This application is configured for easy deployment on Netlify, which offers a generous free tier:
 
 1. **Fork the Repository**
    - Fork this repository to your GitHub account
 
-2. **Create a New Replit Project**
-   - Go to [Replit](https://replit.com)
-   - Click "Create Repl"
-   - Select "Import from GitHub"
-   - Choose the forked repository
+2. **Deploy to Netlify**
+   - Go to [Netlify](https://app.netlify.com/)
+   - Click "Add new site" → "Import an existing project"
+   - Connect to your GitHub account and select the forked repository
+   - Configure the build settings:
+     - Build command: `npm run build`
+     - Publish directory: `dist/public`
+     - Functions directory: `netlify/functions`
+   - Click "Deploy site"
 
-3. **Run the Application**
-   - Replit will automatically install dependencies
-   - Click the "Run" button to start the application
-   - Your application will be available at a URL like `https://testquiz.yourusername.repl.co`
+3. **Access Your Application**
+   - Once deployed, Netlify will provide a URL (e.g., `random-name.netlify.app`)
+   - Your application is now publicly accessible!
 
-4. **Share Your Application**
-   - Use the "Share" button in Replit to get a shareable link
-   - Anyone with the link can access and use your quiz application
+4. **Custom Domain (Optional)**
+   - In your Netlify dashboard, go to "Domain settings"
+   - Click "Add custom domain" and follow the instructions
 
 ## Local Development
 

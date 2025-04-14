@@ -56,22 +56,19 @@ app.use((req, res, next) => {
     serveStatic(app);
   }
 
-  // For Replit and local development
-  const port = process.env.PORT || 3000;
-  server.listen({
-    port: Number(port),
-    host: "0.0.0.0",
-    reusePort: true,
-  }, () => {
-    log(`serving on port ${port}`);
-    // Log a special message for Replit
-    if (process.env.REPL_ID) {
-      log(`Running on Replit! Access your app at https://${process.env.REPL_SLUG}.${process.env.REPL_OWNER}.repl.co`);
-    }
-  });
+  // For local development and non-serverless environments
+  if (process.env.NODE_ENV !== 'production' || process.env.NETLIFY !== 'true') {
+    const port = process.env.PORT || 3000;
+    server.listen({
+      port: Number(port),
+      host: "0.0.0.0",
+      reusePort: true,
+    }, () => {
+      log(`serving on port ${port}`);
+    });
+  }
 
-  // For serverless environments like Netlify and Vercel
-  // Export the Express app and server for serverless functions
+  // For serverless environments like Netlify
   module.exports = server;
   module.exports.handler = server;
 })();
