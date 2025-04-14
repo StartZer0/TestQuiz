@@ -681,15 +681,28 @@ const Home: React.FC = () => {
                 Back to Edit
               </Button>
               <div className="flex flex-col items-end space-y-4">
-                <div className="flex items-center space-x-3 p-3 bg-primary-50 border border-primary-200 rounded-lg">
+                <div className={`flex items-center space-x-3 p-3 rounded-lg transition-colors duration-300 ${shuffleQuestions
+                  ? 'bg-green-50 border border-green-300 shadow-sm'
+                  : 'bg-primary-50 border border-primary-200'}`}>
                   <div className="flex items-center space-x-2">
-                    <div className="bg-primary-100 p-1.5 rounded-full">
-                      <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 text-primary-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <div className={`p-1.5 rounded-full transition-colors duration-300 ${shuffleQuestions
+                      ? 'bg-green-100 shadow-sm'
+                      : 'bg-primary-100'}`}>
+                      <svg xmlns="http://www.w3.org/2000/svg" className={`h-5 w-5 transition-colors duration-300 ${shuffleQuestions
+                        ? 'text-green-600'
+                        : 'text-primary-600'}`} fill="none" viewBox="0 0 24 24" stroke="currentColor">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4" />
                       </svg>
                     </div>
-                    <Label htmlFor="shuffle-export" className="cursor-pointer font-medium">
+                    <Label htmlFor="shuffle-export" className={`cursor-pointer font-medium transition-colors duration-300 ${shuffleQuestions
+                      ? 'text-green-700'
+                      : ''}`}>
                       Shuffle Questions
+                      {shuffleQuestions && (
+                        <span className="ml-2 inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-green-100 text-green-800">
+                          Active
+                        </span>
+                      )}
                     </Label>
                   </div>
                   <Switch
@@ -701,12 +714,20 @@ const Home: React.FC = () => {
                 </div>
 
                 {/* Question Limit (if applicable) */}
-                {hasMoreQuestions && fullQuizData && (
-                  <div className="flex items-center space-x-3 p-3 bg-neutral-50 border border-neutral-200 rounded-lg">
+                {fullQuizData && (
+                  <div className="flex items-center space-x-3 p-3 bg-blue-50 border border-blue-200 rounded-lg shadow-sm">
                     <div className="flex-1">
-                      <Label htmlFor="export-limit" className="font-medium block mb-1">
-                        Questions: {questionLimit}
-                      </Label>
+                      <div className="flex items-center justify-between mb-2">
+                        <Label htmlFor="export-limit" className="font-medium text-blue-700 flex items-center">
+                          <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 mr-1 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M7 20l4-16m2 16l4-16M6 9h14M4 15h14" />
+                          </svg>
+                          Questions: <span className="ml-1 font-bold">{questionLimit}</span>
+                        </Label>
+                        <span className="text-xs bg-blue-100 text-blue-800 px-2 py-0.5 rounded-full">
+                          {Math.round((questionLimit / fullQuizData.questions.length) * 100)}% of total
+                        </span>
+                      </div>
                       <Slider
                         id="export-limit"
                         min={10}
@@ -737,19 +758,34 @@ const Home: React.FC = () => {
               <CardContent className="pt-6">
                 <div className="space-y-6">
                   {/* Shuffle Toggle - More Visible */}
-                  <div className="p-4 bg-primary-50 border border-primary-200 rounded-lg">
+                  <div className={`p-4 rounded-lg transition-colors duration-300 ${shuffleQuestions
+                    ? 'bg-green-50 border border-green-300 shadow-sm'
+                    : 'bg-primary-50 border border-primary-200'}`}>
                     <div className="flex items-center justify-between">
                       <div className="flex items-center space-x-3">
-                        <div className="bg-primary-100 p-2 rounded-full">
-                          <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 text-primary-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <div className={`p-2 rounded-full transition-colors duration-300 ${shuffleQuestions
+                          ? 'bg-green-100 shadow-sm'
+                          : 'bg-primary-100'}`}>
+                          <svg xmlns="http://www.w3.org/2000/svg" className={`h-6 w-6 transition-colors duration-300 ${shuffleQuestions
+                            ? 'text-green-600'
+                            : 'text-primary-600'}`} fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4" />
                           </svg>
                         </div>
                         <div>
-                          <Label htmlFor="shuffle-mode" className="text-base font-medium cursor-pointer">
+                          <Label htmlFor="shuffle-mode" className={`text-base font-medium cursor-pointer transition-colors duration-300 ${shuffleQuestions
+                            ? 'text-green-700'
+                            : ''}`}>
                             Shuffle Questions
+                            {shuffleQuestions && (
+                              <span className="ml-2 inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-green-100 text-green-800">
+                                Active
+                              </span>
+                            )}
                           </Label>
-                          <p className="text-sm text-neutral-600 mt-1">
+                          <p className={`text-sm mt-1 transition-colors duration-300 ${shuffleQuestions
+                            ? 'text-green-600'
+                            : 'text-neutral-600'}`}>
                             {shuffleQuestions ? 'Questions will be presented in random order' : 'Questions will be presented in original order'}
                           </p>
                         </div>
@@ -763,31 +799,34 @@ const Home: React.FC = () => {
                     </div>
                   </div>
 
-                  {/* Question Limit Slider */}
-                  {hasMoreQuestions && fullQuizData && (
-                    <div className="p-4 bg-neutral-50 border border-neutral-200 rounded-lg">
+                  {/* Question Limit Slider - More Visible */}
+                  {fullQuizData && (
+                    <div className="p-4 bg-blue-50 border border-blue-200 rounded-lg shadow-sm">
                       <div className="flex items-center justify-between mb-3">
                         <div className="flex items-center space-x-3">
-                          <div className="bg-neutral-100 p-2 rounded-full">
-                            <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 text-neutral-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
+                          <div className="bg-blue-100 p-2 rounded-full shadow-sm">
+                            <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M7 20l4-16m2 16l4-16M6 9h14M4 15h14" />
                             </svg>
                           </div>
                           <div>
-                            <Label htmlFor="question-limit" className="text-base font-medium">
+                            <Label htmlFor="question-limit" className="text-base font-medium text-blue-700">
                               Number of Questions
+                              <span className="ml-2 inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-blue-100 text-blue-800">
+                                Customize
+                              </span>
                             </Label>
-                            <p className="text-sm text-neutral-600 mt-1">
-                              Select {questionLimit} out of {fullQuizData.questions.length} available questions
+                            <p className="text-sm text-blue-600 mt-1">
+                              Select <span className="font-bold">{questionLimit}</span> out of {fullQuizData.questions.length} available questions
                             </p>
                           </div>
                         </div>
-                        <div className="text-xl font-bold text-primary-600">
+                        <div className="text-2xl font-bold text-blue-600 bg-blue-100 h-12 w-12 rounded-full flex items-center justify-center shadow-sm">
                           {questionLimit}
                         </div>
                       </div>
 
-                      <div className="px-2">
+                      <div className="px-2 mt-4">
                         <Slider
                           id="question-limit"
                           min={10}
@@ -797,26 +836,29 @@ const Home: React.FC = () => {
                           onValueChange={(value) => handleQuestionLimitChange(value[0])}
                           className="my-4"
                         />
-                        <div className="flex justify-between text-xs text-neutral-500">
-                          <span>10</span>
-                          <span>{Math.min(fullQuizData.questions.length, 100)}</span>
+                        <div className="flex justify-between text-sm">
+                          <span className="text-blue-700 font-medium">10</span>
+                          <span className="text-blue-700 font-medium">{Math.min(fullQuizData.questions.length, 100)}</span>
                         </div>
                       </div>
                     </div>
                   )}
 
                   {/* Generate New Quiz Button */}
-                  {hasMoreQuestions && fullQuizData && (
+                  {fullQuizData && fullQuizData.questions.length > questionLimit && (
                     <div className="flex justify-center">
                       <Button
                         onClick={handleGenerateNewQuiz}
-                        variant="outline"
-                        className="w-full py-6 text-base"
+                        className="w-full py-6 text-base bg-gradient-to-r from-purple-500 to-indigo-600 hover:from-purple-600 hover:to-indigo-700 text-white shadow-md hover:shadow-lg transition-all duration-300"
                       >
-                        <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
-                        </svg>
-                        Generate Another Test with Different Questions
+                        <div className="flex items-center justify-center">
+                          <div className="bg-white/20 p-1.5 rounded-full mr-3">
+                            <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+                            </svg>
+                          </div>
+                          <span>Generate Another Test with Different Questions</span>
+                        </div>
                       </Button>
                     </div>
                   )}
