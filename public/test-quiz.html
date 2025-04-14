@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Quiz File</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        pre {
+            background-color: #f5f5f5;
+            padding: 10px;
+            border-radius: 5px;
+            overflow: auto;
+            max-height: 400px;
+        }
+        .success {
+            color: green;
+            font-weight: bold;
+        }
+        .error {
+            color: red;
+            font-weight: bold;
+        }
+        button {
+            padding: 10px 15px;
+            background-color: #4a5568;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-right: 10px;
+        }
+        button:hover {
+            background-color: #2d3748;
+        }
+        .info {
+            margin: 20px 0;
+            padding: 10px;
+            background-color: #ebf8ff;
+            border-left: 4px solid #4299e1;
+        }
+    </style>
+</head>
+<body>
+    <h1>Quiz File Test</h1>
+    
+    <div class="info">
+        This page tests if the quiz files can be loaded correctly. Click the buttons below to test different files.
+    </div>
+    
+    <div>
+        <button onclick="testCatalog()">Test Quiz Catalog</button>
+        <button onclick="testQuizFile()">Test Full Quiz File</button>
+    </div>
+    
+    <h2>Results:</h2>
+    <div id="result"></div>
+
+    <script>
+        async function testCatalog() {
+            const resultDiv = document.getElementById('result');
+            resultDiv.innerHTML = 'Loading quiz catalog...';
+            
+            try {
+                const response = await fetch('/quiz-data/quiz-catalog.json');
+                
+                const responseInfo = {
+                    status: response.status,
+                    statusText: response.statusText,
+                    headers: Object.fromEntries([...response.headers]),
+                    url: response.url
+                };
+                
+                if (!response.ok) {
+                    throw new Error(`Failed to fetch: ${response.status} ${response.statusText}`);
+                }
+                
+                const data = await response.json();
+                
+                resultDiv.innerHTML = `
+                    <p class="success">Quiz catalog loaded successfully!</p>
+                    <h3>Response Info:</h3>
+                    <pre>${JSON.stringify(responseInfo, null, 2)}</pre>
+                    <h3>Catalog Data:</h3>
+                    <pre>${JSON.stringify(data, null, 2)}</pre>
+                `;
+            } catch (error) {
+                resultDiv.innerHTML = `
+                    <p class="error">Error: ${error.message}</p>
+                    <pre>${error.stack}</pre>
+                `;
+                console.error('Fetch error:', error);
+            }
+        }
+        
+        async function testQuizFile() {
+            const resultDiv = document.getElementById('result');
+            resultDiv.innerHTML = 'Loading quiz file...';
+            
+            try {
+                const response = await fetch('/quiz-data/quiz_full_1000.json');
+                
+                const responseInfo = {
+                    status: response.status,
+                    statusText: response.statusText,
+                    headers: Object.fromEntries([...response.headers]),
+                    url: response.url
+                };
+                
+                if (!response.ok) {
+                    throw new Error(`Failed to fetch: ${response.status} ${response.statusText}`);
+                }
+                
+                const data = await response.json();
+                
+                // Show just the first few questions to avoid overwhelming the display
+                const truncatedData = {
+                    title: data.title,
+                    description: data.description,
+                    questions: data.questions.slice(0, 3),
+                    totalQuestions: data.questions.length
+                };
+                
+                resultDiv.innerHTML = `
+                    <p class="success">Quiz file loaded successfully!</p>
+                    <h3>Response Info:</h3>
+                    <pre>${JSON.stringify(responseInfo, null, 2)}</pre>
+                    <h3>Quiz Data (first 3 questions):</h3>
+                    <pre>${JSON.stringify(truncatedData, null, 2)}</pre>
+                `;
+            } catch (error) {
+                resultDiv.innerHTML = `
+                    <p class="error">Error: ${error.message}</p>
+                    <pre>${error.stack}</pre>
+                `;
+                console.error('Fetch error:', error);
+            }
+        }
+    </script>
+</body>
+</html>
