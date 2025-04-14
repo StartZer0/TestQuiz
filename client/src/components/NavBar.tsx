@@ -32,6 +32,13 @@ const NavBar: React.FC = () => {
               </Link>
             </li>
             <li>
+              <Link href="/quiz-library">
+                <a className={`hover:text-white/80 transition font-medium ${location === '/quiz-library' ? 'text-white' : 'text-white/90'}`}>
+                  Quiz Library
+                </a>
+              </Link>
+            </li>
+            <li>
               <Link href="/combine-quizzes">
                 <a className={`hover:text-white/80 transition font-medium ${location === '/combine-quizzes' ? 'text-white' : 'text-white/90'}`}>
                   Combine Quizzes

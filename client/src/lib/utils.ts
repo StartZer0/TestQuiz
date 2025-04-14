@@ -22,3 +22,41 @@ export function shuffleArray<T>(array: T[]): T[] {
 
   return shuffled;
 }
+
+/**
+ * Selects a random subset of questions from a quiz
+ * @param data The quiz data
+ * @param limit The maximum number of questions to include
+ * @param shuffle Whether to shuffle the questions
+ * @returns A new quiz data object with the selected questions
+ */
+export function selectRandomQuestions(data: any, limit: number, shuffle: boolean = false) {
+  if (!data || !data.questions || data.questions.length === 0) return data;
+
+  // Check if we have more questions than the limit
+  const totalQuestions = data.questions.length;
+
+  // If we don't have more questions than the limit and don't need to shuffle, return the original data
+  if (totalQuestions <= limit && !shuffle) {
+    return data;
+  }
+
+  // Select questions
+  let selectedQuestions = [...data.questions];
+
+  // Shuffle the questions if needed
+  if (shuffle) {
+    selectedQuestions = shuffleArray(selectedQuestions);
+  }
+
+  // Take only the first 'limit' questions if needed
+  if (totalQuestions > limit) {
+    selectedQuestions = selectedQuestions.slice(0, limit);
+  }
+
+  // Return the limited quiz data
+  return {
+    ...data,
+    questions: selectedQuestions
+  };
+}

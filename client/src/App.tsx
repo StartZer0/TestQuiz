@@ -12,6 +12,8 @@ import TakeQuiz from "@/pages/take-quiz";
 import Help from "@/pages/help";
 import TestOption from "@/pages/test-option";
 import CombineQuizzes from "@/pages/combine-quizzes";
+import QuizLibrary from "@/pages/quiz-library";
+import TakePreloadedQuiz from "@/pages/take-preloaded-quiz";
 
 function Router() {
   return (
@@ -27,6 +29,8 @@ function Router() {
       <Route path="/help" component={Help} />
       <Route path="/test-options" component={TestOption} />
       <Route path="/combine-quizzes" component={CombineQuizzes} />
+      <Route path="/quiz-library" component={QuizLibrary} />
+      <Route path="/take-preloaded-quiz" component={TakePreloadedQuiz} />
       {/* Fallback to 404 */}
       <Route component={NotFound} />
     </Switch>

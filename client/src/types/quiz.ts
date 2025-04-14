@@ -1,6 +1,6 @@
 import { QuizData, QuizQuestion, QuizOption } from "@shared/schema";
 
-export type QuizStep = "upload" | "edit" | "export" | "quiz";
+export type QuizStep = "welcome" | "upload" | "edit" | "export" | "quiz";
 
 export interface UploadState {
   file: File | null;

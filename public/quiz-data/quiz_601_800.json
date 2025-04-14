@@ -1,0 +1,32 @@
+{
+  "title": "Quiz 601-800",
+  "description": "Questions 601-800 from the complete quiz set",
+  "questions": [
+    {
+      "id": "q601",
+      "text": "This is a placeholder for question 601",
+      "type": "multiple-choice",
+      "options": [
+        { "id": "a1", "text": "Option 1", "isCorrect": false },
+        { "id": "a2", "text": "Option 2", "isCorrect": true },
+        { "id": "a3", "text": "Option 3", "isCorrect": false },
+        { "id": "a4", "text": "Option 4", "isCorrect": false }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "q602",
+      "text": "This is a placeholder for question 602",
+      "type": "multiple-choice",
+      "options": [
+        { "id": "a1", "text": "Option 1", "isCorrect": false },
+        { "id": "a2", "text": "Option 2", "isCorrect": false },
+        { "id": "a3", "text": "Option 3", "isCorrect": true },
+        { "id": "a4", "text": "Option 4", "isCorrect": false }
+      ],
+      "required": true,
+      "points": 1
+    }
+  ]
+}

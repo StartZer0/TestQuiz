@@ -21,7 +21,7 @@ import { Slider } from '@/components/ui/slider';
 const Home: React.FC = () => {
   const [, navigate] = useLocation();
   const { toast } = useToast();
-  const [currentStep, setCurrentStep] = useState<QuizStep>('upload');
+  const [currentStep, setCurrentStep] = useState<QuizStep>('welcome');
   const [currentTab, setCurrentTab] = useState<'upload' | 'json'>('upload');
   const [documentFile, setDocumentFile] = useState<File | null>(null);
   const [jsonFile, setJsonFile] = useState<File | null>(null);
@@ -359,6 +359,65 @@ const Home: React.FC = () => {
             <StepIndicator currentStep={currentStep} />
           </div>
         </div>
+
+        {/* Welcome View */}
+        {currentStep === 'welcome' && (
+          <div className="max-w-3xl mx-auto text-center">
+            <h1 className="text-4xl font-bold mb-6">Welcome to Quiz Maker</h1>
+            <p className="text-xl text-neutral-600 mb-8">
+              Create, take, and share quizzes with ease.
+            </p>
+
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+              <Card className="hover:shadow-md transition-shadow">
+                <CardContent className="p-6">
+                  <h2 className="text-2xl font-semibold mb-3">Create a New Quiz</h2>
+                  <p className="text-neutral-600 mb-6">
+                    Upload a document or start from scratch to create your quiz.
+                  </p>
+                  <Button
+                    onClick={() => setCurrentStep('upload')}
+                    className="w-full"
+                  >
+                    Create Quiz
+                  </Button>
+                </CardContent>
+              </Card>
+
+              <Card className="hover:shadow-md transition-shadow bg-gradient-to-br from-blue-50 to-indigo-50 border-blue-200">
+                <CardContent className="p-6">
+                  <div className="absolute top-3 right-3 bg-blue-500 text-white text-xs px-2 py-1 rounded-full">New</div>
+                  <h2 className="text-2xl font-semibold mb-3 text-blue-700">Quiz Library</h2>
+                  <p className="text-blue-600 mb-6">
+                    Access our pre-loaded quiz collection with 1000+ questions.
+                  </p>
+                  <Button
+                    className="w-full bg-blue-500 hover:bg-blue-600"
+                    onClick={() => navigate('/quiz-library')}
+                  >
+                    Browse Library
+                  </Button>
+                </CardContent>
+              </Card>
+
+              <Card className="hover:shadow-md transition-shadow">
+                <CardContent className="p-6">
+                  <h2 className="text-2xl font-semibold mb-3">My Quizzes</h2>
+                  <p className="text-neutral-600 mb-6">
+                    View, edit, and share quizzes you've created.
+                  </p>
+                  <Button
+                    variant="outline"
+                    onClick={() => navigate('/my-quizzes')}
+                    className="w-full"
+                  >
+                    View My Quizzes
+                  </Button>
+                </CardContent>
+              </Card>
+            </div>
+          </div>
+        )}
 
         {/* Upload Document View */}
         {currentStep === 'upload' && (
