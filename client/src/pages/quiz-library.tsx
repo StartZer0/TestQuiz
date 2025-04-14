@@ -216,15 +216,15 @@ const QuizLibrary: React.FC = () => {
                       <Slider
                         id="question-limit"
                         min={10}
-                        max={Math.min(selectedQuiz.questionCount, 100)}
-                        step={5}
+                        max={Math.min(selectedQuiz.questionCount, 250)}
+                        step={10}
                         value={[questionLimit]}
                         onValueChange={(value) => setQuestionLimit(value[0])}
                         className="my-4"
                       />
                       <div className="flex justify-between text-sm">
                         <span className="text-blue-700 font-medium">10</span>
-                        <span className="text-blue-700 font-medium">{Math.min(selectedQuiz.questionCount, 100)}</span>
+                        <span className="text-blue-700 font-medium">{Math.min(selectedQuiz.questionCount, 250)}</span>
                       </div>
                     </div>
                   </div>
