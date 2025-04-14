@@ -23,7 +23,7 @@ const TakePreloadedQuiz: React.FC = () => {
         const quizDataStr = localStorage.getItem('selectedQuizData');
         const questionLimitStr = localStorage.getItem('questionLimit');
         const shuffleQuestionsStr = localStorage.getItem('shuffleQuestions');
-        
+
         if (!quizDataStr) {
           toast({
             title: 'No quiz selected',
@@ -33,30 +33,43 @@ const TakePreloadedQuiz: React.FC = () => {
           navigate('/quiz-library');
           return;
         }
-        
+
         // Parse the quiz data
         const fullQuizData = JSON.parse(quizDataStr) as QuizData;
-        const limit = questionLimitStr ? parseInt(questionLimitStr, 10) : 60;
+
+        // Set default question limit
+        let limit;
+        if (questionLimitStr) {
+          // Use stored limit if available
+          limit = parseInt(questionLimitStr, 10);
+        } else if (fullQuizData.questions.length <= 250) {
+          // If fewer than 250 questions, use all questions by default
+          limit = fullQuizData.questions.length;
+        } else {
+          // Otherwise use default of 60
+          limit = 60;
+        }
+
         const shuffle = shuffleQuestionsStr === 'true';
-        
+
         setQuestionLimit(limit);
         setShuffleQuestions(shuffle);
-        
+
         // Apply question limit and shuffle if needed
         let processedQuizData = { ...fullQuizData };
-        
+
         // Apply question limit if needed
         if (limit < fullQuizData.questions.length) {
           let selectedQuestions = [...fullQuizData.questions];
-          
+
           // Shuffle the questions if needed
           if (shuffle) {
             selectedQuestions = shuffleArray(selectedQuestions);
           }
-          
+
           // Take only the first 'limit' questions
           selectedQuestions = selectedQuestions.slice(0, limit);
-          
+
           processedQuizData = {
             ...fullQuizData,
             questions: selectedQuestions
@@ -68,7 +81,7 @@ const TakePreloadedQuiz: React.FC = () => {
             questions: shuffleArray(fullQuizData.questions)
           };
         }
-        
+
         setQuizData(processedQuizData);
       } catch (error) {
         console.error('Error loading quiz data:', error);
@@ -95,26 +108,26 @@ const TakePreloadedQuiz: React.FC = () => {
       // Get the original quiz data
       const quizDataStr = localStorage.getItem('selectedQuizData');
       if (!quizDataStr) return;
-      
+
       const fullQuizData = JSON.parse(quizDataStr) as QuizData;
-      
+
       // Always shuffle for a new quiz
       let selectedQuestions = shuffleArray([...fullQuizData.questions]);
-      
+
       // Apply question limit
       if (questionLimit < fullQuizData.questions.length) {
         selectedQuestions = selectedQuestions.slice(0, questionLimit);
       }
-      
+
       // Set the new quiz data
       const newQuizData = {
         ...fullQuizData,
         questions: selectedQuestions
       };
-      
+
       setQuizData(newQuizData);
       setQuizResults(null);
-      
+
       toast({
         title: 'New Quiz Generated',
         description: `Generated a new quiz with ${questionLimit} random questions.`
@@ -159,8 +172,8 @@ const TakePreloadedQuiz: React.FC = () => {
   return (
     <div className="container mx-auto px-4 py-8">
       <div className="mb-6 flex justify-between items-center">
-        <Button 
-          variant="outline" 
+        <Button
+          variant="outline"
           onClick={handleBackToLibrary}
           className="flex items-center"
         >
@@ -169,9 +182,9 @@ const TakePreloadedQuiz: React.FC = () => {
           </svg>
           Back to Library
         </Button>
-        
+
         {quizData.questions.length < JSON.parse(localStorage.getItem('selectedQuizData') || '{}').questions.length && (
-          <Button 
+          <Button
             variant="outline"
             onClick={handleGenerateNewQuiz}
             className="flex items-center text-purple-600 border-purple-200 bg-purple-50 hover:bg-purple-100"
@@ -183,7 +196,7 @@ const TakePreloadedQuiz: React.FC = () => {
           </Button>
         )}
       </div>
-      
+
       <Card className="mb-6">
         <CardContent className="p-4">
           <div className="flex flex-col md:flex-row md:justify-between md:items-center">
@@ -195,8 +208,8 @@ const TakePreloadedQuiz: React.FC = () => {
             </div>
             <div className="mt-2 md:mt-0 flex items-center">
               <div className={`px-3 py-1 rounded-full text-sm ${
-                shuffleQuestions 
-                  ? 'bg-green-100 text-green-800' 
+                shuffleQuestions
+                  ? 'bg-green-100 text-green-800'
                   : 'bg-neutral-100 text-neutral-600'
               }`}>
                 {shuffleQuestions ? 'Shuffled' : 'Original Order'}
@@ -208,7 +221,7 @@ const TakePreloadedQuiz: React.FC = () => {
           </div>
         </CardContent>
       </Card>
-      
+
       <div className="max-w-3xl mx-auto">
         <QuizTaker
           quizData={quizData}

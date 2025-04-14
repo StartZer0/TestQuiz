@@ -40,8 +40,13 @@ const QuizLibrary: React.FC = () => {
 
   const handleQuizSelect = (quiz: QuizCatalogItem) => {
     setSelectedQuiz(quiz);
-    // Set a reasonable default for the question limit based on the quiz size
-    setQuestionLimit(Math.min(60, quiz.questionCount));
+    // If quiz has fewer than 250 questions, use all questions by default
+    // Otherwise, set a default of 60 questions
+    if (quiz.questionCount <= 250) {
+      setQuestionLimit(quiz.questionCount);
+    } else {
+      setQuestionLimit(60);
+    }
   };
 
   const handleStartQuiz = async () => {

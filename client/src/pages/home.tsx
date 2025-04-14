@@ -74,8 +74,15 @@ const Home: React.FC = () => {
       const extractedData = await extractQuestionsFromDocument(documentFile);
       setFullQuizData(extractedData);
 
-      // Apply question limit if there are more questions than the limit
-      const limitedData = selectRandomQuestions(extractedData, questionLimit, shuffleQuestions);
+      // If quiz has fewer than 250 questions, use all questions by default
+      if (extractedData.questions.length <= 250) {
+        setQuestionLimit(extractedData.questions.length);
+      }
+
+      // Apply question limit
+      const limitedData = selectRandomQuestions(extractedData,
+        extractedData.questions.length <= 250 ? extractedData.questions.length : questionLimit,
+        shuffleQuestions);
       setQuizData(limitedData);
       setOriginalQuizData(limitedData);
       setCurrentStep('edit');
@@ -106,8 +113,15 @@ const Home: React.FC = () => {
       const parsedData = await parseQuizJsonFile(jsonFile);
       setFullQuizData(parsedData);
 
-      // Apply question limit if there are more questions than the limit
-      const limitedData = selectRandomQuestions(parsedData, questionLimit, shuffleQuestions);
+      // If quiz has fewer than 250 questions, use all questions by default
+      if (parsedData.questions.length <= 250) {
+        setQuestionLimit(parsedData.questions.length);
+      }
+
+      // Apply question limit
+      const limitedData = selectRandomQuestions(parsedData,
+        parsedData.questions.length <= 250 ? parsedData.questions.length : questionLimit,
+        shuffleQuestions);
       setQuizData(limitedData);
       setOriginalQuizData(limitedData);
       setCurrentStep('quiz');
@@ -137,8 +151,15 @@ const Home: React.FC = () => {
       const parsedData = JSON.parse(jsonInput) as QuizData;
       setFullQuizData(parsedData);
 
-      // Apply question limit if there are more questions than the limit
-      const limitedData = selectRandomQuestions(parsedData, questionLimit, shuffleQuestions);
+      // If quiz has fewer than 250 questions, use all questions by default
+      if (parsedData.questions.length <= 250) {
+        setQuestionLimit(parsedData.questions.length);
+      }
+
+      // Apply question limit
+      const limitedData = selectRandomQuestions(parsedData,
+        parsedData.questions.length <= 250 ? parsedData.questions.length : questionLimit,
+        shuffleQuestions);
       setQuizData(limitedData);
       setOriginalQuizData(limitedData);
       setCurrentStep('quiz');
