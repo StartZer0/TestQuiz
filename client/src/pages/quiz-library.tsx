@@ -114,7 +114,7 @@ const QuizLibrary: React.FC = () => {
     <div className="container mx-auto px-4 py-8">
       <h1 className="text-3xl font-bold mb-6 text-center">Medical Quiz Library</h1>
       <p className="text-center text-neutral-600 mb-8">
-        Select a quiz section from our pre-loaded medical collection to start practicing
+        Select from our pre-loaded medical quiz collection to start practicing
       </p>
 
       {loading && !selectedQuiz ? (
@@ -126,38 +126,64 @@ const QuizLibrary: React.FC = () => {
           {/* Featured Quizzes */}
           {console.log('Should render full quizzes?', fullQuizzes.length > 0)}
           {fullQuizzes.length > 0 && (
-            <div>
-              <h2 className="text-2xl font-semibold mb-4">Complete Quiz Set</h2>
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div className="mb-8">
+              <h2 className="text-2xl font-semibold mb-4 text-indigo-700">Complete Medical Quiz</h2>
+              <div className="grid grid-cols-1 gap-4">
                 {console.log('Rendering full quizzes:', fullQuizzes)}
                 {fullQuizzes.map((quiz) => (
                   <Card
                     key={quiz.id}
-                    className="cursor-pointer transition-all duration-300 hover:shadow-md border border-neutral-200"
+                    className="cursor-pointer transition-all duration-300 hover:shadow-lg border-2 border-indigo-300 bg-gradient-to-r from-indigo-50 to-blue-50 shadow-md"
                     onClick={() => handleQuizSelect(quiz)}
                   >
-                    <CardContent className="p-6">
-                      <div className="flex items-start">
-                        <div className="flex-shrink-0 w-12 h-12 bg-indigo-100 text-indigo-600 rounded-full flex items-center justify-center text-2xl mr-4">
+                    <CardContent className="p-8">
+                      <div className="flex flex-col items-center text-center mb-6">
+                        <div className="flex-shrink-0 w-20 h-20 bg-indigo-100 text-indigo-600 rounded-full flex items-center justify-center text-4xl mb-4 shadow-md">
                           {quiz.icon}
                         </div>
                         <div>
-                          <h3 className="text-xl font-semibold mb-1">{quiz.title}</h3>
-                          <p className="text-neutral-600 mb-2">{quiz.description}</p>
-                          <div className="flex items-center text-sm text-neutral-500">
-                            <span className="flex items-center">
-                              <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                          <h3 className="text-2xl font-bold mb-2 text-indigo-700">{quiz.title}</h3>
+                          <p className="text-indigo-600 mb-4 max-w-lg mx-auto">{quiz.description}</p>
+                          <div className="flex items-center justify-center space-x-4 text-sm">
+                            <span className="flex items-center bg-indigo-100 text-indigo-700 px-3 py-1 rounded-full font-medium">
+                              <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
                               </svg>
                               {quiz.questionCount} Questions
                             </span>
                             {quiz.featured && (
-                              <span className="ml-3 bg-yellow-100 text-yellow-800 text-xs px-2 py-0.5 rounded-full">
+                              <span className="bg-yellow-100 text-yellow-800 px-3 py-1 rounded-full font-medium flex items-center">
+                                <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z" />
+                                </svg>
                                 Featured
                               </span>
                             )}
                           </div>
                         </div>
+                      </div>
+                      <div className="bg-white p-4 rounded-lg border border-indigo-200 shadow-sm">
+                        <h4 className="font-medium text-indigo-800 mb-2">Click to configure and start:</h4>
+                        <ul className="text-sm text-gray-600 space-y-2">
+                          <li className="flex items-center">
+                            <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 text-green-500 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                            </svg>
+                            Choose how many questions to include
+                          </li>
+                          <li className="flex items-center">
+                            <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 text-green-500 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                            </svg>
+                            Toggle question shuffling on/off
+                          </li>
+                          <li className="flex items-center">
+                            <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 text-green-500 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                            </svg>
+                            Start practicing with immediate feedback
+                          </li>
+                        </ul>
                       </div>
                     </CardContent>
                   </Card>
@@ -206,9 +232,9 @@ const QuizLibrary: React.FC = () => {
 
                 <div className="mb-6">
                   <h3 className="font-medium mb-2">Selected Quiz:</h3>
-                  <div className={`p-3 bg-${selectedQuiz.color}-50 border border-${selectedQuiz.color}-200 rounded-lg`}>
+                  <div className="p-3 bg-indigo-50 border border-indigo-200 rounded-lg">
                     <div className="flex items-center">
-                      <div className={`flex-shrink-0 w-10 h-10 bg-${selectedQuiz.color}-100 text-${selectedQuiz.color}-600 rounded-full flex items-center justify-center text-xl mr-3`}>
+                      <div className="flex-shrink-0 w-10 h-10 bg-indigo-100 text-indigo-600 rounded-full flex items-center justify-center text-xl mr-3">
                         {selectedQuiz.icon}
                       </div>
                       <div>
