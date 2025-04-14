@@ -3,27 +3,6767 @@
   "description": "Questions 801-1000 from the complete quiz set",
   "questions": [
     {
-      "id": "q801",
-      "text": "This is a placeholder for question 801",
+      "id": "3jlASLVfB6Z-dktAAnBT0",
+      "text": "802) Yenidoğulanlarda erkən başlanan sepsis üçün xarakter deyil",
       "type": "multiple-choice",
       "options": [
-        { "id": "a1", "text": "Option 1", "isCorrect": false },
-        { "id": "a2", "text": "Option 2", "isCorrect": true },
-        { "id": "a3", "text": "Option 3", "isCorrect": false },
-        { "id": "a4", "text": "Option 4", "isCorrect": false }
+        {
+          "id": "zvIG8h9dVPgQ3C0ckdtV1",
+          "text": "A) xəstəliyin həyatın ilk 4 günündə başlaması",
+          "isCorrect": false
+        },
+        {
+          "id": "NMzXhHN426D5XyWeD5yqB",
+          "text": "B) İldırımvarı gediş",
+          "isCorrect": false
+        },
+        {
+          "id": "a6N9SjrODpLcGFt16R9MY",
+          "text": "C) Yoluxma mənbəyi əsasən ananın doğuş yolları olması",
+          "isCorrect": false
+        },
+        {
+          "id": "rIa1lZ9EKCXYZ7pT4_yKL",
+          "text": "D) xəstəliyin həyatın 5-6-cı günündən sonra başlaması",
+          "isCorrect": true
+        },
+        {
+          "id": "t35gTA1i38WSi3YVo-yPv",
+          "text": "E) Bir çox orqan və sistemlərin prosesə cəlb olunması, daha çox pnevmoniyanın müşahidə edilməsi",
+          "isCorrect": false
+        }
       ],
       "required": true,
       "points": 1
     },
     {
-      "id": "q802",
-      "text": "This is a placeholder for question 802",
+      "id": "ZOLrkaMMX4h2ChyJG2nh2",
+      "text": "803) Yenidoğulanlarda gec başlanan sepsis üçün xarakter deyil",
       "type": "multiple-choice",
       "options": [
-        { "id": "a1", "text": "Option 1", "isCorrect": false },
-        { "id": "a2", "text": "Option 2", "isCorrect": false },
-        { "id": "a3", "text": "Option 3", "isCorrect": true },
-        { "id": "a4", "text": "Option 4", "isCorrect": false }
+        {
+          "id": "nlvN_ZYQvxIbws7Lj7wmd",
+          "text": "A) xəstəliyin həyatın ilk 4 günündə başlaması",
+          "isCorrect": true
+        },
+        {
+          "id": "P0I78wM655VkGMhLUnTXQ",
+          "text": "B) Ləng gedişli sepsis",
+          "isCorrect": false
+        },
+        {
+          "id": "p5Gggk6_5hCmdH27WXzUf",
+          "text": "C) yoluxma mənbəyi -ananın doğuş yolları və postnatal mühit amilləri",
+          "isCorrect": false
+        },
+        {
+          "id": "pVS_8Yq8PZ0nL17j_A4ga",
+          "text": "D) xəstəliyin həyatın 5-6-cı günündən sonra başlaması",
+          "isCorrect": false
+        },
+        {
+          "id": "w8sJ8Z4qkXLtiyG15PYhA",
+          "text": "E) Daha çox meningitlərin müşahidə edilməsi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "0TA-6-pL6o4aPnpKRNEXA",
+      "text": "804) Yenidoğulmuşlarda hipotireozdan şübhə yaradan klinik alamətlərə aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "nAa9JDy_0KN31y7d0Vzqy",
+          "text": "A) Sinir oyanıqlığı, taxikardiya",
+          "isCorrect": true
+        },
+        {
+          "id": "3cnthpjfPueK8KrhUmbdi",
+          "text": "B) Makroqlossiya, sassın aşağı olması",
+          "isCorrect": false
+        },
+        {
+          "id": "CJpIQ0Y70p503lTycS8VG",
+          "text": "C) Qəbizliyə meyillilik, bradikardiya",
+          "isCorrect": false
+        },
+        {
+          "id": "tRAIj05J-cE6ubRhl4ZEF",
+          "text": "D) Dərinin quru olması, əzələ hipotoniyası",
+          "isCorrect": false
+        },
+        {
+          "id": "xRSu-xeVS0PQIGBztljtl",
+          "text": "E) Uzunsürən sarılıq",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "9F-dyhXl94DEv9e9q3F9_",
+      "text": "805) \"Xortum\" refleksi normada körpənin necə ayına kimi saxlanılır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "PAHEchfqnPc3DgWfIX12_",
+          "text": "A) 10 ayına kimi",
+          "isCorrect": false
+        },
+        {
+          "id": "VAXPcVKZZ4_KE-LouTF09",
+          "text": "B) 3 ayına kimi",
+          "isCorrect": true
+        },
+        {
+          "id": "CGj8os_fh6dOMTRz0cRjD",
+          "text": "C) 12 ayına kimi",
+          "isCorrect": false
+        },
+        {
+          "id": "xPYUzm3ZTk6KXlZhXSZ-x",
+          "text": "D) 20 ayına kimi",
+          "isCorrect": false
+        },
+        {
+          "id": "DYLOHLaAJHbn-OApohdTO",
+          "text": "E) 18 ayına kimi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "8WYo7X_fzTPNpTcVAJhnJ",
+      "text": "806) \"Axtarış refleksi\" normada körpənin necə ayına kimi saxlanılır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "027qlzCadIvWk5jUvujNK",
+          "text": "A) 12 ayına kimi",
+          "isCorrect": false
+        },
+        {
+          "id": "6NybzJGMkMjgvGHVZGGOJ",
+          "text": "B) 16 ayına kimi",
+          "isCorrect": false
+        },
+        {
+          "id": "J37onXq4gMybXziJTbELo",
+          "text": "C) 10 ayına kimi",
+          "isCorrect": false
+        },
+        {
+          "id": "huCdH6DrfeMr_Rext_IwP",
+          "text": "D) 3 ayına kimi",
+          "isCorrect": true
+        },
+        {
+          "id": "FGniiQn9ix3XSX9X7uuui",
+          "text": "E) 22 ayına kimi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "G3mM0XltCMu2Myge_djXR",
+      "text": "807) Erb-Düşen (\"yuxarı\") iflic zamanı hansı nahiyyədə zədələnmə baş verir",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "DDvL9lHRbHaVpV91Zqgij",
+          "text": "A) D5-D6 seqmentlərdə",
+          "isCorrect": false
+        },
+        {
+          "id": "BYwNTv5EvvWB117Kce8y-",
+          "text": "B) C5-C6 seqmentlərdə",
+          "isCorrect": true
+        },
+        {
+          "id": "DHwFfY3gE39kxGUw0KP7f",
+          "text": "C) D3-D4 seqmentlərdə",
+          "isCorrect": false
+        },
+        {
+          "id": "E9862JD_oYKwzwPUaj3Hr",
+          "text": "D) D1-D2 seqmentlərdə",
+          "isCorrect": false
+        },
+        {
+          "id": "rB2qO1YyyDpSP9VElAUwV",
+          "text": "E) L1-L2 seqmentlərdə",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "mOREWt_e4tcPekV1162EV",
+      "text": "808) \"Bulbar simptomokompleks\" (IX, X, XI, XII sinirinlərin zədələnməsi) zamanı uşaqda hansı simptomlar qeyd olunur",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "ORm7M9gdRjQOwma_ANd6D",
+          "text": "A) Bütün reflekslərin sönməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "GO0EnHxx-EfvW9tArPHeU",
+          "text": "B) Müştərək çəpgözlük",
+          "isCorrect": false
+        },
+        {
+          "id": "HJuaaIknex_3jCQSorwUW",
+          "text": "C) \"Batan günəş\" simptomu",
+          "isCorrect": false
+        },
+        {
+          "id": "6ibrjkurhry4i7lRWEDUd",
+          "text": "D) Birtərəfli çəpgölük",
+          "isCorrect": false
+        },
+        {
+          "id": "s9gfa5NXrOrM1AqUWyGs2",
+          "text": "E) Qida qəbulu zamanı çətinliklər, sassın dəyişiklikləri",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "MPEuOB_L8EEgVzpsKB5qC",
+      "text": "809) Yenidoğulanların fizioloji sarılığının əsas səbəbi hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "cxGCiknJkOcRJgxBBzseU",
+          "text": "A) Hipoqlikemiya",
+          "isCorrect": false
+        },
+        {
+          "id": "3OIX07_JFVbTZbl-enbVu",
+          "text": "B) Hemoliz",
+          "isCorrect": false
+        },
+        {
+          "id": "HqNOlXWkhljhjRAwSt_6C",
+          "text": "C) Qlükuronizasiyanın kifayət qədər olmaması",
+          "isCorrect": true
+        },
+        {
+          "id": "QDkV9-iNZIGXkTBDfqFCa",
+          "text": "D) Qanda kreatininin səviyyəsinin artması",
+          "isCorrect": false
+        },
+        {
+          "id": "Ppt_pgsqXMlUOk-qlx5rB",
+          "text": "E) Xolestaz",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "bZK38EFnP1Y7eJjY8TR2i",
+      "text": "810) Parotit infeksiyası üçün nə xarakter deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "9Qh4YHP-qj3BW-7bbrHkw",
+          "text": "A) Ensefalit",
+          "isCorrect": false
+        },
+        {
+          "id": "oKSrd-mABRHd243FftZh2",
+          "text": "B) Nefrit",
+          "isCorrect": true
+        },
+        {
+          "id": "PXKA4RtYI2Wax53XE4U8w",
+          "text": "C) Pankreatit",
+          "isCorrect": false
+        },
+        {
+          "id": "HkpjFUijXJHMaQLPMiruT",
+          "text": "D) Orxit (və ya adneksit)",
+          "isCorrect": false
+        },
+        {
+          "id": "snxn-WMbgz76YrCovTuC1",
+          "text": "E) Submanaibulyar və sublinqval vəzilərin zədələnməsi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "T9evzJXc3vLgvJqCZWMtL",
+      "text": "811) D hipervitaminozun diaqnostikasında əsas informativ üsul hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "Vuq-5cs60a0yjRk4c3zgZ",
+          "text": "A) Qanda şəkərin səviyyəsinin təyini",
+          "isCorrect": false
+        },
+        {
+          "id": "wxHuH4xwbaL_mIfioWO2l",
+          "text": "B) Qanda kreatininin səviyyəsinin təyini",
+          "isCorrect": false
+        },
+        {
+          "id": "iI0qad74pG2T6LhosIrY0",
+          "text": "C) Sulkoviç sınağı",
+          "isCorrect": true
+        },
+        {
+          "id": "VU3dPFuFjdmmLEVrXiGqw",
+          "text": "D) Döş qəfəsinin rentgenoqrafiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "YS5Ugv9lJ4eqYEBlnCCqW",
+          "text": "E) Ultrasəs müəyinəsi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "0gxFDFz10ZO8rRR9GDK2n",
+      "text": "812) Mukovissidozun diaqnostikasında xarakterik əlamət hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "c_iYVYT2VrlDgjF1iloiy",
+          "text": "A) Qanda fosfatların miqdarının artması",
+          "isCorrect": false
+        },
+        {
+          "id": "DMdC5pQNQ_gYxBh97Bw0l",
+          "text": "B) Qanda fosfatların və kalsiumun səviyyəsinin artması",
+          "isCorrect": false
+        },
+        {
+          "id": "02K3pb6HFW-sbSJtRbqQN",
+          "text": "C) Tərdə xloridlərin səviyyəsinin artması",
+          "isCorrect": true
+        },
+        {
+          "id": "h08j-EmuU2Pqzwv9qxUGM",
+          "text": "D) Sidikdə kalsiumun miqdarının artması",
+          "isCorrect": false
+        },
+        {
+          "id": "o_IfWeStDQlwsnjWCiYUy",
+          "text": "E) Qanda şəkərin miqdarının yüksəlməsi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "ITwKEGPFTjA4ayJKcJ7Il",
+      "text": "813) Bronxial astma üçün hansı əlamət xarakterdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "tUUkhs3LVFANXOMELY6kh",
+          "text": "A) Səhərlər \"dolu ağızla\" irinli bəlğəmin ifrazı",
+          "isCorrect": false
+        },
+        {
+          "id": "j2UqA6WJ3vG9__ay5k8jl",
+          "text": "B) Ekspirator təngnəfəsliklə müşayiət olunan bronxospazm tutmaları",
+          "isCorrect": true
+        },
+        {
+          "id": "bZy0FvwE7VFVmZ3QNx5ZJ",
+          "text": "C) Qanda sidik cövhərinin artması",
+          "isCorrect": false
+        },
+        {
+          "id": "tx_sXxwUt4uBC5fSZ7CkV",
+          "text": "D) Əksər hallarda inspirator təngnəfəslik",
+          "isCorrect": false
+        },
+        {
+          "id": "eaY_syRl9QfR_y0NmYbYk",
+          "text": "E) Tərdə və sidikdə xloridlərin artması",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "oQ25gcg44Qrs5cSjnJUm7",
+      "text": "814) Uşaqlarda Chlamydia pneumoniae tərəfindən törədilən kəskin pnevmoniyanın müalicəsi zamanı əsasən hansı antibiotiklər istifadə olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "OjYtoiiHD51FZTjKOW-ga",
+          "text": "A) Makrolidlər",
+          "isCorrect": true
+        },
+        {
+          "id": "1mhZCwb1ywOA-kO6aOEGc",
+          "text": "B) Ftorxinolonlar",
+          "isCorrect": false
+        },
+        {
+          "id": "Es9xX4FrLtB_TZTFFSmTP",
+          "text": "C) Levomisetin",
+          "isCorrect": false
+        },
+        {
+          "id": "KeNpHy2BOvDqqLC1LaPBr",
+          "text": "D) Rifampisin",
+          "isCorrect": false
+        },
+        {
+          "id": "stH-ZcayH8JXMo7UelhNk",
+          "text": "E) Streptomisin",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "cxLz9w6Xywpt3iokcbGoY",
+      "text": "815) Hansı preparatlar bronxial astmanın müalicəsində uzun müddət işlədildikdə astmatik statusun yaranmasına səbəb ola bilər?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "ZlSXDMTy2mlk01lfIvXy4",
+          "text": "A) Montelukast",
+          "isCorrect": false
+        },
+        {
+          "id": "Qvn63kc3vLlJmIwE7Mil5",
+          "text": "B) Antihistamin preparatlar",
+          "isCorrect": false
+        },
+        {
+          "id": "Qa9kuR3PU88t75xI37_Jt",
+          "text": "C) Simpatomimetiklər",
+          "isCorrect": true
+        },
+        {
+          "id": "6uopEeG-SWLYOJ0MEvzdG",
+          "text": "D) Natrium kromoqlikat",
+          "isCorrect": false
+        },
+        {
+          "id": "df8tcf8yTWis2sCeNtqxz",
+          "text": "E) Ketotifen",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "1kVerzbcB0JOTfNAWcgah",
+      "text": "816) Uşaqlarda mikoplazma pnevmoniyasının müalicəsində hansı daha məqsədə uyğundur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "sG9c2Tl4kKHooj3KaOEjM",
+          "text": "A) Makrolidlər",
+          "isCorrect": true
+        },
+        {
+          "id": "5EofX72cUHm5Ngo4wgPRm",
+          "text": "B) Sulfanilamid preparatlar",
+          "isCorrect": false
+        },
+        {
+          "id": "M_jqMAKJRyFLTzcNWDs-7",
+          "text": "C) Ftorxinolonlar",
+          "isCorrect": false
+        },
+        {
+          "id": "8EhDg43R07OfVtchZFxrC",
+          "text": "D) Levomisetin",
+          "isCorrect": false
+        },
+        {
+          "id": "naIJxthQw6cX9nNfXj4tD",
+          "text": "E) Aminoqlikozidlər",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Q4c_mBly3BT6kBcy0nynH",
+      "text": "817) İntermitə olunmuş bronxial astmanın əlamətlərinə aiddir",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "x7PAuUp4EKh2G1Gq-2xgp",
+          "text": "A) Gecə simptomları əydə 3 dəfədən çox qeyd edilir",
+          "isCorrect": false
+        },
+        {
+          "id": "ufOiANWKaZVFOjYvhd9xE",
+          "text": "B) Gündəlik simptomlər mövcuddur",
+          "isCorrect": false
+        },
+        {
+          "id": "Xnqt8LGjfOy_iVd9nR2Zy",
+          "text": "C) Simptomlar həftədə 2 dəfədən çox qeyd edilir",
+          "isCorrect": false
+        },
+        {
+          "id": "10zq6ndiuJ-LIejxWcHIk",
+          "text": "D) Gecə simptomları həftədə 2 dəfədən çox qeyd edilir",
+          "isCorrect": false
+        },
+        {
+          "id": "ESB87Dl9Feia2yWWBkv_7",
+          "text": "E) Simptomlar həftədə 1 dəfədən az qeyd edilir",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "iU3pIGrnHUXcS8hOJ-LX7",
+      "text": "818) Bronxial astmanın bazis terapiyasında işlədilən preparatlara aid deyil",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "QYzlEQcSMB0e6RpWzMRCS",
+          "text": "A) Uzunmüddətli təsirə malik β2-aqənistlər",
+          "isCorrect": false
+        },
+        {
+          "id": "dbdh7oC3jxNe2e5WpJfPu",
+          "text": "B) Eufilin",
+          "isCorrect": true
+        },
+        {
+          "id": "7ZdSQUFi4elvW9XFVOixY",
+          "text": "C) İnhalyasion glukokortikoidlər",
+          "isCorrect": false
+        },
+        {
+          "id": "n5Bj8udUJpFv5BnM43LES",
+          "text": "D) Natrium kromoqlikat",
+          "isCorrect": false
+        },
+        {
+          "id": "925pyQDsuCGgNZNiWICbQ",
+          "text": "E) Uzunmüddətli təsirə malik teofilinlər",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "f2Tk2g4_4uvwMJVWVVNfF",
+      "text": "819) \"Aspirin\" bronxial astması zamanı nə aks göstərişdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "s8OyKlgrDbJof2eLcE2VF",
+          "text": "A) β-adrenomimetiklər",
+          "isCorrect": false
+        },
+        {
+          "id": "8gYX5IzPz7fZfhXk41nem",
+          "text": "B) Ketotifen",
+          "isCorrect": false
+        },
+        {
+          "id": "QcHSA9Erk-Q8wX-GKgDcY",
+          "text": "C) Diklofenak Na",
+          "isCorrect": true
+        },
+        {
+          "id": "Ov7n1yqxhx7HXS6BnG0ff",
+          "text": "D) Eufillin",
+          "isCorrect": false
+        },
+        {
+          "id": "JidQRhe1HjSeD3GORpapv",
+          "text": "E) Kromoqlikat",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "6Lduj2MMEOVfFoyoc_Lz0",
+      "text": "820) Astmatik statusun əsas meyarlarına aiddir",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "jLwqTrhJCJuC2vAfwOY75",
+          "text": "A) β-adrenomimetiklərin tutma zamanı effektiv olmaması",
+          "isCorrect": true
+        },
+        {
+          "id": "KCbAIywG7FMdgUxmYftmg",
+          "text": "B) Əsasən inspirator tipli təngnəfəslik",
+          "isCorrect": false
+        },
+        {
+          "id": "Mqgopn-8Z41TPydqXbB5a",
+          "text": "C) EÇS yüksəlməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "xJ-UX05eCN70jtPefmLSv",
+          "text": "D) Bədən temperaturunun qalxması",
+          "isCorrect": false
+        },
+        {
+          "id": "oNUjvsGdhTE2THczGNvXQ",
+          "text": "E) Rentgenoloji müayinədə infiltrasiya ocaqları",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "szcAaQJG1hMk1GAkriMir",
+      "text": "821) İnhalyasion steroidlərin yerli yanaşı effekti nədir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "ChTEBheiB9D_oyf7YweUw",
+          "text": "A) Bədən temperaturunun yüksəlməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "b3cNcgy9ZaT80NF6Wtr03",
+          "text": "B) Görmə qabiliyyətinin zəifləməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "S6DR-PJUq-_zQlAFyd7Wa",
+          "text": "C) Ağız boşluğunun kandidozu",
+          "isCorrect": true
+        },
+        {
+          "id": "HR_gI_evzCvgz2i-Sow-v",
+          "text": "D) Kəskin böyrək çatışmazlığı",
+          "isCorrect": false
+        },
+        {
+          "id": "71MOAacvLlZbp-ORpTz4V",
+          "text": "E) Eşitmənin pozulması",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "RgP1o213h-eYs2P3x1UWr",
+      "text": "822) Kartagener sindromuna xas olmayan əlamət hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "VISA8Ye95qj_jPVD8_ggR",
+          "text": "A) Daxili orqanların yerdəyişməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "IUxNhLf8S8mY2CLxh4xJ1",
+          "text": "B) Bronxoektazlar",
+          "isCorrect": false
+        },
+        {
+          "id": "zr8uAvHYDE2oe03a9CfH0",
+          "text": "C) Rinosinusopatiya",
+          "isCorrect": false
+        },
+        {
+          "id": "KvsLzpjFKsGUoOXXU9ogV",
+          "text": "D) Xronik otitlər, sinusitlər",
+          "isCorrect": false
+        },
+        {
+          "id": "1bkpmBKbUpeb6L4hU5z-y",
+          "text": "E) Göz patologiyası",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "vaHjvEakvH0_AzVlpFhew",
+      "text": "823) Bronxial astmanın kəskin tutması zamanı təxirəsalınmaz müalicəyə nə aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "38mCPWSKK-ZGUg9V4nhpu",
+          "text": "A) Salbutamol",
+          "isCorrect": false
+        },
+        {
+          "id": "BSgMheHTe3Bqr12GoMa3N",
+          "text": "B) Terbutalin",
+          "isCorrect": false
+        },
+        {
+          "id": "_fHNiVaGbSID2fIsJW_XC",
+          "text": "C) Oksigenoterapiya",
+          "isCorrect": false
+        },
+        {
+          "id": "K8UV9K1cvw3qTHMk2V8h9",
+          "text": "D) Antibiotiklar",
+          "isCorrect": true
+        },
+        {
+          "id": "ne0UaMMMrntiNoR-uv-ZY",
+          "text": "E) Fenoterol",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "c7_XVPjvjBpdNywlvvx9w",
+      "text": "824) İmminodefisiti olan uşaqlar üçün pnevmoriyalın hansı törədicisi daha xarakterikdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "LMCnC9OLBKybp0qQ9V6IR",
+          "text": "A) Pnevmokokklar",
+          "isCorrect": false
+        },
+        {
+          "id": "OxcX2kNe_4RHy8Z7X2Jx_",
+          "text": "B) Viruslar",
+          "isCorrect": true
+        },
+        {
+          "id": "XE--SO88BdHFtGFwYl1sz",
+          "text": "C) Mikoplazma",
+          "isCorrect": false
+        },
+        {
+          "id": "C4rkkQqPYYIul0jdkIO0p",
+          "text": "D) Pnevmosistlar",
+          "isCorrect": false
+        },
+        {
+          "id": "eW4IXavfgLewzON48JWro",
+          "text": "E) Xlamidiyalar",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "3OojYV6F7KDsdMMvyKBRE",
+      "text": "825) Kəskin sadə bronxit üçün hansı xarakterikdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "4AOfXzCTjx-OdCIXtZBpt",
+          "text": "A) Bronxospazm tutmaları ilə ekspirator təngnəfəslik",
+          "isCorrect": false
+        },
+        {
+          "id": "qpJApcIOIQgDJle1-DAWX",
+          "text": "B) Hər iki tərəfindən yayılmış xırıltıların eşidilməsi",
+          "isCorrect": true
+        },
+        {
+          "id": "6UxPszO9lwuthTizwNe_b",
+          "text": "C) Perkussiya zamanı ocaqlı dəyişikliklər",
+          "isCorrect": false
+        },
+        {
+          "id": "Fc0cNUVyE2buS1jQRWMjt",
+          "text": "D) Iri kalibrli lokal (ocaqlı) yaş xırıltıların olması",
+          "isCorrect": false
+        },
+        {
+          "id": "ZDPg1_EXSxZ4pxIbFpJ9Z",
+          "text": "E) Səhər saatlarında \"dolu ağızla\" irinli bəlğəmin ifraz edilməsi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "-lRBzItL5h4tApv_eCSrH",
+      "text": "826) Aşağıdakı əlamətlərdən hansı ağciyar hemosiderozu üçün xarakterikdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "Ms2jEhhJskPZBc7PLM2Zd",
+          "text": "A) qanaxma, bəlğəmdə siderofaqların tapılması, ikterik dəri və selikli qişalar",
+          "isCorrect": true
+        },
+        {
+          "id": "gdEE2_HFKv8aXazOOEUpd",
+          "text": "B) bronxoektazlar, rinosinusopatiya",
+          "isCorrect": false
+        },
+        {
+          "id": "NyE1vWVbmpfj3lZee-Suw",
+          "text": "C) dəxili orqanların əks yerləşməsi, bronxoektazlar",
+          "isCorrect": false
+        },
+        {
+          "id": "8WmcXa96_PTmFScke0Skt",
+          "text": "D) Səhər saatlarında \"dolu ağızla\" irinli bəlğəmin ifraz edilməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "CBuiDe3l3J0p23LDPGNsR",
+          "text": "E) qanda α1-antitripsinin azalması",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "NTnEzcCousDdIY0T6ckPg",
+      "text": "827) Mukovissidoz zamanı ağciyarlarda ən çox rast gələn infeksion agent hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "sn30lJB3Ox4E-_CMxf7Y1",
+          "text": "A) ECHO virusları",
+          "isCorrect": false
+        },
+        {
+          "id": "WTw2MIK8OsRkfTPmACAXF",
+          "text": "B) Proteus vulgaris",
+          "isCorrect": false
+        },
+        {
+          "id": "hPLPSTIl9hEE5a1aSwWVJ",
+          "text": "C) Salmonella",
+          "isCorrect": false
+        },
+        {
+          "id": "RHw533QlZ_jRKRvn8xvcH",
+          "text": "D) Göy-yaşıl irin çöpü (Pseudomonas aeruginosa)",
+          "isCorrect": true
+        },
+        {
+          "id": "i81UsDHXX7shIL-mjqM9b",
+          "text": "E) E. coli",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "4QPVewoZTYLDRo1vXaj8y",
+      "text": "828) Ağciyarların idiopatik diffuz fibrozu (idiopatik fibrozlaşdırıcı alveolit) olan uşağın rentgenoloji müayinəsində müşahidə olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "TFugbhw_KI4EXMUC-Utq4",
+          "text": "A) Rentgenoloji müayinədə plevral boşluqda mayenin olması",
+          "isCorrect": false
+        },
+        {
+          "id": "dI9XYIMEI8dV_gYrh6hpi",
+          "text": "B) Plevral boşluqda havanın olması",
+          "isCorrect": false
+        },
+        {
+          "id": "FgPNmtonsO__GB-sTqzk3",
+          "text": "C) Ağciyar şəffaflığının ocaqlı artması, plevral boşluqda maye",
+          "isCorrect": false
+        },
+        {
+          "id": "N24C5f9SND4L3E6SAK4XD",
+          "text": "D) Yuxarı paylarda xirdə ocaqlı dissemina olmuş infiltratlar",
+          "isCorrect": false
+        },
+        {
+          "id": "tJ7GqtrUpL9eEIwUeQ8sF",
+          "text": "E) Ağciyarlərin \"arı pətəyinə\" bənzər şəkli",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "nTSGBtzqAde7sntPt0h53",
+      "text": "829) Yuvenil revmatoid artrit zamanı hansı əlamətləri müşahidə etmək olar?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "knIsvt6P21TXk8mfJomoD",
+          "text": "A) Üzdə \"kəpənək\" şəklində səpgi",
+          "isCorrect": false
+        },
+        {
+          "id": "WavptjbnzINBQnAQJiGKF",
+          "text": "B) Səhər saatlarında oynaqlarda hərəkət məhdudluğu",
+          "isCorrect": true
+        },
+        {
+          "id": "dqjEQf9FOmuKML5HIdypB",
+          "text": "C) \"Heliotrop səggi\", EÇS azalması",
+          "isCorrect": false
+        },
+        {
+          "id": "THc_tPv9g_CZR1DdszzPf",
+          "text": "D) \"Qottron papulası\"",
+          "isCorrect": false
+        },
+        {
+          "id": "rvy4QaCYC6wP5Woc46vNE",
+          "text": "E) Lupus-nefrit",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "OpuGr0K1ahzjOmAb74kGV",
+      "text": "830) Kisel-Cons görə revmatik qızdırmanın diaqnostikası üçün əsas meyarlardan biri hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "BRf9pOINptWYGW4imtBN5",
+          "text": "A) EKQ-də T-dişciyinin aşağı olması",
+          "isCorrect": false
+        },
+        {
+          "id": "cTlRexddPGDz9LWI8j9uI",
+          "text": "B) ASLO titrinin artması",
+          "isCorrect": false
+        },
+        {
+          "id": "PXoCc0DmUCEltrq6iNIrZ",
+          "text": "C) Abdominal sindrom",
+          "isCorrect": false
+        },
+        {
+          "id": "a7eBurqN4UkRQeakILrpB",
+          "text": "D) EKQ-də QT uzanması",
+          "isCorrect": false
+        },
+        {
+          "id": "UdqNBCjqEHd9oymSdmUe-",
+          "text": "E) Poliartrit",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "szMW0zZkCIAa3HZK4ZWWV",
+      "text": "831) Uşaqlarda qazanılmış üvak qüsurunun formalaşmasının asas səbəbi hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "NkvQdMWuAasGpyRMhteEf",
+          "text": "A) Fibroelastoz",
+          "isCorrect": false
+        },
+        {
+          "id": "yp0dDO8Sy5GdDvQYeHj77",
+          "text": "B) Pnevmoniya",
+          "isCorrect": false
+        },
+        {
+          "id": "RkgB64LEhiOcOmCzITzNV",
+          "text": "C) Yuvenil dermatomiozit",
+          "isCorrect": false
+        },
+        {
+          "id": "L4WnAUbIQ0Jh6BGxVcfky",
+          "text": "D) Yuvenil revmatoid artrit",
+          "isCorrect": false
+        },
+        {
+          "id": "saY0ZXvdu0Xra-4UEpQvD",
+          "text": "E) Revmatik qızdırma",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "HKYywWmJ661Lmo3doq6aZ",
+      "text": "832) Revmatik qızdırma zamanı Sidenqam (kiçik) xoreyanın alamətlərinə aid deyil",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "tsFLc9iuKyigBK23Ith_c",
+          "text": "A) Davamlı toniko-klonik qıcolmalar",
+          "isCorrect": true
+        },
+        {
+          "id": "VMM9JB74GzaQQ0tC8iOAP",
+          "text": "B) Yerimənin pozulması",
+          "isCorrect": false
+        },
+        {
+          "id": "RDgexFLLFDtLEaPQlyc8u",
+          "text": "C) Xottin pozulması",
+          "isCorrect": false
+        },
+        {
+          "id": "UaSGBWeHjxr_wQNXyHR0g",
+          "text": "D) Hiperkinezlər",
+          "isCorrect": false
+        },
+        {
+          "id": "42GoUnwjlIwmiAclqvQzF",
+          "text": "E) Əzələ hipotoniyası",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "nCnXQ2AmjrexS5s_DbjQT",
+      "text": "833) Kisel-Cons görə revmatik qızdırmanan kiçik meyarlarına aid deyil",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "7nDUJlPW2_sBZyFaROu8J",
+          "text": "A) Xoreya",
+          "isCorrect": true
+        },
+        {
+          "id": "5mUehaBRq5wvrxvBW0_9h",
+          "text": "B) ASLO-nun yüksək titri",
+          "isCorrect": false
+        },
+        {
+          "id": "vlD4j5kn2TY81eqkXE0An",
+          "text": "C) Qızdırma",
+          "isCorrect": false
+        },
+        {
+          "id": "qQv-g75w1DlKN6V6hynyS",
+          "text": "D) Artralgiya",
+          "isCorrect": false
+        },
+        {
+          "id": "2OKVnkPFu8rJDCv7ZL5Mr",
+          "text": "E) EKQ-də P-Q intervalının uzanması",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "yYxcIIs1Euh98d7vsgXNo",
+      "text": "834) Revmatik qızdırma zamanı formalaşmış mitral stenoz üçün hansı küy xarakterdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "PyYwLlqM5F0vPNLx087nZ",
+          "text": "A) Ağciyar arteriyası üzərində sistolik küy",
+          "isCorrect": false
+        },
+        {
+          "id": "s2XPqFTC72N4BIBE5TJuM",
+          "text": "B) Diastolik küy",
+          "isCorrect": true
+        },
+        {
+          "id": "Sz23CrJrJH7N7Mf7SLq8b",
+          "text": "C) \"Perikardın sürtülmə\" küyü",
+          "isCorrect": false
+        },
+        {
+          "id": "7kDPE4p5YalvvSWKLmI5u",
+          "text": "D) Sistolik küy",
+          "isCorrect": false
+        },
+        {
+          "id": "BK_goatvSP999-SWtgZdE",
+          "text": "E) Sistolo-diastolik (\"maşın\") küyü",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Nd6URk54Cp3sJC_aFYX9N",
+      "text": "835) Revmatik qızdırma zamanı formalaşmış mitral çatışmazlıq üçün hansı küy xarakterdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "1mx0P8SbMU_TE_uWQv0oh",
+          "text": "A) Sistolik (\"üfürücü\") küy",
+          "isCorrect": true
+        },
+        {
+          "id": "FiX3vVOn5aQX68qBxxgLj",
+          "text": "B) Sistolo-diastolik (\"maşın\") küyü",
+          "isCorrect": false
+        },
+        {
+          "id": "Bb9wmeRpXQQ2jBTt613Ih",
+          "text": "C) \"Perikardın sürtülmə\" küyü",
+          "isCorrect": false
+        },
+        {
+          "id": "_fSJNB52i2b2psYPIt5RF",
+          "text": "D) Ağciyar arteriyası üzərində sistolik küy",
+          "isCorrect": false
+        },
+        {
+          "id": "WnT54bmICn-IZg5HyjDO1",
+          "text": "E) Diastolik küy",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "5kLElD_AQ99ZzhBwZQzgp",
+      "text": "836) Qlukoza-6-fosfatdehidrogenaza defisiti zamanı hansı preparatın təyini məsləhət deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "4Rc33xHGbOniU26zmLj2Q",
+          "text": "A) 5 % qlukoza məhlulu",
+          "isCorrect": false
+        },
+        {
+          "id": "zYiLSiLsjrZdfPjyhhzhp",
+          "text": "B) Ödqovucu preparatlar",
+          "isCorrect": false
+        },
+        {
+          "id": "J7gC7ciMBkL3E0LTwIWwA",
+          "text": "C) Levomisetin",
+          "isCorrect": true
+        },
+        {
+          "id": "qiSqDNc5jr3_fPCXek7P0",
+          "text": "D) Fenobarbital",
+          "isCorrect": false
+        },
+        {
+          "id": "p75SziA8C2L2swAKPMjOW",
+          "text": "E) Vitamin E",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "pIpS32YZ69yLDAsTCz91Z",
+      "text": "837) Revmatik miokardıt zamanı hansı preparat təyin olunmalıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "0VB0vkh3B3VdiZzLv9v18",
+          "text": "A) Levomisetin",
+          "isCorrect": false
+        },
+        {
+          "id": "oGgWp4cLPac_PPz5B9a-t",
+          "text": "B) Penisillin qrupundan antibiotiklər",
+          "isCorrect": true
+        },
+        {
+          "id": "yeuaEFJXxdJenNofsT0pL",
+          "text": "C) Ftorxinolonlar",
+          "isCorrect": false
+        },
+        {
+          "id": "BfCKr_DIWfUt7x3N7IqZs",
+          "text": "D) Asiklovir",
+          "isCorrect": false
+        },
+        {
+          "id": "H9jgbsPWN8rSgjbvCp4DN",
+          "text": "E) Sulfanilamid preparatlar",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "g5q7Q6iXqy3yEL4q7sb-O",
+      "text": "838) Arterial təzyiqin və nəbzin yuxarı ətraflarda aşağı ətraflarla müqayisədə fərqli olması hansı anadangəlmə ürək qüsurunda müşahidə olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "uA39vK6tkWvBvLE_o1l2T",
+          "text": "A) Ağciyar arteriyasının stenozu",
+          "isCorrect": false
+        },
+        {
+          "id": "9VLwfZy5F_kYMU_DcxRoq",
+          "text": "B) Mədəcikarası çəpərin defekti",
+          "isCorrect": false
+        },
+        {
+          "id": "qOYFgMCCEE99V8elL_n8M",
+          "text": "C) Arterial (botal) axacağın açıq qalması",
+          "isCorrect": false
+        },
+        {
+          "id": "GguIJfrsLlEdVk0HC4LvS",
+          "text": "D) Fallo tetradası",
+          "isCorrect": false
+        },
+        {
+          "id": "s_6bX9moiR_8QIOL4ueI1",
+          "text": "E) Aortanın koarktasiyası",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "V1bsJikb5B2dxelF0V0nF",
+      "text": "839) Sistolo-diastolik \"maşın\" küyü hansı anadangəlmə ürək qüsurunda müşahidə olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "amuJo_mdic9wQ-AqzWY09",
+          "text": "A) Qurdeşənəyində",
+          "isCorrect": false
+        },
+        {
+          "id": "Odc5GqxySjOWFRxV2vpB4",
+          "text": "B) Arterial (botal) axacağın açıq qalması",
+          "isCorrect": true
+        },
+        {
+          "id": "fdc9ybq7bL5LxpM5fws-p",
+          "text": "C) Aortal çatışmazlıqda",
+          "isCorrect": false
+        },
+        {
+          "id": "-tJJay9h7XoDz3i1QH6aL",
+          "text": "D) Ağciyar arteriyasının stenozunda",
+          "isCorrect": false
+        },
+        {
+          "id": "izorYaCli7HU1WZAKvAO0",
+          "text": "E) Aortal stenozda",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "PaymQtzG-ni-DjKSGExn0",
+      "text": "840) Uşaqda mədəcik ekstrasistoliyasının EKQ-da tipik əlaməti hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "lQlReWo43PEy-e19d2Ddt",
+          "text": "A) Vaxtından əvvəl yaranan deformasiyalı geniş QRS kompleksi, P dişciyi qeyd edilmir, tam kompensator pauza",
+          "isCorrect": false
+        },
+        {
+          "id": "lFojh-m2Tuzc6wU9Ay3fm",
+          "text": "B) Normal QRS kompleksi, S-T intervalının izoxətdən yuxarı qalxması",
+          "isCorrect": false
+        },
+        {
+          "id": "jNVqkOsHo8QzVkUoK0BbD",
+          "text": "C) Qısalmış QRS kompleksi, S-T intervalının izoxətdən yuxarı qalxması",
+          "isCorrect": false
+        },
+        {
+          "id": "39QlzOXATwDrwiy5JMLDy",
+          "text": "D) Normal QRS kompleksi, P-Q intervalının uzanması",
+          "isCorrect": true
+        },
+        {
+          "id": "YENEiTXyC54Aii4oQDiYE",
+          "text": "E) Qısalmış QRS kompleksi, P-Q intervalının uzanması",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "AWHoTGzVFYRq519di27P_",
+      "text": "841) Tam atrioventrikulyar blokada zamanı (III dərəcəli atrioventrikulyar blokada) qeyd oluna bilən əlamətlərə aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "8EQXuTYP2dMloClFoRPFR",
+          "text": "A) EKQ-da P dişciklərinin ritminin QRS ritmi ilə fərqli olması",
+          "isCorrect": false
+        },
+        {
+          "id": "Hip1FREeZvlt6le6movpF",
+          "text": "B) EKQ-da normal P dişcikləri",
+          "isCorrect": false
+        },
+        {
+          "id": "nJPJO5gm0Z2ebZvCsjg6b",
+          "text": "C) Bradikardiya",
+          "isCorrect": false
+        },
+        {
+          "id": "NG4MwqGoLLuaYEuJx75Sl",
+          "text": "D) Morqanyi-Adams-Stoks tutmaları",
+          "isCorrect": false
+        },
+        {
+          "id": "8KX2vbGdzSf8po3uJFH3Z",
+          "text": "E) Ürək vurğularının dəqiqədə 160-dan çox olması",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "rwP5R9QWSlGiecsyJqJ8F",
+      "text": "842) Volf-Parkinson-Uayt sindromu (WPW) elektrokardioqramda hansı tipik əlamətlərlə səciyyələnir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "M8g5zsdXvlHx2kA5qtz9x",
+          "text": "A) Kompensator pauza",
+          "isCorrect": false
+        },
+        {
+          "id": "dSn5nwp8RjWu65Za2pdh0",
+          "text": "B) P-Q intervalının uzanması",
+          "isCorrect": false
+        },
+        {
+          "id": "yYDcWtGUpAPNOZWmEVyBV",
+          "text": "C) P-Q intervalının qısalması, QRS kompleksinin qalxan hissəsində Delta-dalğa (Δ wave)",
+          "isCorrect": true
+        },
+        {
+          "id": "Z1ICRO2JLtAEFSHw9gmmi",
+          "text": "D) Normal QRS kompleksi, P dişciyin olmaması",
+          "isCorrect": false
+        },
+        {
+          "id": "rUdA8kjRQuv66TdBDSUGi",
+          "text": "E) P dişciklərinin ritminin QRS ritmi ilə fərqli olması",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "QcZP5-xiG7TmVAnUSXEy3",
+      "text": "843) Uşaqlarda infeksion endokarditin xarakter alaməti hansıdır",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "fwGTpcjvhSs7uuCRPnEXe",
+          "text": "A) Dərialtı düyünlər",
+          "isCorrect": false
+        },
+        {
+          "id": "-xvbL2ofF3jfIzf1ytz9V",
+          "text": "B) \"Kəpənək\" şəklində səpgilər",
+          "isCorrect": false
+        },
+        {
+          "id": "zDkB-Ez63fjocNClnBCvN",
+          "text": "C) Anulyar eritema",
+          "isCorrect": false
+        },
+        {
+          "id": "B3vRKvE1oOZmFGda42L_F",
+          "text": "D) Rot ləkələri (gözün tor qişasına qansızmalar)",
+          "isCorrect": true
+        },
+        {
+          "id": "LsWpbCvt0JVeVheZG-gQe",
+          "text": "E) Kiçik xoreya",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "d0AdcKcjBEBaDJMrB6MHp",
+      "text": "844) Perikardit üçün xarakterik alamət hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "frC_B8XyuNM53ibdmaVGl",
+          "text": "A) Sistolo-diastolik \"maşın\" küyü",
+          "isCorrect": false
+        },
+        {
+          "id": "6lVcfmwsZnv_sbzHYIqQJ",
+          "text": "B) \"Perikardın sürtülmə küyü\"",
+          "isCorrect": true
+        },
+        {
+          "id": "wxk42gliCLHA4aJxEVFp2",
+          "text": "C) Hipoksemik-sianotik tutmalar",
+          "isCorrect": false
+        },
+        {
+          "id": "unpWV5vC4azqb194FwOyP",
+          "text": "D) \"Heliotrop səggi\".",
+          "isCorrect": false
+        },
+        {
+          "id": "XJcYFRANCPRZvoNmq5yoY",
+          "text": "E) \"Qottron papulası\"",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "n2IYckkeICpptTbBnLiww",
+      "text": "845) Hansı əlamət yuvenil revmatoid artrit üçün xarakterik deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "fcCFnr579VwB4GLrI006I",
+          "text": "A) Kiçik oynaqların zədələnməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "hdPkuaEBjjWJCdRP0XSVN",
+          "text": "B) Səhər saatlarında oynaqlarda hərəkət məhdudluğu",
+          "isCorrect": false
+        },
+        {
+          "id": "vwQs-UfiCsrAd0C4dNKRO",
+          "text": "C) Oynaqların davamlı uzun müddətli zədələnməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "OOu6QEb159xCmcbCNZMy8",
+          "text": "D) Oynaq ağrılarının \"uçucu\" xarakteri",
+          "isCorrect": true
+        },
+        {
+          "id": "PVxAE0aKeniWNjyuxf9LM",
+          "text": "E) Uveit",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "dbQQkh5MBW8so61CKYYis",
+      "text": "846) Revmatik poliartritin xüsusiyyətlərinə hansı əlamət aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "AQSPokXanScj0MqCVTNfK",
+          "text": "A) Oynaqlarda deformasiya",
+          "isCorrect": true
+        },
+        {
+          "id": "toNhKBGlx5X_9H-_ZT9jn",
+          "text": "B) Poliartritin antirevmatik müalicəyə az tabe olması",
+          "isCorrect": false
+        },
+        {
+          "id": "2FezdwJsDgP_prH7-tMkO",
+          "text": "C) Poliartritin 2 aydan çox davam etması",
+          "isCorrect": false
+        },
+        {
+          "id": "ArnkhBCQbyr8Y5_4rFi5T",
+          "text": "D) Kiçik oynaqların simmetrik zədələnməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "v1-0hOxQ0k9lGJwe6cKbf",
+          "text": "E) İri hərəki oynaqların zədələnməsi və uçucu xarakteri",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "AM5bm6bzwu6LQvzcIsgSx",
+      "text": "847) Bitişən (adheziv) perikarditlər zamanı xarakter alamət hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "lIRiXPTlaGD-_JH4tQq_2",
+          "text": "A) Hipodiastoliya əlamətləri (yuxarı boş venada durğunluq, boyun venalarının şişkinliyi)",
+          "isCorrect": true
+        },
+        {
+          "id": "rz7p6y5gptx-4AxsOwlGb",
+          "text": "B) Anulyar eritema",
+          "isCorrect": false
+        },
+        {
+          "id": "s6jmIxwJ4pNuZY0wP3Vmv",
+          "text": "C) Liberman-Lukin ləkələri",
+          "isCorrect": false
+        },
+        {
+          "id": "n3rAr7RYTh-nIYKNdLiSO",
+          "text": "D) \"Kəpənək\" şəklində səpgilər",
+          "isCorrect": false
+        },
+        {
+          "id": "rHxLSOnd3x7UAsKpYqjJl",
+          "text": "E) Osler düyünləri",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "MlLww_6ko7bmySPIw6pM-",
+      "text": "848) Bitişən (adheziv) perikarditin radikal müalicə üsulu hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "GC-nIfY2rm2kJhGc_nH32",
+          "text": "A) Cərrahi müdaxilə (bitişmələrin kəsilməsi)",
+          "isCorrect": true
+        },
+        {
+          "id": "xpf5hOuawWR2X2m5PJr0O",
+          "text": "B) Süni qapaq qoyulması",
+          "isCorrect": false
+        },
+        {
+          "id": "qWRuggsSR1qq3fbRRNaKq",
+          "text": "C) Hemodializ",
+          "isCorrect": false
+        },
+        {
+          "id": "IOvMws1BSZvfA4YPydSnJ",
+          "text": "D) Plazmaferez",
+          "isCorrect": false
+        },
+        {
+          "id": "bzQvxbPsESDCBcabW745T",
+          "text": "E) Qan köçürməsi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "U2KGuYAvp8C0oDGRCcA3s",
+      "text": "849) \"Solğun qızdırma\" zamanı təxirəsalınmaz terapiya vasitələrinə aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "6Iu9fHzwlLZNC5BJakk6X",
+          "text": "A) Asiklovir",
+          "isCorrect": false
+        },
+        {
+          "id": "uLxYcj-c5KsozpTUMvQ-N",
+          "text": "B) Ödqovucu preparatlar",
+          "isCorrect": false
+        },
+        {
+          "id": "ldj8dmlD_CGn6tKGmyqjk",
+          "text": "C) Damargenaldici preparatlar: no-spa, papaverin",
+          "isCorrect": true
+        },
+        {
+          "id": "VeoGGNXjAcjP14MhWPbWJ",
+          "text": "D) Antibiotiklər",
+          "isCorrect": false
+        },
+        {
+          "id": "jp1UX2mP5bE3_y4z1yUQn",
+          "text": "E) Probiotiklər",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "CMzo5YiztVg4-JIYLwdZp",
+      "text": "850) İlk günlərdən yaranan sianoz hansı ürək-damar patologiyasının əlaməti ola bilər?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "I6W9uC1kcA8Hlt-VQ_2n9",
+          "text": "A) Arterial (botal) axacağın açıq qalması",
+          "isCorrect": false
+        },
+        {
+          "id": "fYBBK-t6jACzZBsBeF06c",
+          "text": "B) Revmatik qızdırma",
+          "isCorrect": false
+        },
+        {
+          "id": "XXbUcNmtCv5xGadgGbtbc",
+          "text": "C) Qulaqcıqarası çəpərin defekti",
+          "isCorrect": false
+        },
+        {
+          "id": "j649CJNKRJGrwtzUfA_ds",
+          "text": "D) Fallo tetradası",
+          "isCorrect": true
+        },
+        {
+          "id": "76cvvlGe2qpretLOpLoAU",
+          "text": "E) Aortal stenoz",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "ZzU7gRVmmsaYi3khYBdeM",
+      "text": "851) Qalaktozanın əsas xüsusiyyəti hansı cavabda göstərilib?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "x9LdK8KpueKgv8OyUVnDC",
+          "text": "A) Böyrəklərə zülal yükünü azaldır",
+          "isCorrect": false
+        },
+        {
+          "id": "pnK-cdwyfg80hLC_iTMcz",
+          "text": "B) Neyronların strukturuna daxil olan zülalların sintezində iştirak edir",
+          "isCorrect": true
+        },
+        {
+          "id": "ZKUucCOFRXVbcQQME9T63",
+          "text": "C) İmmun müdafiəni artırır",
+          "isCorrect": false
+        },
+        {
+          "id": "MjGUKt6a1myahcfkmGOCW",
+          "text": "D) Bağırsağın normal mikroflorasının inkişafına imkan yaradır",
+          "isCorrect": false
+        },
+        {
+          "id": "8KQpilVqNo4FS7dfN1Fx7",
+          "text": "E) Bağırsaqların motrikasını stimulə edir",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "fzTRRNosg5FDW3b07wcoV",
+      "text": "852) Pnevmoniyanın müalicəsi zamanı azitromisinlə müalicə müddəti nə qədər olmalıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "bMkj555DlqJLI1A-_Mft1",
+          "text": "A) 1-2 gün",
+          "isCorrect": false
+        },
+        {
+          "id": "5EUoF6DzD0oJ8jW4ozib7",
+          "text": "B) 14-21 gün",
+          "isCorrect": false
+        },
+        {
+          "id": "kP1U3TnDQkIaZjR3KeAJA",
+          "text": "C) 8-10 gün",
+          "isCorrect": false
+        },
+        {
+          "id": "PLVuCPgY955XlBSa-k2w3",
+          "text": "D) 3-5 gün",
+          "isCorrect": true
+        },
+        {
+          "id": "svU_8Vn2Z_6seWieqYAy9",
+          "text": "E) 11-14 gün",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "ILdvVk1cnowfUVzAmyBBY",
+      "text": "853) Bronxial astına zamanı hansı preparatların uzunmüddətli qəbulu ciddi ağırlaşmalara səbəb ola bilər?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "QCouHN4_LTYYbv_l4PzBu",
+          "text": "A) Peroral kortikosteroidlərin",
+          "isCorrect": true
+        },
+        {
+          "id": "2JB11q-_fUG1oPY_AKAb8",
+          "text": "B) β2 adrenomimetiklərin",
+          "isCorrect": false
+        },
+        {
+          "id": "SW67hS_YtaKOyncMYq60E",
+          "text": "C) Kromoqlikatın",
+          "isCorrect": false
+        },
+        {
+          "id": "SkvQ5aMUqrv6HKXP3dUoP",
+          "text": "D) Ketotifenin",
+          "isCorrect": false
+        },
+        {
+          "id": "scyYppZNfcfD-sTEvqGFD",
+          "text": "E) İnhalyasion kortikosteroidlərin",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "IBx1h66N6RcqWGgNjYy_I",
+      "text": "854) Erkən yaşlı uşaqlarda mikoplazma pnevmoniyasının müalicəsində hansı qrup antibiotiklərdən istifadə etmək məqsədəuyğundur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "CjE0PsTOHa-sr3WsZTWGC",
+          "text": "A) Yarımsintetik penisillinlər",
+          "isCorrect": false
+        },
+        {
+          "id": "dmpEUCTi08S9oeqBFwhsx",
+          "text": "B) I nəsil sefalosporinlar",
+          "isCorrect": false
+        },
+        {
+          "id": "Q0lyUyGID_CR1oAX71uLD",
+          "text": "C) Aminoqlikozidlər",
+          "isCorrect": false
+        },
+        {
+          "id": "8N94snDMGBSpfDq1tYHCq",
+          "text": "D) Makrolidlər",
+          "isCorrect": true
+        },
+        {
+          "id": "mhEm-A1n0Vto4e8Kf5aHX",
+          "text": "E) Təbii penisillinlər",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "wkW-ImASI0lUhVZMzeEuX",
+      "text": "855) Metilksantin törəməsi olan bronxodilatator hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "nHEqXUNgoXCi9DtPdmsIy",
+          "text": "A) Klenbuterol",
+          "isCorrect": false
+        },
+        {
+          "id": "zEg1IbPfHJ9E0HnYJFwzb",
+          "text": "B) Fenoterol",
+          "isCorrect": false
+        },
+        {
+          "id": "FoPNlupOA6LOjk5XJLMdT",
+          "text": "C) Eufillin",
+          "isCorrect": true
+        },
+        {
+          "id": "JjeJFxpdjEsy-312JclbY",
+          "text": "D) Trebutalin",
+          "isCorrect": false
+        },
+        {
+          "id": "3daDTiS4SXcpLZNU92Rke",
+          "text": "E) Salbutamol",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "KDAsEROknrOecCvoL_ka-",
+      "text": "856) İnhalyasiya yolu ilə yeridilən steroidlərin ən çox rast gəlinən əlavə təsiri nədir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "7bBgRp0AdOatJPNTL9Tru",
+          "text": "A) Hiperqlikemiya",
+          "isCorrect": false
+        },
+        {
+          "id": "Vw5lMYrr3tSHLYOvug0WL",
+          "text": "B) Böyrəküstü vəzi çatışmazlığı",
+          "isCorrect": false
+        },
+        {
+          "id": "P2KJHluTJWAlfOv1euaF9",
+          "text": "C) İtsenko-Kuşinq sindromu",
+          "isCorrect": false
+        },
+        {
+          "id": "RhWpBVogkJ5CAj7pwTUJh",
+          "text": "D) Ağız boşluğunun kandidozu",
+          "isCorrect": true
+        },
+        {
+          "id": "2S1lvTkRgCSFX0lFAy3dj",
+          "text": "E) Osteoporoz",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "e6aT8MGy3CW_6SNvyIYwX",
+      "text": "857) Aspirasion pnevmoniyanın müalicəsi zamanı hansı antibiotiklərlə başlamaq lazımdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "r9AXDnWXMDLxuj8Ukxtg8",
+          "text": "A) Tetrasiklin",
+          "isCorrect": false
+        },
+        {
+          "id": "JDAgVmCmqJ1O7LWlA82Wx",
+          "text": "B) Makrolidlər",
+          "isCorrect": false
+        },
+        {
+          "id": "8G24HlOqO299k7QxRUqT_",
+          "text": "C) Metronidazol+3-cü nəsil sefalosporinlar",
+          "isCorrect": true
+        },
+        {
+          "id": "0CpdSv44d51jmtuvDvxJZ",
+          "text": "D) Təbii penisillin",
+          "isCorrect": false
+        },
+        {
+          "id": "qxZHyQ8H724l9090_zvcx",
+          "text": "E) 1-ci nəsil sefalosporin",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "fNWRB2qMn7Z0LGMOoqZl4",
+      "text": "858) Limfositlərin və plazmatik hüceyrələrin aktivliyini nə təsir edir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "xgmTzVLWAUFVxyDX7hveY",
+          "text": "A) Digoksin",
+          "isCorrect": false
+        },
+        {
+          "id": "q9Pv_k5kn2YZlMFR9vn8E",
+          "text": "B) Metilprednizolon",
+          "isCorrect": true
+        },
+        {
+          "id": "wmzWQRcjxT2klw0p5nPaW",
+          "text": "C) Prestarium",
+          "isCorrect": false
+        },
+        {
+          "id": "2oPpS23xuA3F0mIyMDWYV",
+          "text": "D) Trental",
+          "isCorrect": false
+        },
+        {
+          "id": "lZj1ZYzcsAy9-NUQYNJZF",
+          "text": "E) Suprastin",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Q_kkJs22GfYAD9NCmzpjq",
+      "text": "859) Prednizalona aid olmayan təsir hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "_WTpyXBhu2GjSd0BEvgkr",
+          "text": "A) İmmunosupressiv",
+          "isCorrect": false
+        },
+        {
+          "id": "5NMMPa64vP8J-3GAqHizP",
+          "text": "B) Antikoaqulyant",
+          "isCorrect": true
+        },
+        {
+          "id": "P8pnD1Xw0oKKFU8zwmW5a",
+          "text": "C) Qlukoneogeneza təsir",
+          "isCorrect": false
+        },
+        {
+          "id": "KbArXzCNj88Y7UVljtEd5",
+          "text": "D) İltihabəleyhinə",
+          "isCorrect": false
+        },
+        {
+          "id": "73iAkSx9FFOp7I1Xb-6bQ",
+          "text": "E) Antihistamin",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "HEuV9L24kMWe82KFKpZ27",
+      "text": "860) Xəstələrin sitostatik immunosupressantlarla müalicəsi zamanı onlara mütəmadi nə təyin olmalıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "iGinfpaDi1v0xQB4JxI9O",
+          "text": "A) Oftalmoloqun konsultasiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "iVFSbPekKp0CJp5uXfOTC",
+          "text": "B) Arterial təzyiqin ölçülməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "75Yh2DP_1BXdDd4tW-VfN",
+          "text": "C) Rentgenoqrafiya",
+          "isCorrect": false
+        },
+        {
+          "id": "1UbqRJ4JmYtICzXZe2KOX",
+          "text": "D) Qanın klinik müayinəsi",
+          "isCorrect": true
+        },
+        {
+          "id": "k_rxCSsnsMKZtYUR_fzG5",
+          "text": "E) Qarın boşluğu orqanlarının USM-si",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "xxoTBoewNxstWULSb3_FL",
+      "text": "861) Steroid iltihabəleyhinə preparatlara aid olanı hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "xOf66KaLi_RH86SEPmYFv",
+          "text": "A) Prednizalon",
+          "isCorrect": true
+        },
+        {
+          "id": "m-wkSeI_tWeIcAXaLDB2Q",
+          "text": "B) Diklofenak",
+          "isCorrect": false
+        },
+        {
+          "id": "O8jCWWtnSWAQtC5A5bkgJ",
+          "text": "C) Asetilsalisil turşusu",
+          "isCorrect": false
+        },
+        {
+          "id": "Hvz8Os-9X1EL8I4ckrajk",
+          "text": "D) İndosid",
+          "isCorrect": false
+        },
+        {
+          "id": "Z8zmbfzXmiuzVHCv1ZTcS",
+          "text": "E) Lomoksikam",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "NOtihUymJv5Glq8qLVPep",
+      "text": "862) Hansı preparat qanda ciddi dəyişikliklərə səbəb ola bilər?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "0rQvZ5AGn8GS7uOJgFmwt",
+          "text": "A) Diklofenak",
+          "isCorrect": true
+        },
+        {
+          "id": "mla01v8COLyO9-0efMnIs",
+          "text": "B) Suprastin",
+          "isCorrect": false
+        },
+        {
+          "id": "Ohy6JCWlfuy4h75UNPmHu",
+          "text": "C) Tavegil",
+          "isCorrect": false
+        },
+        {
+          "id": "MuExR2XCKB4A598Ad9Qlg",
+          "text": "D) Papaverin",
+          "isCorrect": false
+        },
+        {
+          "id": "_LWboEkJ9_v5H14-M-RQ6",
+          "text": "E) Kapoten",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "6ru520yAOGXU8INd-Ov3d",
+      "text": "863) Anemiyalı uşaqlarda istifadə olunmayan preparat hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "whgvCvgWofz2WV9pCeItR",
+          "text": "A) Seklor",
+          "isCorrect": false
+        },
+        {
+          "id": "IPrjpuH2e1NqddZRBqBpM",
+          "text": "B) Levomisetin",
+          "isCorrect": true
+        },
+        {
+          "id": "11jCoQkU58VtqZxm5xpZ8",
+          "text": "C) Makropen",
+          "isCorrect": false
+        },
+        {
+          "id": "iJQsmOEUhUhybSA1e1knN",
+          "text": "D) Amoksiklav",
+          "isCorrect": false
+        },
+        {
+          "id": "O7KL7oD_sGdvyUzABpwv0",
+          "text": "E) Penisillin",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "pAzNF9R52_J7rEFq0Yz3w",
+      "text": "864) Miokard distrofiyasında nə təyin olunmalıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "6ikS9OO2iJPMNpEsPQrbf",
+          "text": "A) Polivitamin, Kalium oratat, Karnitin",
+          "isCorrect": true
+        },
+        {
+          "id": "mDgCEk6Z37Vc7Y-VWZnkd",
+          "text": "B) Kalsium xlor",
+          "isCorrect": false
+        },
+        {
+          "id": "yTjv7Q__Fna4ObJvgAy8-",
+          "text": "C) Diklofenak",
+          "isCorrect": false
+        },
+        {
+          "id": "h2_UhBvCWYkjNA-MKBlpO",
+          "text": "D) Asetilsalisil turşusu",
+          "isCorrect": false
+        },
+        {
+          "id": "9hLZZ_ONiHxtDbnlBb_ZJ",
+          "text": "E) Kapoten",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "b4nYQP5iBaVxbd7JeDimm",
+      "text": "865) Hansı preparat trombositlərin aqreqasiyasını azaltmır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "1CLFZ0v4HlPDKkLTRKMUW",
+          "text": "A) Siklid",
+          "isCorrect": false
+        },
+        {
+          "id": "viMEPjDcPDCNuf5t_ZUyn",
+          "text": "B) Prodektin",
+          "isCorrect": false
+        },
+        {
+          "id": "qnPEy2CwKsWRyrV0Z3JsG",
+          "text": "C) Strofantin",
+          "isCorrect": true
+        },
+        {
+          "id": "WHNLBo0eUYtLI1NKoxWAC",
+          "text": "D) Eufillin",
+          "isCorrect": false
+        },
+        {
+          "id": "NicV6Un3FGWamRZ3vHyta",
+          "text": "E) Dipiridamol",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "uN91Pb0kxG5-aLz7HjR24",
+      "text": "866) Vaqotonik vegetodistoniyaya xas olmayan əlamət hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "4sa3MlJkdLRa0oRroDIsX",
+          "text": "A) Tez-tez nüfəsalmalar",
+          "isCorrect": false
+        },
+        {
+          "id": "qCYJucDufz2Y4pBVrQdBm",
+          "text": "B) Nağlıyyatın pis keçirilməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "yNFmQMkoTYToXMOK7M6mr",
+          "text": "C) Hiperhidroz",
+          "isCorrect": false
+        },
+        {
+          "id": "xyca1Vvgzl_OD3ITK6JQe",
+          "text": "D) Ağ dermoqrafizm",
+          "isCorrect": true
+        },
+        {
+          "id": "WB1QJnxLOTzXlB9r27kkK",
+          "text": "E) Bayılmalara meyllik",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "cGExkrrhYONNMKJ-vCFrO",
+      "text": "867) Kəskin iltihabi prosesi ən az xarakterizə edən göstərici hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "8sul-yaG6hJWOosOMwCxG",
+          "text": "A) C reaktiv zülal",
+          "isCorrect": false
+        },
+        {
+          "id": "enUFwZ2VapBfHjJXyOHRH",
+          "text": "B) Timol sınağı",
+          "isCorrect": false
+        },
+        {
+          "id": "Lxn44-JOyraod7t9hbvWk",
+          "text": "C) Fibrinogen",
+          "isCorrect": false
+        },
+        {
+          "id": "VUZXw5CXBSmTvsmk_Wu6b",
+          "text": "D) Sial turşuları",
+          "isCorrect": false
+        },
+        {
+          "id": "MjPdDfGeFjZyaHV1kGhVl",
+          "text": "E) Kreatinin",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Yy1f9YhJsXeNX0prUodno",
+      "text": "868) Dolayı təsirli antikoaqulyantlara hansı aiddir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "xrnlZ4kRIhep6z5tY7NQw",
+          "text": "A) Aspirin",
+          "isCorrect": false
+        },
+        {
+          "id": "-IUeqdX1bAKIGl3swrBzU",
+          "text": "B) Siklid",
+          "isCorrect": false
+        },
+        {
+          "id": "-ubbuTPOx7ziEGQ2KuLwE",
+          "text": "C) Dipiridamol",
+          "isCorrect": false
+        },
+        {
+          "id": "n_UplghTVKvU3gkDpKRSK",
+          "text": "D) Fenilin",
+          "isCorrect": true
+        },
+        {
+          "id": "toiNq-cjHJs2PNegg3_TT",
+          "text": "E) Heparin",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Jn0gHdH1zavrWdZoCdih0",
+      "text": "869) Hormonal iltihabəleyhinə preparatlar hansılardır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "U0rTiqYjrqNho0zCJOy4B",
+          "text": "A) Lomoksikam (ksefokam)",
+          "isCorrect": false
+        },
+        {
+          "id": "UaUNBCbrWGrCjspE1vQHD",
+          "text": "B) Diklofenak",
+          "isCorrect": false
+        },
+        {
+          "id": "1ivaTJFfS31QN7y2h9_tq",
+          "text": "C) Metipred",
+          "isCorrect": true
+        },
+        {
+          "id": "lByGj7vG8SiZpMOKpsp_P",
+          "text": "D) Ketotifen",
+          "isCorrect": false
+        },
+        {
+          "id": "KQNiOy-M4d0eLaxg-qaSQ",
+          "text": "E) Naproksen",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "lDaCX0pGA3-EaiZDu9raN",
+      "text": "870) Reparativ təsiri olmayan preparat hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "DFvE49iFyGvQ_KBm24tFa",
+          "text": "A) Venter",
+          "isCorrect": false
+        },
+        {
+          "id": "gvDvQ6hqCTW2HufGdZVsK",
+          "text": "B) Solkoseril",
+          "isCorrect": false
+        },
+        {
+          "id": "pqh9OQYNhtWG8s5t3BpSA",
+          "text": "C) Almagel",
+          "isCorrect": true
+        },
+        {
+          "id": "idv0zVQfDqKOSlzGi55Qu",
+          "text": "D) Ranitidin",
+          "isCorrect": false
+        },
+        {
+          "id": "jKIBrkxyeNQ25nEpNvyxn",
+          "text": "E) Çaytikanı yağı",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "RInKmWKcbZdceEtzBI6Cv",
+      "text": "871) Qaraciyərin amöbioz absesində seçim preparatı hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "zqNMXGZRC354DX9DVSA3T",
+          "text": "A) Metronidazol",
+          "isCorrect": true
+        },
+        {
+          "id": "lhU-DCXtMKh1B3meH08fp",
+          "text": "B) Levomisetin",
+          "isCorrect": false
+        },
+        {
+          "id": "Je2U6sHw7E3gLGtb9Ce3D",
+          "text": "C) Xinin",
+          "isCorrect": false
+        },
+        {
+          "id": "l9gyJdP0_racEsGgYhrlA",
+          "text": "D) Delagil",
+          "isCorrect": false
+        },
+        {
+          "id": "_KuNhQKAJPdNgORp7_jbf",
+          "text": "E) Trimetoprim",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "BdWmglrn5ijqKdg-NEI1M",
+      "text": "872) Qlükokortikoidlərin təsirinə aid alamət hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "G8oxRepOkc7M4MJHEYppQ",
+          "text": "A) Qanda limfositlərin miqdarını artırır",
+          "isCorrect": false
+        },
+        {
+          "id": "gaZ-8jOB-mzb5a7pn7K_A",
+          "text": "B) Zülal sintezini artırır",
+          "isCorrect": false
+        },
+        {
+          "id": "5V6m8uGEd5E8kTElZ3tCZ",
+          "text": "C) İmmunostimulatordur",
+          "isCorrect": false
+        },
+        {
+          "id": "ETaD6E9QlgWZkJafqFKm1",
+          "text": "D) Qanda eozonofillərin miqdarını artırır",
+          "isCorrect": false
+        },
+        {
+          "id": "iwt4GgmwV6jUBXBPayJ-S",
+          "text": "E) Qanda qlükoza miqdarını artırır",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "uftjonb9wgmNQgj8KISNg",
+      "text": "873) Antioksidant təsiri olan vitamin hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "2cD9JlR6pZpjzzoCw3lb3",
+          "text": "A) Vitamin B12",
+          "isCorrect": false
+        },
+        {
+          "id": "gLleRh8hTZqeMY7Xgft16",
+          "text": "B) Vitamin PP",
+          "isCorrect": false
+        },
+        {
+          "id": "y6mVKQyAnwX4Q6erJsd_j",
+          "text": "C) Vitamin D",
+          "isCorrect": false
+        },
+        {
+          "id": "cOAIBBEhrMfOrnPHUK9_V",
+          "text": "D) Vitamin B6",
+          "isCorrect": false
+        },
+        {
+          "id": "IAXwUXzqoLZcD4993VJw8",
+          "text": "E) Vitamin E",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "6jSFQcjbIpHZQPNVtoJp_",
+      "text": "874) Sadalanan müalicə metodlarından hansı spesifikdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "9_eSG6XIzIw6YWNKo_dTY",
+          "text": "A) Hemodializ, plazmaferez",
+          "isCorrect": false
+        },
+        {
+          "id": "a-s8Wm0KcP8dzgo3z1RRg",
+          "text": "B) Hormonal",
+          "isCorrect": false
+        },
+        {
+          "id": "yow4L2-JZX3HKYhmHi8C8",
+          "text": "C) Vitaminoterapiya",
+          "isCorrect": false
+        },
+        {
+          "id": "1xXmHtiVMR62bneIHtEJ2",
+          "text": "D) Vaksinoterapiya",
+          "isCorrect": true
+        },
+        {
+          "id": "xyWoRxfSd9ikn8-S5gJIe",
+          "text": "E) Dezintoksikasion",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "1HHumr2OlLv5ckBgYXnRp",
+      "text": "875) Profilaktik peyvəndlər üçün hansı preparatlar istifadə olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "W3B1-Bh0vRWHSC51Xz2FU",
+          "text": "A) Kimyəvi vaksinlər",
+          "isCorrect": false
+        },
+        {
+          "id": "yBbio-IUD14uejl7btqJj",
+          "text": "B) Ölü vaksinlar",
+          "isCorrect": false
+        },
+        {
+          "id": "vzqnjAG6jxqZjhIdX_6fA",
+          "text": "C) Hamisı",
+          "isCorrect": true
+        },
+        {
+          "id": "T1R6REJFqD6YB-efi6w7D",
+          "text": "D) Diri vaksinlar",
+          "isCorrect": false
+        },
+        {
+          "id": "BKXmfS6paWOmSYiT5ROHU",
+          "text": "E) Anatoksinlar",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "1jCeIn6haNIUOjiDJZfdU",
+      "text": "876) Yarımçıq doğulmuşlarda ilk aylarda hemolitik anemiya, hipotrofiya hansı vitaminin çatışmazlığından yaranır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "tg0ENRZ8tv2G3_1YRG6S2",
+          "text": "A) Vitamin E",
+          "isCorrect": true
+        },
+        {
+          "id": "gRJBQk-IdsGkTqfb2dQjv",
+          "text": "B) Vitamin B12",
+          "isCorrect": false
+        },
+        {
+          "id": "oOsF-hmHPU2Cn8J0ELu9t",
+          "text": "C) Vitamin C",
+          "isCorrect": false
+        },
+        {
+          "id": "OtdIx3J3nD_bLAE8Pb7TH",
+          "text": "D) Vitamin D",
+          "isCorrect": false
+        },
+        {
+          "id": "48QCGad54tPctVEM9LNE3",
+          "text": "E) Vitamin A",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "xYsX5wSOQthIPNCCGohlz",
+      "text": "877) Meqaloblast anemiyanı hansı vitamin çatışmazlığı yaradır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "tnx9cgSk3YFtPYTEzhq-_",
+          "text": "A) Vitamin B12",
+          "isCorrect": true
+        },
+        {
+          "id": "kFUNTuUlUAcch6kQtjvDe",
+          "text": "B) Vitamin B6",
+          "isCorrect": false
+        },
+        {
+          "id": "L_vEob8EE-aQvSaHhAaTj",
+          "text": "C) Vitamin A",
+          "isCorrect": false
+        },
+        {
+          "id": "BVOVckCq_ClpVIAo7jaOI",
+          "text": "D) Vitamin E",
+          "isCorrect": false
+        },
+        {
+          "id": "w9ncwLb48Vq3T_lMdD-lY",
+          "text": "E) Vitamin C",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "MNmK79Vw0A9XV5qbyxq3r",
+      "text": "878) Yenidoğulmuşlarda qıcolmalar, sinir sisteminin pozulmaları əsasən hansı vitamin çatışmazlığından yaranır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "MW9xoe9qoqRbxA_AiUozk",
+          "text": "A) Vitamin A",
+          "isCorrect": false
+        },
+        {
+          "id": "XXEtw2282sIQtGNWIErM5",
+          "text": "B) Vitamin B6",
+          "isCorrect": true
+        },
+        {
+          "id": "suhkSFJMJS8sjF_UGBXHH",
+          "text": "C) Vitamin PP",
+          "isCorrect": false
+        },
+        {
+          "id": "JVIgGCfgUzOtH1QiHSBqb",
+          "text": "D) Vitamin B12",
+          "isCorrect": false
+        },
+        {
+          "id": "sr8MOBd0QMW6413Z_uUYQ",
+          "text": "E) Vitamin C",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "DCW6q5N1gMiB3XanI_JNy",
+      "text": "879) Hansı əlamətlər hipervitaminoz K-ya xasdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "CWqv4HwtC1H0k80jUoP4H",
+          "text": "A) Hemoliz, sarılış",
+          "isCorrect": true
+        },
+        {
+          "id": "jEwcJjto45M7S7dbEAZXj",
+          "text": "B) Qıcolmalar",
+          "isCorrect": false
+        },
+        {
+          "id": "tC9MKDDmty7tfDiCjp_cJ",
+          "text": "C) Tənginəfəslik",
+          "isCorrect": false
+        },
+        {
+          "id": "K_FwILKmXv1fWyVLBf2Ge",
+          "text": "D) Allerqik reaksiya",
+          "isCorrect": false
+        },
+        {
+          "id": "8ohR6AGNybMwEd0p-9ZaY",
+          "text": "E) Təziq qalxır",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "CFPtVOmPFjbHZzvO_jJNe",
+      "text": "880) Kəskin xəstəliklərdə (\"kəskin qarın\" simptomu) ağrının xarakter və intensivliyini müəyyənləşdirmək üçün hansı dərmana üstünlük verilir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "Mxna7Djhbb16fCJTI3Ii4",
+          "text": "A) Atropin",
+          "isCorrect": false
+        },
+        {
+          "id": "Jkj419sOgULaCRT7chwXZ",
+          "text": "B) No-şpa",
+          "isCorrect": false
+        },
+        {
+          "id": "3flztWZUeNUma_bt-JVYP",
+          "text": "C) Relanium",
+          "isCorrect": true
+        },
+        {
+          "id": "a6oea2nCTNgr8evBGr9vV",
+          "text": "D) Papaverin",
+          "isCorrect": false
+        },
+        {
+          "id": "eqLfmhkB1cP2-6ZhqSNO5",
+          "text": "E) Morfi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "WPvv83sNaemOFk4rnwU86",
+      "text": "881) Sedativ dərmanlardan fərqli olaraq narkotiklər nəcə təsir göstərir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "mYooZ4tvyT1RbVBpvkWDK",
+          "text": "A) Ağrıya qarşı hassaslığı azaldır",
+          "isCorrect": true
+        },
+        {
+          "id": "zWpIjpY4xiCcEt-0ETq5P",
+          "text": "B) Nəbzi artırır",
+          "isCorrect": false
+        },
+        {
+          "id": "WHcFy0GtQoPMhp7mAK65f",
+          "text": "C) Təzyiqı qaldırır",
+          "isCorrect": false
+        },
+        {
+          "id": "SvjqdiysEgkWb3mSFwI6X",
+          "text": "D) Tənəffüsü tezləşdirir",
+          "isCorrect": false
+        },
+        {
+          "id": "_muxx2FZb85MEvUZGOf2f",
+          "text": "E) İshalı səbəb olur",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "UTReUhYN5NuIh8Z_f3Jv-",
+      "text": "882) Yenidoğulmuşlarda narkotik analgetiklərin istifadəsi zamanı hansı təhlükəli əlavə təsir meydana çıxır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "cQTSFq3s0inGyg585asvq",
+          "text": "A) Nəbzin artması",
+          "isCorrect": false
+        },
+        {
+          "id": "TzYpKozJl5-ZDPy3UFzMK",
+          "text": "B) İshal",
+          "isCorrect": false
+        },
+        {
+          "id": "KqcpZjoul77M4igq43W7v",
+          "text": "C) Ağrıya qarşı hassaslığın artması",
+          "isCorrect": false
+        },
+        {
+          "id": "zH81ClaIxTUJtHqmGOeU9",
+          "text": "D) Tənəffüsün zəifləməsi",
+          "isCorrect": true
+        },
+        {
+          "id": "O6mylCc4iGvkaE5ppk5sD",
+          "text": "E) Təzyiqin artması",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "SyI2MsgTuM4IZfT4DUWtB",
+      "text": "883) Ağrılı əməliyyatlarda premedikasiya məqsədi ilə adətən nədən istifadə olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "XVkF1vdNsMGm_NVbX33M0",
+          "text": "A) Barbituratlar",
+          "isCorrect": false
+        },
+        {
+          "id": "jTk9Gjgf1dSXMnpAnyoBR",
+          "text": "B) Antihistamin preparatlar",
+          "isCorrect": false
+        },
+        {
+          "id": "c73ENMvZWIWSAkguPRGnw",
+          "text": "C) Qeyri narkotik analgetiklər",
+          "isCorrect": false
+        },
+        {
+          "id": "4lNmUtRRhUii_A84m84ZX",
+          "text": "D) Qeyri steroid iltihab əleyhinə preparatlar",
+          "isCorrect": false
+        },
+        {
+          "id": "wOIsQ7Q4YCeivlz_vx0SA",
+          "text": "E) Qısa təsir müddətinə malik benzodiazepinlər",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "iauHPWwhbUIlskOD-8EtT",
+      "text": "884) Midazolamdan istifadə edərkən nəyə nəzərət etmək vacibdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "sZlRO5ObXJUNp4Rg1pspr",
+          "text": "A) Bəbəklərin reaksiyasına",
+          "isCorrect": false
+        },
+        {
+          "id": "guiXHWY3JQy2rYivn2pSE",
+          "text": "B) Kapilyar damar dolğunluğuna",
+          "isCorrect": false
+        },
+        {
+          "id": "WpRa9pt8ONQcMUoizHhS4",
+          "text": "C) Qanın oksigenlə zənginləşməsinə",
+          "isCorrect": true
+        },
+        {
+          "id": "q-zp2eMr-LjJWsX-Ae01m",
+          "text": "D) Eritrositlərin çöküş sürətinə",
+          "isCorrect": false
+        },
+        {
+          "id": "-w8m0FNCUzvrHb_UaCHbS",
+          "text": "E) Saatlıq diurezə",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "ULrtwdcijtWDDcJOJqQiK",
+      "text": "885) Midazolamdan istifadə edərkən hansı birinin həkimin əlinin altında olması vacib deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "wCG23Dk9W1bnjjgM7xgXi",
+          "text": "A) Sorucu",
+          "isCorrect": false
+        },
+        {
+          "id": "-zCR6tki7JfFCB0s1jxTy",
+          "text": "B) Oksigen",
+          "isCorrect": false
+        },
+        {
+          "id": "HZcs8w5ASs_ckmdVkzkkV",
+          "text": "C) Larinqoskop",
+          "isCorrect": false
+        },
+        {
+          "id": "o102lw9HtOHMtrjt_Orcf",
+          "text": "D) Elektrokardioqraf",
+          "isCorrect": true
+        },
+        {
+          "id": "jVtNvDUGpWLfzHvnMOScF",
+          "text": "E) Endotraxeal boru",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "fbVszT2x14Ci1ZHNkxtlW",
+      "text": "886) Midazolamın əlavə təsirinə hansı aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "J6FkG2z5KsEQiZnLcpWNy",
+          "text": "A) Aspirin",
+          "isCorrect": false
+        },
+        {
+          "id": "rs4VCPaAuNHm5kqq1C8dt",
+          "text": "B) Parasetamol",
+          "isCorrect": false
+        },
+        {
+          "id": "vy_JyjGggpJU_E_Bs5zdF",
+          "text": "C) İbuprofen",
+          "isCorrect": false
+        },
+        {
+          "id": "b-XdDwl2JxVfQ7Ucla96X",
+          "text": "D) Movalis",
+          "isCorrect": false
+        },
+        {
+          "id": "8y_iRGguQOqB40uSnp3XJ",
+          "text": "E) Flumazenil",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "kjcYzGFl7WBV0yAaJEO-g",
+      "text": "887) Parasetamolun əlavə təsirinə hansı aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "O0uktREYreln03GoLqqJI",
+          "text": "A) Angionevrotik ödem",
+          "isCorrect": false
+        },
+        {
+          "id": "k8LCs4NXDFRgtaCpp4Gep",
+          "text": "B) Methemoqlobinemiya",
+          "isCorrect": false
+        },
+        {
+          "id": "qVJ6zYy4awFennSeHQOjq",
+          "text": "C) Anemiya",
+          "isCorrect": false
+        },
+        {
+          "id": "gI_1pZIcie-JWFvEuc3W1",
+          "text": "D) Beyin qan dövranında pozğunluq",
+          "isCorrect": true
+        },
+        {
+          "id": "kX52qIKatuBAwg5DPFH7-",
+          "text": "E) Qaraciyərin zədələnməsi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "JRtMhC9fmEMSSG4H6ieEh",
+      "text": "888) Parasetamolun konsentrsiyası qanda nə vaxt maksimum həddə çatır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "mvVWEK7zwpN7Rceja1wfZ",
+          "text": "A) 15 dəq sonra",
+          "isCorrect": false
+        },
+        {
+          "id": "F7DGLzeDRyNFvmoyFPtTo",
+          "text": "B) 2 saat sonra",
+          "isCorrect": true
+        },
+        {
+          "id": "ndjIR8swXGtqAlI3QBnI4",
+          "text": "C) 1,5 saat sonra",
+          "isCorrect": false
+        },
+        {
+          "id": "y08xPxlfYOhe635JVuwKe",
+          "text": "D) 1 saat sonra",
+          "isCorrect": false
+        },
+        {
+          "id": "r9Qp7x_lppjEPHX7xApzz",
+          "text": "E) 0,5 saat sonra",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "n29QMzL5R3QTrZWyQ77wo",
+      "text": "889) Aspirinin istifadəsi nə zaman əks göstərişdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "s6fzC-lNqmhGLIBI9EPuw",
+          "text": "A) Baş ağrısında",
+          "isCorrect": false
+        },
+        {
+          "id": "ryTmUsB0th-X3eQrHiBqa",
+          "text": "B) Su çiçəyində",
+          "isCorrect": true
+        },
+        {
+          "id": "ulYcRsFscNBaNJGKwt28j",
+          "text": "C) Nevralgiyada",
+          "isCorrect": false
+        },
+        {
+          "id": "yAGGS6er82GFWUyHtCAGM",
+          "text": "D) Mialgiyada",
+          "isCorrect": false
+        },
+        {
+          "id": "OGHw3tuu-DG1_XyVBvXtr",
+          "text": "E) Revmatoid artritdə",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "q811dWudsyHV6NrcUv-Ys",
+      "text": "890) Aspirinin əlavə təsirinə hansı aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "ZlEY8T22Uwsrg5G4RZZcJ",
+          "text": "A) Dəmir defisitli anemiya",
+          "isCorrect": false
+        },
+        {
+          "id": "KgJcj9JgAWgwOtdf7ASJL",
+          "text": "B) Qanın laxtalanmasının pozulması",
+          "isCorrect": false
+        },
+        {
+          "id": "rJTWCTO39rtxJvpnzhXF4",
+          "text": "C) Oliquriya",
+          "isCorrect": true
+        },
+        {
+          "id": "mvyd5Q7gedEyZxgDgV7A5",
+          "text": "D) Mədə bağırsaq qanaxması",
+          "isCorrect": false
+        },
+        {
+          "id": "KoDCagrbLcR6YqYrqELYa",
+          "text": "E) Qalxanabənzər vəzin funksiyasının pozulması",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "4mbMWMsUxy5AxZ--NjukO",
+      "text": "891) Narkotik analgetiklərə aid olmayan hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "uDRfILOjwhWNgr95mWzXh",
+          "text": "A) Oksikodon",
+          "isCorrect": false
+        },
+        {
+          "id": "-11NQ7g7Ky1qFVsLDD-I8",
+          "text": "B) Metadon",
+          "isCorrect": false
+        },
+        {
+          "id": "R9PK4qA-QKs84eJN5edvT",
+          "text": "C) Majezik",
+          "isCorrect": true
+        },
+        {
+          "id": "gDt6AIsEsCsatfjN9RSXa",
+          "text": "D) Fentanil",
+          "isCorrect": false
+        },
+        {
+          "id": "XNsrRytm-6He2HdRm-7hq",
+          "text": "E) Petidin",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "PCJrX2MpYwkq3lhNTZ1jU",
+      "text": "892) Narkotik analgetiklər müəyyən dozada hansı təsiri göstərmir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "eHbrUK8fCtbn_hFaqVvgj",
+          "text": "A) Praktiki olaraq miokardın yığılma qabiliyyətini azaltmırlar",
+          "isCorrect": false
+        },
+        {
+          "id": "r1jo56bAvgizif1M-6Grh",
+          "text": "B) Az dozada effektiv ağrıkəsici",
+          "isCorrect": false
+        },
+        {
+          "id": "98Ih1dr5uMQK3Ae46UYw2",
+          "text": "C) Müxtəlif dərəcədə histaminin azad olmasına təsir göstərirlər",
+          "isCorrect": false
+        },
+        {
+          "id": "XVPlXAc1vBlRCV68nshCW",
+          "text": "D) İltihab əleyhinə",
+          "isCorrect": true
+        },
+        {
+          "id": "QMN2qotaF6bfiiWZjzjcs",
+          "text": "E) Bağırsaq və sidik kisəsinin tonusunu artırır",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "LWP_g08CNGnvCrEdHEHGE",
+      "text": "893) Qısa təsirli narkotik preparat hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "nC9aTEjaM5aYlxKGy9EGe",
+          "text": "A) Fentanil",
+          "isCorrect": true
+        },
+        {
+          "id": "rXCS1DDqjoz0wl6yzSutY",
+          "text": "B) Petidin",
+          "isCorrect": false
+        },
+        {
+          "id": "IXcOyAA8pN2HY4DRdsC-_",
+          "text": "C) Metadon",
+          "isCorrect": false
+        },
+        {
+          "id": "URqYZ0TzTFahv84mVUmPd",
+          "text": "D) Promedol",
+          "isCorrect": false
+        },
+        {
+          "id": "iJmuSsILOll6e_fSeFJha",
+          "text": "E) Morfin",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "pd-paJdGBh2JcUNTyzMUj",
+      "text": "894) Uzun təsirli narkotik preparat hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "KPUOf7s-6T0vLI4We8-8H",
+          "text": "A) Fentanil",
+          "isCorrect": false
+        },
+        {
+          "id": "9E7-FNAD0uGb5fzJUxySa",
+          "text": "B) Metadon",
+          "isCorrect": true
+        },
+        {
+          "id": "V3BhAM0UZ2Zj_a8xT05WN",
+          "text": "C) Oksikodon",
+          "isCorrect": false
+        },
+        {
+          "id": "wkUi9hyKF9QeJsUuemMMD",
+          "text": "D) Morfin",
+          "isCorrect": false
+        },
+        {
+          "id": "PEG4eHGHwLy_coxP83MX8",
+          "text": "E) Petidin",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "-KsptUDKd1PkCPHkdyvTH",
+      "text": "895) Orta təsirli narkotik preparat hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "JH5YfSuO9OENmNR_1Tij8",
+          "text": "A) Petidin",
+          "isCorrect": true
+        },
+        {
+          "id": "Wj1Oss3wPxvA2cs9rRail",
+          "text": "B) Fentanil",
+          "isCorrect": false
+        },
+        {
+          "id": "6pZem8BQ46bzxy1Naz5Kj",
+          "text": "C) Kodein",
+          "isCorrect": false
+        },
+        {
+          "id": "M6gNEVTzE4sKuo7jngVps",
+          "text": "D) Oksikodon",
+          "isCorrect": false
+        },
+        {
+          "id": "3rucQ1PMpJeE4HHMsX1th",
+          "text": "E) Metadon",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "71xqRumWpbPguPAdvZgzd",
+      "text": "896) Daimi ağrılarda narkotik analgetiklərdən istifadə zamanı adəton hansı səhvə yol verilir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "evrIBmxWYDW4je_caX-HV",
+          "text": "A) Uzun fasilələrlə yeridilir",
+          "isCorrect": true
+        },
+        {
+          "id": "ZWDfJx4beXFVD-t5IMFBN",
+          "text": "B) Uzun müddətli təsir edən preparatdan istifadə olunur",
+          "isCorrect": false
+        },
+        {
+          "id": "1z7xeC11Ai0IBdyDhtx8M",
+          "text": "C) Qısa müddətli ağrısızlaşma zamanı vena daxili şırnaqla yeridilir",
+          "isCorrect": false
+        },
+        {
+          "id": "EI3yjrD5mA57GnBT1-4BR",
+          "text": "D) Uzun müddətli infuziyadan istifadə olunur",
+          "isCorrect": false
+        },
+        {
+          "id": "9I7VkCdoee6bl9g8skqqq",
+          "text": "E) Qısa müddətli ağrısızlaşma zamanı qısa müddətli təsir edən preparatdan istifadə olunur",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "-5-PMfOZvVY0WffU7H5HX",
+      "text": "897) Hansı halda narkotik analgetikləri daxilə qəbul etmək olar?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "4iCEG4xbKeQgdkca4EJt1",
+          "text": "A) Kəskin qastrit zamanı",
+          "isCorrect": false
+        },
+        {
+          "id": "Chv0c8IZU5veF5trBjG9L",
+          "text": "B) \"Kəskin qarın\" sindromunda",
+          "isCorrect": false
+        },
+        {
+          "id": "dL7VjmvAsoohqo3P95oYG",
+          "text": "C) İshal baş verdikdə",
+          "isCorrect": false
+        },
+        {
+          "id": "f4YjNXdD9L5nSZvLxjWap",
+          "text": "D) Qastroenteritdə",
+          "isCorrect": false
+        },
+        {
+          "id": "YNCcQ-cUqQdqiHRs1sRE3",
+          "text": "E) Mədə-bağırsaq traktının funksiyası normal olduqda",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "tSj5KiTbcegzE4vob8keS",
+      "text": "898) Narkotiklərin qəbulu zamanı yaranan tənəffüs zaifləməsində seçim preparatı hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "zQ5DLuljYwMBQfTWMuG3s",
+          "text": "A) Korazol",
+          "isCorrect": false
+        },
+        {
+          "id": "vLJ1LLZKD-7SKvSdZkiKG",
+          "text": "B) Lobelin",
+          "isCorrect": false
+        },
+        {
+          "id": "MmelkU2CdPKTm69OeDsiD",
+          "text": "C) Nalokson",
+          "isCorrect": true
+        },
+        {
+          "id": "8jeS9tLaQyygpqhcKTGaO",
+          "text": "D) Sitoxrom-C",
+          "isCorrect": false
+        },
+        {
+          "id": "S4xOK8EIp2KxhZR4ccr5K",
+          "text": "E) Bemeqrid",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "H3HS4Xy5RhBmTIgrmrpcv",
+      "text": "899) Narkotik analgetiklərin əlavə təsirinə hansı aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "t5xY5LYmxLu656cI1VggY",
+          "text": "A) Qəbizlik",
+          "isCorrect": false
+        },
+        {
+          "id": "U69ziqIxxmz4z5RtG81sf",
+          "text": "B) Qaşınma",
+          "isCorrect": false
+        },
+        {
+          "id": "8g5EssrVHKeiZv3MJKEsg",
+          "text": "C) Sidiyin ləngiməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "EPfTQHZm4N3EIH_T51OgI",
+          "text": "D) Öyümə və disforiya",
+          "isCorrect": false
+        },
+        {
+          "id": "xjCnAxVNAkSlO8ZgOII9p",
+          "text": "E) Dərinin səthi damarlarını genəldir",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "_EZc2k2pbbsFenWsUVEmK",
+      "text": "900) Opiatlarla müalicəni birdən-birə dayandırdıqda yaranan narkotik qəbulundan kəsilmə sindromunun əlamətlərinə hansı aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "urH5151AyygL0Hid7tNMf",
+          "text": "A) İshal",
+          "isCorrect": false
+        },
+        {
+          "id": "Ng1ULmKuXC5NhtzcfKrXp",
+          "text": "B) Burnun tutulması",
+          "isCorrect": false
+        },
+        {
+          "id": "_5JGx6YHUD60L8tb8qH9H",
+          "text": "C) Oyanıqlıq",
+          "isCorrect": false
+        },
+        {
+          "id": "QUrftNlqTaesiQOEGIFEE",
+          "text": "D) \"Qaz dərisi\"",
+          "isCorrect": false
+        },
+        {
+          "id": "cSjdUaNOjNmhY5uAxrpaA",
+          "text": "E) Dəridə səpkilər",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "KjKQ6wvnpJ5xC6C9Av4Hp",
+      "text": "901) Kəsilmə sindromundan uzaqlaşmaq üçün hansı tədbir aparılır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "AsZhiG0CWGP4jqCmqzPkF",
+          "text": "A) Bir neçə ay ərzində doza 2 dəfə azaldılır",
+          "isCorrect": false
+        },
+        {
+          "id": "SfwgRAJLkrHsZaZfpefsE",
+          "text": "B) Bir neçə gün ərzində doza tədricən azaldılır",
+          "isCorrect": true
+        },
+        {
+          "id": "UjN34ARyOR2qzuwYAGrCW",
+          "text": "C) Həftə ərzində gündəlik doza 3 dəfə azaldılır",
+          "isCorrect": false
+        },
+        {
+          "id": "aSR-z9kSx9ce7sgbMlbjn",
+          "text": "D) Doza əvvəl artırılır, sonra azaldılır",
+          "isCorrect": false
+        },
+        {
+          "id": "gfb1C8AhHNfdufGIrQVSx",
+          "text": "E) Heç bir tədbir aparılmır",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "YmfBKRFhFQKkdVb1YpGCQ",
+      "text": "902) Uşaqlarda zəif ağrı zamanı kodein adətən hansı preparatla birlikdə təyin edilir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "y-BS9__Y7l_y849JkY95P",
+          "text": "A) Qlisin",
+          "isCorrect": false
+        },
+        {
+          "id": "mHx1pwTpWtFvMgXTmsymt",
+          "text": "B) Parasetamol",
+          "isCorrect": true
+        },
+        {
+          "id": "p4i3SqQNPcsm0URJ4wyJ_",
+          "text": "C) Movalis",
+          "isCorrect": false
+        },
+        {
+          "id": "o6MEVG43IReb-bEBJ14ox",
+          "text": "D) Baralgin",
+          "isCorrect": false
+        },
+        {
+          "id": "OzQKDN15LQB-O8YqiwvTY",
+          "text": "E) Analgin",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "ge890vfH1W-QDs55vrxdB",
+      "text": "903) Morfinin analgetik təsir müddəti nə qədərdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "F1DYd6mh4OcvRRjnDLKgG",
+          "text": "A) 0,5-1 saat",
+          "isCorrect": false
+        },
+        {
+          "id": "Ac_RlHvkQ3Zi7h0zrgCex",
+          "text": "B) 1-1,5 saat",
+          "isCorrect": false
+        },
+        {
+          "id": "Gtwr7hkucAqRxZjVNEcS-",
+          "text": "C) 20-35 dəq",
+          "isCorrect": false
+        },
+        {
+          "id": "vkTxu8IGBmli8oZmf8j6R",
+          "text": "D) 15-20 dəq",
+          "isCorrect": false
+        },
+        {
+          "id": "oHjk_UMX0VlBTY1gGtMep",
+          "text": "E) 2-3 saat",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "K6ZV9fw2t_3h7IHgUy5y6",
+      "text": "904) Bədxassəli şişlər zamanı morfinin hansı yolla qəbulu məqsədə uyğundur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "youlryzxzh4zcLXX3NTYp",
+          "text": "A) Vena daxili",
+          "isCorrect": true
+        },
+        {
+          "id": "TGxmw2Yapqbonberkt_Ld",
+          "text": "B) Nebulayzerlə",
+          "isCorrect": false
+        },
+        {
+          "id": "VovABRd4W6LCH2_gDQUOL",
+          "text": "C) Dəri altı",
+          "isCorrect": false
+        },
+        {
+          "id": "S5f4KjlWlIIPUYeqn3fBA",
+          "text": "D) İnhalyatorla",
+          "isCorrect": false
+        },
+        {
+          "id": "jNvuGBDsZJ6qUdP1s4SgT",
+          "text": "E) Əzələ daxili",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "6D1rAZZwNgREUuxZJeui1",
+      "text": "905) Morfin orqanizmdən əsasən hansı yolla xaric olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "TdzVg69NRxhh8r7M_2nCL",
+          "text": "A) Nocislə",
+          "isCorrect": false
+        },
+        {
+          "id": "oa4gEL1Pr7CzVwnvV29Ij",
+          "text": "B) Öd ilə",
+          "isCorrect": false
+        },
+        {
+          "id": "uQoa_YItzP7StpwtgyYY8",
+          "text": "C) Sidikla",
+          "isCorrect": true
+        },
+        {
+          "id": "4Vn1c5UqMCn-_cJqKUEQ6",
+          "text": "D) Tərla",
+          "isCorrect": false
+        },
+        {
+          "id": "kqSBovVrIiu80aPl5YYBY",
+          "text": "E) Ağız suyu ilə",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "7H0gEri-wmbkeNHsrR10_",
+      "text": "906) Morfina qarşı davamlılıq yaranıbsa dozanın artırılması nəyə səbəb olmur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "_ejpqzkrC6l-CMLf6zq6M",
+          "text": "A) Ürək çatışmazlığı",
+          "isCorrect": false
+        },
+        {
+          "id": "WYK2_jrAnfDCz62-zzznn",
+          "text": "B) Böyrək çatışmazlığı",
+          "isCorrect": false
+        },
+        {
+          "id": "i0U4PrSUNW1CWGX6vondE",
+          "text": "C) Çeyn-Stoks tipli tənəffüsün yaranması",
+          "isCorrect": false
+        },
+        {
+          "id": "sKZCIAMu-e7hmbfg8v_9q",
+          "text": "D) Qaraciyər çatışmazlığı",
+          "isCorrect": false
+        },
+        {
+          "id": "STAHULYFJvHCnlwy2VXnF",
+          "text": "E) Tənəffüs pozğunluğu riskinin artması",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "kPN1zcWxLNZ8m6H5nyLrB",
+      "text": "907) Petidinin yüksək dozada və bir neçə sutkadan artıq qəbulu zamanı yaranan normeperidin nəyə səbəb olur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "PvBykbj7DPeZwq7Ani38O",
+          "text": "A) Süstllüyə",
+          "isCorrect": false
+        },
+        {
+          "id": "qO8_bXHbH5jRcyXSEp1wN",
+          "text": "B) Hipoqlikemiyaya",
+          "isCorrect": false
+        },
+        {
+          "id": "VAp_gusUVscC78CByYmrd",
+          "text": "C) İshalı",
+          "isCorrect": false
+        },
+        {
+          "id": "tFz51FKnY0CAExbn553NY",
+          "text": "D) Qıcolma və disfoniyaya",
+          "isCorrect": true
+        },
+        {
+          "id": "loKkAkuNuSO4roH2iIlmg",
+          "text": "E) Oliquriyaya",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "A_qmylY61WU1NO_gEnn_z",
+      "text": "908) Metadon hansı xəstələrə təyin olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "IYB0zHQEjfkcH5fknOzA1",
+          "text": "A) Bronxial astmalı xəstələrə",
+          "isCorrect": false
+        },
+        {
+          "id": "ThUoLWevxOeqAhMehWPdP",
+          "text": "B) Kəllə-beyin travmasında",
+          "isCorrect": false
+        },
+        {
+          "id": "fbA07Ocx4vZ7eM3j8-9UP",
+          "text": "C) Onkoloji xəstələrə",
+          "isCorrect": true
+        },
+        {
+          "id": "A6-eI8gwa9GnvEmUEwniw",
+          "text": "D) Qaraciyər çatışmazlığında",
+          "isCorrect": false
+        },
+        {
+          "id": "vuDrWPRFht1ZYbfid9MV2",
+          "text": "E) \"Kəskin qarın\" sindromunda",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "hN8OEm9inrTcldggoxxSY",
+      "text": "909) Vena daxili yeridilmə zamanı metadonun analgeziya təsiri hansı biri ilə oxşardır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "FYx68c_9W0b8uTIKid7_y",
+          "text": "A) Omnopon",
+          "isCorrect": false
+        },
+        {
+          "id": "K1z91ewgSvZJcKnpTGaHv",
+          "text": "B) Prometol",
+          "isCorrect": false
+        },
+        {
+          "id": "H65SP68v1FFXbhnfdZKwb",
+          "text": "C) Fentanil",
+          "isCorrect": false
+        },
+        {
+          "id": "Q3_YiQjQrm4EbVqieKNFs",
+          "text": "D) Meperidin",
+          "isCorrect": false
+        },
+        {
+          "id": "-8Wk9v11fPiuZ8fYxaFwx",
+          "text": "E) Morfin",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "av_8Zz-0qK83EKRpRjdG_",
+      "text": "910) Fentanil morfindən nə ilə fərqlənir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "3X9m3uy2pD8XhSaNihDok",
+          "text": "A) Tənəffüsü süstləşdirir",
+          "isCorrect": false
+        },
+        {
+          "id": "nhoToF97mky9GqHottxX2",
+          "text": "B) Eyforiya yaradır",
+          "isCorrect": false
+        },
+        {
+          "id": "Mhvibp2c-jfrQE6IiSP2_",
+          "text": "C) Bradikardiya yaradır",
+          "isCorrect": false
+        },
+        {
+          "id": "xrKDIYGn4bBD2jbiufedC",
+          "text": "D) Əzələ rigidliyi yaradır",
+          "isCorrect": false
+        },
+        {
+          "id": "-Eqn5_h3ssNyR-d6BEq6N",
+          "text": "E) Qısa müddətli təsir edir",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "0k1t05mMkSmJ2L6SX-kox",
+      "text": "911) Fentanil kiçik və orta dozada nə vaxt istifadə olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "qWn1ktBGmvCoD1cixjduW",
+          "text": "A) Sarğı qoyulmasında və sternal punksiya zamanı",
+          "isCorrect": true
+        },
+        {
+          "id": "H3VhtRsxbBZqPCju7dRj6",
+          "text": "B) Keysəriyyə əməliyyatında",
+          "isCorrect": false
+        },
+        {
+          "id": "WcirhWadAC7kD2NCxLxXV",
+          "text": "C) Ağ ciyər infarktında",
+          "isCorrect": false
+        },
+        {
+          "id": "JZ1668QJ6bXkOIYx6kzlP",
+          "text": "D) Kiçik qan dövranında nəzərə çarpacaq hipertenziyada",
+          "isCorrect": false
+        },
+        {
+          "id": "2klFiaW8r0F2a3PPySgqI",
+          "text": "E) Bronxial astmada",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "sGDF-GsV1rv4UKwM3P-XV",
+      "text": "912) Lidokainə əks göstəriş hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "mSFyOddPzCYe9-bNcNC-E",
+          "text": "A) Sinus düyününün zəifliyi sindromu",
+          "isCorrect": true
+        },
+        {
+          "id": "E0-oqhSj1XDfzjY99fGjK",
+          "text": "B) Vena və arteriyaların punksiya və kateterizasiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "mSBnTmnDtutviXO-HViYh",
+          "text": "C) Lümbal punksiya",
+          "isCorrect": false
+        },
+        {
+          "id": "pj-YYmx8i-O33JdCa8fcm",
+          "text": "D) Yenidoğulmuşların sünnəti",
+          "isCorrect": false
+        },
+        {
+          "id": "94VWHuV9Ukm-cXItMww9g",
+          "text": "E) Selikli qişaların yerli anesteziyası zamanı",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "vwTLBEoc9i27MZ1hOFEsI",
+      "text": "913) İnfiltrasion anesteziya zamanı lidokainin ümumi dozası nə qədərdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "RHLqzRjm9elK-AAdvhs6i",
+          "text": "A) Adrenalinsiz 2-3 mq/kq",
+          "isCorrect": false
+        },
+        {
+          "id": "p5oh8juMRf0D5LdOn_hYA",
+          "text": "B) Adrenalinlə birlikdə 0,5-0,8 mq/kq",
+          "isCorrect": false
+        },
+        {
+          "id": "5a_IcfUHUHzQ4riUDXsJG",
+          "text": "C) Adrenalinlə birlikdə 1-3 mq/kq",
+          "isCorrect": false
+        },
+        {
+          "id": "t4gmeIi-tn4GDmUJCulMe",
+          "text": "D) Adrenalinsiz 1-2 mq/kq",
+          "isCorrect": false
+        },
+        {
+          "id": "dokRxhCVoXEHGkvwSIEr7",
+          "text": "E) Adrenalinlə birlikdə 5-7 mq/kq",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "6H51-mImReGm5Cxb0_Hi-",
+      "text": "914) Anestetiklərin əlavə təsirlərinə hansı aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "FPV9t8Tcy5ZxAb45gDLXd",
+          "text": "A) Oyanıqlıq, baş ağrısı",
+          "isCorrect": false
+        },
+        {
+          "id": "jDp-GjzKkUCKZPXmVNbcp",
+          "text": "B) Yuxululuq, qulaqda küy",
+          "isCorrect": false
+        },
+        {
+          "id": "iHhSuZzCSyDu7IXXKKBy2",
+          "text": "C) Ağızda metal dadı",
+          "isCorrect": false
+        },
+        {
+          "id": "CnNO4e1Sak1AHZmgDNcKM",
+          "text": "D) Epileptik tutmalar",
+          "isCorrect": false
+        },
+        {
+          "id": "6v7DlJ2VF4cqsTu4AcRwW",
+          "text": "E) Arterial hipertoniya",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "cEj1nNT_NhUCwR9NMOTdH",
+      "text": "915) Lidokain və priləkain məlhəmindən nə zaman istifadə olunmur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "uA6M5siWyyPpni823JBcX",
+          "text": "A) Venaların kateterizasiyasında",
+          "isCorrect": false
+        },
+        {
+          "id": "IxJJRH38BsTRYr64lRGLM",
+          "text": "B) Sternal punksiyada",
+          "isCorrect": true
+        },
+        {
+          "id": "t6Sb2UYm5I655jSgONzWd",
+          "text": "C) Ağız-udlağın anesteziyasında",
+          "isCorrect": false
+        },
+        {
+          "id": "jkAjGR8Z9xxneN06Xt9TB",
+          "text": "D) Venepunksiyada",
+          "isCorrect": false
+        },
+        {
+          "id": "d8_pVPo6B8uw6pGOnI__t",
+          "text": "E) İnfiltrasion anesteziyadan əvvəl",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "HSk08E200OMZiJZO1YDVZ",
+      "text": "916) Uşaqlarda ağır vəziyyətlarda sedativ terapiyanın aparılmasınə nəyə səbəb ola bilər?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "SoEXr6mHG1_-H5wHPQt02",
+          "text": "A) Böyrək çatışmazlığına",
+          "isCorrect": false
+        },
+        {
+          "id": "qX8v9aBvOo0IQ_OS4c-By",
+          "text": "B) Qaraciyər çatışmazlığına",
+          "isCorrect": false
+        },
+        {
+          "id": "6owbRP0IHERkvODzv_UDr",
+          "text": "C) Tənəffüs yollarının obstruksiyasına",
+          "isCorrect": true
+        },
+        {
+          "id": "FhH-Uf2o0VzUH3cWNBYZh",
+          "text": "D) Hiperventilyasiyaya",
+          "isCorrect": false
+        },
+        {
+          "id": "773sLVwRegf30HOAXqRXu",
+          "text": "E) Arterial hipertenziyaya",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "-IJqq22v3IpedIckyF3rM",
+      "text": "917) 1-2 yaşlı uşaqlarda və kəskin ağrı uzun müddət davam etdikdə hansı dərman kombinasiyasından istifadə olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "oZT67QEZnYQQ3-P4BG98Y",
+          "text": "A) Sedativ preparatların narkotik analgetiklərlə kombinasiyası",
+          "isCorrect": true
+        },
+        {
+          "id": "1JLKmudzYFt8koefvnrzS",
+          "text": "B) Narkotik analgetiklərin antihistaminlərlə kombinasiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "dqx0pLV1HUHIAzxCcOU6C",
+          "text": "C) Qeyri steroid iltihab əleyhinə preparatlarla antihistaminlərin kombinasiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "elMcuaS11TXI_A32hPTOS",
+          "text": "D) Antihistaminlərin sedativ preparatlarla kombinasiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "SlL1e9sW5WjfrkOPDR9bD",
+          "text": "E) Sedativ preparatların kortikosteroidlərlə kombinasiyası",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "5m44aJRtim9HTVoMLtxjK",
+      "text": "918) Sedativ preparatı seçərkən hansı biri vacib sayılmır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "vXXYk8I3sdbStsv-z_-Nh",
+          "text": "A) Xəstənin vəziyyəti",
+          "isCorrect": false
+        },
+        {
+          "id": "0RLmRPC72ukJTQBjhBHqB",
+          "text": "B) İlin fəsli",
+          "isCorrect": true
+        },
+        {
+          "id": "xXxZBmV5tj5PZM51Fvu_E",
+          "text": "C) Uşağın yaşı",
+          "isCorrect": false
+        },
+        {
+          "id": "djD5DXaudv2VqxGGe4Ae2",
+          "text": "D) Fərdi xüsusiyyəti",
+          "isCorrect": false
+        },
+        {
+          "id": "ob4Ucwm_8plrQy04_zlAB",
+          "text": "E) Həkim müdaxiləsinin xarakteri",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "SlkI4SY4sA0OYTK98-n1Y",
+      "text": "919) Hansı əlamət xloralhidratın xüsusiyyətlərinə aid deyildir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "AO2XpmpPlyMtatojh2vNd",
+          "text": "A) Doza diapazonu kifayət qədər genişdir",
+          "isCorrect": false
+        },
+        {
+          "id": "vsl4Z133G-DNiBpOdgDL4",
+          "text": "B) Qəbul edildikdən 30-60 dəq sonra təsiri maksimuma çatır",
+          "isCorrect": false
+        },
+        {
+          "id": "IrQk9F7oK6hCVGc-_37vc",
+          "text": "C) Ən təhlükəsiz, eyni zamanda ucuz preparatdır",
+          "isCorrect": false
+        },
+        {
+          "id": "CdzeeOujCP4yyynvFRa9t",
+          "text": "D) Peroral qəbulda heç bir dad hiss olunmur",
+          "isCorrect": true
+        },
+        {
+          "id": "VUnL9MXBvBqtg8KlgYT-n",
+          "text": "E) Uşaqlar yaxşı qəbul edirlər",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "kdq6wH621PuuTw-uTVMge",
+      "text": "920) Hansı halda xloralhidratdan ehtiyatla istifadə olunmalıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "1byVoIkLrQM_qzMnahJBb",
+          "text": "A) Tetanus",
+          "isCorrect": false
+        },
+        {
+          "id": "zSvU6Sd23HC5286NQBQ7l",
+          "text": "B) Ensefalopatiya",
+          "isCorrect": false
+        },
+        {
+          "id": "k0sHcvp98Qg_UT52Tuk-K",
+          "text": "C) Qaraciyər xəstəliklərində",
+          "isCorrect": true
+        },
+        {
+          "id": "28i3JQikmRQ2ng_Nz_ff9",
+          "text": "D) Strixninlə zəhərlənmə",
+          "isCorrect": false
+        },
+        {
+          "id": "4RZ0h1OLTQe3EDH9IDkcw",
+          "text": "E) Spazmofiliya",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "2Q5EK_fsqy0iJLQ_Gd4hm",
+      "text": "921) Xloralhidratın aspirasiyası hansı ilə nəticələnə bilər?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "FFgEgKhOOLnVei7d1lXIb",
+          "text": "A) Ürək çatışmazlığı ilə",
+          "isCorrect": false
+        },
+        {
+          "id": "Ca_ejuW-IejxurK2hb6yX",
+          "text": "B) Qırtlağın spazmı və ölümlə",
+          "isCorrect": true
+        },
+        {
+          "id": "KSKv7hKgWuc7LAw1J6PRV",
+          "text": "C) Periferik damarların spazmı ilə",
+          "isCorrect": false
+        },
+        {
+          "id": "cYIX-QWxliWY3IJkpt5Zc",
+          "text": "D) Qara ciyər çatışmazlığı ilə",
+          "isCorrect": false
+        },
+        {
+          "id": "JL2dqRq1TNKn3BmPCkETT",
+          "text": "E) Böyrək çatışmazlığı ilə",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Z5aLRIcRkh7iLso-3YH8G",
+      "text": "922) Xloralhidrat qəbul edildikdən sonra təsiri nə vaxt maksimuma çatır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "McXXd_8a1hEfKiQoySFYr",
+          "text": "A) 30-60 dəq",
+          "isCorrect": true
+        },
+        {
+          "id": "cKt4UOaFcjZatZ2-whQ76",
+          "text": "B) 2-3 dəq",
+          "isCorrect": false
+        },
+        {
+          "id": "LPV4rM6Px7u6gSf6DNYKC",
+          "text": "C) 10-15 dəq",
+          "isCorrect": false
+        },
+        {
+          "id": "IOhD9i6mr7chvkpQTK3A7",
+          "text": "D) 15-20 dəq",
+          "isCorrect": false
+        },
+        {
+          "id": "_6B1L4UXF7_dZ6VYg2nsB",
+          "text": "E) 5-10 dəq",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "gqHPJ2ZOdg5wY022XPRa3",
+      "text": "923) H1-blokatorlar içərisində ən güclü sedativ təsir edən preparatlar hansılardır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "rT3HiwqEFje6A_WQbJLXe",
+          "text": "A) Terfenadin, prometazin",
+          "isCorrect": false
+        },
+        {
+          "id": "UUQwzWSz8AwwvxSFY6m2z",
+          "text": "B) Difenhidramin, terfenadin",
+          "isCorrect": false
+        },
+        {
+          "id": "bIXaY7ZFZSwGqAyHT6Gnp",
+          "text": "C) Difenhidramin, fekoofenadin",
+          "isCorrect": false
+        },
+        {
+          "id": "Mrlz9l3pneWzO8FvDJAsi",
+          "text": "D) Prometazin, fekoofenadin",
+          "isCorrect": false
+        },
+        {
+          "id": "oQAcvbtnXb37zvPFOgWHi",
+          "text": "E) Difenhidramin, prometazin",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "WPg-gxrvfRwy7PaRRwdQA",
+      "text": "924) H1-blokatorlar hansı halda yaxşı mənimsənilir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "WmMgiMBafQT-67dUhhhIu",
+          "text": "A) dəri içi inyeksiyada",
+          "isCorrect": false
+        },
+        {
+          "id": "KGBaPTVzVqgRlWRoUqZ8g",
+          "text": "B) dəri altı inyeksiyada",
+          "isCorrect": false
+        },
+        {
+          "id": "lUFGgc8fIQKKW_Gw8QD0t",
+          "text": "C) azala daxili inyeksiyada",
+          "isCorrect": false
+        },
+        {
+          "id": "5dxDSdatdZvDy6OSZS3Bl",
+          "text": "D) vena daxili yeridilmədə",
+          "isCorrect": false
+        },
+        {
+          "id": "YaS04PkZpnaHyui_MjTkC",
+          "text": "E) daxila qəbul edildikdə",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "MI5dsKrzb3DAT6SCzDSfq",
+      "text": "925) Hidroksizin və difenhidramin hansı təsirlərinə görə qaşınmanı azaldırlar?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "4Wi3DWHkuzKAWkTsxQbis",
+          "text": "A) Dəridəki iltihabın qarşısını almaqla",
+          "isCorrect": false
+        },
+        {
+          "id": "SvYpEq6OZrcQfK2kmxf7j",
+          "text": "B) Xolestazı aradan qaldırmaqla",
+          "isCorrect": false
+        },
+        {
+          "id": "5wOVeSlx0gzuJydGIBJa7",
+          "text": "C) Fibrinolitik təsiri ilə",
+          "isCorrect": false
+        },
+        {
+          "id": "EtTF1-deh0QGTVEi9JyMj",
+          "text": "D) Sedativ təsirləri hesabına",
+          "isCorrect": true
+        },
+        {
+          "id": "ZlGF7FgmpxWZUqXPPCc2J",
+          "text": "E) Orqanizmin immunoloji reaktivliyinə təsir etməklə",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "ihgh4Qw9dF3CJGLEThHqk",
+      "text": "926) Benzodiazepinlər hansı təsiri göstərmir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "eqksLcpDHtw_wlt3C9cDb",
+          "text": "A) Həyəcanı azaldırlar",
+          "isCorrect": false
+        },
+        {
+          "id": "b03Vbpw1B5GETssp4rr2X",
+          "text": "B) Amneziya yaradırlar",
+          "isCorrect": false
+        },
+        {
+          "id": "aoDqH_N-ekDa70fvNHy8y",
+          "text": "C) Ağrı fonunda disforiya yaradırlar",
+          "isCorrect": false
+        },
+        {
+          "id": "LA8tvIl__flls-cVmtj-a",
+          "text": "D) Tənəffüsü nisbətən zəiflədirlər",
+          "isCorrect": false
+        },
+        {
+          "id": "MvANSPM7xzX7-_QWoWzVW",
+          "text": "E) Güclü ağrıkəsici",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "KMtOBjIxrwbDEwsCWON32",
+      "text": "927) Hansı xüsusiyyət diazepama aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "ikQM39gVMKn7u47yTMgaB",
+          "text": "A) Sidik qovucu təsir göstərir",
+          "isCorrect": true
+        },
+        {
+          "id": "gyROhmldDvBsYUc36dMrX",
+          "text": "B) Ağrıkəsici təsir göstərmirlər",
+          "isCorrect": false
+        },
+        {
+          "id": "-lFp4pygfVLN0E0CPCKA7",
+          "text": "C) Qabulu zamanı xəstələrdə uzun müddət yuxulu vəziyyət saxlanılır",
+          "isCorrect": false
+        },
+        {
+          "id": "GJ9-FuFeYrZlQ3vUITJ_h",
+          "text": "D) Bazan ağrı fonunda disforiya yaradır",
+          "isCorrect": false
+        },
+        {
+          "id": "Z-wmpDr9dg5d5OuR17HlA",
+          "text": "E) Aktiv metabolitləri orqanizmdən gec xaric olur",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "k1PTX8aLHLwYJLw42PXup",
+      "text": "928) Benzodiazepinlərin narkotik analgetiklərlə birgə istifadə olunması zamanı nə baş verir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "gG7WcbOs2Tfm4n4tZLfB1",
+          "text": "A) Sedativ təsir güclənir, tənəffüsdə dəyişiklik olmur",
+          "isCorrect": false
+        },
+        {
+          "id": "MbIry9fser1C6y_ZZJG-_",
+          "text": "B) Sedativ təsir azalır, tənəffüs əhəmiyyətli dərəcədə zəifləyir",
+          "isCorrect": false
+        },
+        {
+          "id": "OmSd3dGGSl3OhUekxoFGb",
+          "text": "C) Sedativ təsir və tənəffüsün zəifləməsi əhəmiyyətli dərəcədə güclənir",
+          "isCorrect": true
+        },
+        {
+          "id": "DIRX6FEXTlxbcT47z4nK1",
+          "text": "D) Təngnəfəslik yaranır, sedativ təsir azacıq artır",
+          "isCorrect": false
+        },
+        {
+          "id": "b7evOX_mczxBca67A3L7S",
+          "text": "E) Sedativ təsir azalır, təngnəfəslik baş verir",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "6V8dnGe9u8Eg7h5fZDyYc",
+      "text": "929) Qısa müddətli sedativ təsir yaratmaq üçün ən çox hansından istifadə olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "VayR5vwnsxDpj2_yTB8Bm",
+          "text": "A) Klonazepam",
+          "isCorrect": false
+        },
+        {
+          "id": "e8fXlirW8a0O2MFAAqIoA",
+          "text": "B) Diazepam",
+          "isCorrect": false
+        },
+        {
+          "id": "J0KKmBh0G9mfeMWhcjd1A",
+          "text": "C) Lorazepam",
+          "isCorrect": false
+        },
+        {
+          "id": "t-kK-WCmq3GmTavPW5vlH",
+          "text": "D) Midazolam",
+          "isCorrect": true
+        },
+        {
+          "id": "VlEH-JFeCaujSglfBKXRn",
+          "text": "E) Klobazam",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "6R0MupL8lNDmJv_1IzzGs",
+      "text": "930) Neyroleptiklərə hansı aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "4fpJZcOp2jW5xrgqNKRJk",
+          "text": "A) Droperidol",
+          "isCorrect": false
+        },
+        {
+          "id": "ooVoc-clnXBx_V-Jh_ubf",
+          "text": "B) Proxlorperazin",
+          "isCorrect": false
+        },
+        {
+          "id": "AB4jcdBf0gRaeB1nVtYAA",
+          "text": "C) Xlorpromazin",
+          "isCorrect": false
+        },
+        {
+          "id": "NazCfh4UGgMhazC72QzYS",
+          "text": "D) Haloperidol",
+          "isCorrect": false
+        },
+        {
+          "id": "N9GbVUoV7RxW3lWcSmOyY",
+          "text": "E) Pentobarbital",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "YH_ffWUVtiorcleOkd9hd",
+      "text": "931) Metoklopramid əsasən hansı vasitə kimi istifadə olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "2xNEIsvrGH5zFLUwkHHsh",
+          "text": "A) Öskürək əleyhinə",
+          "isCorrect": false
+        },
+        {
+          "id": "dRJ0rg_NT7Ijni80Ou2Qs",
+          "text": "B) Qan kəsici",
+          "isCorrect": false
+        },
+        {
+          "id": "fNMe4OOan6RZgzJIi_xXa",
+          "text": "C) Qusma əleyhinə",
+          "isCorrect": true
+        },
+        {
+          "id": "cTroGMXo-aYYA7EoZ9Z8C",
+          "text": "D) İshal əleyhinə",
+          "isCorrect": false
+        },
+        {
+          "id": "XF27OIndT-ClpOqzHtcLv",
+          "text": "E) Hərarət salıcı",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "d2JI0Meul0DA0I2i7D_Oc",
+      "text": "932) Hansı əlamətlər neyroleptiklərin əlavə təsirinə aid deyildir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "CIw8E6ruvmbdqgBxGv6yQ",
+          "text": "A) Dozadan asılı olaraq yüngül sedativ təsir",
+          "isCorrect": true
+        },
+        {
+          "id": "aEVCPU102q6RSh6L9aDCB",
+          "text": "B) Damarları genişləndirirlər",
+          "isCorrect": false
+        },
+        {
+          "id": "Aqwo4Ov9UC-jrvGhb7ccY",
+          "text": "C) Ekstrapiramid pozğunluqlar",
+          "isCorrect": false
+        },
+        {
+          "id": "m8-036-WIwyqaOOzp9UMu",
+          "text": "D) Disforiya",
+          "isCorrect": false
+        },
+        {
+          "id": "0fWMSjuLLYpdm7Z-yYIUD",
+          "text": "E) Sonradan yaranan hiperkinezlər",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "CyKHy0bQ7zZz4v3b5wz3o",
+      "text": "933) Ekstrapiramid pozğunluqları hansı ilə aradan qaldırmaq mümkündür?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "2T0IRrQ3XLuPIrczXifZA",
+          "text": "A) Papaverin",
+          "isCorrect": false
+        },
+        {
+          "id": "LFXpkVz7vGbcHupU1FdGT",
+          "text": "B) Difenhidramin",
+          "isCorrect": true
+        },
+        {
+          "id": "AfY7na7KWjjtCEvBJ8ope",
+          "text": "C) Sibazon",
+          "isCorrect": false
+        },
+        {
+          "id": "08g2JoZDSX6Ln1MlluF4v",
+          "text": "D) Serukal",
+          "isCorrect": false
+        },
+        {
+          "id": "AaEJKGaQLaC3TDKqLBa7I",
+          "text": "E) Platifillin",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "0lBFmyWCJpHjruvdPggy4",
+      "text": "934) Neyroleptiklərlə uzun müddət müalicə aparıldıqda hansı yaranır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "Gw3L-2tkN3c2wekY9OT9X",
+          "text": "A) Hemoliz",
+          "isCorrect": false
+        },
+        {
+          "id": "dUgYm0Z-5rgp0Q_rYRcSS",
+          "text": "B) Hematuriya",
+          "isCorrect": false
+        },
+        {
+          "id": "_GtS-EdQ_rlsXTboScMT7",
+          "text": "C) Gecikmiş hiperkinezlər",
+          "isCorrect": true
+        },
+        {
+          "id": "YQBvclxwIaRPT-FHMqV_2",
+          "text": "D) Süst ifliclər",
+          "isCorrect": false
+        },
+        {
+          "id": "wOCpnzBb-PLqALaJSrWVA",
+          "text": "E) Sarılıq",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "-3ZizmhrkKy8C25ZzhFEc",
+      "text": "935) Neyroleptiklərin qəbulundan yaranan disforiyaya hansı halda çox rast gəlinir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "kDglvBTcxQ8YBhk0kD9bd",
+          "text": "A) Klonazepamla birgə qəbul edildikdə",
+          "isCorrect": false
+        },
+        {
+          "id": "M_BHXArJ0D-e7A3ehJYyP",
+          "text": "B) Kiçik dozada təyin olunduqda",
+          "isCorrect": false
+        },
+        {
+          "id": "gO0TyP96kYFmr-92D0PTw",
+          "text": "C) Böyük dozada qəbul edildikdə",
+          "isCorrect": true
+        },
+        {
+          "id": "FcAqkz7p2FIOFtBVZLNzy",
+          "text": "D) Seduksenla birgə qəbul edildikdə",
+          "isCorrect": false
+        },
+        {
+          "id": "tauLn5-HpMeFmzi0wCBvV",
+          "text": "E) Narkotik analgetiklərlə birgə qəbul edildikdə",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "KfdftXKlCOkAJ9uJ9PIEU",
+      "text": "936) Ekstrapiramid pozğunluqları aradan qaldırmaq məqsədi ilə difenhidramin hansı dozada təyin olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "qiy6XEE2Me6AikU25FF85",
+          "text": "A) 10-20 mq/kq",
+          "isCorrect": false
+        },
+        {
+          "id": "oo9bmVZw6p-g6sH9vTzEb",
+          "text": "B) 0,1-0,2 mq/kq",
+          "isCorrect": false
+        },
+        {
+          "id": "tSao7HGfgB1GP3ugAbCRP",
+          "text": "C) 0,5-1 mq/kq",
+          "isCorrect": true
+        },
+        {
+          "id": "i1VyHzSOYWUw1WxRx1WdU",
+          "text": "D) 3-4 mq/kq",
+          "isCorrect": false
+        },
+        {
+          "id": "-a9JxmrITGpbDY_9B2kqF",
+          "text": "E) 2-3 mq/kq",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "cxgJ2oR3snjbGH01JODe-",
+      "text": "937) Ekstrapiramid pozğunluqları aradan qaldırmaq məqsədi ilə benzatropin hansı dozada təyin olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "juieUROcR_wgxusmVJFay",
+          "text": "A) 1-2 mq/kq",
+          "isCorrect": false
+        },
+        {
+          "id": "OG7tSA3Vvaj6JejteQO6v",
+          "text": "B) 0,1-0,2 mq/kq",
+          "isCorrect": false
+        },
+        {
+          "id": "iVpWWl0ca2AcVylQ1jDza",
+          "text": "C) 1-3 mq/kq",
+          "isCorrect": false
+        },
+        {
+          "id": "9gG_iInjs36LoMcA4t59m",
+          "text": "D) 0,3-0,4 mq/kq",
+          "isCorrect": false
+        },
+        {
+          "id": "vKkvwXHPS3LMAVVshAKQm",
+          "text": "E) 0,02-0,04 mq/kq",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "V6lgDMRm65OGPLHkQXW-o",
+      "text": "938) Barbituratlar hansı vasitələrə aiddir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "6z1Kz9ylNynmax7gnO0F_",
+          "text": "A) Narkotik analgetik",
+          "isCorrect": false
+        },
+        {
+          "id": "gDAbp6xT8JZvmENMD66GJ",
+          "text": "B) Qeyri-steroid iltihab əleyhinə",
+          "isCorrect": false
+        },
+        {
+          "id": "-20exZqqWbb_8TbD6eIzE",
+          "text": "C) Neyroleptik",
+          "isCorrect": false
+        },
+        {
+          "id": "N7aAFXVEmZCDksNnsJ71a",
+          "text": "D) Qeyri-narkotik analgetik",
+          "isCorrect": false
+        },
+        {
+          "id": "ujOkLE88HDetIPh7lrdyV",
+          "text": "E) Yuxu gətirici",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "gSwc0NbOJ7XDL0QEqrb0i",
+      "text": "939) Barbituratların təsirinə hansı aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "CHFqbn2sfkVy4hqjyTudz",
+          "text": "A) yuxu gətirici təsirə malikdir",
+          "isCorrect": false
+        },
+        {
+          "id": "L0alIVcea7fXURb6wv9ak",
+          "text": "B) ağrılar zamanı paradoksal oyanıqlıq yaradır",
+          "isCorrect": false
+        },
+        {
+          "id": "oQamb_qekAEg0dotfk9G5",
+          "text": "C) tənəffüsü bir az zəiflədir",
+          "isCorrect": false
+        },
+        {
+          "id": "hNELPNl3ZB3pHghghE2hd",
+          "text": "D) ümumi anesteziya vasitəsi kimi işlənilir",
+          "isCorrect": false
+        },
+        {
+          "id": "TLr48SKPxd6OICgcSFgAo",
+          "text": "E) öd qovucu təsir göstərir",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "qJYRzLE48K_yFOOaCvMl3",
+      "text": "940) Fenobarbitalın işlədilməsinə göstəriş hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "c7YGHVQ-TM9U_Xh7Sbyn3",
+          "text": "A) Qıcolma əleyhinə",
+          "isCorrect": true
+        },
+        {
+          "id": "I-_dTUQVAWZLEuW5_zv7_",
+          "text": "B) Tireotoksikoz",
+          "isCorrect": false
+        },
+        {
+          "id": "DgZ-GySBJxNMOLtfNxcZm",
+          "text": "C) Böyrək çatışmazlığı",
+          "isCorrect": false
+        },
+        {
+          "id": "N_ilmdoNSfn-vDS7NXWPq",
+          "text": "D) Xroniki alkoqolizm",
+          "isCorrect": false
+        },
+        {
+          "id": "PEGtp408BZTBUYaKUojc8",
+          "text": "E) Qara ciyər çatışmazlığı",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "lIrZCaREpHrgvjNQY_fy2",
+      "text": "941) Barbituratlara hansı aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "RlkObD4cki40B4ViwoARg",
+          "text": "A) Fenobarbital",
+          "isCorrect": false
+        },
+        {
+          "id": "1Y7jYJNucaYaKHo58QNjK",
+          "text": "B) Heksenal",
+          "isCorrect": false
+        },
+        {
+          "id": "Joleof5AMTRJIaIMifaGd",
+          "text": "C) Pentobarbital",
+          "isCorrect": false
+        },
+        {
+          "id": "dJHk6HgCv89pBthQmJG87",
+          "text": "D) Aminazin",
+          "isCorrect": true
+        },
+        {
+          "id": "XziagSTPJJ0IAXwUTGihL",
+          "text": "E) Sekobarbital",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "tYvBTiIzHpV2sN8nBE0Rk",
+      "text": "942) Ketaminin əlavə təsirinə hansı aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "LohVN_2goSN6otvxICUr-",
+          "text": "A) Ağrı kəsici",
+          "isCorrect": false
+        },
+        {
+          "id": "arTHcbQ_3sswbTAwaHooT",
+          "text": "B) Amneziya yaradır",
+          "isCorrect": false
+        },
+        {
+          "id": "NDbl4ZPeu2UcAveCS985Z",
+          "text": "C) Nitq pozğunluğu",
+          "isCorrect": false
+        },
+        {
+          "id": "m-BjpeZ-he20xvWHUmF37",
+          "text": "D) Xoşagəlməz hallyusinasiyalar",
+          "isCorrect": true
+        },
+        {
+          "id": "KX3XOHim110Lk9B5M8BOz",
+          "text": "E) Eyforiyanın olmaması",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "GMQNTJyAXsnrqjTdeoH2X",
+      "text": "943) Ketamin yaratdığı hallyusinasiyanı hansı ilə aradan qaldırmaq mümkündür?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "TNz6mnJWsGrTYyN9CUMEf",
+          "text": "A) Benzodiazepinlə",
+          "isCorrect": true
+        },
+        {
+          "id": "nWUcuhXjThmNLL3NO9glp",
+          "text": "B) Analeptiklə",
+          "isCorrect": false
+        },
+        {
+          "id": "7ZgwGlGWtKMKyuOCBkfhl",
+          "text": "C) H1-blokatorlarla",
+          "isCorrect": false
+        },
+        {
+          "id": "7I8XuOhe7sWZ4bFTvCQG4",
+          "text": "D) Barbituratlarla",
+          "isCorrect": false
+        },
+        {
+          "id": "AYRLIrTNMYa7LH66DtQTS",
+          "text": "E) Neyroleptiklərlə",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "6TqWwy7HCmbZ0qkaABDBG",
+      "text": "944) Ketamin vena daxilinə hansı dozada yeridilir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "vj3tjVs01oyneYPFtXx3V",
+          "text": "A) 0,5-1,5 mq/kq",
+          "isCorrect": true
+        },
+        {
+          "id": "IJW-rbeSW9Dh7T6_kqUcY",
+          "text": "B) 10-20 mq/kq",
+          "isCorrect": false
+        },
+        {
+          "id": "RUrj4AGNRmZWswxt-po3n",
+          "text": "C) 3,0-4,0 mq/kq",
+          "isCorrect": false
+        },
+        {
+          "id": "XqCh0Q0qT2AJXnHk_yyb3",
+          "text": "D) 2,0-3,0 mq/kq",
+          "isCorrect": false
+        },
+        {
+          "id": "UibsKdsuZFT2GP8vY2Xk2",
+          "text": "E) 5,0-6,0 mq/kq",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "BxFEIdzZB5MR4GUrDMaJB",
+      "text": "945) Ketamin azələ daxilinə hansı dozada yeridilir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "8uvdyZPi08ybpUKx5bocZ",
+          "text": "A) 5,0-6,0 mq/kq",
+          "isCorrect": false
+        },
+        {
+          "id": "hB4VrlW1akLdtZtA1SI_P",
+          "text": "B) 10-20 mq/kq",
+          "isCorrect": false
+        },
+        {
+          "id": "XvMhjOxUzrPg0Pi4BTTBI",
+          "text": "C) 3,0-4,0 mq/kq",
+          "isCorrect": false
+        },
+        {
+          "id": "Z1RhaiL3ZNjItEXt9Q92y",
+          "text": "D) 1,5-3,0 mq/kq",
+          "isCorrect": true
+        },
+        {
+          "id": "eQyMbfcpKppbbAigPz9QY",
+          "text": "E) 0,5-1,5 mq/kq",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "dmnVGGLckiog9z2ZtK7qB",
+      "text": "946) Diri virus aleyhina vaksinləra hansı aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "eYS_0KYsyfxu_xgU2lSo6",
+          "text": "A) Moxmərəyə qarşı",
+          "isCorrect": false
+        },
+        {
+          "id": "UPKNI8QN29Cw27p5CwZ5x",
+          "text": "B) Qızılcaya qarşı",
+          "isCorrect": false
+        },
+        {
+          "id": "fG5p8E9tQDsbMgFqLfkSA",
+          "text": "C) Poliomielitə qarşı",
+          "isCorrect": false
+        },
+        {
+          "id": "okUWVUWr4PNVPimnJLifp",
+          "text": "D) Epidemik parotitə qarşı",
+          "isCorrect": false
+        },
+        {
+          "id": "19zxb-zyFEuLkN-X4MY8u",
+          "text": "E) Adsorbsiya olunmuş difteriya, tetanus aleyhina vaksin (ADT)",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "k6OKqYdke-uTbxWWMdrUD",
+      "text": "947) İmmunizasiyaya hansı halda icaza verilir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "oEr14ottB8G6oRdCgSWpM",
+          "text": "A) Kəskin infeksion xəstəliklərdə",
+          "isCorrect": false
+        },
+        {
+          "id": "4HQiyLvK9Zz7DMTjJxCtg",
+          "text": "B) Hepatitdə",
+          "isCorrect": false
+        },
+        {
+          "id": "F9nRSZOxGIx9gH25FxBLW",
+          "text": "C) Eksudativ kataral diatezdə",
+          "isCorrect": false
+        },
+        {
+          "id": "hSa7G7toHQ5KqB9N_HoNT",
+          "text": "D) Kortikosteroidlərin günəşirı kiçik və orta dozada verilməsi zamanı",
+          "isCorrect": true
+        },
+        {
+          "id": "uhSlueaGWbaNI7PZp5yvj",
+          "text": "E) Xroniki xəstəliklərin kəskinləşməsində",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "hDde95t1h_0EJsLraMFRJ",
+      "text": "948) Göy öskürəyə qarşı vaksinasiyaya tam əks göstərişlərə aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "Ujy4oeid_OaXogyPdx0Sw",
+          "text": "A) AGDT (Adsorbsiyaedilmiş göy-öskürək-difteriya-tetanus peyvəndi), ilk dəfə vurulduqdan sonra 3 sutka ərzində epileptik tutmaların əmələ gəlməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "_mNmeFXaVJqLhsNYiSfIG",
+          "text": "B) Xroniki otit",
+          "isCorrect": true
+        },
+        {
+          "id": "nunQCNgAwIVNoTIuGkNEx",
+          "text": "C) AGDT (Adsorbsiyaedilmiş göy-öskürək-difteriya-tetanus peyvəndi), vurulduqdan sonra 48 saat ərzində şokun inkişaf etməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "sV8SZ3tTwIS61LumwGxH1",
+          "text": "D) Vaksinə qarşı ağır allerqik reaksiya",
+          "isCorrect": false
+        },
+        {
+          "id": "ImRytxqMBS8h6bdwkMKPG",
+          "text": "E) AGDT (Adsorbsiyaedilmiş göy-öskürək-difteriya-tetanus peyvəndi), vurulduqdan sonra 7 sutka ərzində ensefalopatiyanın inkişafı",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "LmMc9XB2G_BlfisqM9J4O",
+      "text": "949) İki yaşdan kiçik uşaqlara hansı infeksion törədicisinə qarşı vaksinasiya aparılır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "lDH-Z4H5zL9RNOxIfxn4g",
+          "text": "A) B-hemolitik streptokok",
+          "isCorrect": false
+        },
+        {
+          "id": "mmABNTiBgSvGNr1suWb23",
+          "text": "B) B tipli haemophilus influenzae",
+          "isCorrect": true
+        },
+        {
+          "id": "4Jhbz_7uPgK0IP1DWDIod",
+          "text": "C) Stafilokok",
+          "isCorrect": false
+        },
+        {
+          "id": "faRlKl8XVg-IITTszl-ed",
+          "text": "D) Meninqokok",
+          "isCorrect": false
+        },
+        {
+          "id": "nWqfCb7kx6mfXYkTydETy",
+          "text": "E) Streptokok",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "ftZT7ldvIogsDXUOApHx4",
+      "text": "950) Göy öskürək, qızılca, epidemik parotit, məxmərəyə qarşı necə immunitet yaranır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "ci0iuGQtjeElANNrWa_wl",
+          "text": "A) Bir illik",
+          "isCorrect": false
+        },
+        {
+          "id": "mtRbS7gwd--H5r9clGVHk",
+          "text": "B) 6 aylıq",
+          "isCorrect": false
+        },
+        {
+          "id": "gqzdlq20qwDQGrgLPOnTi",
+          "text": "C) 3 aylıq",
+          "isCorrect": false
+        },
+        {
+          "id": "TGFixbH-HJJXqWfuP7dpQ",
+          "text": "D) Ömürlük",
+          "isCorrect": true
+        },
+        {
+          "id": "TgaL1uo97aILpAz1VkN56",
+          "text": "E) 9 aylıq",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "iaTM7r65ZpTNQN2N56OTr",
+      "text": "951) Anada HBsAg aşkar edilərsə vaksindən əlavə yenidoğulmuş uşağa nə vurulur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "85Py9NWoENUGG8hXkWELY",
+          "text": "A) Hepatit C qarşı immunoqlobulin",
+          "isCorrect": false
+        },
+        {
+          "id": "wTeCTk1E3srdpfHRgdV6m",
+          "text": "B) Hepatit A qarşı immunoqlobulin",
+          "isCorrect": false
+        },
+        {
+          "id": "0f-C91tmGrMG6zv61RuTX",
+          "text": "C) Tetanusa qarşı immunoqlobulin",
+          "isCorrect": false
+        },
+        {
+          "id": "O7QvVlAosvAYTp9qhQW6_",
+          "text": "D) İnsan immunoqlobulini",
+          "isCorrect": false
+        },
+        {
+          "id": "bIJDsK6r74YFmkSPHpQNr",
+          "text": "E) Hepatit B-ə qarşı immunoqlobulin",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Ji8l41BwhgkFKoRs23ftX",
+      "text": "952) Leykozla xəstələrdə Varicella-zoster virusu əleyhinə vaksin hansı xəstəliyin gedişini yüngülləşdirir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "YAL4OKBFF4U3tB2gSdB4W",
+          "text": "A) Epidemik parotit",
+          "isCorrect": false
+        },
+        {
+          "id": "o1H_GFxkTgE6DBaOhahBb",
+          "text": "B) Skarlatina",
+          "isCorrect": false
+        },
+        {
+          "id": "96VOBJixecHFwwCvHe3sw",
+          "text": "C) Qızılca",
+          "isCorrect": false
+        },
+        {
+          "id": "zyKT6JTSsr9H9eR-r_IY8",
+          "text": "D) Məxmərək",
+          "isCorrect": false
+        },
+        {
+          "id": "PG5XJrp8ep_S27jQ_dYUu",
+          "text": "E) Su çiçəyi",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "0wJXJEnqd4kF_2m_TgoAC",
+      "text": "953) Yenidoğulmuş (1 həftəlik) uşaqda əsasən nəyə nəzərət etmək lazımdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "1Av_Zj63csE2xe2WwRfu7",
+          "text": "A) Çəkini artmasına",
+          "isCorrect": true
+        },
+        {
+          "id": "P4uDMqOfLn00i4BTB-mzI",
+          "text": "B) Psixomotor inkişafa",
+          "isCorrect": false
+        },
+        {
+          "id": "FmmhI4eJhbglbq7djVNfQ",
+          "text": "C) Hemoqlobinin səviyyəsinə",
+          "isCorrect": false
+        },
+        {
+          "id": "vhHfQoSwZgF9TEU2thPhP",
+          "text": "D) Boyun inkişafına",
+          "isCorrect": false
+        },
+        {
+          "id": "IIe_GEr3tIMrLiSH8lYHQ",
+          "text": "E) Nitqə",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "3YFPemUTn-NSBUWd3khzw",
+      "text": "954) Zahi qadınlarda əmizdirmənin ilk 2-3 sutkasında döş gilələri ağrılı olarsa nə etmək olmaz?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "KFjghZRXM6o5q47DSYszJ",
+          "text": "A) Təmiz su ilə yumaq",
+          "isCorrect": false
+        },
+        {
+          "id": "2UZRiQ7vCuS-_p5bKJkxw",
+          "text": "B) Qidalanma müddətini azaltmaq",
+          "isCorrect": false
+        },
+        {
+          "id": "AVqIMgiwMG7LnCf6IbwzV",
+          "text": "C) Körpəni kiçik fasilələrlə əmizdirmək",
+          "isCorrect": false
+        },
+        {
+          "id": "5JKE-IHGaBqoaqfSp_VC9",
+          "text": "D) Döş giləsini daha yaxşı tutması üçün uşagın vəziyyətini dəyişmək",
+          "isCorrect": false
+        },
+        {
+          "id": "o4VUEe9qqbJUFuC2r2x4x",
+          "text": "E) Antibakterial məlhəmlə sarğı qoymaq",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "wjclBxgzQ3ctWvwGRUbMC",
+      "text": "955) Soyuducuda ana südünü hansı müddətdə saxlamaq olar?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "2UOrJ9FMcVek76mvnCV52",
+          "text": "A) 12 saat",
+          "isCorrect": false
+        },
+        {
+          "id": "nIadilCGlwc5pJ9d8v2pR",
+          "text": "B) 24 saat",
+          "isCorrect": true
+        },
+        {
+          "id": "YGte8RjrrDxpB4kGG2Kyj",
+          "text": "C) 6 saat",
+          "isCorrect": false
+        },
+        {
+          "id": "ODhsT1Gkd5E71e7Hn2Rtd",
+          "text": "D) 48 saat",
+          "isCorrect": false
+        },
+        {
+          "id": "kF-MfORASG5x_cVCO1q-C",
+          "text": "E) 18 saat",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "xp04yB2kAZPLaeuJ0z32X",
+      "text": "956) Yenidoğulmuşlarda qarışığın sutkalıq dozası nə qədərdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "SWD08wjFm_DryQ6d9Lbq6",
+          "text": "A) 100 q/kq",
+          "isCorrect": false
+        },
+        {
+          "id": "YuH1ddFj-ym8xQu8NXTey",
+          "text": "B) 130 q/kq",
+          "isCorrect": false
+        },
+        {
+          "id": "dHqNRkwU7KtPHC6CaJBSY",
+          "text": "C) 150 q/kq",
+          "isCorrect": true
+        },
+        {
+          "id": "z6DJ8Rj9YCFzcTzWIGInF",
+          "text": "D) 180 q/kq",
+          "isCorrect": false
+        },
+        {
+          "id": "6T_zm_J3G4KYFWMiKSwY_",
+          "text": "E) 85 q/kq",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "vQGHGNvBIScRsCaasAq-K",
+      "text": "957) Körpəyə əlavə qida kimi ilkin olaraq nə verilməsi məsləhətdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "z0PGfpcR9eFfiOrUVU_IE",
+          "text": "A) Toyuq bulyonu",
+          "isCorrect": false
+        },
+        {
+          "id": "cWzXAhyGERpq3qQt1iFoC",
+          "text": "B) Meyva",
+          "isCorrect": false
+        },
+        {
+          "id": "ntxBTY-_LUX2n8tHwPGSy",
+          "text": "C) Dəmir ilə zənginləşmiş sıyıqlar",
+          "isCorrect": true
+        },
+        {
+          "id": "KTtXPNm0rIorLHTznV3Te",
+          "text": "D) Tərəvəz",
+          "isCorrect": false
+        },
+        {
+          "id": "Vod27ZVzzF85RWSpLfagp",
+          "text": "E) Soya",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "8f-LmpXLQLTzQovKln2Vz",
+      "text": "958) İlkin olaraq hansı dişlər cıxır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "JoOh7ednhEDUJt9Jd0k3K",
+          "text": "A) Köpək",
+          "isCorrect": false
+        },
+        {
+          "id": "yLOULf9RqMikZIsULdk0i",
+          "text": "B) Yan kəsici",
+          "isCorrect": false
+        },
+        {
+          "id": "_zlLWfRlLfTHhsAtHgHmH",
+          "text": "C) Daimi",
+          "isCorrect": false
+        },
+        {
+          "id": "p4rHpUBM74HFQxBfO_Rex",
+          "text": "D) Azı",
+          "isCorrect": false
+        },
+        {
+          "id": "qME2l6cvRvCiv8rqG38v1",
+          "text": "E) Aşağı mərkəzi kəsici",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Ik1An1fdnszuhgmPs1_Hz",
+      "text": "959) Uşaqda narahatlığın və qıcıqlanmanın səbəbi dişlərin cıxması olarsa nə təyin etmək olar?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "fx94gRrCaksMkVwAh0PQ1",
+          "text": "A) Diklofenak",
+          "isCorrect": false
+        },
+        {
+          "id": "S7cDq1MgNArIhClLbBvFi",
+          "text": "B) Analgin",
+          "isCorrect": false
+        },
+        {
+          "id": "1nq7-UBKDlwev3qcgrVjY",
+          "text": "C) Parasetamol",
+          "isCorrect": true
+        },
+        {
+          "id": "JE_lnj2mAEFrt4EpoElSs",
+          "text": "D) Tavegil",
+          "isCorrect": false
+        },
+        {
+          "id": "Fx2w9lIC2oWXt3P3LGI80",
+          "text": "E) Baralgin",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "-u-vj9B1SwaVF68pFOD9m",
+      "text": "960) Uşaqlarda qızdırmanın ən geniş yayılmış səbəbi hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "4WoCJnN2DhMD8AcjCCUz4",
+          "text": "A) Kəskin virus infeksiyaları",
+          "isCorrect": true
+        },
+        {
+          "id": "8yx48hop2uMaZCPdEB5aa",
+          "text": "B) Endokrin pozğunluq",
+          "isCorrect": false
+        },
+        {
+          "id": "8IYkAfmfDls42B0atJUjS",
+          "text": "C) Hipoqlikemiya",
+          "isCorrect": false
+        },
+        {
+          "id": "Ab9wFKxvHHjDPA-m5fZef",
+          "text": "D) Anemiya",
+          "isCorrect": false
+        },
+        {
+          "id": "rLpSq_pPfoX3p0JJQQ66v",
+          "text": "E) Allergiya",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "GNTpeAqnQPtzPpeCIyKwV",
+      "text": "961) Hərarətin təcili olaraq salınması nə zaman vacibdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "fdiq5JsikpnlrChuBSEyf",
+          "text": "A) 5 yaşından böyük uşaqlarda KRX",
+          "isCorrect": false
+        },
+        {
+          "id": "Bk3KHpdNkDCSVQtXJNadF",
+          "text": "B) Pnevmoniya",
+          "isCorrect": false
+        },
+        {
+          "id": "RutbwJfXCApRag2tX3b7l",
+          "text": "C) Kataral angina",
+          "isCorrect": false
+        },
+        {
+          "id": "tA7TRLqjXPOsu0V5UZnYX",
+          "text": "D) Anamnezə febril qıcolma tutması olduqda",
+          "isCorrect": true
+        },
+        {
+          "id": "wEGDXXpPcC2JpwiWTFYTO",
+          "text": "E) Zökəm",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "SUOPvC0Bfflw9lJfJk3Nz",
+      "text": "962) Qızdırma zamanı istilikvermənı gücləndirmək məqsədi ilə uşağı nə ilə silmək lazımdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "z_MjEq2ru21pp-S_DC7ar",
+          "text": "A) Naşatır spirti ilə",
+          "isCorrect": false
+        },
+        {
+          "id": "B6-X0-kRsb1RUlU7wiONb",
+          "text": "B) Spirt tərkibli maye",
+          "isCorrect": false
+        },
+        {
+          "id": "lPHNcgrJu1wpDnMBZMcfi",
+          "text": "C) Duzlu su ilə",
+          "isCorrect": false
+        },
+        {
+          "id": "qluFW36QphUXTqy1sqEGj",
+          "text": "D) Buzlu su ilə",
+          "isCorrect": false
+        },
+        {
+          "id": "3zOuyPT25wAn4KZGM1U6G",
+          "text": "E) İliq su ilə",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "tcfQ6rd30ZQk_kwnPNHQX",
+      "text": "963) Parasetamolün təsir mexanizmi necədir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "ypQVdhHpHzfd5JdwxqOik",
+          "text": "A) Antihistamin",
+          "isCorrect": false
+        },
+        {
+          "id": "xENMHZAo18GrO7RHoC007",
+          "text": "B) Hormonal",
+          "isCorrect": false
+        },
+        {
+          "id": "a55Y2-7_9QR2Tt2InuJ03",
+          "text": "C) Hərarətsalıcı və ağrıkəsici",
+          "isCorrect": true
+        },
+        {
+          "id": "qI8mEse4eJiyPYfZo6gjp",
+          "text": "D) Sedativ",
+          "isCorrect": false
+        },
+        {
+          "id": "J0ZiSZjb8EbANux3JXQ7a",
+          "text": "E) Hipotenziv",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "pEVH6OP-BzCq30S783jyY",
+      "text": "964) Parasetamol hansı təsiri göstərmir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "iYIh6vnSqqwNIjZSEY1mA",
+          "text": "A) Əlavə təsiri yoxdur",
+          "isCorrect": true
+        },
+        {
+          "id": "MM8idlzOWpDhsJu3AhMFI",
+          "text": "B) Nefrotoksik",
+          "isCorrect": false
+        },
+        {
+          "id": "z6Y72mOtuIU_6cJL2gHt3",
+          "text": "C) Neyrotoksik",
+          "isCorrect": false
+        },
+        {
+          "id": "-Yxdg6j6CPXRuajhqazoG",
+          "text": "D) Hemotoksik",
+          "isCorrect": false
+        },
+        {
+          "id": "aWXhIPTxFFHENZqwFzMfK",
+          "text": "E) Hepatotoksik",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "XWIAwMHEU6TH2DbMWwqU9",
+      "text": "965) İbuprofen necə təsir göstərir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "shZo8tg2TGTYYK7QDp11L",
+          "text": "A) Analgetik və hormonal",
+          "isCorrect": false
+        },
+        {
+          "id": "rdgTSldRtxhs7slkXTCoq",
+          "text": "B) Hərarətsalıcı, ağrıkəsici və iltihab əleyhinə",
+          "isCorrect": true
+        },
+        {
+          "id": "iC-Rxp0PiL7Ja2-0GTyGL",
+          "text": "C) İltihab əleyhinə, sedativ",
+          "isCorrect": false
+        },
+        {
+          "id": "vU7AQBGsP7FQ5oJYtjOi9",
+          "text": "D) Spazmolitik, ağrıkəsici",
+          "isCorrect": false
+        },
+        {
+          "id": "QUe4Dv7I82OZjqEMEooJA",
+          "text": "E) Sedativ, spazmolitik",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "FaIow_Wx36lxLNjWdUPoB",
+      "text": "966) Virus infeksiyalı uşaqlarda qızdırma olduqda aspirinin istifadəsi nəyə səbəb ola bilər?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "oXpKLG_fXe2Zy6Szs8Hcs",
+          "text": "A) Layell sindromu",
+          "isCorrect": false
+        },
+        {
+          "id": "CH7AJhB3Nq-mwiiPEeY-u",
+          "text": "B) Rey sindromu",
+          "isCorrect": true
+        },
+        {
+          "id": "PW_GU2LnVW3Fecms5nXA7",
+          "text": "C) Malori-Veys sindromu",
+          "isCorrect": false
+        },
+        {
+          "id": "5O_gXWylLKM_170kNlqzL",
+          "text": "D) Baddi-Kiari sindromu",
+          "isCorrect": false
+        },
+        {
+          "id": "uLJ7AU6GuwsQL49jwFEEd",
+          "text": "E) Kuşinq sindromu",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "kP5uBcx0AHDz248QUc_Ow",
+      "text": "967) İki yaşdan aşağı uşaqda nəcisin bağırsaqda hərəkətini asanlaşdırmaq məqsədi ilə nə təyin edilməlidir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "oWVQq8q9S3waMd5gySSqn",
+          "text": "A) Səhər acqarnına bitki yağı içirtmək",
+          "isCorrect": false
+        },
+        {
+          "id": "bPdT7KtiU95jM9CWxq24Y",
+          "text": "B) Anusu vazelinlə yağlanmış rektal termometrlə genəltmək",
+          "isCorrect": false
+        },
+        {
+          "id": "5at6HfRTQH-Emt0dbzXoL",
+          "text": "C) Anusu vazelinlə yağlanmış barmağ ilə genəltmək",
+          "isCorrect": false
+        },
+        {
+          "id": "ZJ-iDYEhqa9d18luxgN3O",
+          "text": "D) Qliserinli şam",
+          "isCorrect": false
+        },
+        {
+          "id": "jXR1pzKIFXIXji1Rvc65e",
+          "text": "E) Şirin çay qəbulu",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "s2ZHitZjFJCG13W7J9RkU",
+      "text": "968) Nəcis kütləsinin hacminin çoxalması və yumşalması məqsədi ilə nə təyin edilməlidir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "Ypivd6lFMG9Q6y1gWrBYa",
+          "text": "A) Çoxlu maye qəbulu",
+          "isCorrect": false
+        },
+        {
+          "id": "i7qPgAokaA8igDb1MdfVz",
+          "text": "B) Qara gavalı",
+          "isCorrect": false
+        },
+        {
+          "id": "GziCvepA0DMP2UX2K_0Ql",
+          "text": "C) Pomidor şirəsi",
+          "isCorrect": false
+        },
+        {
+          "id": "BTLs_U0xh81KEK16zchm1",
+          "text": "D) Zeytun yağı",
+          "isCorrect": false
+        },
+        {
+          "id": "0M1nJ6-C1XJEiP7M00pc-",
+          "text": "E) Zoğal, nar şirəsi",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "tAkmtM8uHZmhza1iaSK6f",
+      "text": "969) Senna ekstraktı hansı dozada verilir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "BFX6xCzmfKWG3RLWvA6k_",
+          "text": "A) 4-6 aya qədər bir cay qaşığı sutkada 1 dəfə",
+          "isCorrect": false
+        },
+        {
+          "id": "uj-herINm3zjtkOJwoPDC",
+          "text": "B) 1-5 aya qədər bir cay qaşığı sutkada 2 dəfə",
+          "isCorrect": false
+        },
+        {
+          "id": "2fmO7yNKKH5ojD8mjeqAc",
+          "text": "C) 3-6 aya qədər iki cay qaşığı sutkada 1 dəfə",
+          "isCorrect": false
+        },
+        {
+          "id": "EGkwYMMYD6RlPa5BCeHi1",
+          "text": "D) 1-12 aya qədər 1/2 cay qaşığı sutkada 2 dəfə",
+          "isCorrect": true
+        },
+        {
+          "id": "YsZPqNroPNxNU4LxHMpR4",
+          "text": "E) 2-10 aya qədər iki cay qaşığı sutkada 2 dəfə",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "DPG7dMBhOe5Aw2cQRs3LF",
+      "text": "970) Senna ekstraktı təsirindən nə baş verə bilər?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "FhuJ_xtFjEX8MnNhkwcEl",
+          "text": "A) Qıcolma tutması",
+          "isCorrect": false
+        },
+        {
+          "id": "pa87vJJ3X-Yqkr7FPevNr",
+          "text": "B) Hipertenzion sindrom",
+          "isCorrect": false
+        },
+        {
+          "id": "zv2-YFF7Ryml6PBC4-KRZ",
+          "text": "C) Hiperqlikemiya",
+          "isCorrect": false
+        },
+        {
+          "id": "dEPJArpA8pl1IEI91jUem",
+          "text": "D) Bağırsaq sancısı",
+          "isCorrect": true
+        },
+        {
+          "id": "IODjgWbczSS8kpSIWO_j4",
+          "text": "E) Hemiparez",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Z4q6E7k4bowPqDvWHRVm9",
+      "text": "971) Kiçik yaşlı uşaqlarda anusun çatları zamanı nə təyin olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "_JD4c5T35FxFkQz55cqHx",
+          "text": "A) Sutkada 3 dəfə oturaq vanna",
+          "isCorrect": true
+        },
+        {
+          "id": "g8-rSFuLfbcXM2RZ3ATuv",
+          "text": "B) Sabunlu su ilə imalə",
+          "isCorrect": false
+        },
+        {
+          "id": "nLteU5FsBhC8lAau4xDpw",
+          "text": "C) Natrium fosfatla imala",
+          "isCorrect": false
+        },
+        {
+          "id": "8Kk_LsM6OXD64t2gUvh6k",
+          "text": "D) Bisakodil şamı",
+          "isCorrect": false
+        },
+        {
+          "id": "aKoZevnPyKEqX6CFPNXG8",
+          "text": "E) Maqnezium sulfatla imala",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "gPwGw2h6gz3ByhMheQXE5",
+      "text": "972) Kəskin rinit ağırlaşmazsa necə müddət davam edir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "H-k63g1vDQo5_cpZfI-m6",
+          "text": "A) 6-7 sutka",
+          "isCorrect": false
+        },
+        {
+          "id": "EFAmKcPPDvl190dKY1STL",
+          "text": "B) 3-5 sutka",
+          "isCorrect": true
+        },
+        {
+          "id": "FIoeGncTNDVlHYijaQkvH",
+          "text": "C) 7-8 sutka",
+          "isCorrect": false
+        },
+        {
+          "id": "t6dpMpQB7xSpwZimmWwOQ",
+          "text": "D) 10 sutka",
+          "isCorrect": false
+        },
+        {
+          "id": "ucJr-k1ljoyeC3Jpho077",
+          "text": "E) 1-2 sutka",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "HPH5cOib3aSDOZM9WMbRQ",
+      "text": "973) Südəmər uşaqlarda zökəmin müalicə tədbirlərinə hansı aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "oTCoZ9JZrqMK8MNbLYEwR",
+          "text": "A) Uzun müddət burun damcısından istifadə",
+          "isCorrect": true
+        },
+        {
+          "id": "YAP2lE5qxjI00Pt9-dUPS",
+          "text": "B) Bakterial infeksiyanın müalicəsi",
+          "isCorrect": false
+        },
+        {
+          "id": "NMNj3B_nGLPfrsgMjezCO",
+          "text": "C) Yeməkdən və yuxudan əvvəl rezin armud ilə burundan selik sorulur",
+          "isCorrect": false
+        },
+        {
+          "id": "HDsWk4KM_gmj6alcYmY6g",
+          "text": "D) Otağın havası dəyişilir",
+          "isCorrect": false
+        },
+        {
+          "id": "kzu8QEIsDirKLwkdnOLNG",
+          "text": "E) Nəmləşdirici və ya qazana isti su tökməklə otaq nəmləşdirilir",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "F0M49rcfU98mWop9xgQjG",
+      "text": "974) Bir yaşdan yuxarı uşaqlarda rinitin müalicə tədbirlərinə hansı aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "gYzK8rxeKkajpfz2m44v8",
+          "text": "A) Ağır zökəm zamanı simpatomimetiklərin istifadəsi",
+          "isCorrect": false
+        },
+        {
+          "id": "FlSIWR4veb5U5S-a_HcJ4",
+          "text": "B) Ehtiyatla burunu təmizləmək",
+          "isCorrect": false
+        },
+        {
+          "id": "hjjzmP0zmldln8xAhnTZi",
+          "text": "C) Allergik rinitdə H1 blokatorların istifadəsi",
+          "isCorrect": false
+        },
+        {
+          "id": "lnp49saTtx_o8XALH_X8t",
+          "text": "D) Kamfora yağı damızdırmaq",
+          "isCorrect": true
+        },
+        {
+          "id": "ch_HHd2_6JT3L4INM-zk1",
+          "text": "E) Simptomatik müalicə",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "38rqnHcjPkRiaR0ZVm58p",
+      "text": "975) Qusmanın ağırlaşmasına aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "WR8Sj9nsBpAPc2E8d-qda",
+          "text": "A) Dehidratasiya",
+          "isCorrect": false
+        },
+        {
+          "id": "79KqpvwngBm5Z42DQOCM_",
+          "text": "B) Qida borusunun yırtığı",
+          "isCorrect": true
+        },
+        {
+          "id": "WWnT_CzhYmFJQZ-D_vXvh",
+          "text": "C) Hipotoniya",
+          "isCorrect": false
+        },
+        {
+          "id": "4hvaKJaAyLIsDPC76eaJj",
+          "text": "D) Hipovolemiya",
+          "isCorrect": false
+        },
+        {
+          "id": "aSr3mp2BUucsWQCzibq4j",
+          "text": "E) Elektrolit pozğunluğu",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "wzskNezpl4Nn_-6msSOI9",
+      "text": "976) Kəllə-daxili təzyiqin yüksəlməsi zamanı qusmanın xarakteri necə olur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "8zb4ieVtu9b4AXvJDrce9",
+          "text": "A) Adi qusma",
+          "isCorrect": false
+        },
+        {
+          "id": "YNjAFxwu6lStdoalHkGc8",
+          "text": "B) Aramsız",
+          "isCorrect": false
+        },
+        {
+          "id": "UEEK_udDLpoW4okBZIaRR",
+          "text": "C) Qanla qarışıq",
+          "isCorrect": false
+        },
+        {
+          "id": "KW5-zidSErXvHQO5Y-A78",
+          "text": "D) Fəvvarəşəkilli",
+          "isCorrect": true
+        },
+        {
+          "id": "r5uMS8eBE7E2nxTekPMg1",
+          "text": "E) Qəhvə xıltı şəklində",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "WDshPnkU2dLScPIR7XT0V",
+      "text": "977) Hansı dərman maddəsi qusmanı provokasiya edir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "y5yxY91gW-ugbPPAz9oU0",
+          "text": "A) Heparin, baralgin",
+          "isCorrect": false
+        },
+        {
+          "id": "W-zw-BJVyaINNvIcQAW70",
+          "text": "B) Analgin, tetrasiklin",
+          "isCorrect": false
+        },
+        {
+          "id": "WEUNyBWeKsK7qrW5gBZZB",
+          "text": "C) Fevarin, qlisin",
+          "isCorrect": false
+        },
+        {
+          "id": "zIP4pkk3tuzFK3Tgxnmb6",
+          "text": "D) Teofillin, eritromisin",
+          "isCorrect": true
+        },
+        {
+          "id": "x_2nt0wOSC-tH0DBiCW22",
+          "text": "E) Eritromisin, aspirin",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "ZhXHvDEt3R2RDVc-brraH",
+      "text": "978) Qusmanın müalicəsi zamanı uşağa nəcə müddətdən bir maye içirdilir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "GYPmi0VL03Ww5J5TCKsOk",
+          "text": "A) 30-60 dəqiqədən bir 30-60 ml",
+          "isCorrect": true
+        },
+        {
+          "id": "mWq8LspQAyWRdAVlXepJS",
+          "text": "B) 40 dəqiqədən bir 20-40 ml",
+          "isCorrect": false
+        },
+        {
+          "id": "tOq0pQFc52qxSlSJwsQwa",
+          "text": "C) 20-30 dəqiqədən bir 30-60 ml",
+          "isCorrect": false
+        },
+        {
+          "id": "Zb8TrxqymUA2swFKN1u8H",
+          "text": "D) 10-20 dəqiqədən bir 40 ml",
+          "isCorrect": false
+        },
+        {
+          "id": "bXL8bKPFSN2sHG_cVAWya",
+          "text": "E) iki saatdan bir 20 ml",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "zWlXLN24I2GzdIw9T41ey",
+      "text": "979) Bir yaşdan yuxarı uşaqda ishalın səbəbinə hansı aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "8bAwFWrPaETqd-RdAMJTv",
+          "text": "A) Dərman maddələrinin qəbulu",
+          "isCorrect": false
+        },
+        {
+          "id": "1LtnozECdC8uF-ZMYwAFa",
+          "text": "B) Kəllədaxili təzyiqin qalxması",
+          "isCorrect": true
+        },
+        {
+          "id": "pPChMY83lTop2JtQ3LGG6",
+          "text": "C) Bağırsağın iltihabı xəstəlikləri",
+          "isCorrect": false
+        },
+        {
+          "id": "oX0gVFSNtWizgRYDkgRC2",
+          "text": "D) Orta otit",
+          "isCorrect": false
+        },
+        {
+          "id": "TlomVzuX1WAhmbyyXzq8A",
+          "text": "E) Sidik yollarının infeksiyaları",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Dmq-F5DEKm34tYIkbv6u-",
+      "text": "980) İshal zamanı anamnez topladıqda nə nəzərə alınmır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "lCnuroI9ACkqt87pwU430",
+          "text": "A) Nəcisdə qanın olması",
+          "isCorrect": false
+        },
+        {
+          "id": "SpHL9p8WreQntXxe8F01q",
+          "text": "B) Nəcisin konsistensiyası və həcmi",
+          "isCorrect": false
+        },
+        {
+          "id": "KPILIQ_jZc2u0VSNrVyo_",
+          "text": "C) Uşağın cinsi",
+          "isCorrect": true
+        },
+        {
+          "id": "Ag540wkNpdDonmDYFakWz",
+          "text": "D) Uşağın ailə üzvlərində ishalın olması",
+          "isCorrect": false
+        },
+        {
+          "id": "RO2wuVWZq3I-zUpgj32qi",
+          "text": "E) Hərarətin olması",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "RZ3TmWlvTU3uRXPPxsqyy",
+      "text": "981) Bir yaşdan yuxarı uşaqda ishal zamanı 12-24 saat ərzində qusma baş verdikdə nə təyin edilir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "AtAiR8yB-0g3Wm6VtuFpi",
+          "text": "A) Ot bulyonu",
+          "isCorrect": false
+        },
+        {
+          "id": "JLBTySp4-WO9AjjGpoXUU",
+          "text": "B) Reopoliqlukin",
+          "isCorrect": false
+        },
+        {
+          "id": "lwRo3ujKY2Qsd3G3A_Soh",
+          "text": "C) Jelatin",
+          "isCorrect": false
+        },
+        {
+          "id": "bGjcvGha8yPXAwJWRvl8b",
+          "text": "D) Albumin",
+          "isCorrect": false
+        },
+        {
+          "id": "nWHvZnrN85Mhs3qe8CuE1",
+          "text": "E) Elektrolit mayeləri qəbulu",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "CL3QEEEXHV2NNQspsKcmb",
+      "text": "982) Bir yaşdan yuxarı uşaqda ishal zamanı 12-24 saatdan sonra qusma dayanarsa, uşağa əlavə olaraq nə verilməlidir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "-Q3BOwR0n8-aE6lvPASt8",
+          "text": "A) Ana südü",
+          "isCorrect": false
+        },
+        {
+          "id": "ArLXQVtQbdxXVo6h_CSXg",
+          "text": "B) Laktoza ilə zənginləşmiş inək südü",
+          "isCorrect": false
+        },
+        {
+          "id": "EubYEG9HkiPSoCZ73kHe8",
+          "text": "C) Qatıq, süzmə",
+          "isCorrect": false
+        },
+        {
+          "id": "xUrTsfWT0l8HJwVsxIVJL",
+          "text": "D) Yağlı qida qarışığı",
+          "isCorrect": true
+        },
+        {
+          "id": "Md3rg91Z0FNCD91JR3uOz",
+          "text": "E) Soya qarışıqları",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "O5-t_1-rif8VwefwTSanq",
+      "text": "983) İshal zamanı 24-48 saatdan sonra bir yaşdan yuxarı uşağın rasionuna nə olava olmur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "sKt20A9AWW89A0xAbHftZ",
+          "text": "A) Yağsız qarabaşaq sıyığı",
+          "isCorrect": false
+        },
+        {
+          "id": "eUcuY6ndrFewyO2V3SaIc",
+          "text": "B) Banan",
+          "isCorrect": false
+        },
+        {
+          "id": "9SJIqPO9o1fhUCSbjp1_J",
+          "text": "C) Düyü sıyığı",
+          "isCorrect": false
+        },
+        {
+          "id": "Ybd57che5MbgPyegOIPOf",
+          "text": "D) Alma püresi",
+          "isCorrect": false
+        },
+        {
+          "id": "94RZ8ACs-eEyoicUcgX5y",
+          "text": "E) Alma və kök şirəsinin qarışığı",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "-TV0IQHCIFtPbv1X4Tryb",
+      "text": "984) Südəmər uşaqlarda süd yarasının əmələ gəlməsi nə ilə əlaqədar ola bilər?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "hWDkuIJahp4Q7Bnj98R7v",
+          "text": "A) Əmizdirən ananın dös gilələri və dös ətrafı sahənin göbələklə zədələnməsi",
+          "isCorrect": true
+        },
+        {
+          "id": "8c8A-6nhci2WJH8zC-CLE",
+          "text": "B) Ananın çirkli əlləri",
+          "isCorrect": false
+        },
+        {
+          "id": "dnS7VAU7sIoLS6PADhLes",
+          "text": "C) Uşağı çox isti bələmək",
+          "isCorrect": false
+        },
+        {
+          "id": "pSmDSsxKHI5EiBZ_8Rxej",
+          "text": "D) Ana kofedən çox istifadə etdikdə",
+          "isCorrect": false
+        },
+        {
+          "id": "KAfyXE6LW0oY8UVKPlMiH",
+          "text": "E) Daima əmzikdən istifadə",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "ykmOYZSagsOL_Dsq03USC",
+      "text": "985) Süd yarası zamanı ağız boşluğunu sağ və sol tərəfindən təyin edilən nistatinin dozası nə qədərdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "KKAeWIoUh6ueVFOAdW-mP",
+          "text": "A) 0,3-0,4 ml sutkada 2 dəfə",
+          "isCorrect": false
+        },
+        {
+          "id": "oTeV7q0XupCFC8vVqB0lo",
+          "text": "B) 3-4 ml sutkada 2 dəfə",
+          "isCorrect": false
+        },
+        {
+          "id": "lJBt4Ixo9sSI6JTTBY1tx",
+          "text": "C) 0,1-0,2 ml sutkada 1 dəfə",
+          "isCorrect": false
+        },
+        {
+          "id": "QcBxyxXpb0DqK5HkQ8hlj",
+          "text": "D) 1-2 ml sutkada 4 dəfə",
+          "isCorrect": true
+        },
+        {
+          "id": "7wOKs3fjMRPODbAEiHZL5",
+          "text": "E) 0,5-0,7 ml sutkada 3 dəfə",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Vk1ffPfGg12ZhDThOHhBb",
+      "text": "986) Uşağın rasionuna bərk qida daxil etdikdə, hansı biri ilə başlamaq daha məqsədəuyğundur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "_L2hIlFuPufqz3tWj1-k9",
+          "text": "A) Tərəvəz",
+          "isCorrect": true
+        },
+        {
+          "id": "BYsAeCdKswOU1Y38A8AhL",
+          "text": "B) Sıyıq",
+          "isCorrect": false
+        },
+        {
+          "id": "fYmVLZ3y2VzTkAAOLc2NK",
+          "text": "C) Şirələr",
+          "isCorrect": false
+        },
+        {
+          "id": "_cKk-HO7JRmU3YvsQcMJJ",
+          "text": "D) Şirniyyat",
+          "isCorrect": false
+        },
+        {
+          "id": "JsFpDcCPbXG3mYnOb2cpP",
+          "text": "E) Meyva",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "ljNGbcinB2zWQ1-ox2pff",
+      "text": "987) Yeni gəzməyə başlayan uşağa əlavə qida kimi səhər və axşam saatlarında hansı birinin verilməsi məsləhət deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "TrumyTnLZoHwNnxRfkaJj",
+          "text": "A) Pendir",
+          "isCorrect": false
+        },
+        {
+          "id": "a6reF3fv4s35LAjrkHY5n",
+          "text": "B) Yoqurt",
+          "isCorrect": false
+        },
+        {
+          "id": "5p_-Sr4GOtbyPWthfa0yl",
+          "text": "C) Meyva",
+          "isCorrect": false
+        },
+        {
+          "id": "ECctA12Bg9DNEduib7d7B",
+          "text": "D) Kasmik",
+          "isCorrect": false
+        },
+        {
+          "id": "-XUZxU_ZfCrkp_0URkuoO",
+          "text": "E) Şokolad",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "IEbcXujo1wbRtWptv6ipU",
+      "text": "988) Böyük yaşlı uşaqlarda baş ağrısı nə ilə müşayət olunmur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "u4tdi_wdYpnRWIMIaElPB",
+          "text": "A) Hərarətin qalxması ilə",
+          "isCorrect": true
+        },
+        {
+          "id": "9zSl0cCqIHl6_LX7jXXGo",
+          "text": "B) Görmənin pozulması",
+          "isCorrect": false
+        },
+        {
+          "id": "QCTURAknGGTOwosCxMOiU",
+          "text": "C) Arterial hipertoniya",
+          "isCorrect": false
+        },
+        {
+          "id": "KkBVHFjk3O6i3JXmhHttV",
+          "text": "D) Hərəki pozğunluqla",
+          "isCorrect": false
+        },
+        {
+          "id": "T51fX137AHfoPBepk9zku",
+          "text": "E) Qusma",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Gm74aTbhgRa2QXxHTudWi",
+      "text": "989) Böyük yaşlı uşaqlarda miqren nə ilə müşayət olunmur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "ldT8Ws8C3mKhsS32PZDTK",
+          "text": "A) İşıqdan qorxma",
+          "isCorrect": false
+        },
+        {
+          "id": "j4FvHPv2WqPUhLmpuzldH",
+          "text": "B) Alın gicgah nahiyəsində pulsasiya edici tutmaşəkilli ağrı",
+          "isCorrect": false
+        },
+        {
+          "id": "o-U7Laisb93-fL1jYFWmw",
+          "text": "C) Ürək bulanma",
+          "isCorrect": false
+        },
+        {
+          "id": "Oei7fE3-09y7zF0_M4kPT",
+          "text": "D) Başda cəkic zərbəsini xatırladan ağrı",
+          "isCorrect": true
+        },
+        {
+          "id": "Nl6vshQ1-_aYfqx1ePDZA",
+          "text": "E) Qusma, dərinin avazıması",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "f64_58Qx5kIY7mVYdpBev",
+      "text": "990) Qarında psixogen xarakterli ağrılar adətən hansı yaşda rast gəlinir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "cZlHmmM-K5Md-Aji29axV",
+          "text": "A) Kiçik yaşlı uşaqlarda",
+          "isCorrect": false
+        },
+        {
+          "id": "WFM_EntkEM8vzWUbvushT",
+          "text": "B) Yarımçıq doğulanlarda",
+          "isCorrect": false
+        },
+        {
+          "id": "cwmCWx0gGTASrcEPNrCcQ",
+          "text": "C) Məktəb yaşlı uşaqlarda",
+          "isCorrect": true
+        },
+        {
+          "id": "RaAuvmi1gYp7am5rg1c19",
+          "text": "D) Körpələrdə",
+          "isCorrect": false
+        },
+        {
+          "id": "qYIbekMkrJUJ7j8FIQuF7",
+          "text": "E) Yenidoğulmuşlarda",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "R7VcPqVLnxCsrLZEgpJTO",
+      "text": "991) Valideynlərin siqarət çəkməsi nəyə səbəb olmur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "G6YoRVgwguLM_L7-H1Qjj",
+          "text": "A) Uşaqlar daha tez siqarət çəkməyə başlayır",
+          "isCorrect": false
+        },
+        {
+          "id": "R581tvLI1sAYpiJpiBopP",
+          "text": "B) Piylənməyə",
+          "isCorrect": true
+        },
+        {
+          "id": "VQedyEKbsIQR4cj8MKON5",
+          "text": "C) Hamiləlik zamanı dölün bətəndaxili inkişafdan geri qalmasına",
+          "isCorrect": false
+        },
+        {
+          "id": "0foGFmNHOMcBSgpgorKKg",
+          "text": "D) Uşağın yuxarı tənəffüs yollarının infeksiyası tez-tez rast gəlir",
+          "isCorrect": false
+        },
+        {
+          "id": "_Hz2BkW9XXFRK_TLetoKr",
+          "text": "E) Nikotin asıllığı yaranır",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "uLW-RD07rINJoFfiCskYb",
+      "text": "992) Yeniyetmənin davranışına ən çox kim təsir edir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "CBYbj4hbmAdoLvMxP814r",
+          "text": "A) Qonşular",
+          "isCorrect": false
+        },
+        {
+          "id": "WFiyUkaX-3mCY8E867psa",
+          "text": "B) Valideyn",
+          "isCorrect": false
+        },
+        {
+          "id": "laVl1XWhnDPzvAzMLkoN7",
+          "text": "C) Qohumlar",
+          "isCorrect": false
+        },
+        {
+          "id": "IMXy7fNbl9-e_Rggyd4fF",
+          "text": "D) Həmyaşıdı",
+          "isCorrect": true
+        },
+        {
+          "id": "0fTAtngTpaIW4z-JTeSNi",
+          "text": "E) Həkim",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "6R2lBxnBbFODf1VwTMd-B",
+      "text": "993) Reanimasiya tədbirlərinin nəticəsi hansı hallarda daha çox uğurlu olur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "GioQDzWwiN3FrImSDQ1Ue",
+          "text": "A) Reanimasiya tədbirləri aparan şəxs fiziki cəhətdən güclü olarsa",
+          "isCorrect": false
+        },
+        {
+          "id": "uUBILKWe-Oyk6MYxLXs3h",
+          "text": "B) İlkin olaraq defibrilyatordan istifadə olunarsa",
+          "isCorrect": false
+        },
+        {
+          "id": "Ye_ShMC-s8U7ZlH-f92NJ",
+          "text": "C) Reanimasiya tədbirlərini bir nəfər apararsa",
+          "isCorrect": false
+        },
+        {
+          "id": "f71NT_eGDOAQ0g9eVTN7i",
+          "text": "D) Tənəffüs və ürək fəaliyyətinin dayanması diaqnozu nə qədər tez qoyulub, tədbirlər tez başlanarsa",
+          "isCorrect": true
+        },
+        {
+          "id": "2zzx7rsdK4aRTVDuSF6wB",
+          "text": "E) Reanimasiya tədbirləri açıq havada aparılarsa",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "j2kU323v86mcV2DyOo3iq",
+      "text": "994) Xarici qıcıqlara qarşı reaksiya yoxdursa, reanimator hansı tədbiri aparmır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "eLHsU_tUJVJNh0O7DyDF-",
+          "text": "A) Dərhal EEQ müayinəsi",
+          "isCorrect": true
+        },
+        {
+          "id": "nJKao5llWoQenGg_3UJdt",
+          "text": "B) Yuxu və bazu arteriyasında nəbzin olub-olmadığını yoxlayır",
+          "isCorrect": false
+        },
+        {
+          "id": "Lhf7r_q8BBXTPmOZE1EHc",
+          "text": "C) Əgər zərərçəkənin reaksiyası yoxdursa, reanimasiya briqadası çağırır",
+          "isCorrect": false
+        },
+        {
+          "id": "An0k_iwWYZz5-Bu0bOBxh",
+          "text": "D) Yuxarı tənəffüs yollarının keçiriciliyi təmin edir",
+          "isCorrect": false
+        },
+        {
+          "id": "zXzoLu0SPU5Jg6yU5aHpE",
+          "text": "E) Ağızdan-ağıza iki yavaş nəfəs verir",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "L1yJnVPswroOXXlIzsYpv",
+      "text": "995) Reanimasiya briqadasında vəzifə bölgüsündə hansı yoxdur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "gQyGJZ4sbty4wMHQS4oBn",
+          "text": "A) Köməkçi",
+          "isCorrect": false
+        },
+        {
+          "id": "gVn6rPEt0ZJIoFdzKwzQs",
+          "text": "B) EKQ müayinəsini aparan",
+          "isCorrect": false
+        },
+        {
+          "id": "R6BaNKBThGu5gniwAILeC",
+          "text": "C) Reanimasiya tədbirlərinin aparılmasında məsul olan cavabdeh şəxs",
+          "isCorrect": false
+        },
+        {
+          "id": "U4uPxsiQ3yKHAjUivGHcK",
+          "text": "D) Dərman terapiyasını aparan",
+          "isCorrect": false
+        },
+        {
+          "id": "mQ6A1zrm_u-4nMbkTBy1M",
+          "text": "E) Fizioterapevtik müalicə aparan",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "38Yvyf_7nh5R5jRdeL4Ch",
+      "text": "996) Aşağıdakılardan hansı reanimasiya briqadasında cavabdeh olan şəxsin vəzifəsinə aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "P1R4ay1CYYQdKqgmUXVnD",
+          "text": "A) Gələn kimi ASV və ürəyin massajı ilə məşğul olacaq briqada üzvünü təyin edir",
+          "isCorrect": false
+        },
+        {
+          "id": "qoj3J_md_lWP9as_64E0j",
+          "text": "B) Reanimasiya tədbirlərinin aparılmasında terapiya aid bütün məsələləri həll edir",
+          "isCorrect": true
+        },
+        {
+          "id": "MgChr75a8eeSVkeNGtoHK",
+          "text": "C) Vəzifə bölgüsünü aparır",
+          "isCorrect": false
+        },
+        {
+          "id": "F-_-HTirLyZrwrivbI0cf",
+          "text": "D) Reanimasiya tədbirlərinin aparılmasında terapiya aid bütün məsələləri həll edir",
+          "isCorrect": false
+        },
+        {
+          "id": "gmUZLHR5YXqHt0P6Wg1_o",
+          "text": "E) ÜAR-nın düzgünlüyünü və effektivliyini qiymətləndirir",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "HpHLDoLI4RWyKszbPc3m-",
+      "text": "997) Reanimasiya briqadasında dərman terapiyasını aparan şəxsin vəzifəsinə hansı biri aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "uIjlg-1ZpHzx5F_Y0rKCz",
+          "text": "A) ÜAR-nın düzgünlüyünü və effektivliyini qiymətləndirmək",
+          "isCorrect": true
+        },
+        {
+          "id": "_Me32H1wRUaxgaLePzCzE",
+          "text": "B) Dərman vasitələrini hazırlamaq",
+          "isCorrect": false
+        },
+        {
+          "id": "V2HQGlFzYnGHlAKd1uXUD",
+          "text": "C) Dozanı və dərmanın yeridilmə vaxtını qeyd etmək",
+          "isCorrect": false
+        },
+        {
+          "id": "82islnljKjFdf4sLY5Ovs",
+          "text": "D) Aparılan müalicə tədbirləri qeyd etmək",
+          "isCorrect": false
+        },
+        {
+          "id": "0noIi7B8gg8zX9x9Wo43R",
+          "text": "E) Aparılan diaqnostik tədbirləri qeyd etmək",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "qXfun0q5HvSDqJVWSsxks",
+      "text": "998) Reanimasiya tədbirlərinin aparılmasında cavabdeh olan şəxsin vəzifəsinə aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "eNfwmdpNkoToIVh0FMKQs",
+          "text": "A) EKQ",
+          "isCorrect": true
+        },
+        {
+          "id": "d2WDQm2CYxZcylGYTwkfI",
+          "text": "B) Doppler",
+          "isCorrect": false
+        },
+        {
+          "id": "4N1tG-RcAUaMxUFUljqft",
+          "text": "C) EEQ",
+          "isCorrect": false
+        },
+        {
+          "id": "y4sO7ACx_V1JjHF6BtSD6",
+          "text": "D) Rentgenoloji",
+          "isCorrect": false
+        },
+        {
+          "id": "_ZcWeDWNAHi972O1LIZXm",
+          "text": "E) KT",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "PElMdUGDl7__gxi6avz1h",
+      "text": "999) Tənəffüsə dəstək üçün istifadə olunan avadanlıqlara hansı aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "TFm0yGsoH7dvMI4sMjAxK",
+          "text": "A) Endotraxeal boru, müxtəlif ölçülü larinqoskop",
+          "isCorrect": false
+        },
+        {
+          "id": "YzHyyhuUmuTqcDKveDdau",
+          "text": "B) Defibrilyator, tonometr",
+          "isCorrect": true
+        },
+        {
+          "id": "p2btmyagR2eWUsXQ98Fdp",
+          "text": "C) Endotraxeal boru üçün ötürücü",
+          "isCorrect": false
+        },
+        {
+          "id": "xUkgYIm0W20wq_vTkr8sx",
+          "text": "D) Oksigen, sorucu, burun və ağız hava ötürücüləri",
+          "isCorrect": false
+        },
+        {
+          "id": "_W9H29GkxF6p-XJyuzP5V",
+          "text": "E) Ambu tənəffüs kisəsi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "7JcYQeOwKUt3K0WteSX3R",
+      "text": "1000) Hansı avadanlıq damarların kateterizasiyası üçün işlənilmir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "mbSoi0aXF72G_5K4ilPFm",
+          "text": "A) Jqut, plastr",
+          "isCorrect": false
+        },
+        {
+          "id": "JHQycpM1KTZD2smr0-OTe",
+          "text": "B) Damar kateterləri, şprislər",
+          "isCorrect": false
+        },
+        {
+          "id": "ut7-JacLB7AkS_tyRlUmO",
+          "text": "C) Oksigen, sorucu",
+          "isCorrect": true
+        },
+        {
+          "id": "RdqsSFHRCvQNOWUeiGSaa",
+          "text": "D) Venaseksiya üçün dəst",
+          "isCorrect": false
+        },
+        {
+          "id": "xiOxCh3T-AfY4ZMTIJaL_",
+          "text": "E) Sümükdaxili yeridilmə üçün iynələr",
+          "isCorrect": false
+        }
       ],
       "required": true,
       "points": 1

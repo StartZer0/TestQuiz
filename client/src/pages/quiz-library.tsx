@@ -22,12 +22,40 @@ const QuizLibrary: React.FC = () => {
     const loadQuizCatalog = async () => {
       try {
         setLoading(true);
+        console.log('Quiz Library: Attempting to load quiz catalog');
         const catalog = await fetchQuizCatalog();
+        console.log('Quiz Library: Catalog loaded successfully:', catalog);
+
+        if (!catalog || !catalog.quizzes || !Array.isArray(catalog.quizzes)) {
+          console.error('Quiz Library: Invalid catalog format:', catalog);
+          throw new Error('Invalid quiz catalog format');
+        }
+
+        if (catalog.quizzes.length === 0) {
+          console.warn('Quiz Library: Catalog is empty');
+          toast({
+            title: 'No quizzes available',
+            description: 'The quiz catalog is empty. Please check back later.',
+            variant: 'warning',
+          });
+        }
+
         setQuizCatalog(catalog.quizzes);
       } catch (error) {
+        console.error('Quiz Library: Error loading catalog:', error);
+
+        // Provide more specific error messages based on the error type
+        let errorMessage = 'Failed to load the available quizzes. Please try again later.';
+
+        if (error instanceof SyntaxError) {
+          errorMessage = 'The quiz catalog has an invalid format. Please contact support.';
+        } else if (error instanceof TypeError) {
+          errorMessage = 'Network error while loading quizzes. Please check your connection.';
+        }
+
         toast({
           title: 'Error loading quiz catalog',
-          description: 'Failed to load the available quizzes. Please try again later.',
+          description: errorMessage,
           variant: 'destructive',
         });
       } finally {

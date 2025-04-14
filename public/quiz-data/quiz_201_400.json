@@ -3,33 +3,33 @@
   "description": "Questions 201-400 from the complete medical quiz set",
   "questions": [
     {
-      "id": "aB1cD2eF3gH4iJ5kL6mN",
-      "text": "201) Hansı xəstəlik zamanı əzələlərin atrofiyası müşahidə olunur?",
+      "id": "WzQTCm2P98OcBqapcyczq",
+      "text": "201) Yenidoğulmuşda əzələ hipotoniyasının əlaməti hansıdır?",
       "type": "multiple-choice",
       "options": [
         {
-          "id": "oP7qR8sT9uV0wX1yZ2aB",
-          "text": "A) Tomsen miotoniyası",
+          "id": "LUY4aieakKJ-tZbp8ll11",
+          "text": "A) “Caynaqlı pəncə” simptomu",
           "isCorrect": false
         },
         {
-          "id": "cD3eF4gH5iJ6kL7mN8oP",
-          "text": "B) Miasteniya",
+          "id": "w3PJ2BKSdGtKaclUajf4d",
+          "text": "B) Əllərdə atetoz",
           "isCorrect": false
         },
         {
-          "id": "qR9sT0uV1wX2yZ3aB4cD",
-          "text": "C) Miopatiya",
+          "id": "nZOkz85rs8MbC3yjNxXu0",
+          "text": "C) Ətraflar açılmış vəziyyətdə olur",
           "isCorrect": true
         },
         {
-          "id": "eF5gH6iJ7kL8mN9oP0qR",
-          "text": "D) Miodistoniya",
+          "id": "SN9NtR3NW0RQhcPWdnVwe",
+          "text": "D) Barmaqların yumruğa yığılması",
           "isCorrect": false
         },
         {
-          "id": "sT1uV2wX3yZ4aB5cD6eF",
-          "text": "E) Nevritlə",
+          "id": "JM5iqx52ptXmh4271yjdI",
+          "text": "E) Opistotonus vəziyyəti",
           "isCorrect": false
         }
       ],
@@ -37,39 +37,6848 @@
       "points": 1
     },
     {
-      "id": "gH7iJ8kL9mN0oP1qR2sT",
-      "text": "202) Uşaqlarda hansı yaşda qızılca əleyhinə peyvənd aparılır?",
+      "id": "WEQ-MZkuMs4je1MBvsiDG",
+      "text": "202) Əzələ sistemini müayyinə edən üsullara hansı aid deyil?",
       "type": "multiple-choice",
       "options": [
         {
-          "id": "uV3wX4yZ5aB6cD7eF8gH",
-          "text": "A) 12 aylıqda",
+          "id": "DbwcVFfwfNkePI5XSip6Y",
+          "text": "A) Neyrosonoqrafiya",
           "isCorrect": true
         },
         {
-          "id": "iJ9kL0mN1oP2qR3sT4uV",
-          "text": "B) 6 aylıqda",
+          "id": "L3shZ44WVnJWOZJgN2S6E",
+          "text": "B) Elektromioqrafiya",
           "isCorrect": false
         },
         {
-          "id": "wX5yZ6aB7cD8eF9gH0iJ",
-          "text": "C) 18 aylıqda",
+          "id": "b2kcZegNSEEwu4NTXZkKo",
+          "text": "C) Biopsiya",
           "isCorrect": false
         },
         {
-          "id": "kL1mN2oP3qR4sT5uV6wX",
-          "text": "D) 24 aylıqda",
+          "id": "TnpnfBJNrAndOC1kNAcHi",
+          "text": "D) USM",
           "isCorrect": false
         },
         {
-          "id": "yZ7aB8cD9eF0gH1iJ2kL",
-          "text": "E) 3 aylıqda",
+          "id": "9qiWQ2X1xcthqK9naL-7k",
+          "text": "E) Xronaksimetriya",
           "isCorrect": false
         }
       ],
       "required": true,
       "points": 1
+    },
+    {
+      "id": "SfIHZoOgMkww21l5GrPDa",
+      "text": "203) Uzunmüddət quolma əleyhinə müalicə alan (Fenobarbital, difenin) uşaqlarda hansı xəstəliyin yaranma ehtimalı daha çoxdur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "jJE86Jvcu55Ol0q-5GJyc",
+          "text": "A) Tonzillit",
+          "isCorrect": false
+        },
+        {
+          "id": "B7qvu2iDNLJ44fXmr64xB",
+          "text": "B) Raxit",
+          "isCorrect": true
+        },
+        {
+          "id": "wlE_Q0Xc8khwRGUBDEWSS",
+          "text": "C) Hipervitaminoz D",
+          "isCorrect": false
+        },
+        {
+          "id": "OrhQMC10-2DPwNJpjYzcF",
+          "text": "D) Pankreatit",
+          "isCorrect": false
+        },
+        {
+          "id": "cbF9mW2ecTmyErN6DuH3S",
+          "text": "E) Revmatik qızdırma",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "daik18GHTQzlYNeZgpMKq",
+      "text": "204) Kraniostenozda əsas nevroloji əlamət hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "qAawB3_76S7-Exa6mMoRe",
+          "text": "A) Kallədaxili hipotenziya",
+          "isCorrect": false
+        },
+        {
+          "id": "IXlHPaIyeCIrr1e1IJUUn",
+          "text": "B) Miotoniya",
+          "isCorrect": false
+        },
+        {
+          "id": "eOIiClTYuN8g31vnzjMgz",
+          "text": "C) Kallədaxili hipertenziya",
+          "isCorrect": true
+        },
+        {
+          "id": "xbAcSPNQ5TUcRtZEm07iw",
+          "text": "D) Hidrofobiya",
+          "isCorrect": false
+        },
+        {
+          "id": "maex6qFaXRxgSDoGh9fiS",
+          "text": "E) Anoreksiya",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "cGFbTD8QEHpLFzsanNgL7",
+      "text": "205) Yenidogulmuşda serebral hemodinamikanın alava rezerv imkanlarına nə şərait yaradır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "PEZQDxGy43CRTBYfFOXos",
+          "text": "A) Sinir sisteminin morfofunksional yetişməməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "V8oZIShfv6NzRaKAp675e",
+          "text": "B) Böyük əmqəyin bağlanmaması",
+          "isCorrect": false
+        },
+        {
+          "id": "jGxOqeOPPrTXGWPIHbN1V",
+          "text": "C) Uşağın çox vaxt yuxuda olması",
+          "isCorrect": false
+        },
+        {
+          "id": "1XjowaOvYczxjP0h2ii9E",
+          "text": "D) Ekstra va intrakranial damar anastamozları",
+          "isCorrect": true
+        },
+        {
+          "id": "4NCtPimKKyZSNhKEEaXDH",
+          "text": "E) Damar sistemin çox zəif inkişaf etməsi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "XC0e33HaISvmoHUDIfPHA",
+      "text": "206) Aşağıdakılardan hansı səthi dəri reflekslərinə aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "TXKaXXESOc69IvY94PNbs",
+          "text": "A) Sarğı",
+          "isCorrect": false
+        },
+        {
+          "id": "PaKvpqvkLNlQg6uAFD57e",
+          "text": "B) Qarın",
+          "isCorrect": false
+        },
+        {
+          "id": "y_1Jg7Zh5FzWN588xVLHF",
+          "text": "C) Anal",
+          "isCorrect": false
+        },
+        {
+          "id": "8-5P87lY1xDlEs_LDlUNO",
+          "text": "D) Vatər",
+          "isCorrect": true
+        },
+        {
+          "id": "m54X8F0_JO4JzaknAemKq",
+          "text": "E) Kremaster",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "ILmCt5dlLunMwPN1hls7h",
+      "text": "207) Onurğa-beyin sinirlərinin mielinizasiya prosesi hansı yaşda tamamlanır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "GTy7WMfczCYLE9dpEGbQG",
+          "text": "A) 5 yaş",
+          "isCorrect": false
+        },
+        {
+          "id": "AuKwd0L-DOzKtbTNsB5ni",
+          "text": "B) 3 yaş",
+          "isCorrect": true
+        },
+        {
+          "id": "hErt5KST799yVn6x9kPuF",
+          "text": "C) 3 ay",
+          "isCorrect": false
+        },
+        {
+          "id": "0HSUyUWa9A_cSCnCMaXkr",
+          "text": "D) 1 yaş",
+          "isCorrect": false
+        },
+        {
+          "id": "l3SrniROfSqQhKAJsAINT",
+          "text": "E) 1 ay",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "5-oeL70ihmtx2hlIJosUC",
+      "text": "208) Baş beyinin hüceyrə strukturu hansı yaşda tam formalaşır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "00g-Dilg_QqHgiBXwsWyh",
+          "text": "A) 3 yaşda",
+          "isCorrect": false
+        },
+        {
+          "id": "8kxMriFAnMZ8nr2U0u15o",
+          "text": "B) 6 yaşda",
+          "isCorrect": false
+        },
+        {
+          "id": "vREUkU-56-Xp51p2P2JwR",
+          "text": "C) 1 yaşda",
+          "isCorrect": false
+        },
+        {
+          "id": "LSacZ5ETwff-dKFapr8Tn",
+          "text": "D) 16 yaşda",
+          "isCorrect": false
+        },
+        {
+          "id": "Ue5qR_C68-XsQMpCs1-rV",
+          "text": "E) 8-12 yaşda",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "NyWRHfEES4QR-xo9M1JpH",
+      "text": "209) Südəmər uşaqlarda kəllədaxili təzyiqin yüksəlməsi nəciə bürüzə verir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "ycu7yeBE1FYMFt3EbuEzV",
+          "text": "A) Bağırsaq disfunksiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "02iecTRex4einN9I0cNqD",
+          "text": "B) Kəllənin dairəvi ölçülərinin sürətlə büyüməsi",
+          "isCorrect": true
+        },
+        {
+          "id": "3Cn4pE-z1cWDNgRP-UlT9",
+          "text": "C) Metabolik dəyişikliklər",
+          "isCorrect": false
+        },
+        {
+          "id": "ZGY76wrfCMvnq73veDVkr",
+          "text": "D) Ətraflarda ödem",
+          "isCorrect": false
+        },
+        {
+          "id": "if69g4HfnFy2fJk_zIE0d",
+          "text": "E) Endokrin dəyişikliklər",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "8bnaNo8vaCRw7h90513BM",
+      "text": "210) Hidrosefaliyanın əlamətlərindən biri hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "YtsyBUAHkJqFW2N8-0p9T",
+          "text": "A) Merfi simptomu",
+          "isCorrect": false
+        },
+        {
+          "id": "2LMmHOIpYoPp1EExUOXsS",
+          "text": "B) Xvostek simptomu",
+          "isCorrect": false
+        },
+        {
+          "id": "d4vbBjYHAHEwFg4uF6aoQ",
+          "text": "C) Qovers simptomu",
+          "isCorrect": false
+        },
+        {
+          "id": "bXE0j7hW6kSVlwC9fITQn",
+          "text": "D) Kerniq simptomu",
+          "isCorrect": false
+        },
+        {
+          "id": "3EglDj6Xu0Ja4r6iZQGms",
+          "text": "E) \"Batan günəş\" simptomu",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "6bpl971O_EgA2n2Xz5iY6",
+      "text": "211) Hansı hidrosefaliyaya aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "a0Y8aWA_bgP0z5efHSoqw",
+          "text": "A) Böyük əmqəyin qabarıqlığı",
+          "isCorrect": false
+        },
+        {
+          "id": "AnbyFhRFLl0SkBjhlP7cI",
+          "text": "B) Kəllə tikişlərin aralanması",
+          "isCorrect": false
+        },
+        {
+          "id": "8ZzVWmkxvEjJfoR2PmCee",
+          "text": "C) Qrefe simptomu",
+          "isCorrect": false
+        },
+        {
+          "id": "JOITtDPGhdbMsG_lTGhr8",
+          "text": "D) Kəllənin ölçüləri normadan çox dəyişir",
+          "isCorrect": false
+        },
+        {
+          "id": "br3QtE9oxw9SJxDFtdcE9",
+          "text": "E) Kəllənin ölçüləri çox balaca olur",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "CP4UiKP1sXmBoO8N822dm",
+      "text": "212) Yenidogulmuş uşaqların sinir sisteminin funksional vəziyyətini müəyyən etmək üçün aşağıdakılardan hansı zəruridir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "hMZPzjFFS6KN3GONxOwOK",
+          "text": "A) Qidalanma prosesin qiymətləndirilməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "iYqQaYya86Wa2CJI7SJTI",
+          "text": "B) Ailənin sosial vəziyyətinin qiymətləndirilməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "6cmDMb1X2ybncja71usy8",
+          "text": "C) Auskultasiya və perkussiya müəyyənləri aparmaq",
+          "isCorrect": false
+        },
+        {
+          "id": "KAUo5pAM3eumUtyeZyUH0",
+          "text": "D) Şərtsiz reflektor fəaliyyətini qiymətləndirilməsi",
+          "isCorrect": true
+        },
+        {
+          "id": "GL4VdTST_T3zAxhRK5ulR",
+          "text": "E) Daxili orqanların funksional çatışmamazlıqlarını aşkar etmək",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "_riJWK_yhvlHAT7NPMptE",
+      "text": "213) 3 yaşında uşağın \"xortum\" refleksinin alınması nəyi sübut edir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "ISJP7EFYEAwMN0jTy8PpH",
+          "text": "A) Ağız boşluğunun patologiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "4QE8iL-ogunxsWWPRoCqS",
+          "text": "B) Fizioloji əlamətdir",
+          "isCorrect": false
+        },
+        {
+          "id": "NrzXLwidXVSQ5p_97TfyX",
+          "text": "C) Yaşına uyğun inkişaf",
+          "isCorrect": false
+        },
+        {
+          "id": "88f-12uX5FLG86thPx_fM",
+          "text": "D) Əzələ patologiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "597fkaFjyFmXMz0_ap9Qi",
+          "text": "E) Serebral patologiyanı",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "kMcyjPTuYV2EY3qIvYkF3",
+      "text": "214) Yenidogulmuşlarda ətraflarda parezlərin aşkar edilməsində hansı əlamət daha informativdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "KGm4_nl7qCaKu0hBn0yit",
+          "text": "A) Əzələ tonusunun vəziyyəti",
+          "isCorrect": true
+        },
+        {
+          "id": "pMuAs-p2NnAwYfPwf2LNG",
+          "text": "B) Yuxunun pozulması",
+          "isCorrect": false
+        },
+        {
+          "id": "bhGwiJztDhslPvVJxJjgK",
+          "text": "C) Həddindən çox narahat olması",
+          "isCorrect": false
+        },
+        {
+          "id": "GI2Y0fpHmMcqKQHyZiVLb",
+          "text": "D) Səksənmələr",
+          "isCorrect": false
+        },
+        {
+          "id": "zv1P4fTo2nhlCaIJHnduq",
+          "text": "E) Çaçınmalar",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "ghhztrZ2ItKHkUWIlPFua",
+      "text": "215) Uşaqlarda infeksion xəstəliklərin toksiki formasının yaranmasına nə səbəb olur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "DNOKQG85OH06ralGu4zn6",
+          "text": "A) Süni qidalanma",
+          "isCorrect": false
+        },
+        {
+          "id": "r29qR9m2EjJPPCJ7dW379",
+          "text": "B) Baş beyinin qandövranının xüsusiyyətləri",
+          "isCorrect": false
+        },
+        {
+          "id": "yb1ZPpeTcgwDllr83nI3Z",
+          "text": "C) Endokrin sistemin xüsusiyyətləri",
+          "isCorrect": true
+        },
+        {
+          "id": "y6nHDY7Y70wmxf2v_51JJ",
+          "text": "D) Tənəffüs orqanlarının tam formalaşmaması",
+          "isCorrect": false
+        },
+        {
+          "id": "PrdWwvqnBdHEcUELDJnV_",
+          "text": "E) Ekzogen vəzlərin funksional çatışmazlığı",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "nDKkjVu8DbDs8G6Yu2WKc",
+      "text": "216) Orbikulopalpebral refleks uşaqlarda hansı yaşa kimi saxlanılır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "35K-FxBqX9cvzoVpk5uUo",
+          "text": "A) 3 aya kimi",
+          "isCorrect": false
+        },
+        {
+          "id": "qwE5pFQ_srHdNmhCEp6OV",
+          "text": "B) 1 yaşa kimi",
+          "isCorrect": false
+        },
+        {
+          "id": "2snVH01UXY-jF_0WSR11d",
+          "text": "C) 3 yaşa kimi",
+          "isCorrect": false
+        },
+        {
+          "id": "y707caPMXlEXyxASnugX8",
+          "text": "D) 6 aya qədər",
+          "isCorrect": true
+        },
+        {
+          "id": "8UIxmu6jt_POYm_rylvvX",
+          "text": "E) Yalnız patoloji vəziyyətdə qeyd olunur",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "r1HWLHvH1fWTtfb_7u_ee",
+      "text": "217) Tutma (Robinson) refleksi körpədə nə zaman itir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "3Na0w7EEhgh_wsliWZaf_",
+          "text": "A) 3-5 ayında",
+          "isCorrect": false
+        },
+        {
+          "id": "0LFfkEadrbogcq3GDdlDP",
+          "text": "B) 2-4 ayında",
+          "isCorrect": true
+        },
+        {
+          "id": "4XaJ2p_XlQrbTMsCe26I7",
+          "text": "C) 2-4 həftəsində",
+          "isCorrect": false
+        },
+        {
+          "id": "Q4qHhi6Utv_VeghBP4KdS",
+          "text": "D) 6-8 ayında",
+          "isCorrect": false
+        },
+        {
+          "id": "FmvKN47bbqzKIeotH4RIh",
+          "text": "E) 10-12 ayında",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "p8Napi-3yRaaPD8Pa93Tw",
+      "text": "218) Şartsiz refleks olan Moro refleksi yenidogulmuşlarda neçə müddət davam edir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "CS2Ehb7lWnqyvaJJ3Hn4p",
+          "text": "A) 1 yaşa kimi",
+          "isCorrect": false
+        },
+        {
+          "id": "E8qYhMBAKQVS0dHyfjuZs",
+          "text": "B) 3 ay",
+          "isCorrect": false
+        },
+        {
+          "id": "8il7T0AHYhU50SEhRgfMy",
+          "text": "C) 1 ay",
+          "isCorrect": false
+        },
+        {
+          "id": "qZoU1E-R11NqY02Z_5y95",
+          "text": "D) 4 ay",
+          "isCorrect": true
+        },
+        {
+          "id": "SXM_Zc2wqA8w5L_irwC1T",
+          "text": "E) 6 ay",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "ZnzCudW5Sp138Bcd3nWWu",
+      "text": "219) Babinski refleksi, fizioloji olaraq neçə yaşına kimi alınır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "tzbuLNthIIkEzO8AwQPSS",
+          "text": "A) 1 yaş",
+          "isCorrect": false
+        },
+        {
+          "id": "wpP7pFLmyrHOkhPyFRfPs",
+          "text": "B) 6 ay",
+          "isCorrect": false
+        },
+        {
+          "id": "-Q4Z70lWJwe4oVLhY49Ut",
+          "text": "C) 3 yaş",
+          "isCorrect": false
+        },
+        {
+          "id": "LWOyo2M_k5XoB0UG04TIv",
+          "text": "D) ömür boyu",
+          "isCorrect": false
+        },
+        {
+          "id": "6pJeG90oWJut8nxHcdH7W",
+          "text": "E) 2 yaş",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "lUMJQrSroSAkTerHTCq2o",
+      "text": "220) Kerniq refleksi sağlam uşaqda neçə aydan sonra alınır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "FNT3ko1dXVmvImoSC7xh5",
+          "text": "A) 1 aydan",
+          "isCorrect": false
+        },
+        {
+          "id": "pl2w1oFNlXbGKM8qxx57w",
+          "text": "B) 4 aydan",
+          "isCorrect": true
+        },
+        {
+          "id": "CuwUq8cd1EAVPCsk3oAmT",
+          "text": "C) 1 yaşdan",
+          "isCorrect": false
+        },
+        {
+          "id": "vF-ty8bIKMPDquVPRJ8Jp",
+          "text": "D) 3 ayda",
+          "isCorrect": false
+        },
+        {
+          "id": "oFCepg7Gwsw3HvmZSeeAT",
+          "text": "E) 6 aydan",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "HMMC8V2KWcxI595zR_PzU",
+      "text": "221) Avtomatik yeriş refleksi sağlam yenidogulmuşda neçə müddət alınır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "IvM7QOl8gKZXMSD8hODoZ",
+          "text": "A) 6 aya kimi",
+          "isCorrect": false
+        },
+        {
+          "id": "IJ_OzI8KdfboEvZ-2VxRo",
+          "text": "B) 8 aya kimi",
+          "isCorrect": false
+        },
+        {
+          "id": "g-uY85NfVQQmHc91M0bWU",
+          "text": "C) 2 həftəyə kimi",
+          "isCorrect": false
+        },
+        {
+          "id": "BB-z5xYYmB0Wt18S_sEPQ",
+          "text": "D) 2 aya kimi",
+          "isCorrect": true
+        },
+        {
+          "id": "8EvuOqim765XsqD9WP1AU",
+          "text": "E) 3 aya kimi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Jakzu_lfvGgEoaT3Kevkx",
+      "text": "222) İməkləmə Bauer refleksi neçə aydan sonra artıq alınır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "Zvn6O05Mo24rdnw6RTlZX",
+          "text": "A) 2 ayından",
+          "isCorrect": false
+        },
+        {
+          "id": "cAlSafgc-uTWjicrswVoC",
+          "text": "B) 3 həftədən",
+          "isCorrect": false
+        },
+        {
+          "id": "BN23CM0eyGhgEKAhOECdj",
+          "text": "C) 4 ayından",
+          "isCorrect": true
+        },
+        {
+          "id": "0TaAsoEmuLmxyMzsh-JLZ",
+          "text": "D) 1 ayından",
+          "isCorrect": false
+        },
+        {
+          "id": "ex42GXyJKwh6deQkTUk88",
+          "text": "E) 5-6 ayından sonra",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "tg9q6S64i569SFak-THZS",
+      "text": "223) Şərtsiz Galant refleksi neçə yaşa kimi alınır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "cBQKrr-avZ0aB6NcJ3Wnc",
+          "text": "A) 1 yaşa kimi",
+          "isCorrect": false
+        },
+        {
+          "id": "AaCcKEPWn20PGv0BNU_QG",
+          "text": "B) 4 aya kimi",
+          "isCorrect": true
+        },
+        {
+          "id": "bes84CyDsmd9Udpnp7NbW",
+          "text": "C) 6 aya kimi",
+          "isCorrect": false
+        },
+        {
+          "id": "bFi_f99DTN7xxEowdsoNh",
+          "text": "D) 1 aya kimi",
+          "isCorrect": false
+        },
+        {
+          "id": "3LGyPT-PiNBukMhSvw0GE",
+          "text": "E) 3 yaşa kimi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "akJ2tsZD7KM__Ho2v9ogT",
+      "text": "224) Şərtsiz Peres refleksi neçə aydan sonra alınmır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "f6vIib7GX09PWh5rVSdGX",
+          "text": "A) 4 aydan",
+          "isCorrect": true
+        },
+        {
+          "id": "KOtvf-Po_y-G17tjk0gR-",
+          "text": "B) 8 aydan",
+          "isCorrect": false
+        },
+        {
+          "id": "tFBAg76QsTkWQTttLcEjZ",
+          "text": "C) 1 aydan",
+          "isCorrect": false
+        },
+        {
+          "id": "ZHa_Ou94BfLIPdeEXDTOV",
+          "text": "D) 18 aydan",
+          "isCorrect": false
+        },
+        {
+          "id": "JOXUgs84o6mAW9kpe4GlD",
+          "text": "E) 1 yaşdan",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "hyEFfo5m-TMnwyhFbZzCK",
+      "text": "225) Hansı fizioloji refleksi sonda yoxlamaq məsləhətdir (ağrılı olduğu üçün)?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "YguTgk2Q_AIG56rW0eIqZ",
+          "text": "A) Avtomatik yeriş",
+          "isCorrect": false
+        },
+        {
+          "id": "E0MaQ24h5BXQuEbAaRKc_",
+          "text": "B) Babinski refleksi",
+          "isCorrect": false
+        },
+        {
+          "id": "gLbT0-EThNbODzwCZmuMG",
+          "text": "C) Galant refleksi",
+          "isCorrect": false
+        },
+        {
+          "id": "LFHxbfQaSQpCISGnVG-Xb",
+          "text": "D) Peres refleksi",
+          "isCorrect": true
+        },
+        {
+          "id": "jcuG-9KhXOjQEO7QJb8mV",
+          "text": "E) Moro refleksi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "4vBco9mAEotPjYGAFt4Ft",
+      "text": "226) Yuxarı Landau refleksi hansı yaşda formalaşır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "DJTqT1RaCDARm0z0VX1RD",
+          "text": "A) 4 ayında",
+          "isCorrect": true
+        },
+        {
+          "id": "OHBTutzIDvMTpC78PJ1S2",
+          "text": "B) 1 ayında",
+          "isCorrect": false
+        },
+        {
+          "id": "SyRtulAOgPe0ICYTJOfFG",
+          "text": "C) 3 ayında",
+          "isCorrect": false
+        },
+        {
+          "id": "ZDTfrxv9oliny48Y9zHmb",
+          "text": "D) 6 ayında",
+          "isCorrect": false
+        },
+        {
+          "id": "dnpfW4B4pI7FIeEyevijV",
+          "text": "E) 1 yaşında",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "QTospbLWkrqCH_QUVPeUx",
+      "text": "227) Aşağı Landau refleksi hansı yaşda formalaşır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "Kie7Jje690sUBQvLnvhV6",
+          "text": "A) 1-2 ayda",
+          "isCorrect": false
+        },
+        {
+          "id": "-LpR4Jo-lKXlOGwWgkXUA",
+          "text": "B) 3 yaşda",
+          "isCorrect": false
+        },
+        {
+          "id": "947i2fHYIopmT8YPGVmCA",
+          "text": "C) 1 yaşda",
+          "isCorrect": false
+        },
+        {
+          "id": "v7Any1Aczq3E3MRNcjmfB",
+          "text": "D) 5-6 ayda",
+          "isCorrect": true
+        },
+        {
+          "id": "Jj4QRSJgSKA_IkdXeniij",
+          "text": "E) 3-4 ayda",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "RcHU9oKnUPaQ87knFrMBA",
+      "text": "228) Assimetrik tonik boyun refleksləri hansı yaşa kimi alınır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "d2ABONUVu8c4ruxkl9u7Y",
+          "text": "A) 2 yaşa kimi",
+          "isCorrect": false
+        },
+        {
+          "id": "533HLrj5JrI2uOwLHtXHo",
+          "text": "B) 6 aya kimi",
+          "isCorrect": true
+        },
+        {
+          "id": "l5e88Ug4jHa2UCNLX6skg",
+          "text": "C) 1 yaşa kimi",
+          "isCorrect": false
+        },
+        {
+          "id": "Z0xuvYnkJ5rscnHq1CgJ9",
+          "text": "D) 3 yaşa kimi",
+          "isCorrect": false
+        },
+        {
+          "id": "sUCVDT-wAAzXaRpZciBc5",
+          "text": "E) 18 aya kimi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "eiQLSHYOYlkrfRb83v41F",
+      "text": "229) Gövdənin düzlənməsi reaksiyası nə vaxt formalaşır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "vr0jJ7rAqY4FlJ-4OdMNF",
+          "text": "A) 1-ci yaşın sonunda",
+          "isCorrect": false
+        },
+        {
+          "id": "_iVJoL2NlYLxb3P-e24fW",
+          "text": "B) 3-4 ayda",
+          "isCorrect": false
+        },
+        {
+          "id": "LRq-ke57_4NRxhxQWdKml",
+          "text": "C) 5-6 ayda",
+          "isCorrect": false
+        },
+        {
+          "id": "h6UDpNgZRZ7R5DhS3cL7Y",
+          "text": "D) 1-ci ayın sonunda",
+          "isCorrect": true
+        },
+        {
+          "id": "GvJfF2MyT_8HD-Pfc-73S",
+          "text": "E) 2-3 yaşda",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "YLIpYf37hJEs2dpkimFBc",
+      "text": "230) Dayaq refleksi uşaqda nə vaxt itir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "buZiZvqkmGdHmn6nIYmiL",
+          "text": "A) 2 ayından sonra",
+          "isCorrect": false
+        },
+        {
+          "id": "lRyUg62suefOOnbvSba8K",
+          "text": "B) 3-4 aydan sonra",
+          "isCorrect": true
+        },
+        {
+          "id": "2Tzen-JBdsdBa9lfdhuNF",
+          "text": "C) 8-9 ayından sonra",
+          "isCorrect": false
+        },
+        {
+          "id": "Rj5mOmo0rcOD7RClq0_nd",
+          "text": "D) 2 həftədən sonra",
+          "isCorrect": false
+        },
+        {
+          "id": "KF_S9loB7LoUifB02XfmB",
+          "text": "E) 10-12 ayından sonra",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "GNdncW8KK0cQavbRMdiBX",
+      "text": "231) Yenidogulmuşda əzələ tonusunun vəziyyətini hansı reflekslərin alınması ilə yoxlamaq olar?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "PTo9gbigB5j4OnoqywLNf",
+          "text": "A) Axtarış refleksi",
+          "isCorrect": false
+        },
+        {
+          "id": "CYNsGRPoYM0Oi4mmkKBHh",
+          "text": "B) Moro refleksi",
+          "isCorrect": false
+        },
+        {
+          "id": "GsjJJgFj929ww-r2RjXZ4",
+          "text": "C) Toniki boyun və labirint refleksləri",
+          "isCorrect": true
+        },
+        {
+          "id": "C_Ebm8ceJwyAztxwFOqfZ",
+          "text": "D) Babinski refleksi",
+          "isCorrect": false
+        },
+        {
+          "id": "gQZM9EEN3HUuVBfLvA4Pl",
+          "text": "E) Orbikulopalpebral",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "AB_kYfPgWUW3k8ssBzI-A",
+      "text": "232) Sensor nitqin yaranması hansı yaşda başlayır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "fBnCG-CnIoBwDNZRe0W37",
+          "text": "A) 3-4 aydan",
+          "isCorrect": false
+        },
+        {
+          "id": "p2z6N955fgaIUAkttpP3Z",
+          "text": "B) 1-2 yaşdan",
+          "isCorrect": false
+        },
+        {
+          "id": "MP4jxX1HR2BE0iPsrcjhQ",
+          "text": "C) 5-6 aydan",
+          "isCorrect": false
+        },
+        {
+          "id": "HLF6hYJvY-KFFrz02qSMN",
+          "text": "D) 7-8 aydan",
+          "isCorrect": true
+        },
+        {
+          "id": "A7dKrRODm9YaEEwEec7Ql",
+          "text": "E) 3-4 yaşdan",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "zaz1gYAcwA_aNrBVams6N",
+      "text": "233) Motor nitqi hansı yaşda yaranır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "59xtN-kEx9xrwWDGGVgPD",
+          "text": "A) 10-12 ayda",
+          "isCorrect": false
+        },
+        {
+          "id": "rl_fdei4f3tTA8pdnco-j",
+          "text": "B) 3-4 yaşda",
+          "isCorrect": true
+        },
+        {
+          "id": "z5NUYhNL5hr82WNnDehDx",
+          "text": "C) 5-6 yaşda",
+          "isCorrect": false
+        },
+        {
+          "id": "MKlvr6oWt8WkPgNsV2VAe",
+          "text": "D) 2-3 yaşda",
+          "isCorrect": false
+        },
+        {
+          "id": "3-dlG3aLtkjioBPxzdOOC",
+          "text": "E) 5-6 ayda",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "F2z5TKqm1Yejef6BpDxI9",
+      "text": "234) Sağlam yenidogulmuşda kiçik əmqək hansı yaşda bağlanır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "XKX40jRyR9s38t10S_LNT",
+          "text": "A) 10-12 ayda",
+          "isCorrect": false
+        },
+        {
+          "id": "ziPWJhknR1GoQcyX4ysxu",
+          "text": "B) 3-4 ayda",
+          "isCorrect": false
+        },
+        {
+          "id": "WSgckslZxj1HyWqKukOT9",
+          "text": "C) 5-6 ayda",
+          "isCorrect": false
+        },
+        {
+          "id": "gN6L27nHOOOInhbm5Mk4L",
+          "text": "D) 4-8 həftə",
+          "isCorrect": true
+        },
+        {
+          "id": "hGZPB9ALPV5CBbyciFCac",
+          "text": "E) 1-2 həftə",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "pHBR_57FCXPPj7K3W6GLP",
+      "text": "235) Sağlam uşağın hansı yaşından baxışın binokulyar funksiyası yaranır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "T6WdUy7BV-N2_N6J-t6In",
+          "text": "A) 3 ayda",
+          "isCorrect": true
+        },
+        {
+          "id": "DRY2BkqUEhVBTsJG694gp",
+          "text": "B) 1 yaşdan",
+          "isCorrect": false
+        },
+        {
+          "id": "2TascfRJ1oeeq24mloODd",
+          "text": "C) 3 həftə",
+          "isCorrect": false
+        },
+        {
+          "id": "bZBlsWNd5UXVl8OiiQkpX",
+          "text": "D) 5-6 aydan",
+          "isCorrect": false
+        },
+        {
+          "id": "RDlLSiox_FMoLCwQjIIJ1",
+          "text": "E) 1 həftədən",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Omdz4US8Pq6PtMytD3AhK",
+      "text": "236) Hansı yaşda uşaq rəngləri seçir və hərəkət edən əşyaları gözü ilə izləyir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "Y2KO0HMnEhdI5DpOWC2uE",
+          "text": "A) 4-5 həftədə",
+          "isCorrect": false
+        },
+        {
+          "id": "P2OVbxF2zEvhfTOcBMWB8",
+          "text": "B) 2-3 yaşda",
+          "isCorrect": false
+        },
+        {
+          "id": "iko7RyZn2eljxXutKWR3T",
+          "text": "C) 1 ayda",
+          "isCorrect": false
+        },
+        {
+          "id": "63ks2z-P1onmIo0dPRrKs",
+          "text": "D) 1 yaşda",
+          "isCorrect": false
+        },
+        {
+          "id": "Pha6X--GOzzfuu0OQN4da",
+          "text": "E) 6 ayda",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "CqWvBr2LHLFCa9QoC-X2C",
+      "text": "237) Hansı yaşda uşaqlarda stereoskopik görmə qabiliyyəti yaranır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "QyFlC-HB0hN39yDKJDD8Z",
+          "text": "A) 3 ayda",
+          "isCorrect": false
+        },
+        {
+          "id": "FKb2K5JDUGnIY2EDt9Z7j",
+          "text": "B) 6 ayda",
+          "isCorrect": false
+        },
+        {
+          "id": "wJcLFd2wqDeMNrE5xV7sF",
+          "text": "C) 1 yaşında",
+          "isCorrect": false
+        },
+        {
+          "id": "flR1F1tIoHjsYpeegAOdq",
+          "text": "D) 6 yaşda",
+          "isCorrect": false
+        },
+        {
+          "id": "mcXd0Snyze8Em6aJglTFf",
+          "text": "E) 3 yaşda",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "G9rYoFgb8S_2PLWjNVokn",
+      "text": "238) Uşaqda nitqin inkişafının ləngiməsinə hansı amillər təsir etmir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "NGnpnBmPtLE6383rDdBZy",
+          "text": "A) Ağız boşluğunun anatomik qüsurları",
+          "isCorrect": false
+        },
+        {
+          "id": "zXWKPnkLiKAeGFZW_Kv84",
+          "text": "B) MSS patologiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "3Civ2ytztkbzRL8jgB1kZ",
+          "text": "C) Süni qidalanma",
+          "isCorrect": true
+        },
+        {
+          "id": "8QhoXkIsb7gk1doT8-gKk",
+          "text": "D) Ümumi inkişafın ləngiməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "3dNKjhHAlAKm4ikoI3f-h",
+          "text": "E) Eşitmənin pozulması",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "R7WYwuIJ9wcyhD5noJ6bj",
+      "text": "239) Rəngli görmə qabiliyyəti hansı yaşda tam formalaşır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "L1HDdSxKVegGcYg4pC9-R",
+          "text": "A) 1 ayda",
+          "isCorrect": false
+        },
+        {
+          "id": "OQnT_bnhh1DTJL3D2l6tk",
+          "text": "B) 3 yaşda",
+          "isCorrect": true
+        },
+        {
+          "id": "YEEn4Rwv_PN5V21AnMgHp",
+          "text": "C) 6 yaşda",
+          "isCorrect": false
+        },
+        {
+          "id": "VNr6yWHB7WaJhfRXSTt7-",
+          "text": "D) 10 yaşda",
+          "isCorrect": false
+        },
+        {
+          "id": "avCfeEIyWjjxnUhsQ67ox",
+          "text": "E) 6 ayda",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "SA2HKOFrW5UBdMp_vLK03",
+      "text": "240) Uşaqlarda görmə qabiliyyəti nə vaxt maksimuma yaxınlaşır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "g5wdrs810OdXjch4up8TM",
+          "text": "A) 1 yaşında",
+          "isCorrect": false
+        },
+        {
+          "id": "ALbhXqwWASM-Ha_uSQqKT",
+          "text": "B) 3 yaşında",
+          "isCorrect": false
+        },
+        {
+          "id": "VTtvOR_Fxr4JPFP3VOiym",
+          "text": "C) 6 ayında",
+          "isCorrect": false
+        },
+        {
+          "id": "brZGYqn27nES6bIpDqnmp",
+          "text": "D) 4 yaşında",
+          "isCorrect": true
+        },
+        {
+          "id": "jRVm_NxmETRAh18SZp13O",
+          "text": "E) 6 yaşında",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "EVqaT30IwXKuWDWPmm72l",
+      "text": "241) İybilmə hissiyyatının differensiasiyası hansı yaşda başlayır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "0IIE1iQBFDMCf1kl3ll4G",
+          "text": "A) 1-2 ayda",
+          "isCorrect": false
+        },
+        {
+          "id": "PQFQ3N40kTiKxW-K4v8Da",
+          "text": "B) 2-4 ayda",
+          "isCorrect": true
+        },
+        {
+          "id": "og8YKmizleCUnUPkbI5KG",
+          "text": "C) 1 ayda",
+          "isCorrect": false
+        },
+        {
+          "id": "427BW6112C5ghoslqGBbx",
+          "text": "D) 5-6 ayda",
+          "isCorrect": false
+        },
+        {
+          "id": "6Y03iv4CDmHgPPV55P4nf",
+          "text": "E) 1 yaşda",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "ueSa1G5T6Z_VFIQUuJTZy",
+      "text": "242) Yenidogulmuşda hansı hissiyyat daha çox inkişaf edir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "wO33xwRZPVepk0XfGZJO1",
+          "text": "A) Termoresepsiya",
+          "isCorrect": false
+        },
+        {
+          "id": "wL-pyESVFKNBiotI20rCN",
+          "text": "B) İybilmə",
+          "isCorrect": true
+        },
+        {
+          "id": "MAxSX5ShjE1ia4aXOjT9w",
+          "text": "C) Ağrı",
+          "isCorrect": false
+        },
+        {
+          "id": "hZiVFLLcpcwszdMK99IFw",
+          "text": "D) Dadbilmə",
+          "isCorrect": false
+        },
+        {
+          "id": "5d8tjcDkNptPcQTWghwfE",
+          "text": "E) Taktil",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "qE3QD3bwzGI3gep7ILGWx",
+      "text": "243) Aşağıdakılardan hansı USİ (uşaq serebral iflici) formalarına aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "OMay2j35NAu4F7h-YYgmI",
+          "text": "A) Hiperkinetik",
+          "isCorrect": false
+        },
+        {
+          "id": "pfju1uXo_zGNykKci5r5o",
+          "text": "B) Hemiplegik",
+          "isCorrect": false
+        },
+        {
+          "id": "kZ9tFQjZuSXN0JzNYekTD",
+          "text": "C) Astenonevrotik",
+          "isCorrect": true
+        },
+        {
+          "id": "G1R6D2b1WgTF-lNVgoDzx",
+          "text": "D) Atonik-astatik",
+          "isCorrect": false
+        },
+        {
+          "id": "-cd9XZR2M7a5bAmnmsfcO",
+          "text": "E) Spastik diplegiya, ikili diplegiya",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "xOod_pWGPCvRe9PjKoGsy",
+      "text": "244) USİ (Uşaq serebral iflici) hemiplegik formasına aid olmayan hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "RHhK3a6Mu5eesI79pnmI_",
+          "text": "A) Əzələ hipotoniyası",
+          "isCorrect": true
+        },
+        {
+          "id": "dhD2d9oiS4r8iUheZnY6t",
+          "text": "B) Nitq pozulmaları",
+          "isCorrect": false
+        },
+        {
+          "id": "_5lhAsjIa3-EehIENi5pN",
+          "text": "C) Mərkəzi tipli parez",
+          "isCorrect": false
+        },
+        {
+          "id": "wFLZpi_KFN96nEu7cV58u",
+          "text": "D) Psixi inkişafı pozulması",
+          "isCorrect": false
+        },
+        {
+          "id": "meEYtCNNJxcVoJlHZXLFA",
+          "text": "E) Qıcolma tutmaları",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "BELE9pDYx5wYwqsswbvsR",
+      "text": "245) Uşaq serebral iflicinin ikili diplegiya forması hansı erkən kobud patologiyaya səbəb olur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "0GPiKqIuJt8fqYFcP4oP_",
+          "text": "A) Ümumi əzələ hipotoniyası",
+          "isCorrect": false
+        },
+        {
+          "id": "9ZFXBz19jMGoNofV6Phv1",
+          "text": "B) Eşitmə zəifləyir",
+          "isCorrect": false
+        },
+        {
+          "id": "B03OwqMFhoBDroAyo3AGn",
+          "text": "C) Oynaqların kontrakturası, sümüklərin deformasiyası",
+          "isCorrect": true
+        },
+        {
+          "id": "rXy0oGhMPB8X5ouDMrrya",
+          "text": "D) Görmə zəifləyir",
+          "isCorrect": false
+        },
+        {
+          "id": "g_neva-gt_IuFzlMquRFK",
+          "text": "E) Beyincik pozulmaları",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "zKvPRfSYyTV2DHS0V6_S3",
+      "text": "246) İkili diplegiyaya aid olmayan hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "qof6GSGeTG_caCqD_5ZvK",
+          "text": "A) Ağır hərəki pozulmalar",
+          "isCorrect": false
+        },
+        {
+          "id": "C4NPTrhzQyaT_rzeofFwK",
+          "text": "B) İntension əsmə",
+          "isCorrect": true
+        },
+        {
+          "id": "pEC_uwvSR5YmoMUwMNj2E",
+          "text": "C) Psevdobulbar iflic kompleksi",
+          "isCorrect": false
+        },
+        {
+          "id": "XybWcR_A9oAccA7zAH4Ww",
+          "text": "D) Patoloji reflekslər",
+          "isCorrect": false
+        },
+        {
+          "id": "2FQ-V_iLRfkxu0yrT9-XO",
+          "text": "E) Vətər reflekslərin yüksəlməsi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "n6zF2IkBITBgqalvXkRIC",
+      "text": "247) Uşaq serebral iflicinin hiperkinetik formasına aid olmayan əlamət hansidir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "_pjQjkyIEz2QNcTQzySt3",
+          "text": "A) Atetoid hərəkətlər",
+          "isCorrect": false
+        },
+        {
+          "id": "hbFIcKAq1NG66KjuP1F8f",
+          "text": "B) Əzələ distoniyası",
+          "isCorrect": false
+        },
+        {
+          "id": "zRDsSFpxd1uLdPflPBWs_",
+          "text": "C) Nitq pozulmaları",
+          "isCorrect": false
+        },
+        {
+          "id": "CfluwA_ZALB39q94s1uku",
+          "text": "D) Torsion spazm",
+          "isCorrect": false
+        },
+        {
+          "id": "S3JoQmy0fjJiuaN1bY2qw",
+          "text": "E) Hissiyatın bütün növ pozulmaları",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "hF7gqx1vtaRfpRbk-mqQI",
+      "text": "248) Mikrosefaliyaya aid olmayan əlamət hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "8wmzScoPkAntd-FUop8Ih",
+          "text": "A) Şüur zəifliyi",
+          "isCorrect": false
+        },
+        {
+          "id": "09VaIiyT-RHIH-gI_ppqc",
+          "text": "B) Tac sümükləri çox nazik olur",
+          "isCorrect": true
+        },
+        {
+          "id": "HdgjCYNT8vDx2XoPChY12",
+          "text": "C) Epilepsiya",
+          "isCorrect": false
+        },
+        {
+          "id": "gPRRlXKGlcqGIad3lz1Sb",
+          "text": "D) RQ-da kəllənin tac sümükləri qalın olur",
+          "isCorrect": false
+        },
+        {
+          "id": "CtftBMpwGqc4SNedtgTHJ",
+          "text": "E) Kəllə sümükləri tikişləri birləşmiş olur",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "XXQL5LwP6jbU1b5PbJ1-F",
+      "text": "249) Yenidogulmuşda servikal patologiyanın birinci əlaməti hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "AJ4PzHTuwMuEf42uAEFZN",
+          "text": "A) Qreqq sindromu",
+          "isCorrect": false
+        },
+        {
+          "id": "WaYoTJ7UZi1j5wf7WQ816",
+          "text": "B) \"Uzun ayaq\" sindromu",
+          "isCorrect": false
+        },
+        {
+          "id": "ez8LNv2NEPThPF-myGIQu",
+          "text": "C) \"Qısa bağırsaq\" sindromu",
+          "isCorrect": false
+        },
+        {
+          "id": "tjGmOcjKXgSsch2N_6fC_",
+          "text": "D) \"Qısa boyun\" simptomu",
+          "isCorrect": true
+        },
+        {
+          "id": "iCSuqNS8mrAb7LlpchCVx",
+          "text": "E) Kraniostenoz",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "dIprLjMMuq-A4hqBj419N",
+      "text": "250) \"Qısa boyun\" simptomunun əlamətləri hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "m3Wcrg7xHQcI_DARQKiUf",
+          "text": "A) Boyun-ənsə əzələlərinin çox qabarıq qoruyucu gərginliyi",
+          "isCorrect": true
+        },
+        {
+          "id": "NiU2c6Aq27tvl_9zl57yd",
+          "text": "B) Kəllə-beyin sinirlərinin kobud patologiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "pK4D4izJ__0d1heYIVrYp",
+          "text": "C) Boyun-ənsə əzələlərinin hipotoniyası",
+          "isCorrect": false
+        },
+        {
+          "id": "kjOeBkZ-kpufBAG4FcZi7",
+          "text": "D) Boyun ayrılığı",
+          "isCorrect": false
+        },
+        {
+          "id": "_Mf7NeFCikceQnvqGgAQf",
+          "text": "E) Postnatal patologiyaya aiddir",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "xGBy_nMZYEUxWNrPTSmlS",
+      "text": "251) Kəllədaxili təzyiqin yüksəlməsinin əlamətlərindən biri hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "9Ylnj9TN-Zna9YL4i0Tkb",
+          "text": "A) Qovers simptomu",
+          "isCorrect": false
+        },
+        {
+          "id": "LYsMDpWvQcV4AWDPSiaFm",
+          "text": "B) Xvostek simptomu",
+          "isCorrect": false
+        },
+        {
+          "id": "stj7GFoEpP6rCyGvTQW11",
+          "text": "C) Kerniq simptomu",
+          "isCorrect": false
+        },
+        {
+          "id": "x1TCMwbZNREyNqz68xsYq",
+          "text": "D) \"Batan günəş\" simptomu",
+          "isCorrect": true
+        },
+        {
+          "id": "vAA4TW09Z6G-nCQ4S_wTm",
+          "text": "E) Merfi simptomu",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "RZVM0RMybwlu1rFZOusA4",
+      "text": "252) Kəllə-beyin sinirlərinin kaudal qrupun perinatal zədələnməsinə nə aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "DkvKTfjKNx_-6dscK1yYx",
+          "text": "A) Buruna südün düşməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "oumqHEgxATLWZVdQ1J2uw",
+          "text": "B) Çəçimə",
+          "isCorrect": false
+        },
+        {
+          "id": "Mm-A1e2NyFiL_nzbWS8kl",
+          "text": "C) Səsinə zəifləməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "-ETEGnJHJL6vANlmt3IuJ",
+          "text": "D) Pis əmməyi",
+          "isCorrect": false
+        },
+        {
+          "id": "2WxvJXwmNOoElyUHUDvsl",
+          "text": "E) Çəpgözlülük",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Lxh-4v7vHReseQpMn2iy8",
+      "text": "253) Aşağıdakılardan hansı mərkəzi iflicin əlamətlərinə aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "WryF4EJMpZTUS7V75kpci",
+          "text": "A) Əzələ tonusunun yuxarı olması",
+          "isCorrect": false
+        },
+        {
+          "id": "wDV8dyBNpFHnV_72_DaxW",
+          "text": "B) Proprioseptiv reflekslərin olması",
+          "isCorrect": false
+        },
+        {
+          "id": "b_2HcMGYh1qy3rcRFOBw7",
+          "text": "C) Əzələ tonusunun aşağı olması",
+          "isCorrect": true
+        },
+        {
+          "id": "GvCyKYTtQm7evQnWJqmfY",
+          "text": "D) Mərkəzi hərəkət neyronun zədələnməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "uQcb6coAxRjMak0huixOr",
+          "text": "E) Patoloji reflekslərin olması",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "H1TJrAv-_uuPKg_JSA3Hh",
+      "text": "254) Aşağıdakılardan hansı periferik iflicin əlamətlərinə aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "HzkqGu_xmJ8F5JHkVQFH_",
+          "text": "A) Elektroqıcıqlanmanın pozulması",
+          "isCorrect": false
+        },
+        {
+          "id": "yP2AhkujVslaHpJmvjl5i",
+          "text": "B) Hiporefleksiya",
+          "isCorrect": false
+        },
+        {
+          "id": "1eoHqUN88VBCPqinSSvUz",
+          "text": "C) Tədricən əmələ gələn əzələ atrofiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "nCIT0Lan1lsBO_uSmXJo2",
+          "text": "D) Əzələ hipotonusu",
+          "isCorrect": false
+        },
+        {
+          "id": "GuRziQV7kwR68RhUEjdOC",
+          "text": "E) Əzələ hipertonusu",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "HAmfTC9Nq1W66sIBYt6bp",
+      "text": "255) Hansı refleks patoloji meningeal reflekslərə aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "HkDdIaWLzSEaEDDtKGnTh",
+          "text": "A) Babinski refleksi",
+          "isCorrect": false
+        },
+        {
+          "id": "8hAd5JkxROacqa89Tu8t8",
+          "text": "B) Oppenheimer refleksi",
+          "isCorrect": false
+        },
+        {
+          "id": "LrA1WeGN8m2R4KwkC4Qrp",
+          "text": "C) Bauer refleksi",
+          "isCorrect": true
+        },
+        {
+          "id": "gB0ETF0cCI3o2ZPNbywLd",
+          "text": "D) Rossolimo refleksi",
+          "isCorrect": false
+        },
+        {
+          "id": "B_im2EXrAgggJhpgWI8CR",
+          "text": "E) Qordon refleksi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "WIOWCgVbmTmWXay9RupGg",
+      "text": "256) Hansı əlamət meningitin olması ehtimalını təsdiq etmir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "scSWjFWBdMp4XEuQNWqZ4",
+          "text": "A) Məcburi vəziyyət və ənsə əzələlərinin rigidliyi",
+          "isCorrect": false
+        },
+        {
+          "id": "d1rdnAh1Da-gqN_438Frr",
+          "text": "B) Periferik parez",
+          "isCorrect": false
+        },
+        {
+          "id": "MeYVwEdJyF1oEmaGIOjfY",
+          "text": "C) Ekzantema müxtəlif formada",
+          "isCorrect": false
+        },
+        {
+          "id": "CMWnKiPBxw6DUhzJcSW2w",
+          "text": "D) Hiperesteziya, hiperanalgeziya, fotofobiya, hiperakuziya",
+          "isCorrect": false
+        },
+        {
+          "id": "UzYJhp_6cWP8tX988QgvC",
+          "text": "E) Qida ilə əlaqəli olmayan favvarəli qusma",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "o6_gSqh2DO4MPUYgr3-AR",
+      "text": "257) Boyun faqərələrinin travmatik dislokasiyası \"Uşaq serebral iflici\" diaqnozu ilə differensiasiya zamanı hansı müayinə köməkçidir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "gV7t0nc0NzTRd6JQ3Wjfv",
+          "text": "A) Qanın ümumi analizi",
+          "isCorrect": false
+        },
+        {
+          "id": "dtJvmpCffHf_-05aitgbR",
+          "text": "B) EKQ",
+          "isCorrect": false
+        },
+        {
+          "id": "xf5Cq0J2l8-qxCcduMgnl",
+          "text": "C) Qanın biokimyəvi analizi",
+          "isCorrect": false
+        },
+        {
+          "id": "YdwlNTrTSW4-cjnMZq5Ev",
+          "text": "D) RG",
+          "isCorrect": true
+        },
+        {
+          "id": "kPu8hLKoxGwibTyYmaNut",
+          "text": "E) EEQ",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "YZTXldGx_tUv-BcOB-XPD",
+      "text": "258) Davamlı reflekslərə aid olmayan hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "-SBqp-QwNztCbz0-fDKQ2",
+          "text": "A) Udqunma",
+          "isCorrect": false
+        },
+        {
+          "id": "43tTdz690L4-shjBKSIWe",
+          "text": "B) Konyuktival refleks",
+          "isCorrect": false
+        },
+        {
+          "id": "wXCTtAoFyRcLJ1xIu39IE",
+          "text": "C) Qaşüstü refleks",
+          "isCorrect": false
+        },
+        {
+          "id": "XdNjXc2Sam4YT78Vrzx-c",
+          "text": "D) Oral reflekslər",
+          "isCorrect": true
+        },
+        {
+          "id": "9IE8EvudJ31prLxXhWZVb",
+          "text": "E) Ətrafların vatər refleksləri",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "xJVmBf8RszQSry2ad785p",
+      "text": "259) Tranzitor reflekslərə aid deyil:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "rkP6dNlYyFJ8fTYrLApky",
+          "text": "A) Pozotonik reflekslər",
+          "isCorrect": false
+        },
+        {
+          "id": "B6kgbK0sBXVGyP0OjKnYe",
+          "text": "B) Oral reflekslər",
+          "isCorrect": false
+        },
+        {
+          "id": "d8_X2O9HkfWYehppiIaHM",
+          "text": "C) Spinal reflekslər",
+          "isCorrect": false
+        },
+        {
+          "id": "WQmZNym3eTXPGTJ6mmC_Z",
+          "text": "D) Ətrafların vatər refleksləri",
+          "isCorrect": true
+        },
+        {
+          "id": "EKBrsxFAPAdyXPeq8MTwJ",
+          "text": "E) Qeyri-şartlı reflekslər",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "-aQbEgk70qLtsD_7EXvZT",
+      "text": "260) Fizioloji Babinski refleksi MSS hansı hissəsinin göstəricisidir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "18Ba19bcO5vJXb5uhATkJ",
+          "text": "A) Ekstrapiramid sisteminin",
+          "isCorrect": false
+        },
+        {
+          "id": "gTYMEBUaiYNPj3fXLY1oK",
+          "text": "B) Retikulyar formasiyanın",
+          "isCorrect": false
+        },
+        {
+          "id": "Jl5Ar84Qu3xUzHLYRqTx-",
+          "text": "C) Piramid sisteminin",
+          "isCorrect": true
+        },
+        {
+          "id": "KxlV2vPZmH8nxqamTwSGH",
+          "text": "D) Hissiyyat yollarının",
+          "isCorrect": false
+        },
+        {
+          "id": "HHfehYJpIyDSN2cwIGcGd",
+          "text": "E) Vestibulyar aparatının",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "3WhpG0LnkmieFer8ijMYw",
+      "text": "261) Uşağın neyropsixoloji inkişafının meyarlarına hansılar aiddir?                                                                                                                                       1. Motorika, statika\n2. Musiqi duyğusu\n3. Nitq\n4. Dinamika\n5. Şərti - reflektor fəaliyyət\n6. Konstitusional əlamətlər\n7. Ali sinir fəaliyyəti",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "IbgVlM-QXBmDk0ERAXRL7",
+          "text": "A) 2, 3, 6, 7",
+          "isCorrect": false
+        },
+        {
+          "id": "alkqLcmmDwJ9-nWasAG4g",
+          "text": "B) 2, 3, 5, 6",
+          "isCorrect": false
+        },
+        {
+          "id": "_5eevYzZfNwOujISf-hdF",
+          "text": "C) 1, 3, 5, 7",
+          "isCorrect": true
+        },
+        {
+          "id": "XY-Pu7nkgjErmPLy5FGJf",
+          "text": "D) 1, 2, 5, 6",
+          "isCorrect": false
+        },
+        {
+          "id": "OGu8yFR3e9njP8elmqUmU",
+          "text": "E) 1, 5, 6, 7",
+          "isCorrect": false
+        },
+        {
+          "id": "-0xrttyaVUGk8OZ6299s8",
+          "text": "",
+          "isCorrect": false
+        },
+        {
+          "id": "fFx2qrJzVdwGlyYKub-tR",
+          "text": "",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "uTjAuhSDW-NexxjldsRDV",
+      "text": "262) Aşağıdakılardan hansı uşaqlarda sinir-əzələ xəstəliyinin əlaməti deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "T0sTFEUgfsy0EyY_vZ0ll",
+          "text": "A) Statik və lokomotor funksiyaların pozulmaları",
+          "isCorrect": false
+        },
+        {
+          "id": "nAt13glW2ZWI-iJq8A-_G",
+          "text": "B) Zəiflik və yerişin dəyişməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "-vPskWAmqiyid8n52MP2T",
+          "text": "C) Əzələnin dartınması",
+          "isCorrect": true
+        },
+        {
+          "id": "bChvXwVLJTXXN8o9zgTqE",
+          "text": "D) Əzələ hipotonusu",
+          "isCorrect": false
+        },
+        {
+          "id": "klYGKkwj8H73tz3dG64jC",
+          "text": "E) Əzələ atrofiyası",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "9QPzwP64lxWJdpuBLG_I1",
+      "text": "263) Yenidogulmuşun aşağı ətraflarında periferik parezin əlamətindən biri hansidir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "sebJwVrVJn5mjaiN9p4u9",
+          "text": "A) Aşağı ətrafların açılmasının çətinliyi",
+          "isCorrect": false
+        },
+        {
+          "id": "Rv_Ga8UcT_iaxMdWovXuN",
+          "text": "B) Aşağı Brudzinski simptomu müsbətdir",
+          "isCorrect": false
+        },
+        {
+          "id": "keAKBBCj4rogenVDSsCyh",
+          "text": "C) Kerniq simptomu müsbətdir",
+          "isCorrect": false
+        },
+        {
+          "id": "5V7iJ2HKf1W_zKZGggBC_",
+          "text": "D) Reflekslərin yüksəlməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "gN2IEsYBa0vjLlEI4YzgC",
+          "text": "E) Bud hissə ilə sağrı arasında dərin büküş",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "i5SJvhZga6rFwjj8d-jo0",
+      "text": "264) Sağlam yenidogulmuşun axtarış (Kussmaul) refleksi neçə yaşa kimi saxlanılır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "XEGWkckVYrn4e-0UffkRJ",
+          "text": "A) 18 ay",
+          "isCorrect": false
+        },
+        {
+          "id": "uMm_03VHThdcFf4LO-gAK",
+          "text": "B) 3 ay",
+          "isCorrect": true
+        },
+        {
+          "id": "zSDdBsNocFmAYvWA9jPDQ",
+          "text": "C) 6 ay",
+          "isCorrect": false
+        },
+        {
+          "id": "ez5FWG-ZwRXqWAjalPorz",
+          "text": "D) 3 yaş",
+          "isCorrect": false
+        },
+        {
+          "id": "R_09XUjUPVjlPm48Co2Nk",
+          "text": "E) 1 yaş",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "njVqQ_DiXlTx1Yc30XZjt",
+      "text": "265) 1 yaşında uşaqda Kussmaul refleksin alınması nəyin göstəricisidir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "Yf1BjcaDZhMTfFLhwm12S",
+          "text": "A) Uşaq aclıq hissi keçirir",
+          "isCorrect": false
+        },
+        {
+          "id": "onv9wxMvkwERWdTPEN5QR",
+          "text": "B) Normal inkişafın",
+          "isCorrect": false
+        },
+        {
+          "id": "YIzb_pL2TtaXFOpLTu5SU",
+          "text": "C) Hiperaktivlik",
+          "isCorrect": false
+        },
+        {
+          "id": "29SBCyaeUVpEye_wIr3Pu",
+          "text": "D) Ağır serebral patologiyanı",
+          "isCorrect": true
+        },
+        {
+          "id": "uaJI1saXYmHQEOM10Ovce",
+          "text": "E) Hipersensetivlik",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "SDC-Ez5faRZhKCOTw1RmK",
+      "text": "266) İmprintinq nəyə təsir göstərir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "ShFG-tkhSHlwbo7IpvJBo",
+          "text": "A) Sinir-psixi inkişafa",
+          "isCorrect": true
+        },
+        {
+          "id": "zMlJBea7_WWe8MxXlFLC2",
+          "text": "B) Vegetativ dəyişikliklərə səbəb olur",
+          "isCorrect": false
+        },
+        {
+          "id": "dvWxV0n7o6SXXI4FfiFbv",
+          "text": "C) Fiziki inkişafa",
+          "isCorrect": false
+        },
+        {
+          "id": "MHBb-VIHD5lfaHlj_7fS-",
+          "text": "D) Görmə qabiliyyətini yaxşılaşdırır",
+          "isCorrect": false
+        },
+        {
+          "id": "q6ix5So7y7PI7_cSvj4ca",
+          "text": "E) Eşitmə qabiliyyətini zəiflədir",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "1H-Rcpo2mmiJnI7YhD01-",
+      "text": "267) Əmmə refleksi hansı sinirlərin müştərək fəaliyyətindən asılıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "4uaBj3JZ7x147szPc7Pke",
+          "text": "A) V, VII, X, XII",
+          "isCorrect": true
+        },
+        {
+          "id": "gs23zduo9wDMSVHhRI10r",
+          "text": "B) V, VII, VIII, IX",
+          "isCorrect": false
+        },
+        {
+          "id": "-GiJs3dl8ItgZXQtg9UGb",
+          "text": "C) V, VI, VII, VIII",
+          "isCorrect": false
+        },
+        {
+          "id": "ad-zh7T7iA2UT0N8sEiQl",
+          "text": "D) I, II, III, IV",
+          "isCorrect": false
+        },
+        {
+          "id": "4pZvSLgoK85S93egI7h_D",
+          "text": "E) III, V, IX, XI",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "2M6DnvTupa453tKHnK2x-",
+      "text": "268) Əmmə refleksi nə vaxt alınmır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "enDOXkNBVbvc1lVD-y4ax",
+          "text": "A) Uşaq ac olanda",
+          "isCorrect": false
+        },
+        {
+          "id": "-d8bsw1j9mFW8hXO6F8dm",
+          "text": "B) Mədə-bağırsaq infeksiya zamanı",
+          "isCorrect": false
+        },
+        {
+          "id": "3zepi2P2jPMm5ANB_XnCe",
+          "text": "C) Virus stomatiti zamanı",
+          "isCorrect": false
+        },
+        {
+          "id": "DoTbiKchKt95n5p_4crFx",
+          "text": "D) Uşaq tox olanda",
+          "isCorrect": false
+        },
+        {
+          "id": "wndpbGe2Il7XjBELjkfak",
+          "text": "E) MSS perinatal patologiyası zamanı",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "kgOgIh6lhixotbUEQeeTd",
+      "text": "269) Aşağıdakılardan hansının əsasında epilepsiya diaqnozunu qoymaq mümkündür?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "iqIqfZgiYHmNMwPdjYdU4",
+          "text": "A) 1 dəfə yüksək hərarət fonunda tutma baş verərsə",
+          "isCorrect": false
+        },
+        {
+          "id": "e-9Lzo1JDxof4B7LCQ-lv",
+          "text": "B) Valideynlərindən biri epilepsiyadan əziyyət çəkdikdə",
+          "isCorrect": false
+        },
+        {
+          "id": "oESld0xjtDCFPi628-7Ks",
+          "text": "C) Yalnız EEQ-nın nəticəsi əsasında",
+          "isCorrect": true
+        },
+        {
+          "id": "jdcY0hictTvvXu3OWcjHH",
+          "text": "D) 1 dəfə idiopatik tutma baş verərsə",
+          "isCorrect": false
+        },
+        {
+          "id": "6ILKAVUesosiXSpqvsEza",
+          "text": "E) Xəstədə 2 və ya daha çox epileptik tutma baş verərsə",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "AEwmCvxqRMhGTg67G0wMS",
+      "text": "270) Generalizə olunmuş tonik-klonik tutmalar zamanı hansı epilepsiya əleyhinə dərman vasitəsi 1-ci seçim preparatıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "dGNiSnVqi-xRRlJdWgiA0",
+          "text": "A) Tiaqabin",
+          "isCorrect": false
+        },
+        {
+          "id": "Xm_v7P3NizKjb8Fah24Y8",
+          "text": "B) Karbamazepin",
+          "isCorrect": true
+        },
+        {
+          "id": "QSA-MUV713ztiPBMXrC5h",
+          "text": "C) Pirasetam",
+          "isCorrect": false
+        },
+        {
+          "id": "era_-T6QTtpIUBOZo2eFJ",
+          "text": "D) Papaverin",
+          "isCorrect": false
+        },
+        {
+          "id": "L5O7fsiDBiO7TLtz96Yvi",
+          "text": "E) Viqabatrin",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "J59Bt_BdzaMKQMEhs1fez",
+      "text": "271) Sadalananlardan hansı meningitlərdə rast gəlmir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "-2Y9AHPLlMBAJAnOarCeb",
+          "text": "A) Ənsə əzələlərinin rigidliyi",
+          "isCorrect": false
+        },
+        {
+          "id": "LCsCh6O_bwvJ2SMgjqPp1",
+          "text": "B) Məcburi vəziyyət",
+          "isCorrect": false
+        },
+        {
+          "id": "QERcP4IL2tYBQYyIL8sK5",
+          "text": "C) Koplik ləkələri",
+          "isCorrect": true
+        },
+        {
+          "id": "tC4FSkNENYD7twFlUtSg_",
+          "text": "D) Kerniq, Brudzinski refleksiəri",
+          "isCorrect": false
+        },
+        {
+          "id": "cHkdMoi_KRbCp6r5dDqJ7",
+          "text": "E) Fotofobiya",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "ko2o9KTd2ra1auqzwOOaN",
+      "text": "272) Meningitin yaranmasında risk qrupu daha çox hansı yaş qrupu təşkil edir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "P3Gw4Bjj7LNb4s5BE5NiQ",
+          "text": "A) Yeniyetmələr",
+          "isCorrect": false
+        },
+        {
+          "id": "mnfIcurFVSsxlMY5oHHM9",
+          "text": "B) 17 yaşdan yuxarı",
+          "isCorrect": false
+        },
+        {
+          "id": "sV2el8-uD9XRmX3-mhwVs",
+          "text": "C) 30-40 yaş",
+          "isCorrect": false
+        },
+        {
+          "id": "xLc3X1g-wlpLSA492glUI",
+          "text": "D) Yenidogulmuşlar və 6-9 aylıq uşaqlar",
+          "isCorrect": true
+        },
+        {
+          "id": "4m7qcA3eWk2XThyj6Byvc",
+          "text": "E) 20-30 yaş",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "wQJXXsLPcbbys9Egm9i94",
+      "text": "273) Hansı simptom meningitin təsdiqləmə simptomuna aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "T_zHk9dYwKEEy_v4FslZP",
+          "text": "A) Brudzinski",
+          "isCorrect": false
+        },
+        {
+          "id": "fbjw10NcdOEJvYb1MfDZb",
+          "text": "B) Rossolimo",
+          "isCorrect": false
+        },
+        {
+          "id": "n_iqKz-VaoXtuUGByESr3",
+          "text": "C) Kerniq",
+          "isCorrect": false
+        },
+        {
+          "id": "noe327G4Gno2JkDZxx2lT",
+          "text": "D) Babinski",
+          "isCorrect": false
+        },
+        {
+          "id": "TQjHUvyPK0kz54HzwhfUr",
+          "text": "E) Trusso",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "O70XZQS7uuUg-bQZN3wWb",
+      "text": "274) ABO antigen sistemi üzrə yeni doğulmuş körpədə hemolitik xəstəlik nə zaman müşahidə olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "ld3G8Ad6jBVCI98roK2-c",
+          "text": "A) Müsbət rezuslu atadan olan uşaqlarda",
+          "isCorrect": false
+        },
+        {
+          "id": "D1Kg_HE3ayRBXcF5HrSR2",
+          "text": "B) O (I) qan qruplu uşaqlarda",
+          "isCorrect": false
+        },
+        {
+          "id": "frEBbTdIdIjo_TUT32G0O",
+          "text": "C) Yalnız vaxtında doğulmuş sağlam uşaqlarda",
+          "isCorrect": false
+        },
+        {
+          "id": "JKxYXNSMrufB3QLAv1SrT",
+          "text": "D) O (I) qan qruplu anadan doğulan A (II) qan qruplu uşaqlarda",
+          "isCorrect": true
+        },
+        {
+          "id": "2-z_872zKWHKWVG02Hf-u",
+          "text": "E) Yalnız təkrar hamiləlikdən olan uşaqlarda",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "l28Hs4dPkKlkY050nnPwH",
+      "text": "275) Anadangalmə toksoplazmozun kəskin dövrünün ən etibarlı əlaməti hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "8mW9uj-er249x0P8bKdmh",
+          "text": "A) Görmə sinirinin atrofiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "MgOsyraKFSG3WQ_hmW3wv",
+          "text": "B) Toksoplazmoz əleyhinə IgM tərkibli anticisimlərin aşkarlanması",
+          "isCorrect": true
+        },
+        {
+          "id": "yhkMDLQkCxPivG8ZnNd-i",
+          "text": "C) Mikrosefaliya",
+          "isCorrect": false
+        },
+        {
+          "id": "yTHOctrFM51MU8kQ2UtrZ",
+          "text": "D) IgG tərkibli anticismlərin yüksək titri",
+          "isCorrect": false
+        },
+        {
+          "id": "6iLJOhrOsv_3BcARqHwC2",
+          "text": "E) Hepatomeqaliya",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "ES5YLG598d5TJLVXcKbpM",
+      "text": "276) Anadangalmə hipotireoz üçün nə xarakterik deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "Rp1TMengRu3c2d21XcUkm",
+          "text": "A) Böyük əmqəyin vaxtından əvvəl bağlanması",
+          "isCorrect": true
+        },
+        {
+          "id": "Y8EAQDJvcSAd24ZPIFWEQ",
+          "text": "B) Makroqlossiya",
+          "isCorrect": false
+        },
+        {
+          "id": "c4_vHMdG02hQ8sEgngcUe",
+          "text": "C) Uzun müddət davam edən sarılıq",
+          "isCorrect": false
+        },
+        {
+          "id": "JW1WMtV3WO6LbjDWMcYiz",
+          "text": "D) Hipotermiyaya meyllilik",
+          "isCorrect": false
+        },
+        {
+          "id": "xj-kkbJA3X53KuBJ2iXwG",
+          "text": "E) Qəbizlik",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "5aQz4BSMJeIE9BBE_56tm",
+      "text": "277) Mukovissidoz diaqnozunu aşağıdakılardan hansı təsdiq edir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "n-RjmNoPDbDCJz788GBGt",
+          "text": "A) Nazik bağırsağın biopsiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "Y2YRqHj-_k-X4PUcWBIlq",
+          "text": "B) Döş qəfəsinin rentgenoqrafiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "QWch974uLk4-cWjyAeBZX",
+          "text": "C) Sümük iliyinin müayinəsi",
+          "isCorrect": false
+        },
+        {
+          "id": "eL197BaFAyaZyoGdhrDXa",
+          "text": "D) Tərdə elektrolitlərin təyini",
+          "isCorrect": true
+        },
+        {
+          "id": "RSE5AHVJ2EzvDinBdCuw1",
+          "text": "E) Sidik çöküntüsünün mikroskopiyası",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "8oH5zdkInDQA0EExn0REp",
+      "text": "278) Rezus faktor üzrə hemolitik xəstəliyin yüngül variantını hansı hallarda gözləmək olar?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "w-zHospoSkf95b2U9wA3c",
+          "text": "A) Ana tərəfindən nənəsi müsbət rezusludur",
+          "isCorrect": true
+        },
+        {
+          "id": "rabx7uY7lh7J_hoBM6LPZ",
+          "text": "B) Uşağın atası rezus faktor üzrə homoziqotdur",
+          "isCorrect": false
+        },
+        {
+          "id": "XVr36e_lZHq5pTUUP9fTx",
+          "text": "C) Uşağın anasına uşaqlıqda qan köçürülüb",
+          "isCorrect": false
+        },
+        {
+          "id": "WDhbW_PLmNSA-XmnoloFe",
+          "text": "D) Anada atopik xəstəlik var",
+          "isCorrect": false
+        },
+        {
+          "id": "LXSCjnA1xPD_8vkUdemdh",
+          "text": "E) Ananın və uşağın qan qrupu eynidir",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Elqf3F6aNgRHTv-dwrwfD",
+      "text": "279) I dərəcəli hipotrofiyada kütlə defisiti nə qədər olmalıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "awIWWoAW75Qy3AzFvcKrJ",
+          "text": "A) 40%-dən çox",
+          "isCorrect": false
+        },
+        {
+          "id": "XIHNHKr4OOsMEm0LJ4eov",
+          "text": "B) 10%-dən 20%-ə qədər",
+          "isCorrect": true
+        },
+        {
+          "id": "DjDM4EFriDULitmjDnh_8",
+          "text": "C) 40%-dən 50%-ə kimi",
+          "isCorrect": false
+        },
+        {
+          "id": "emKPIPKi4_sr-_E4KUlBg",
+          "text": "D) 3%-ə qədər",
+          "isCorrect": false
+        },
+        {
+          "id": "sNkobKSNF2qhG1xbnzqyJ",
+          "text": "E) 30%-dən 40%-ə kimi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "qVa6zstyCXo9tTSNf1huI",
+      "text": "280) Hansı preparatın uzun müddət istifadəsi raxitin inkişafına səbəb olur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "NsgHc8KKGzUe4ijpw9oub",
+          "text": "A) Piridoksal fosfat",
+          "isCorrect": false
+        },
+        {
+          "id": "LCvXuLzJ9u9by-hB98QX5",
+          "text": "B) Penisillin",
+          "isCorrect": false
+        },
+        {
+          "id": "9hfADKJ7Rfw6pu40r4k2c",
+          "text": "C) Qlisin",
+          "isCorrect": false
+        },
+        {
+          "id": "cjvfQBRmU1UuGRlByzag8",
+          "text": "D) Papaverin",
+          "isCorrect": false
+        },
+        {
+          "id": "rwo5nXPy7flIS0-8CZ4AK",
+          "text": "E) Fenobarbital",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "XvZtayyTbYVUMUu_jIc4c",
+      "text": "281) D vitamini orqanizimdə hansı funksiyanı yerinə yetirir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "ZvJ_TBDr3wi171q2iSUaS",
+          "text": "A) Mədə-bağırsaq traktından kalsiumun sorulmasına kömək edir",
+          "isCorrect": true
+        },
+        {
+          "id": "c0-05I8FGoZPq_7N0ejj0",
+          "text": "B) Kalsiumun kanaləq reabsorbsiyasını blokada edir",
+          "isCorrect": false
+        },
+        {
+          "id": "w_onsk_gMZpY7iGq115aF",
+          "text": "C) Göstərilən bioloji effektlərə vitamin D təsir etmir",
+          "isCorrect": false
+        },
+        {
+          "id": "y_RLumJdxagObdHBRyetK",
+          "text": "D) Parathormonun hasilatını artırır",
+          "isCorrect": false
+        },
+        {
+          "id": "vT2W5JjMRf4o2SOZN-Ujp",
+          "text": "E) Qanda qələvi fosfatazanın səviyyəsini qaldırır",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "c58KL7bTn3C3_sX7rmmhl",
+      "text": "282) Dəmir defisitli anemiyanın əlamətlərinə hansı aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "263fLGv8exX9NmATsP7hA",
+          "text": "A) Zərdabda birləşmiş dəmirin azalması",
+          "isCorrect": false
+        },
+        {
+          "id": "u-XmBlsoG1iHrQZKeSlbU",
+          "text": "B) Zərdabın dəmir bağlayıcı qabiliyyətinin artması",
+          "isCorrect": false
+        },
+        {
+          "id": "ASxnFq8GPOafIP8IBbgvj",
+          "text": "C) Eritrositlərin hipoxromiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "eC1iwhNkf4E228sJjIZLT",
+          "text": "D) Eritrositlərin sayının azalması",
+          "isCorrect": false
+        },
+        {
+          "id": "Lt7E5ArIy2MwxWZ0jsupz",
+          "text": "E) Qanda bilirubinin artması",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "yxZmK1bqgc9azgHf-FKiC",
+      "text": "283) Mukovissidoz üçün sadalanan əlamətlərdən hansı xarakterik deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "Qn1uBXOJ16jnt6DjzdEHH",
+          "text": "A) Polifekaliya",
+          "isCorrect": false
+        },
+        {
+          "id": "t-zcAPIKhbwvt7BUJ4k7o",
+          "text": "B) Mekonial ileus",
+          "isCorrect": false
+        },
+        {
+          "id": "q_IeK-yLcIOXu_j9PhWWa",
+          "text": "C) Steatoreya",
+          "isCorrect": false
+        },
+        {
+          "id": "TC540IllPCJPhQ4CfpMjn",
+          "text": "D) Atelektazlar",
+          "isCorrect": false
+        },
+        {
+          "id": "dwNotUcmj_j1hNQfOoNlM",
+          "text": "E) Hipernatremiya",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "SqDJ587wlfL8XqV0w85sc",
+      "text": "284) Hipokalsemik qıcolma sindromunun inkişafına nə səbəb olur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "MD1HpNH0UHXjKUy87eBwd",
+          "text": "A) Hipoproteinemiya",
+          "isCorrect": true
+        },
+        {
+          "id": "je-TlJt_ACb_qXSZrLV18",
+          "text": "B) Hipoventilyasiya",
+          "isCorrect": false
+        },
+        {
+          "id": "JcMSOPN2dmg2akcvXMiLo",
+          "text": "C) Alkaloz",
+          "isCorrect": false
+        },
+        {
+          "id": "FZ6bwJnwLeUtBB0yZb2kO",
+          "text": "D) Asidoz",
+          "isCorrect": false
+        },
+        {
+          "id": "JY0vlwJ79qRB75ezZnNTB",
+          "text": "E) Hiperkaliyemiya",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "dMU58WnTzoX5gEEbowx0s",
+      "text": "285) Uşaqlarda qəfləti ölüm sindromu üçün hansı xarakterikdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "7sJB5psopzlMow4nJuvdE",
+          "text": "A) Ölüm əsasən gündüz vaxtları uşaq oyaq olarkən baş verir",
+          "isCorrect": false
+        },
+        {
+          "id": "y8Z03QMeW_alSNC7HGckR",
+          "text": "B) Sindrom əsasən 3 yaşdan yuxarı uşaqlarda rast gəlinir",
+          "isCorrect": false
+        },
+        {
+          "id": "YIkvZGMRcafE36X6b57sd",
+          "text": "C) Qəfləti ölümə ailəlikcə meyllilik",
+          "isCorrect": true
+        },
+        {
+          "id": "bjCke7xUdhc3s_zjphenv",
+          "text": "D) Ölümün konkret səbəbi həmişə aşkar edilir",
+          "isCorrect": false
+        },
+        {
+          "id": "-ZLDeCwjReYRhbyaKcah2",
+          "text": "E) Həmişə klinik morfoloji yetkinsizliyin əlamətləri aşkar edilir",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "HnyIwKZ_ckT3owFMdMLC2",
+      "text": "286) Erkən yaşlı uşaqlarda tez-tez aşağıdakılardan hansı rast gəlinir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "livDebrEQ4q3Ar1xjdh18",
+          "text": "A) Qida allergiyası",
+          "isCorrect": true
+        },
+        {
+          "id": "Pet6aV2nnAgdjRerxSGWG",
+          "text": "B) Dərman allergiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "nM79eprI8Ts2ZwCRUUzyW",
+          "text": "C) Soyuq allergiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "ErZRaHe9dZRkIF4ynWCEh",
+          "text": "D) İnhalyasiya yolu ilə yaranan allergiyalar",
+          "isCorrect": false
+        },
+        {
+          "id": "1T3bWAgzdafrEgDeozHZH",
+          "text": "E) Məişət allergiyası",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "DlkawhiKZsd_vrDuCC9Fh",
+      "text": "287) I dərəcəli hipotrofiyalarda qidaya tolerantlığın təyin olunması müddəti nə qədərdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "2-9TdRhA6dcXJBhJesM0K",
+          "text": "A) 10 gün",
+          "isCorrect": false
+        },
+        {
+          "id": "3BE_zye4JSdmuYCKWiDhc",
+          "text": "B) 1-2 gün",
+          "isCorrect": true
+        },
+        {
+          "id": "6qmivMQZJ-3h9xOdbULCZ",
+          "text": "C) 3-7 gün",
+          "isCorrect": false
+        },
+        {
+          "id": "-e1nhzMlW9ZwjbMFxefac",
+          "text": "D) 15 gündən çox",
+          "isCorrect": false
+        },
+        {
+          "id": "ntuHhzJsL6Qowg0r-jy_G",
+          "text": "E) 14 günədək",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "8OI_se5tsIX9xcX5kIHXQ",
+      "text": "288) II dərəcəli hipotrofiyalarda qidaya tolerantlığın təyin olunması müddəti nə qədərdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "W9w9vac63jDYn-BSerykC",
+          "text": "A) 3-7 gün",
+          "isCorrect": true
+        },
+        {
+          "id": "anYDgz8Q4RLIX1kbjkjU6",
+          "text": "B) 1-2 gün",
+          "isCorrect": false
+        },
+        {
+          "id": "AzPiJQG-Ry6nBGESMzGBt",
+          "text": "C) 14 günədək",
+          "isCorrect": false
+        },
+        {
+          "id": "o0AUPfrsAood5RlvRdJhe",
+          "text": "D) 10 gün",
+          "isCorrect": false
+        },
+        {
+          "id": "BmexJnx4yyIybk4bGS6TJ",
+          "text": "E) 15 gündən çox",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "7uX2Sf6BTlk9PVozV1_vt",
+      "text": "289) III dərəcəli hipotrofiyalarda qidaya tolerantlığın təyin olunması müddəti nə qədərdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "y-jlu9CNx8tXF4HJmodpT",
+          "text": "A) 10 gün",
+          "isCorrect": false
+        },
+        {
+          "id": "KapcU7hBwQppoqUaibX65",
+          "text": "B) 14 günədək",
+          "isCorrect": true
+        },
+        {
+          "id": "uGXucyNDcGFPNpfZCz7mQ",
+          "text": "C) 3-7 gün",
+          "isCorrect": false
+        },
+        {
+          "id": "CwzWW6WdoSCd5LBpDukn7",
+          "text": "D) 15 gündən çox",
+          "isCorrect": false
+        },
+        {
+          "id": "M87SZZ34lFpx8uqlIJF7R",
+          "text": "E) 1-2 gün",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "vhpFYUVyXKf3BkMeCe_QT",
+      "text": "290) II dərəcəli postnatal hipotrofiyalarda kütlə defisiti nə qədərdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "HBLlPiaFYmRxWcwv27HBA",
+          "text": "A) 5-15%",
+          "isCorrect": false
+        },
+        {
+          "id": "fe_GcpnW-e9QZ88f-inML",
+          "text": "B) 20-30%",
+          "isCorrect": true
+        },
+        {
+          "id": "I17o7LT2OwqfP0fT0Kcpq",
+          "text": "C) 30% və çox",
+          "isCorrect": false
+        },
+        {
+          "id": "3ctG_2IKs0NsJ1c7Nsyss",
+          "text": "D) 10-20%",
+          "isCorrect": false
+        },
+        {
+          "id": "CjQt34RA2Myofz0qWAkZy",
+          "text": "E) 5-8%",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "H02ujyW7K9jDVeQdMvnGr",
+      "text": "291) III dərəcəli postnatal hipotrofiyalarda kütlə defisiti nə qədər olur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "khSOdNztBfJhwTgyL6oG0",
+          "text": "A) 20-30%",
+          "isCorrect": false
+        },
+        {
+          "id": "0CFLphiQcHNo9yvX7Mx5a",
+          "text": "B) 5-8%",
+          "isCorrect": false
+        },
+        {
+          "id": "PCQwt4oNxxB76J1df6Zin",
+          "text": "C) 10-20%",
+          "isCorrect": false
+        },
+        {
+          "id": "-uuKq_HfujSr3K--MI-rO",
+          "text": "D) 30% və çox",
+          "isCorrect": true
+        },
+        {
+          "id": "xOr9yfIKlvaiWM4TpWkM6",
+          "text": "E) 5-15%",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "bMmiwg21vmXdE6AqZTTtR",
+      "text": "292) Fenilketonuriyanın əsas klinik əlamətləri hansı sistemin zədələnməsi ilə xarakterizə olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "6_1BA6xIJBaTIvIVWGRBF",
+          "text": "A) Mərkəzi sinir sistemi",
+          "isCorrect": true
+        },
+        {
+          "id": "8JGtETIqENjOW6YqusJr6",
+          "text": "B) Həzm sistemi",
+          "isCorrect": false
+        },
+        {
+          "id": "mLg0dykvUFcMTaphyqBFX",
+          "text": "C) İmmun sistemi",
+          "isCorrect": false
+        },
+        {
+          "id": "6bTHpPy3j8hZccICD7yMD",
+          "text": "D) Sümük sistemi",
+          "isCorrect": false
+        },
+        {
+          "id": "SI7ui0M8l9Apbr5PKrC0l",
+          "text": "E) Qanyaradıcı sistemi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "GF5AEiWBnhHTDqWQ6cipT",
+      "text": "293) Fenilketonuriyaya qarşı skrininq-test üçün fenilalaninin səviyyəsi hansında təyin olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "GvRjF3ko0SAIy8WTay3rt",
+          "text": "A) Nəcisdə",
+          "isCorrect": false
+        },
+        {
+          "id": "QxbLZbqshvD6eTowOY6P_",
+          "text": "B) Tüpürcəkdə",
+          "isCorrect": false
+        },
+        {
+          "id": "74iD06_ag32BCHSsZezWB",
+          "text": "C) Limfada",
+          "isCorrect": false
+        },
+        {
+          "id": "BWDNMhduyDSqLLUqpBPx8",
+          "text": "D) Qanda",
+          "isCorrect": true
+        },
+        {
+          "id": "6o9c1I1BtC2tpII9dlfdb",
+          "text": "E) Sidikdə",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "aMNBseHvZbVOhKvTo3QE2",
+      "text": "294) Aplastik anemiya zamanı informativ diaqnostik üsullardan biri hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "9kwDsrWolwqVEVPxkBTQ0",
+          "text": "A) Sitogenetik təhlil",
+          "isCorrect": false
+        },
+        {
+          "id": "ex2utrUkcUQlyHDYxyzib",
+          "text": "B) Qanın ümumi analizi",
+          "isCorrect": false
+        },
+        {
+          "id": "zV21JtTPw8S_W8Saq59rx",
+          "text": "C) Trepanobiopsiya",
+          "isCorrect": false
+        },
+        {
+          "id": "oInhV3H8sbdlXvPhQCZKS",
+          "text": "D) Koaquloqramma",
+          "isCorrect": false
+        },
+        {
+          "id": "db52BZOvxwG5ypsVVZZoN",
+          "text": "E) Sternal punktisiya",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "lV1S7RYxSsNPC55LUXWRm",
+      "text": "295) Talassemiyanın klinik gedişinə xas olmayan əlamət hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "O2gdE0HN6oAEd9-e-QJBA",
+          "text": "A) Hərarət",
+          "isCorrect": true
+        },
+        {
+          "id": "v6h-HlzGxj89lwLienUAM",
+          "text": "B) Dalağın böyüməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "kq3YzxdXwSCX3uP4Kqd6c",
+          "text": "C) Anemiya",
+          "isCorrect": false
+        },
+        {
+          "id": "SP98dl-HD7SuiMUvat54S",
+          "text": "D) Qaraciyərin böyüməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "ohjF-LIkavG3Kx53fdhrC",
+          "text": "E) Sarılıq",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "jCPvxutmXZ1JZ_Vw8wbXI",
+      "text": "296) Xroniki leykoz zamanı on tez-tez rast gəlinən klinik simptom hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "B2F01IgwC8H8W9VevEnGZ",
+          "text": "A) Hemorragik sindrom",
+          "isCorrect": false
+        },
+        {
+          "id": "yDxRYhARNNF3XsXTqffA3",
+          "text": "B) Limfa düyünlərinin böyüməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "rA1S4OJSFMH7x515XGu-U",
+          "text": "C) Hərarətin artması",
+          "isCorrect": false
+        },
+        {
+          "id": "RzgbfAnKa32INvVCSGhTA",
+          "text": "D) Dalağın böyüməsi",
+          "isCorrect": true
+        },
+        {
+          "id": "77sJ-t8a3h8CGCPP-euT3",
+          "text": "E) Qaraciyərin böyüməsi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "dlTqep_hvy7zrlRVcPwZ9",
+      "text": "297) Vitamin D rezistent raxitin ikinci adı nədir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "gf_6bZG_mvu7sGyBtMbN2",
+          "text": "A) De Toni debre Fankoni xəstəliyi",
+          "isCorrect": false
+        },
+        {
+          "id": "arrUaB7tCR0hvanMZRl-g",
+          "text": "B) Bəyrak asidozu",
+          "isCorrect": false
+        },
+        {
+          "id": "cViVFvxUSksHC2ofTQwo9",
+          "text": "C) Hiperfosfataziya",
+          "isCorrect": false
+        },
+        {
+          "id": "3d_EpOqig-srjTH9qEod2",
+          "text": "D) Hipofosfatoziya",
+          "isCorrect": false
+        },
+        {
+          "id": "3BQatzE-FvCUGDESc1ymZ",
+          "text": "E) Fosfat diabet",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "FoJJ-NQWGlX2wMv3YOdTU",
+      "text": "298) Raxitəbənzər xəstəliklər əsasən hansı yaşlarda müşahidə olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "RV2iaqYddnIct_xad8Qw6",
+          "text": "A) 3 yaşında",
+          "isCorrect": false
+        },
+        {
+          "id": "YRzDRqRAk4DuZlFcT7DIh",
+          "text": "B) Bir yaşda",
+          "isCorrect": true
+        },
+        {
+          "id": "Y47-YfjmS-dp_uQEoYH5o",
+          "text": "C) 3 ayında",
+          "isCorrect": false
+        },
+        {
+          "id": "x1Dbaa4XmhXRizPTofXzg",
+          "text": "D) 6 ayında",
+          "isCorrect": false
+        },
+        {
+          "id": "nXp66m4XHlBYmWSdsfFAA",
+          "text": "E) 9 ayında",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "-g8lx5hMM3pgyAqtCsJLu",
+      "text": "299) Raxitəbənzər xəstəliklərdə qanda ilkin nəyin səviyyəsi dəyişir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "UTXl2yqxKw0AAhQb0mXyL",
+          "text": "A) Qələvi fosfatazanın",
+          "isCorrect": true
+        },
+        {
+          "id": "W7Wls61d-X0w1IOsjIWdt",
+          "text": "B) Fosforun",
+          "isCorrect": false
+        },
+        {
+          "id": "h1cTeuCp2scNg-tzXyYyb",
+          "text": "C) Maqnezium sulfatın",
+          "isCorrect": false
+        },
+        {
+          "id": "b6ffrYZaAx2wBETAQxmuw",
+          "text": "D) Xlorun",
+          "isCorrect": false
+        },
+        {
+          "id": "1sk8V4ZYoxVKGEyDmA7d_",
+          "text": "E) Kalsinin",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "OU1OXzqJpZC54mx_XFD9W",
+      "text": "300) Vitamin D-nın ikinci hidroksidlaşması onun daha yüksək olan metabolita çevirməsi harada baş verir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "yKv0IbwDniSs4uKGiUiVX",
+          "text": "A) Nazik bağırsaqlarda",
+          "isCorrect": false
+        },
+        {
+          "id": "44JCH5aGdpivVpr0dKgXq",
+          "text": "B) Qaraciyərdə",
+          "isCorrect": false
+        },
+        {
+          "id": "fuBT9RoUlqJKGOY82H9ev",
+          "text": "C) Böyrəklərdə",
+          "isCorrect": true
+        },
+        {
+          "id": "3G6-Qt-eZCB60J3nVHvOk",
+          "text": "D) Dəridə",
+          "isCorrect": false
+        },
+        {
+          "id": "HzbZxvCltdftsNpP4L-l4",
+          "text": "E) Dalaqda",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "r0s7zLLIiDz85dmoZNfHP",
+      "text": "301) Vitamin D-dən asılı raxit üçün xarakterik olmayan əlamət hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "rr1wgnCd9gMwXXmwTqueM",
+          "text": "A) Dişlərin gec çıxması",
+          "isCorrect": false
+        },
+        {
+          "id": "2SP2Wt85Oymy5lDm5Wzcv",
+          "text": "B) Ətrafların valqus deformasiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "Ap8Sq3wuwQecda6f5426A",
+          "text": "C) Boyun inkişaf etməməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "tfvSMzDVs-5IDHjRaZmBV",
+          "text": "D) Çəkidə geri qalma",
+          "isCorrect": true
+        },
+        {
+          "id": "NWz9Z7WjGkRIFc4AsCUDy",
+          "text": "E) Əzələ hipotoniyası",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "P15TLXN6kvOC1fDsHQ0oS",
+      "text": "302) D vitaminindən asılı raxitdə hansı laborator dəyişikliklər xarakterik deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "oH05HnY44LqHNsaU7PTIM",
+          "text": "A) Hiperfosfaturiya",
+          "isCorrect": false
+        },
+        {
+          "id": "KdCQePy8Ld3d1nlf-Pgg9",
+          "text": "B) Metabolik asidoz",
+          "isCorrect": false
+        },
+        {
+          "id": "dBng9TFWv46e2gAqohCPl",
+          "text": "C) Hipokalsemiya",
+          "isCorrect": false
+        },
+        {
+          "id": "91acD-VPr2NeSP5PvFJ-h",
+          "text": "D) Hipofosfatemiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "3QaQvyNp6dtYSTkcF8paB",
+          "text": "E) Hiperkalsiuriya",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "AJVd3pVOnY1velBpijzYF",
+      "text": "303) Vitamin D rezistent raxitə aid olmayan əlamət hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "glyTKsLLAb1IGu-EfIkKF",
+          "text": "A) Qanda kalsiumun normal səviyyəsi",
+          "isCorrect": true
+        },
+        {
+          "id": "aDN1UdbKyWG0xrWUKGCo-",
+          "text": "B) Hiperfosfaturiya",
+          "isCorrect": false
+        },
+        {
+          "id": "EcT_m9z20Av32zZbBRngt",
+          "text": "C) Hipofosfatemiyasının yüksək dərəcəsi",
+          "isCorrect": false
+        },
+        {
+          "id": "WprRWhruCJAZ0KroH30LZ",
+          "text": "D) Qanda qələvi fosfatazanın artması",
+          "isCorrect": false
+        },
+        {
+          "id": "HyyliA6OZcKtrliNxbRCK",
+          "text": "E) Hipokaliyemiya",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "DcSUmFXfyec9K4k-E3LNb",
+      "text": "304) Südəmər dövrü neçə müddət davam edir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "IDv_KO4g39Pvo0Ke8mBlJ",
+          "text": "A) 1-ci günündən 1 aya kimi",
+          "isCorrect": false
+        },
+        {
+          "id": "NAtE3MOoofO1SlWlHnaaK",
+          "text": "B) 29-cu günündən 1 yaşa kimi",
+          "isCorrect": true
+        },
+        {
+          "id": "GvW5GJvEaWXOuveTvh8KS",
+          "text": "C) Uşağın ana südü ilə qidalanmasının müddətindən asılıdır",
+          "isCorrect": false
+        },
+        {
+          "id": "nZB15psoBQrQWjG6zBIig",
+          "text": "D) 1 ayından 3 yaşa kimi",
+          "isCorrect": false
+        },
+        {
+          "id": "Bu2hdKkpCv-g8xXFW0xrI",
+          "text": "E) 1-ci günündən 1 yaşa kimi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "yOjX2Agakgt6sRXhdF1M-",
+      "text": "305) Südəmər dövr üçün hans patologiya xarakterik deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "lYhh9uhoQSKWDKkSNdOvz",
+          "text": "A) Qazanılmış sistem xəstəlikləri",
+          "isCorrect": true
+        },
+        {
+          "id": "m35cJ2jpAZlFcG5N5SlDz",
+          "text": "B) Defisit vəziyyətlər (anemiya, raxit, distrofiya)",
+          "isCorrect": false
+        },
+        {
+          "id": "igI0ubRnM-wixWPWJSZM4",
+          "text": "C) Mədə-bağırsaq disfunksiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "0lnS1Z_kiZHKZm4ySUhME",
+          "text": "D) İltihabi prosessin generalizasiyasına meyillik",
+          "isCorrect": false
+        },
+        {
+          "id": "I0kw4hSFph8Ff37xPajMe",
+          "text": "E) Konstitusional anomaliyalar (eksudativ-kataral və limfatiko-hipoplastik-",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "QYDNp9HxVOM4EU_-in7t3",
+      "text": "306) Məktəbəqədər yaş dövründə nadir halda baş verən patologiya hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "xx5Drs9GungjMrIg7yrOe",
+          "text": "A) Yüksək travmatizm, yad əşyaların aspirasiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "AxkBARxyzwVJQJuCpuLZL",
+          "text": "B) Atopik, parazitar xəstəliklər",
+          "isCorrect": false
+        },
+        {
+          "id": "M5uG8sKA2XDHfgwLwcpuK",
+          "text": "C) Uşaq infeksiyaları",
+          "isCorrect": false
+        },
+        {
+          "id": "cT0Dv69GeIhUY04ZTkreD",
+          "text": "D) Neyroartritik diatez, allergik xəstəliklər",
+          "isCorrect": false
+        },
+        {
+          "id": "cUle6Y-KxzehW8tJRUlzq",
+          "text": "E) Hipotonik və hipertonik vəziyyət",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "UU_pkJ8nIgfY4jcE3Un58",
+      "text": "307) Südəmər uşaqlarda dar və qısa burun yolları nəyə səbəb ola bilər?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "TrvWhldK-pM0oMZweDp4Q",
+          "text": "A) Mikroorqanizmlər tam zərərsizdir",
+          "isCorrect": false
+        },
+        {
+          "id": "7_B5J8kqk0T0h0zNxcNDJ",
+          "text": "B) Hava mexaniki tamizlənir",
+          "isCorrect": false
+        },
+        {
+          "id": "oAwUdHoScYYUJ5L9eTmlE",
+          "text": "C) İnfeksiyaya qarşı mübarizə güclənir",
+          "isCorrect": false
+        },
+        {
+          "id": "3LxdjUF3A5IyZlsFJCI0U",
+          "text": "D) Rinit olduğu zaman əmmə prosesi çətinləşir",
+          "isCorrect": true
+        },
+        {
+          "id": "cAPJ7JFCABfDtVn33c9UB",
+          "text": "E) Nəfəslə alınan hava tam isidilir",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "tljKH-BWD2yX13-gelD83",
+      "text": "308) Hipervitaminoz D-a xas olmayan əlamət hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "cv5Ml5ksUro1C3BFeeZ_T",
+          "text": "A) Petexial sərkilər",
+          "isCorrect": true
+        },
+        {
+          "id": "b8-cc1ZdTuoI06LrT5eqA",
+          "text": "B) Polidipsiya",
+          "isCorrect": false
+        },
+        {
+          "id": "E_NH1K_hVVe7wR0qJH6f4",
+          "text": "C) Poliuriya",
+          "isCorrect": false
+        },
+        {
+          "id": "hraO0VPD2rajk8WsdLQZG",
+          "text": "D) İştahasızlıq",
+          "isCorrect": false
+        },
+        {
+          "id": "MSkoewvvD1LF4TpgxGSea",
+          "text": "E) Yuxunun pozulması",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "s-_07-5CEcNnig57jCjH7",
+      "text": "309) Ekssudativ-kataral diatez özünü adətən hansı yaşda birüzə verir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "NDdIcgUETZyCEZPdPK5HQ",
+          "text": "A) 3-5 yaşda",
+          "isCorrect": true
+        },
+        {
+          "id": "4B1WGeQWg4WB-1xQTxWbB",
+          "text": "B) Həyatının birinci günündən",
+          "isCorrect": false
+        },
+        {
+          "id": "0fF2zhKWfUyO2i525c96J",
+          "text": "C) 10-11 yaşda",
+          "isCorrect": false
+        },
+        {
+          "id": "sprb8no1tdCIc0eeTIkKf",
+          "text": "D) 3-5 ayda",
+          "isCorrect": false
+        },
+        {
+          "id": "PWHoaHrKBhOBFl6KvryII",
+          "text": "E) 15-16 yaşda",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "xv3q7QI2lrB3bpB6ajr5e",
+      "text": "310) Aşağıdakılardan hansı kraniostenozun formalarına aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "VROgTIT7iVw-Jomt2xomG",
+          "text": "A) Tac-sagital",
+          "isCorrect": false
+        },
+        {
+          "id": "Oe_hpAF6iesNu0dtfWtpa",
+          "text": "B) Sagital",
+          "isCorrect": false
+        },
+        {
+          "id": "FGUMLnJ-zbVKgmJOoGJnx",
+          "text": "C) Tac",
+          "isCorrect": false
+        },
+        {
+          "id": "wkS1yRdJ7jE1WvbSgN-sp",
+          "text": "D) Horizontal",
+          "isCorrect": true
+        },
+        {
+          "id": "py2dXI2fJkqteNrFEqKfQ",
+          "text": "E) Tac-lambidovari",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "kx09bRhw6WnPublITiQD6",
+      "text": "311) Eksudativ plevrit zamanı sadalanan klinik əlamətlərdən hansı olmur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "0b3YOKVa4OfXm75oaUnQu",
+          "text": "A) Perkutor səsin kütləşməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "R0fW5PBzIvfhKd8NBT20O",
+          "text": "B) Tənəffüsün zəifləməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "XsP7BCjCig8BqyqKV35NC",
+          "text": "C) Zəifləmiş səs titrəməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "uxqN7wCEVwdnDz3L_iEX4",
+          "text": "D) Tənəffüsün bronxial tipi",
+          "isCorrect": true
+        },
+        {
+          "id": "blgBjrdqUh8BiJYukA8tb",
+          "text": "E) Taxipnoe",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "D6yJFCSlLhdYdLpX5GF6I",
+      "text": "312) Xəstəliyin ilk saatlarında hipertermiya və titrətmə hansı pnevmoniya üçün xasdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "AKx6kkWQNuz1OhBb7IlCu",
+          "text": "A) Pnevmokok",
+          "isCorrect": true
+        },
+        {
+          "id": "Fc2NrmzfxCAe3o0vlw8gR",
+          "text": "B) Xlamidiya",
+          "isCorrect": false
+        },
+        {
+          "id": "QO_hpKdJv-HPbRzbcPnpz",
+          "text": "C) Mikoplazma",
+          "isCorrect": false
+        },
+        {
+          "id": "LtlTgYYGBobQc6LzjmT8R",
+          "text": "D) Göbələk",
+          "isCorrect": false
+        },
+        {
+          "id": "xkmw3xzRlOr1ffLnYmKQ-",
+          "text": "E) Pnevmosist",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "HnZMw-ono4u6wdQo62gVp",
+      "text": "313) Uşaqlarda bronxial astmanın hansı forması nadir rast gəlir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "UnkLZiRYBAFJLOBt8KTpe",
+          "text": "A) Gərginlik astması",
+          "isCorrect": false
+        },
+        {
+          "id": "WZcnip69ZS17GtIAriDHB",
+          "text": "B) Qeyri-atopik",
+          "isCorrect": false
+        },
+        {
+          "id": "_5vxqIb_aixhqYEw7xGSO",
+          "text": "C) Aspirin astması",
+          "isCorrect": true
+        },
+        {
+          "id": "v_1XlHFHSc5gIIsCk6diP",
+          "text": "D) İnfeksion allergik",
+          "isCorrect": false
+        },
+        {
+          "id": "QelhJIoQWKZPKQ-1upnqV",
+          "text": "E) Atopik",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "3xNWjQqGJF22ifX5IdWWO",
+      "text": "314) Pikfluometrin köməyi ilə nə ölçülür?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "4lwjIsl1JL0vAF_qL5X0a",
+          "text": "A) Nafasvermənin maksimal (zirvə) sürəti (PEF)",
+          "isCorrect": true
+        },
+        {
+          "id": "HW9s00LmkSpMSzyzltAat",
+          "text": "B) Ağciyərlərin qalıq həcmi",
+          "isCorrect": false
+        },
+        {
+          "id": "DfV6wDUO7_BDyIiWmXgmY",
+          "text": "C) Bronxial obstruksiyonun dərəcəsi",
+          "isCorrect": false
+        },
+        {
+          "id": "2VyOH0941SDc_KactCZYn",
+          "text": "D) Ağciyərlərin həyat həcmi",
+          "isCorrect": false
+        },
+        {
+          "id": "9DZiPfk0PGBl9VoyfTv8H",
+          "text": "E) Nafasvermənin ümumi həcmi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "M2Asv5fMYpsRiB5duyL_G",
+      "text": "315) Hansı bronxodilatator uzunmüddətli təsirə malik deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "t-I_Zel_4920fT_mHYVX-",
+          "text": "A) Salmaterol",
+          "isCorrect": false
+        },
+        {
+          "id": "eEROACWzoPwtDzBJxs3Fl",
+          "text": "B) Teopek",
+          "isCorrect": false
+        },
+        {
+          "id": "08RNF06VXXYUJhDo37Ggh",
+          "text": "C) Eufilonq",
+          "isCorrect": false
+        },
+        {
+          "id": "62Jn3PWv1vmLOYDuBQPnr",
+          "text": "D) Teotard",
+          "isCorrect": true
+        },
+        {
+          "id": "JLT_R4W8SqWP-gpY_mwJ1",
+          "text": "E) Berodual",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "kmKja7LyVDmjsbuh3cMMt",
+      "text": "316) Hansı preparat mukolitik effektə malik deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "nWorK79JC9xStPM5txq29",
+          "text": "A) Libeksin",
+          "isCorrect": true
+        },
+        {
+          "id": "k4roxdUT-swy7VNql1rxR",
+          "text": "B) Bromheksin",
+          "isCorrect": false
+        },
+        {
+          "id": "LU2PuwxFdXqS6hW7VElzi",
+          "text": "C) Mukosolvin",
+          "isCorrect": false
+        },
+        {
+          "id": "aDyo_6QO8g6vM2UB4UJ9L",
+          "text": "D) Ambroksol",
+          "isCorrect": false
+        },
+        {
+          "id": "CAxscLFi49vPWY-aNw9dy",
+          "text": "E) Ambrobene",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "RazdX548DnscURVAY9W2h",
+      "text": "317) Xroniki pnevmoniyanın diaqnostikasında hansı həlledici əhəmiyyətə malikdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "imy-5ZYI8PxhM-FA8i3LP",
+          "text": "A) Xarici tənəffüs funksiyasının müəyyənləşdirilməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "gQGvIv0wbe713z0ZWMY-u",
+          "text": "B) Döş qəfəsinin rentgenoqrafiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "rVu_iXsykwLwQ4J0DGYWL",
+          "text": "C) Fiziki müayinələr: davamlı lokal tənəffüs dəyişiklikləri və yaş xırıltıların olması",
+          "isCorrect": true
+        },
+        {
+          "id": "-a5EbqLhWaBKAI5ZTcZde",
+          "text": "D) Pikfluometriya",
+          "isCorrect": false
+        },
+        {
+          "id": "zgBL3vVHrHClM_XHYPZQA",
+          "text": "E) Bronxoqrafiya",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "NQZlIZFcjmZnnvnXRgiCa",
+      "text": "318) Mikoplazma pnevmoniyası zamanı hansı təyin edilməlidir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "ji2tyfBivSrxZ18OO7jOD",
+          "text": "A) Penisillin",
+          "isCorrect": false
+        },
+        {
+          "id": "05wdJkwoXhL8QQdcdqK_W",
+          "text": "B) Gentamisin",
+          "isCorrect": false
+        },
+        {
+          "id": "ABMRSCai1rPaBahsvqL7-",
+          "text": "C) Makrolidlər",
+          "isCorrect": true
+        },
+        {
+          "id": "Wow-s_GdlhnjMjt55IKPQ",
+          "text": "D) Biseptol",
+          "isCorrect": false
+        },
+        {
+          "id": "09xzbrvQuFW64dAu893xR",
+          "text": "E) Tetrasiklin",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "7FPyjbp_s8ebJDQjfHSiO",
+      "text": "319) β-2 aqonistlara aid olmayan preparat hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "nKG0-rczQ7hbGUoc6QSM4",
+          "text": "A) İntal",
+          "isCorrect": true
+        },
+        {
+          "id": "CA_s2-FpRK1TJekr4H_Fr",
+          "text": "B) Akolat",
+          "isCorrect": false
+        },
+        {
+          "id": "xoFn0dqVr3ijEBOLtlnNw",
+          "text": "C) Berotek (fenoterol)",
+          "isCorrect": false
+        },
+        {
+          "id": "OCY4I24ho08ryzoPZbD83",
+          "text": "D) Ventolin (salbutamol)",
+          "isCorrect": false
+        },
+        {
+          "id": "RL-76Rn16O1CnVdjUOOkn",
+          "text": "E) Astmopent (orsiprenolin)",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "G4AsT4bY5Asof_oFsHZyK",
+      "text": "320) Virus mənşəli obstruktiv bronxitin kaskin dövründə əsas müalicə tədbirlərinə aid olmayanı hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "MYcvk67_i8q-EVIxA1ykZ",
+          "text": "A) İnhalyasiyalar",
+          "isCorrect": false
+        },
+        {
+          "id": "euF7shJa1Cmq3AjGYU205",
+          "text": "B) Antibiotiklər",
+          "isCorrect": true
+        },
+        {
+          "id": "ffZCRCf37UTz3G2GqG3gB",
+          "text": "C) Bronxolitiklər",
+          "isCorrect": false
+        },
+        {
+          "id": "UkslHvFCnH3U_l-CP4pCl",
+          "text": "D) Döş qəfəsinin vibrasion massajı",
+          "isCorrect": false
+        },
+        {
+          "id": "KGA-X3NCNnWI_mCNx2Dxw",
+          "text": "E) Adrenomimetiklər",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "a1nGMAqchKZCwqOqOThqN",
+      "text": "321) Tənəffüs üzvlərinin hansı anatomo-fizioloji xüsusiyyəti ağciyərlərin obstruksiyasına səbəb olmur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "aBXsDiMFoxFgsW_NAzE9L",
+          "text": "A) Burun tənəffüsü",
+          "isCorrect": true
+        },
+        {
+          "id": "h-AMDzWpkNTTP1-IlqeRv",
+          "text": "B) Qırtlağın aşağı səviyyədə yerləşməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "6ZCNz1dxahSmxNA6uKpQq",
+          "text": "C) Qırtlağın, traxeyanın, bronxların qığındaqlarının yumşaqlığı",
+          "isCorrect": false
+        },
+        {
+          "id": "wBb1n5-ugt5_-ycC4nCFi",
+          "text": "D) Tənəffüs yollarının darılğı",
+          "isCorrect": false
+        },
+        {
+          "id": "k5pTiOM-WIznwXMWukl_C",
+          "text": "E) Diafraqmal tipli tənəffüs",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "cAdG0_8sHU8GeDZ9SENv8",
+      "text": "322) Uşaqlarda eksudativ plevrit hansı patologiyada daha çox rast gələn fəsaddır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "t_orpmTNzwmN-PJun8FTP",
+          "text": "A) Exinokokk kistası",
+          "isCorrect": false
+        },
+        {
+          "id": "cx4yzHjLTBrORNglGC7ox",
+          "text": "B) Bronxial astma",
+          "isCorrect": false
+        },
+        {
+          "id": "p4Pc0X4uSOTrRmaol2FqK",
+          "text": "C) Travma",
+          "isCorrect": false
+        },
+        {
+          "id": "FdjBr6l7M63Ovfi0ujfWd",
+          "text": "D) Pnevmoniya",
+          "isCorrect": true
+        },
+        {
+          "id": "DkRSpD7DKxByseVLQ7Y-r",
+          "text": "E) Şişlər",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "D1ytSC7UNxetfLa1MUewd",
+      "text": "323) Döş qəfəsi daxili limfa vəzilərin vərəminin aşkar edilməsində ən informativ müayinə hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "t5SpsBALngehIrcYEke6f",
+          "text": "A) Ağ ciyərlərin yan proyeksiyadan rentgenoqramması",
+          "isCorrect": true
+        },
+        {
+          "id": "ytvf94WEZpoH3gP29JKGp",
+          "text": "B) Düz və yan proyeksiyadan tomoqramma",
+          "isCorrect": false
+        },
+        {
+          "id": "g_Wj4YhSb3EYEqDzdbQPV",
+          "text": "C) Bronxoskopiya",
+          "isCorrect": false
+        },
+        {
+          "id": "pUcE35CA-j3v-2yauehrd",
+          "text": "D) Ağ ciyərlərin rentgenoqramması",
+          "isCorrect": false
+        },
+        {
+          "id": "C5LsrrwNiNMh_FfVzkfnr",
+          "text": "E) Bronxoqrafiya",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "adA_Ic6EzuCzaPVW95Pz2",
+      "text": "324) Kəskin pnevmoniyalar təsnifatına görə necə bölünürlər?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "a-nru9qEAAByFkLc-vRG5",
+          "text": "A) İki tərəfli, bronxopnevmoniya, interstisial, allergik",
+          "isCorrect": false
+        },
+        {
+          "id": "hu1OBK2SX2dUredeicScN",
+          "text": "B) Ocaqlı, seqmentar, krupoz, interstisial",
+          "isCorrect": true
+        },
+        {
+          "id": "t0IQhyTXvL3dk5mpXP7Rv",
+          "text": "C) Bronxiolitlər, interstisial, allergik, plevropnevmoniyalar",
+          "isCorrect": false
+        },
+        {
+          "id": "w8CR62Plm0SeLwO5o9Yrl",
+          "text": "D) Krupoz, bronxiolitlər, interstisial, allergik",
+          "isCorrect": false
+        },
+        {
+          "id": "ndDIeXQo5DndyK_aFv2kM",
+          "text": "E) Bronxiolitlər, allergik, plevropnevmoniyalar, ocaqlı",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "CdKamVZedSbzTc7j07jzN",
+      "text": "325) Kəskin bronxit üçün nə xarakterik deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "EN0TIL-kAkIUKgJoGryQd",
+          "text": "A) Rentgenoqrammada xırda ocaqlı kölgəliklər",
+          "isCorrect": true
+        },
+        {
+          "id": "FaBF1r8du9c6Y2HirdDv6",
+          "text": "B) Rentgenoqrammada ağciyar şəklinin güclənməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "aT6Jh44SFV7BnI4tUDRdq",
+          "text": "C) Xəstəliyin 4-8 günündə yaş öskürək",
+          "isCorrect": false
+        },
+        {
+          "id": "DyuLphlDVj9esJEZnRb1V",
+          "text": "D) Xəstəliyin başlanğıcında quru öskürək",
+          "isCorrect": false
+        },
+        {
+          "id": "tbONLRG_1OJ4vwuFB2aNQ",
+          "text": "E) Qısa müddətli hərarətin yüksəlməsi, ümumi zəiflik",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "WtOihNim-uEv84bkl3oYP",
+      "text": "326) Astmatik statusun birinci mərhələsi üçün (nisbi kompensasiya) nə xarakterikdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "aeDQukNFXus0TLS4pV9GP",
+          "text": "A) Huşun itməsi, ayrı-ayrı seqmentlərdə tənəffüsün eşidilməməsi, AT düşməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "bbUTJixxpRi-iakw-C3KD",
+          "text": "B) Huşun itməsi, kəskin ürək çatışmamazlığı, böğülmə qorxusu",
+          "isCorrect": false
+        },
+        {
+          "id": "xbiVLrNMg4svloTpe4aL8",
+          "text": "C) Ayrı-ayrı seqmentlərdə tənəffüsün eşidilməməsi, kəskin ürək çatışmamazlığı, dərinin və selikli qişaların diffuz sianozu",
+          "isCorrect": false
+        },
+        {
+          "id": "YaKGFuFfBJvfp3jmdnAZH",
+          "text": "D) Arterial təzyiqin yüksəlməsi, taxikardiya, huşun itməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "rlG4zlVlc-LL1DZBmYpzq",
+          "text": "E) Tezləşən küylü tənəffüs, çoxlu sayda quru və yaş xırıltılar, AT yüksəlməsi",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "65emvoYzRvTVxXFDbyE-x",
+      "text": "327) Kəskin obstruktiv bronxit zamanı nə təyin olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "m53DmciqeJLbCO1H34smS",
+          "text": "A) Eufillin, heparin",
+          "isCorrect": false
+        },
+        {
+          "id": "rh6x3t3DUYp7D70TApHp6",
+          "text": "B) Mukolitiklər",
+          "isCorrect": false
+        },
+        {
+          "id": "zWCjUMq3H0EMhRYO9FSNE",
+          "text": "C) Salbutamol",
+          "isCorrect": true
+        },
+        {
+          "id": "RpKBSzBAvF1d3OX5wL4NH",
+          "text": "D) Ürək qlikozidləri",
+          "isCorrect": false
+        },
+        {
+          "id": "lM13hgOtVxGew_bxGClsX",
+          "text": "E) Antibiotiklər",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "MIlKQSinj4g5sasiQMPLR",
+      "text": "328) Neçə müddətdən bir tekrarlanan bronxit residivlaşan bronxit hesab edilir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "ADLHTQ3n-6pq4aRc0AQg3",
+          "text": "A) İldə 3 dəfə və daha artıq 2 həftədən çox müddətdə residivlərin davam etməsi",
+          "isCorrect": true
+        },
+        {
+          "id": "rKJMwYxLZeavIxg8f4Drz",
+          "text": "B) 2 il ərzində ildə 3 dəfə və daha artıq",
+          "isCorrect": false
+        },
+        {
+          "id": "jM1A9qmxDHaHS7g0Mau_a",
+          "text": "C) İldə 3 dəfədən az",
+          "isCorrect": false
+        },
+        {
+          "id": "xxGmRb9o1DAMuqbcta7-g",
+          "text": "D) İldə 3 dəfə və daha artıq",
+          "isCorrect": false
+        },
+        {
+          "id": "NP_dvCGxRRGJtZFB6HPeD",
+          "text": "E) Ayda 1 dəfə",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "KsQ3voh0eOV9Fnkl7N1D6",
+      "text": "329) Bölgəmgətirici preparatlara hansı aiddir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "sYgxwVgFQxakfa86FTBFm",
+          "text": "A) Eufillin, qliseram",
+          "isCorrect": false
+        },
+        {
+          "id": "fcfOjvXoInrEeI_sOa0LL",
+          "text": "B) Salbutamol",
+          "isCorrect": false
+        },
+        {
+          "id": "RQf69tFhXaDrr4-SnzAib",
+          "text": "C) Libeksin, kodein",
+          "isCorrect": false
+        },
+        {
+          "id": "5XUXkVvm1DrU1kmLglnSH",
+          "text": "D) Mukaltin, bromheksin",
+          "isCorrect": true
+        },
+        {
+          "id": "QTq8kxLAYG5hK-oc6ng5V",
+          "text": "E) Tavegil, suprastin",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "NmfEwkxdfVsernz2KehEz",
+      "text": "330) Streptokokk pnevmoniyasında seçim preparatı hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "pJx7aZqMl_hY4lHMoV1Fv",
+          "text": "A) Eritromisin",
+          "isCorrect": false
+        },
+        {
+          "id": "002i_Vi3LZ5P9Bch-Q_KK",
+          "text": "B) Amoksisillin",
+          "isCorrect": true
+        },
+        {
+          "id": "8Sh3mHj9ewMA_rd8szzJR",
+          "text": "C) Baktrim",
+          "isCorrect": false
+        },
+        {
+          "id": "LdlVtGkVJG5JNQWREHG1v",
+          "text": "D) Gentamisin",
+          "isCorrect": false
+        },
+        {
+          "id": "gJh3SVV0lgSPbUbmULy36",
+          "text": "E) Tetrasiklin",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "579J7sOmpZ8Up6Ilc8h94",
+      "text": "331) Kəskin respirator infeksiyaların törədiciləri əksər hallarda hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "ER5hpea15JZs9WJIdptPH",
+          "text": "A) Bakteriya",
+          "isCorrect": false
+        },
+        {
+          "id": "YF27QB_SmZEmhf3KOQ9fE",
+          "text": "B) Virus",
+          "isCorrect": true
+        },
+        {
+          "id": "c80dxKkSRoQHFyEvh5JJi",
+          "text": "C) Stafilokoklar",
+          "isCorrect": false
+        },
+        {
+          "id": "t7uHpGSh97SywnpErhgHj",
+          "text": "D) İbtidailər",
+          "isCorrect": false
+        },
+        {
+          "id": "OdBMDcSZ2oMEHeXgwQgB5",
+          "text": "E) Streptokoklar",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "WNs5HHWU1GL9RbRm_hR9c",
+      "text": "332) Qrip və Kəskin Respirator virus infeksiyalarının müalicəsi üçün aşağıdakılardan hansı tövsiyyə edilmir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "tQM-KRlGraAqN_1gbKyfP",
+          "text": "A) İbuprofen",
+          "isCorrect": false
+        },
+        {
+          "id": "NFyHlhUWFD69J9GfF_4oh",
+          "text": "B) Vitamin C",
+          "isCorrect": false
+        },
+        {
+          "id": "vJG9sDxzp_36GrmeoOHra",
+          "text": "C) Oseltamivir",
+          "isCorrect": false
+        },
+        {
+          "id": "FfGqGkUUErMU-luko30Xt",
+          "text": "D) Antibiotiklər",
+          "isCorrect": true
+        },
+        {
+          "id": "Xejwi0UOPKzsoxt2z_klH",
+          "text": "E) Parasetamol",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "PlwmBkqyMiKbvxtweYsvX",
+      "text": "333) Kəskin respirator infeksiyalar əsasən hansı yolla yayılır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "DtcC3dMMg_7RkynoIDgTx",
+          "text": "A) Su və qida ilə",
+          "isCorrect": false
+        },
+        {
+          "id": "vA4OK_oElIrwuoTwrCg_G",
+          "text": "B) Hava-damcı yolu ilə",
+          "isCorrect": true
+        },
+        {
+          "id": "Cmbuo8SrQV0uG69A1ZwRx",
+          "text": "C) Limfogen və hemotogen yol ilə",
+          "isCorrect": false
+        },
+        {
+          "id": "n0umlq7IGcTCFy9MCbllW",
+          "text": "D) Limfogen yol ilə",
+          "isCorrect": false
+        },
+        {
+          "id": "EbPwAZ05MgUl2vDhjB4_v",
+          "text": "E) Hemotogen yol ilə",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "eaS13hz7cn2RX5xAIEogI",
+      "text": "334) Tənəffüs çatışmamazlığının yaranmasını təsdiqləyən əlamət hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "BU1wtsfIKaNtx6hjx_3nj",
+          "text": "A) Quru xırıltılar",
+          "isCorrect": false
+        },
+        {
+          "id": "s5KKgB1lCINWwMNiz9GeQ",
+          "text": "B) Perkutor səsin qısalması",
+          "isCorrect": false
+        },
+        {
+          "id": "QGakshONQL_2pcwwHb9kj",
+          "text": "C) Təngnəfəslik",
+          "isCorrect": true
+        },
+        {
+          "id": "gEIF2iHGDDNr3RXPIdwI_",
+          "text": "D) Müxtəlif kalibrli yaş xırıltılar",
+          "isCorrect": false
+        },
+        {
+          "id": "CBQ9Uz8WbTL06ALITNsB0",
+          "text": "E) Amforik tənəffüs",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "0v6OMIbflV_SWeOJ-lgEP",
+      "text": "335) Hansı törədicinin yaratdığı pnevmoniyada pnevmatoraks daha tez-tez inkişaf edir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "YpqBVgkeRyzCaMNhKp-9e",
+          "text": "A) Pnevmosit",
+          "isCorrect": false
+        },
+        {
+          "id": "tLtjuU0pIyPWZ42ticJIz",
+          "text": "B) Stafilokokk",
+          "isCorrect": true
+        },
+        {
+          "id": "oYLjWAHXhsdVK4yH3i-5A",
+          "text": "C) Legionella",
+          "isCorrect": false
+        },
+        {
+          "id": "tZsj3tj-VdgKUw7umza8D",
+          "text": "D) Viruslar",
+          "isCorrect": false
+        },
+        {
+          "id": "lfkQAT3NNSeo55O6uWy75",
+          "text": "E) Xlamidiya",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "l_RbKfId0DfpoX4SdIgdH",
+      "text": "336) Uşaqlarda xəstəxanadan kənar pnevmoniyanın daha çox rast gəlinən törədicisi hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "Yrlh7uajIFfbRUjJ1csk6",
+          "text": "A) Pnevmokok",
+          "isCorrect": true
+        },
+        {
+          "id": "H09WrykrpUc4Yag8K_vFg",
+          "text": "B) Bağırsaq çöpü",
+          "isCorrect": false
+        },
+        {
+          "id": "Hrnl-feRIoUTUl7Je7FUu",
+          "text": "C) Piogen streptokok",
+          "isCorrect": false
+        },
+        {
+          "id": "xK3ism0nORJUynYHVlSW_",
+          "text": "D) Klebsiella",
+          "isCorrect": false
+        },
+        {
+          "id": "2Vx1zbJoJraEoRyzbaJFN",
+          "text": "E) Stafilokok",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Zu9JD7Zkd7JvpOTuP1E2w",
+      "text": "337) Massiv eksudativ plevrit üçün nə xarakterikdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "TF14SqD7WV1SuIZ23i42Y",
+          "text": "A) Eksudat üzərində perkutor qutu səsi",
+          "isCorrect": false
+        },
+        {
+          "id": "D0UDTfmKtFZO20D42qMRJ",
+          "text": "B) Perkutor səsinə qısalması və divararalığı orqanların xəstə tərəfə yer dəyişməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "Gi70xfE7oAJceAcFyx4Io",
+          "text": "C) Səs titrəməsinin yüksəlməsi və eksudat üzərində qabarıq bronxofoniya",
+          "isCorrect": false
+        },
+        {
+          "id": "Ge5BgAuEq5tVFQpvVesfw",
+          "text": "D) Perkutor səsinə qısalması və divararalığı orqanların sağlam tərəfə yer dəyişməsi",
+          "isCorrect": true
+        },
+        {
+          "id": "wLJecsRH57wbtl4g_hGXz",
+          "text": "E) Səs titrəməsinin yüksəlməsi və perkutor səsinə qısalması",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "EBoqpfDNV4fohVmuLC0Wd",
+      "text": "338) Bronxoektaziyalı xroniki pnevmoniya üçün xarakter əlamətlər hansılardır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "xTZY38EOeZxdZANBczGOV",
+          "text": "A) Daimi olmayan yaş xırıltılar",
+          "isCorrect": false
+        },
+        {
+          "id": "i8hH1dgoKooF77GRy9tpf",
+          "text": "B) Krepitasiya",
+          "isCorrect": false
+        },
+        {
+          "id": "H1BaloWe7M6js-A1jBRGz",
+          "text": "C) Quru yayılmış xırıltılar",
+          "isCorrect": false
+        },
+        {
+          "id": "L4aXEgL-3FaAcOeEwRRqt",
+          "text": "D) Keçirici xırıltılar",
+          "isCorrect": false
+        },
+        {
+          "id": "Y3akYGD2iFmbOS_Q6J45p",
+          "text": "E) Daimi lokalizasiyalı yaş xırıltılar",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Ijz_0iyDWbLae3FNysh7v",
+      "text": "339) Bronxoektaziyasının aşkarlanması üçün hansı müayinə üsulundan istifadə olunmalıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "XwqTUfDIfT8D-5fUi_l1C",
+          "text": "A) Pikfluometriya",
+          "isCorrect": false
+        },
+        {
+          "id": "e34ASNYp-TqXe7Uqo31-w",
+          "text": "B) Döş qəfəsi orqanlarının rentgenoqramması",
+          "isCorrect": false
+        },
+        {
+          "id": "4K8c8WYDTTNtKUtYIM345",
+          "text": "C) Bronxoqrafiya",
+          "isCorrect": true
+        },
+        {
+          "id": "RX4kEbbsawRMWYe0Nxp1A",
+          "text": "D) Pnevmotaxometriya",
+          "isCorrect": false
+        },
+        {
+          "id": "ab52m41VAWhketuQ_QjGE",
+          "text": "E) Tomoqrafiya",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "F6vPf8j6jRth4uBG0xu_n",
+      "text": "340) Bronxial astma tutması zamanı aşağıdakılardan hansını istifadə etmək məqsədə uyğun sayılır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "BBeKDInW3Ctt_3ilWLkx4",
+          "text": "A) Nedokromil",
+          "isCorrect": false
+        },
+        {
+          "id": "FfnnfEWkjR2YvYTxlgc2J",
+          "text": "B) İnhalyasion kortikosteroid",
+          "isCorrect": false
+        },
+        {
+          "id": "a5NAaijz1jgJ61peqAM1u",
+          "text": "C) Zaditen",
+          "isCorrect": false
+        },
+        {
+          "id": "IvzZholEs19FbWkbFcmJF",
+          "text": "D) Kromoqliqat",
+          "isCorrect": false
+        },
+        {
+          "id": "_Lyka1SQHuyoXm2Gsr9Sx",
+          "text": "E) β2 adrenomimetik",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "ozlH52cToL2sEgEKKc-5H",
+      "text": "341) Pnevmoniya zamanı antibiotik müalicəsinin optimal davam etmə müddəti nə qədər olmalıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "Mnl2r8f8bUpNfVofulVPj",
+          "text": "A) Toksikozun aradan qaldırılması, 2-5 gün normal hərarət və dəqiq müsbət dinamika müşahidə olunanadək",
+          "isCorrect": true
+        },
+        {
+          "id": "ya1XLIldZhzqC8SqJzpDv",
+          "text": "B) EÇS-in normallaşmasına qədər",
+          "isCorrect": false
+        },
+        {
+          "id": "KAsSlmLiHnOpmNXje1uH7",
+          "text": "C) Xəstəliyin klinikasından asılı olmayaraq 10 gün",
+          "isCorrect": false
+        },
+        {
+          "id": "P9jpvI2CT6GjdBzYvThsT",
+          "text": "D) Ağciyərlərdə infiltratın tam sorulmasına qədər",
+          "isCorrect": false
+        },
+        {
+          "id": "xjHXM5OJsv7oc3pNw2lkc",
+          "text": "E) Hərarətin normallaşmasına qədər",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "K4kRjnJbQ3z1QUSPBt4NS",
+      "text": "342) Ağır bronxoobstruksiyalı uşaqlarda adətən hansı fəsədlar müşahidə olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "xnfpJxNXMXl_BIY4gK77L",
+          "text": "A) Atelektaz",
+          "isCorrect": true
+        },
+        {
+          "id": "9xVWPZoJVx1wCGai_YkrT",
+          "text": "B) Abses",
+          "isCorrect": false
+        },
+        {
+          "id": "fvuuu0weOGW0aKR5RR4xL",
+          "text": "C) Bulla",
+          "isCorrect": false
+        },
+        {
+          "id": "72CXEsoyqF3Xft7HIXIez",
+          "text": "D) Piotoraks",
+          "isCorrect": false
+        },
+        {
+          "id": "g2OXy30t5yVbk7nAQ_OEf",
+          "text": "E) Gərgin pnevmotoraks",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "P3LJOAGI4x9h7TMYQbxfX",
+      "text": "343) Plevral mayedə neytrofillər üstünlük təşkil edən 3 yaşlı uşaqda eksudativ plevritin ən çox ehtimal olunan səbəbi hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "XLcZzxbKRauaoA5TX-PUa",
+          "text": "A) Qabırğa sınığı",
+          "isCorrect": false
+        },
+        {
+          "id": "JxYPpUl4x8eEbtBnjB016",
+          "text": "B) Vərəm",
+          "isCorrect": false
+        },
+        {
+          "id": "jHjIzGgWtjxJKne3rle0W",
+          "text": "C) Obstruktiv bronxit",
+          "isCorrect": false
+        },
+        {
+          "id": "avyZleOOFVQPChJoqHTWw",
+          "text": "D) Qeyri-spesifik bakterial plevropnevmoniya",
+          "isCorrect": true
+        },
+        {
+          "id": "y-2dtCfrqfj--k7yRMKQp",
+          "text": "E) Ağ ciyər xərçəngi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "Chs3MFAF3lpO8NWfNAjBJ",
+      "text": "344) Aşağıdakılardan hansı ağ ciyərlərin inkişaf qüsuruna aid edilmir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "v4__4YmI4L3zTeRx6UjAW",
+          "text": "A) Kartagener sindromu",
+          "isCorrect": false
+        },
+        {
+          "id": "nW5MHZ-kFrtEvg2ADYhus",
+          "text": "B) Bek sarkoidozu",
+          "isCorrect": true
+        },
+        {
+          "id": "mJKqoE9I14U_aL829s8eF",
+          "text": "C) Vilyams Kembel sindromu",
+          "isCorrect": false
+        },
+        {
+          "id": "iR6Gp3KiLiE1au917yb-T",
+          "text": "D) Traxeoezofageal sviş",
+          "isCorrect": false
+        },
+        {
+          "id": "0WcUSHxEpvVZNOXw2GjqG",
+          "text": "E) Ağ ciyərin pay hipoplaziyası",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "9JvIB0C1c5ulc1dYPRVre",
+      "text": "345) Pay pnevmoniyası üçün xarakter olmayan hal hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "dauOYqxInvA_INkH-U8dz",
+          "text": "A) Pnevmoniyanın əsas törədicisi pnevmokokdur",
+          "isCorrect": false
+        },
+        {
+          "id": "Fb7FOdSIsvq2xuge0AU0X",
+          "text": "B) Adətən plevritlə müşayət olunur",
+          "isCorrect": false
+        },
+        {
+          "id": "tVbIZm5iJqVahXxgV4v1Z",
+          "text": "C) Xəstəlik südəmər uşaqlar üçün xarakterikdir",
+          "isCorrect": true
+        },
+        {
+          "id": "XhbiVK3yG_aFLOCXIxVjn",
+          "text": "D) Xəstəlik adətən 5-6 yaşlı uşaqlarda müşahidə olunur",
+          "isCorrect": false
+        },
+        {
+          "id": "Ns3AqFtrOAcSMm_aOLW8s",
+          "text": "E) Patoloji proses alveollarda iltihabi proseslə başlayır",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "8biTkm2riFqXrEyoWYgCj",
+      "text": "346) Aşağıdakılardan hansı traxeya və bronxların anadangalmə inkişaf qüsurlarına aiddir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "gSP-FXkUbTUzZoARe9rvU",
+          "text": "A) Munye-Kun sindromu",
+          "isCorrect": false
+        },
+        {
+          "id": "tV-zrnzo_f-aW7ZefUL5t",
+          "text": "B) Traxeobronxomalyasiya",
+          "isCorrect": false
+        },
+        {
+          "id": "bI1eXP2jMnMQsZVNHVI1E",
+          "text": "C) Bronxioloektatik emfizema",
+          "isCorrect": false
+        },
+        {
+          "id": "kO9xd1PVrXqfYzZS5RO2y",
+          "text": "D) Sadalananların hamısı",
+          "isCorrect": true
+        },
+        {
+          "id": "-DQaD0vWbftuciQ_mqArG",
+          "text": "E) Vilyams-Kembel sindromu",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "8zcjJwlTvzvQMMfK9iRze",
+      "text": "347) Kəskin pnevmoniyanın simptomlarına aid deyil:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "PmdVs1N-muodzPB1upifS",
+          "text": "A) Öskürək",
+          "isCorrect": false
+        },
+        {
+          "id": "rDsZMnz_2c4h1qFXeUOCG",
+          "text": "B) İniltili tənəffüs",
+          "isCorrect": false
+        },
+        {
+          "id": "aTwEvPBbUGD6wFZ_uTM-u",
+          "text": "C) Rinit",
+          "isCorrect": true
+        },
+        {
+          "id": "l5CfPn4NbqVb_ejWc121k",
+          "text": "D) Sianoz",
+          "isCorrect": false
+        },
+        {
+          "id": "1up2m6l4gN1RzZzqBjUWi",
+          "text": "E) Kiçik qabarcıqlı yaş xırıltılar",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "K_LHnNzHsDaHqBbZwv8NA",
+      "text": "348) Bronxoektaz zamanı aşağıdakılardan hansı təyin edilir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "cYv69sZLujrNhkR2CHFsv",
+          "text": "A) Postural drenaj",
+          "isCorrect": true
+        },
+        {
+          "id": "cm7CZBcngZPsCGkXoRO7z",
+          "text": "B) Suprastin",
+          "isCorrect": false
+        },
+        {
+          "id": "zMl0bWbeQmvRsj76tWPWz",
+          "text": "C) Atropin",
+          "isCorrect": false
+        },
+        {
+          "id": "Zd2w8k2VSpk3nLYdlFpsZ",
+          "text": "D) Libeksin",
+          "isCorrect": false
+        },
+        {
+          "id": "IY-xs7e5EY9rkYmLjpNpA",
+          "text": "E) Prednizolon daxilə",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "nkcqd6yy_riG6XscUGjEL",
+      "text": "349) Pnevmonik prosesin sorulma müddətinə görə xəstəyə uzun sürən pnevmoniya diaqnozu nə vaxt qoyulur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "hZNfXVX8FqyrnvAviRpv_",
+          "text": "A) 8 ay və daha çox",
+          "isCorrect": false
+        },
+        {
+          "id": "eARaOGs8zm64rYxGL68KS",
+          "text": "B) 5 həftədən 6 həftəyə qədər",
+          "isCorrect": false
+        },
+        {
+          "id": "JwnZGln7n6Q_bu2FnkYkH",
+          "text": "C) 6 həftədən 8 həftəyə qədər",
+          "isCorrect": true
+        },
+        {
+          "id": "pnvKjsYoSW3JgsdBRUDi4",
+          "text": "D) 3 həftədən 4 həftəyə qədər",
+          "isCorrect": false
+        },
+        {
+          "id": "vrQB_6YWzmBRLr3TaMpVL",
+          "text": "E) 1 həftədən 5 həftəyə qədər",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "jG0a8y_9OIoM8w1_uYmhu",
+      "text": "350) Pnevmosist pnevmoniyaların müalicəsində aşağıdakılardan hansının istifadəsi məqsədə uyğundur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "Wv1jD0giV4PmLF2c56V3x",
+          "text": "A) Makrolidlər",
+          "isCorrect": false
+        },
+        {
+          "id": "F5aTDnWyuO03yZEjfego8",
+          "text": "B) Trimetoprim/sulfametoksazol (ko-trimoksazol)",
+          "isCorrect": true
+        },
+        {
+          "id": "ma5BZSLpQtLaP1hpEoWvs",
+          "text": "C) 2-ci nəsildən olan sefalosporinlər",
+          "isCorrect": false
+        },
+        {
+          "id": "cJ6gl6g5ClguN_Gwi_fYK",
+          "text": "D) Tərkibinə klavulanat turşusu və ya sulbaktam daxil edilmiş yarım sintetik penisillinlər",
+          "isCorrect": false
+        },
+        {
+          "id": "tCmhxgTJDjzOBdyKfF81w",
+          "text": "E) Linkomisin",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "E_5Gv5f4B0MlorbogNpUr",
+      "text": "351) Kəskin pnevmoniya zamanı hipoksemiya nəyi əmələ gətirir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "cmmL8wT0WoZi9KWbZwzOH",
+          "text": "A) Taxikardiya",
+          "isCorrect": false
+        },
+        {
+          "id": "M4-9xpqbGJfthPYThNAX5",
+          "text": "B) Metabolizmin güclənməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "JHrrHJjCK6QRQo3Z6kD17",
+          "text": "C) Səthi tənəffüs",
+          "isCorrect": true
+        },
+        {
+          "id": "VcL_dP9_u_gH0ceV-W1Sb",
+          "text": "D) Hərarətin yüksəlməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "sad5AmhuKaR8ol0oZFdsp",
+          "text": "E) Qanazlığı",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "lSuJb91tAyFONdpnJSUq-",
+      "text": "352) Traxeobronxit zamanı öskürək hansı nahiyədə ağrı ilə müşayət olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "OYbiVU5m6oezuBU9aKwUO",
+          "text": "A) Ürək nahiyəsində",
+          "isCorrect": false
+        },
+        {
+          "id": "DLJpv-AIllxVXWOtWQeIv",
+          "text": "B) Döş sümüyünün arxasında",
+          "isCorrect": true
+        },
+        {
+          "id": "8o8I7gmYxPFEVB5Ihy0hg",
+          "text": "C) Böyürdə",
+          "isCorrect": false
+        },
+        {
+          "id": "S-tJ7ZFjSYfBHY6F9hYJE",
+          "text": "D) Qarında",
+          "isCorrect": false
+        },
+        {
+          "id": "O-C0avksMx6Gf4zGjqNNj",
+          "text": "E) Boğazda",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "aj-aQo_dRPQsV-DWBp2Xs",
+      "text": "353) Hansı halda erkən yaşlı uşaqlarda obstruktiv bronxit tez-tez müşahidə olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "zlDJp6VGcR9K7PdrXIDjt",
+          "text": "A) Anemiyada",
+          "isCorrect": false
+        },
+        {
+          "id": "zeDvKeQZL1bTmv06tCQh5",
+          "text": "B) Sinir-artritik diatezdə",
+          "isCorrect": false
+        },
+        {
+          "id": "RCmxv5eFn075vLMGAC2mc",
+          "text": "C) Raxitdə",
+          "isCorrect": false
+        },
+        {
+          "id": "rh6sV7UaZtyowEXgJIIE3",
+          "text": "D) Hipotrofiyada",
+          "isCorrect": false
+        },
+        {
+          "id": "dj36Xx9E8DoC14pCA_qIV",
+          "text": "E) Atopik dermatit zamanı",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "IlDJrjSxTOslZ9RNKJrjm",
+      "text": "354) Bronxiolit vəxtı aşağıdakılardan hansı müşahidə olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "lsV2pdhrJRVbJPB9FpTU3",
+          "text": "A) Bradikardiya",
+          "isCorrect": false
+        },
+        {
+          "id": "IDrkNeVgMm7Qb6IvkuM8i",
+          "text": "B) Emfizemanın olmaması",
+          "isCorrect": false
+        },
+        {
+          "id": "2WwNsSkjTYdWSKD3Qbb9M",
+          "text": "C) Öskürəyin olmaması",
+          "isCorrect": false
+        },
+        {
+          "id": "8mpO87rwqcgALjFCNcqAK",
+          "text": "D) Burun-dodaq üçbucağında sianoz",
+          "isCorrect": true
+        },
+        {
+          "id": "Kfn2FsHVQc7E6qUb1E4wK",
+          "text": "E) Perkutor səsin kütləşməsi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "MbD67u9rv91U1z_BL5_kh",
+      "text": "355) Fəsadsız bronxiolit zamanı təyin olunmur:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "RZ6niSGBaYnn24qOiESIo",
+          "text": "A) Heparin",
+          "isCorrect": false
+        },
+        {
+          "id": "HSS7aaOeOk99DzAzTt6TK",
+          "text": "B) Nəmlənməli oksigen",
+          "isCorrect": false
+        },
+        {
+          "id": "HA6sKJD-qPf16e_5lm-zP",
+          "text": "C) Antibiotik",
+          "isCorrect": false
+        },
+        {
+          "id": "k6ZhRqAmWgHD089HV8RqS",
+          "text": "D) Prednizolon",
+          "isCorrect": false
+        },
+        {
+          "id": "nnhyB4BrlQaBDqv7Rynig",
+          "text": "E) İnfuzion terapiya",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "iUmONS7ZJUwGJEIbfgnjf",
+      "text": "356) Ağciyar toxumasına infeksiyanın hematogen yolla yayılması nə zaman müşahidə olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "dxhyrii2Kja3X6j2DtM-T",
+          "text": "A) Sepsisdə",
+          "isCorrect": true
+        },
+        {
+          "id": "ge2chBbEQpCLemS31mUCQ",
+          "text": "B) Bronxitdə",
+          "isCorrect": false
+        },
+        {
+          "id": "wl5SBo3Lfp97SZ5TOC8VC",
+          "text": "C) Bronxial astmada",
+          "isCorrect": false
+        },
+        {
+          "id": "Jrce1zgmgVMtjNjP2ypww",
+          "text": "D) Kolitdə",
+          "isCorrect": false
+        },
+        {
+          "id": "nH1-88dX9rllS5QMTwm2j",
+          "text": "E) Anginada",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "y1kJ2qpwSfaKLeyvOMLsz",
+      "text": "357) Xroniki bronxitin vərifikasiyasının dəqiq metodu hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "DmL83_3DA7ls9UN6t27BI",
+          "text": "A) Döş qəfəsi orqanlarının rentgenoqrafiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "n1abyX9gGIZtDTvc1InVb",
+          "text": "B) Bronxoskopiya, bronx möhtəviyyatının sitoloji və bakterioloji müayinəsi",
+          "isCorrect": true
+        },
+        {
+          "id": "37W7CVonIGlF-QP7qovlW",
+          "text": "C) Qanın klinik müayinəsi",
+          "isCorrect": false
+        },
+        {
+          "id": "GlGu3PqZvCASF_FZbVVML",
+          "text": "D) Ümumi klinik fiziki müayinələr",
+          "isCorrect": false
+        },
+        {
+          "id": "H3GIJWqCtbswC7DmYdKXe",
+          "text": "E) Bəlğəmin əkilməsi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "9jjTHwxlDCe5M1yRfewdH",
+      "text": "358) Eksudatın aşağıdakı hüceyrə tərkibi: limfositlər 80%, neytrofillər 15%, eritrositlər 5% - plevritin hansı forması üçün xarakterikdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "VMekTklcHDlbOiSE1vjjc",
+          "text": "A) Posttravmatik",
+          "isCorrect": false
+        },
+        {
+          "id": "88j5KSstxAd8O73QVtSUF",
+          "text": "B) Seroz",
+          "isCorrect": true
+        },
+        {
+          "id": "2inoNTtSndIKWs-yGpDDQ",
+          "text": "C) İrinli",
+          "isCorrect": false
+        },
+        {
+          "id": "UcUn_V-3TDe7LvMLK5pVo",
+          "text": "D) Hemorragik",
+          "isCorrect": false
+        },
+        {
+          "id": "5eCGXnMGFGyr1O0jWyrjP",
+          "text": "E) Seroz-hemorragik",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "EfQ-akeBeuJFzhgAIsA9a",
+      "text": "359) Bronxial astma haqqında aşağıdakı fikirlərdən hansı doğrudur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "bESQkqfKPiOsllTjbZKkS",
+          "text": "A) Bronxların hiperreaktivliyi fonunda boğulma tutmaları, astmatik status və ya tənəffüs diskomfortu ilə bürüzə verilən, tənəffüs yollarının xroniki iltihabıdır",
+          "isCorrect": true
+        },
+        {
+          "id": "4grZgEIOATqL8G73dyzEy",
+          "text": "B) Tənəffüs yollarının xroniki iltihabıdır",
+          "isCorrect": false
+        },
+        {
+          "id": "nkjn3Ds_WK4zzK83bgis7",
+          "text": "C) Bronxların hiperreaktivliyi fonunda tənəffüs yollarının xroniki iltihabıdır",
+          "isCorrect": false
+        },
+        {
+          "id": "Oll35K4755VdMDmjh3vFi",
+          "text": "D) Tənəffüs diskomfortu ilə müşayiət olunan tənəffüs yollarının xroniki iltihabıdır",
+          "isCorrect": false
+        },
+        {
+          "id": "HR9VPvmh9Cjq6n7OIl_it",
+          "text": "E) Boğulma tutmaları ilə müşayiət olunan bronxların hiperreaktivliyidir",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "sL0cIrIxnnxRujsMqgJBs",
+      "text": "360) Astmatik vəziyyətin II stadiyası (dekompensasiya dövrü) üçün xarakterikdir:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "Pz_xffuL7FzCKpsRUlPJd",
+          "text": "A) Boğulma qorxusu",
+          "isCorrect": false
+        },
+        {
+          "id": "ZFlcszxgFdwQYRUWtxhqK",
+          "text": "B) Arterial təzyiqin qalxması",
+          "isCorrect": false
+        },
+        {
+          "id": "sSREFad1Ep-cc5H7LSrtF",
+          "text": "C) Küllü miqdarda quru və yaş xırıltılar",
+          "isCorrect": false
+        },
+        {
+          "id": "S081wEiezCeevSOd-m5C9",
+          "text": "D) Dəri və selikli qişaların diffuz sianozu",
+          "isCorrect": true
+        },
+        {
+          "id": "pnDRJTBGkNCIJzx7P5MnZ",
+          "text": "E) Tezləşmiş səsli tənəffüs",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "X8GBDYX9q7T3CWdizrxtv",
+      "text": "361) Teopek-prolongin aşağıdakılardan hansının uzunmüddətli təsiri olan preparatıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "5l1rsoOXFg5YxyICBf0Wg",
+          "text": "A) Teofillinin",
+          "isCorrect": true
+        },
+        {
+          "id": "1yLii-cBOIMZb1J002AKs",
+          "text": "B) Korqlükonun",
+          "isCorrect": false
+        },
+        {
+          "id": "G6Ip2OvEdQpMuGx1TJlt0",
+          "text": "C) Papaverinin",
+          "isCorrect": false
+        },
+        {
+          "id": "irJvpz-nWI00nQvOPGFSA",
+          "text": "D) Diqoksinin",
+          "isCorrect": false
+        },
+        {
+          "id": "0xf2duCISi5TLal4pc7iz",
+          "text": "E) Strofantinin",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "3USNuGF4X_yiGIMxwtQxz",
+      "text": "362) Qeyri-spesifik hiposensibilizasiya zamanı nə istifadə olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "oMLfTGdIxrAEgYPzoHSdZ",
+          "text": "A) Allergenlər",
+          "isCorrect": false
+        },
+        {
+          "id": "_hRrgv7tfTlKQEqV-l_Ii",
+          "text": "B) Suprastin",
+          "isCorrect": false
+        },
+        {
+          "id": "lYB854yBza0qxUvcG8Tn3",
+          "text": "C) Ketotifen",
+          "isCorrect": false
+        },
+        {
+          "id": "WdOe3_HToX9Jyk56Ey-tn",
+          "text": "D) Kalsi qlükonat",
+          "isCorrect": false
+        },
+        {
+          "id": "xnrveBD5J_YLpBBD5Ylle",
+          "text": "E) Histoqlobulin",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "nZ0NAchJ5aprQnkQb_XJD",
+      "text": "363) Bronxial astmanın gedişini nəzarətdə saxlayan dərman preparatlarına hansılar aiddir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "zC4qfNN2e1cyjhzhE9P_Y",
+          "text": "A) İltihab əleyhinə preparatlar və uzun təsirli bronxodilatatorlar",
+          "isCorrect": true
+        },
+        {
+          "id": "4DXJ8ukfIYD8AdtuXmb4O",
+          "text": "B) İnhalyasion xolinolitiklər",
+          "isCorrect": false
+        },
+        {
+          "id": "Ols7ATK0zC9qzit9nlkRY",
+          "text": "C) Qısa təsirli α-2 adrenomimetiklər",
+          "isCorrect": false
+        },
+        {
+          "id": "6z6CebupGU5TWS0q-eZ9d",
+          "text": "D) Antihistamin preparatları",
+          "isCorrect": false
+        },
+        {
+          "id": "YNolxTXkvS1IPtwwPBhDf",
+          "text": "E) İmmunostimulyatorlar",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "gfBlh_yRmrMz8inFdKov2",
+      "text": "364) Eksudativ plevritlə 3 yaşlı xəstə uşağın plevral mayesində segmentnüvəli leykositlər üstünlük təşkil edir. Eksudativ plevritin səbəbi nədir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "tmhveAzSO9NZeZ2gapLYP",
+          "text": "A) Ağciyar xərçəngi",
+          "isCorrect": false
+        },
+        {
+          "id": "Dj5wy5ZEnKeHeq-pfHX8H",
+          "text": "B) Pnevmoniya",
+          "isCorrect": true
+        },
+        {
+          "id": "fkJ0JM3PksPhz_LACbTzn",
+          "text": "C) Qabırğanın sınığı",
+          "isCorrect": false
+        },
+        {
+          "id": "Aq-fdi8mPBFyJTU3VAvJu",
+          "text": "D) Vərəm",
+          "isCorrect": false
+        },
+        {
+          "id": "O-PUi-1mS_eNYs_MkUNN2",
+          "text": "E) Obstruktiv bronxit",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "zTGUb7ltMO2UKeXFaY7WZ",
+      "text": "365) Aşağıdakılardan hansı mukovissidozun formasıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "zP_yijglSoyHgS8unWmZ5",
+          "text": "A) Qarışıq",
+          "isCorrect": true
+        },
+        {
+          "id": "cagPxaDokhGKjWEzXyKlI",
+          "text": "B) Abdominal",
+          "isCorrect": false
+        },
+        {
+          "id": "jnYHAH89TzL3PtMCEhIPT",
+          "text": "C) Nefrotik",
+          "isCorrect": false
+        },
+        {
+          "id": "U5cgVxv7LoTMqJhib7MK0",
+          "text": "D) Oynaq",
+          "isCorrect": false
+        },
+        {
+          "id": "GzmnPgQbcidfP08qyX5D4",
+          "text": "E) Dəri",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "jrnlWYam15QDaLT53Q0Ik",
+      "text": "366) İdiopatik hemosideroz vəxtı rentgenoqrammada müşahidə olunur:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "LkmhXITAbBZYgyCEB7OfH",
+          "text": "A) İnterstisial şəklin \"Kəpənək formasında\" güclənməsi",
+          "isCorrect": true
+        },
+        {
+          "id": "uVLtm41qW6Hcf13hMgMnX",
+          "text": "B) Pnevmoniya ocaqları",
+          "isCorrect": false
+        },
+        {
+          "id": "bFlGnTK-ArBhNLfjwbTjr",
+          "text": "C) Plevrit",
+          "isCorrect": false
+        },
+        {
+          "id": "5SKyD96ZZfGkLZbkNVDe1",
+          "text": "D) Atelektaz",
+          "isCorrect": false
+        },
+        {
+          "id": "q1CkMShIyjp1jZG9RP7ZN",
+          "text": "E) Pnevmotoraks",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "tLp86Qhhvj_D98q3R5O8B",
+      "text": "367) Ağciyərin idiopatik hemosiderozu zamanı laborator analizlərdə aşağıdakılardan hansı müşahidə olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "oZ4_DZUnjW2YoZOB1QGlP",
+          "text": "A) Bəlgəmdə hemosiderinli makrofarq",
+          "isCorrect": true
+        },
+        {
+          "id": "Rc-zf1KQQj1KShE5m7wun",
+          "text": "B) Neytrofilyez",
+          "isCorrect": false
+        },
+        {
+          "id": "MttEFCDurFWkvnrHUsqWA",
+          "text": "C) Qanın zərdabında konyuqasion bilirubinin artması",
+          "isCorrect": false
+        },
+        {
+          "id": "e1sheexm0PbZ7zPUwMuSf",
+          "text": "D) Hematokrit göstəricinin azalması",
+          "isCorrect": false
+        },
+        {
+          "id": "rHFyd87KqL7HoU0DuZKSA",
+          "text": "E) Eritrositlərin miqdarının azalması",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "zQhPn8CIANParVvR0PRjN",
+      "text": "368) Ağ ciyərlərin diffuz idiopatik fibroz xəstəliyi zamanı müşahidə olunan klinik simptomlar:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "d0wnuC4TeJKMqROQt7Xov",
+          "text": "A) Öskürək",
+          "isCorrect": true
+        },
+        {
+          "id": "21KKY37_8iYczucjgoUKF",
+          "text": "B) Fiziki inkişafın sürətlənməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "e25ZZ3uYfLkESORZLeC5_",
+          "text": "C) Yanaqda qızartı",
+          "isCorrect": false
+        },
+        {
+          "id": "vX92W-Mzq2dUQX9UvJiph",
+          "text": "D) Yüksək hərarət",
+          "isCorrect": false
+        },
+        {
+          "id": "JR1PGOdWKZLL9AlNFmdoN",
+          "text": "E) Qusma",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "x5uccIoGMMhzlGEV33dzC",
+      "text": "369) Kartagener sindromu - kombina olunmuş inkişaf qüsuru üçün aşağıdakılardan hansı səciyyəvidir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "aWGcwjDEUnIFPcRweuItV",
+          "text": "A) Daxili orqanların tərs yerləşməsi və neytropeniya",
+          "isCorrect": false
+        },
+        {
+          "id": "KL1UMOBPW8nl-iAsWIFff",
+          "text": "B) Daxili orqanların tərs yerləşməsi",
+          "isCorrect": false
+        },
+        {
+          "id": "5-_wIsY1-mqU8cTmxQnL8",
+          "text": "C) Daxili orqanların tərs yerləşməsi, xroniki bronx-ağciyər prosesi",
+          "isCorrect": false
+        },
+        {
+          "id": "_0VZKjtbP9paSt08sJFP0",
+          "text": "D) Daxili orqanların tərs yerləşməsi, xroniki bronx-ağciyər prosesi və rinosinusopatiya",
+          "isCorrect": true
+        },
+        {
+          "id": "bqf4JE-TPHtxSyNfqJjA2",
+          "text": "E) Rinosinusopatiya, xroniki bronx-ağciyər prosesləri",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "lvWat7-1B5YS6Pj-q47rM",
+      "text": "370) Kartagener sindromunda hansı tədbir məsləhət görülür?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "M8qg0lDapbFZWHh9dhJ52",
+          "text": "A) Hormonoterapiya",
+          "isCorrect": false
+        },
+        {
+          "id": "dHPXNdQsxKpObhp6MkSsj",
+          "text": "B) Ağciyərin payının çıxarılması",
+          "isCorrect": false
+        },
+        {
+          "id": "9yLk4ryETiiN-Zm2D2NWQ",
+          "text": "C) Antibiotikoterapiya",
+          "isCorrect": false
+        },
+        {
+          "id": "pAJE5eGUx41x9jdB_glT9",
+          "text": "D) Müalicəvi idman",
+          "isCorrect": true
+        },
+        {
+          "id": "Msf4pxXO7eGL3S6uW4JDL",
+          "text": "E) İnhalyasiya",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "rsi0vLsCynE4VDH7BX4-_",
+      "text": "371) Plevritlər hansı xarakterdə olur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "xDO9F_90jCJMFcQYY0br5",
+          "text": "A) Restriktiv",
+          "isCorrect": false
+        },
+        {
+          "id": "a5Ud9zOFFvfQPTs-Drzoj",
+          "text": "B) İltihablı",
+          "isCorrect": false
+        },
+        {
+          "id": "LIHzqo_m0w7QATpAtBhVm",
+          "text": "C) İrinli obstruktiv",
+          "isCorrect": false
+        },
+        {
+          "id": "_G17QbM8f4ASjk-XivXkT",
+          "text": "D) İrinli",
+          "isCorrect": true
+        },
+        {
+          "id": "D9t6sgxTun7KryTXwtH9G",
+          "text": "E) Obstruktiv",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "5XahVA2vLTHvwLFdVDODY",
+      "text": "372) Allergik rinit nəcə səciyyələnir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "3Ql8bVRwWMdAjheLNOf9D",
+          "text": "A) Periferik qanda eizinofiliya",
+          "isCorrect": false
+        },
+        {
+          "id": "0WwnPOKsv-FqgpQ6uU2rs",
+          "text": "B) Yüksək hərarət",
+          "isCorrect": false
+        },
+        {
+          "id": "AOeH_ta9NfTP6U7mJyEmc",
+          "text": "C) Təngnəfəslik",
+          "isCorrect": false
+        },
+        {
+          "id": "tvcloGUSaKV_YMWWXsdqJ",
+          "text": "D) Asqırma",
+          "isCorrect": true
+        },
+        {
+          "id": "97_4sHpkyTYsf2nKIXPAF",
+          "text": "E) İştahanın zəifləməsi",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "n-s4UBKu9ZOVXsMShiiHu",
+      "text": "373) Allergik laringitdə aşağıdakılardan hansı müşahidə olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "e62lNESX08rkrG__Wi3bf",
+          "text": "A) «Hürücü» öskürək",
+          "isCorrect": true
+        },
+        {
+          "id": "t0KrFTmV9xez6sDYhVWZL",
+          "text": "B) EÇS artması",
+          "isCorrect": false
+        },
+        {
+          "id": "5OSB0Ds2HeR2c92W7NYKK",
+          "text": "C) Yüksək hərarət",
+          "isCorrect": false
+        },
+        {
+          "id": "uY_ScCADXVRnjQBKITaB8",
+          "text": "D) Təngnəfəslik",
+          "isCorrect": false
+        },
+        {
+          "id": "Yk-VjGkFJs0mPl44G1r1f",
+          "text": "E) Qanda neytrofilyoz",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "zPmC5Vyv_Vl-CRGtuGmxy",
+      "text": "374) Allergik pnevmoniyada müşahidə olunur:",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "zjo629eEZ12AuJgj3DZuu",
+          "text": "A) EÇS artması",
+          "isCorrect": false
+        },
+        {
+          "id": "Rz9Kajev3BrzpS-ZN_7lQ",
+          "text": "B) Neytrofiliya",
+          "isCorrect": false
+        },
+        {
+          "id": "0PH7V83tXJZgMxR15YWWq",
+          "text": "C) Leykositoz",
+          "isCorrect": false
+        },
+        {
+          "id": "YotVtesusvQzHgKgTgabU",
+          "text": "D) Eozinofiliya",
+          "isCorrect": true
+        },
+        {
+          "id": "7IyBvFlxw0UVau4FHwHkr",
+          "text": "E) Yüksək hərarət",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "W73m-Xkud4almf_7v6kzl",
+      "text": "375) Bitonal öskürək hansı xəstəlikdə qeyd olunur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "9vvz9FkzPZRJ6GDCtn4kF",
+          "text": "A) Plevrit",
+          "isCorrect": false
+        },
+        {
+          "id": "0yRWUiUTn-XJbDgFWVqsq",
+          "text": "B) Ocaqlı pnevmoniya",
+          "isCorrect": false
+        },
+        {
+          "id": "Ai5i5QyI6FkKtUTf4jamf",
+          "text": "C) Bronxial astma",
+          "isCorrect": false
+        },
+        {
+          "id": "-0Np8GAqhOU0i4w59ryXg",
+          "text": "D) Kəskin bronxit",
+          "isCorrect": false
+        },
+        {
+          "id": "mU4MjUFC0zT-DamCISlS7",
+          "text": "E) Vərəm limfadeniti",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "0lMqs2TNq_tRs9c6BRYta",
+      "text": "376) 2 yaşlı sağlam uşaqda auskultasiya zamanı nəcə tənəffüs olmalıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "wkO_FxUXnnVYZIlAy18F4",
+          "text": "A) Sərt",
+          "isCorrect": false
+        },
+        {
+          "id": "986kGUBel4pCEXLetIxcS",
+          "text": "B) Vezikulyar",
+          "isCorrect": false
+        },
+        {
+          "id": "rL3zdgu73yzvuJc050-o9",
+          "text": "C) Bronxial",
+          "isCorrect": false
+        },
+        {
+          "id": "oO1Z2ZgAlRdaFbuXgEogs",
+          "text": "D) Zəif vezikulyar",
+          "isCorrect": false
+        },
+        {
+          "id": "0X9GZrFXTaLI22PK-70tK",
+          "text": "E) Pueril",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "B89gkAw7qDNWcSCPPmDFQ",
+      "text": "377) Alveolların sintezi hansı müddətdə davam edir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "qlYpn_sv6_zcVHnQjKH7c",
+          "text": "A) Hestasiyanın 36-cı həftəsindən 1,5 yaşa qədər",
+          "isCorrect": true
+        },
+        {
+          "id": "PXhSiDbCcj01Pj-AwNlwq",
+          "text": "B) Yalnız antenatal dövrdə",
+          "isCorrect": false
+        },
+        {
+          "id": "PQNYibAC-stRDJArHyDtL",
+          "text": "C) Hestasiyanın 28-ci həftəsindən 3 yaşa kimi",
+          "isCorrect": false
+        },
+        {
+          "id": "zyyfxAQBEkVYHfHcQfFIz",
+          "text": "D) Yalnız prenatal dövrdə",
+          "isCorrect": false
+        },
+        {
+          "id": "a9WhXafEcKSRN4wTvmend",
+          "text": "E) Hestasiyanın 28-ci həftəsindən 1,5 yaşa qədər",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "by8yx6TnrzmdnPk6PqnZ7",
+      "text": "378) Aşağıdakılardan hansı tənəffüs üzvlərinin selikli qişasının tərkibində yoxdur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "I05B7gFAiEX4WFRnHyR2s",
+          "text": "A) Laktoferrin",
+          "isCorrect": false
+        },
+        {
+          "id": "1imtrbFgByGzOosknUdX7",
+          "text": "B) Transferrin",
+          "isCorrect": true
+        },
+        {
+          "id": "CeLiFY5cr8_0S8QckkNdc",
+          "text": "C) Lizosim",
+          "isCorrect": false
+        },
+        {
+          "id": "v_Py4mxK01ttMMhJI45YB",
+          "text": "D) Musin",
+          "isCorrect": false
+        },
+        {
+          "id": "U5_uBehJlAGBO-wGgFJDb",
+          "text": "E) Fibronektin",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "NGYp05z2mHniULZRi0P17",
+      "text": "379) Düzgün diaqnozu seçin: 5 aylıq uşaq ağır vəziyyətdə xəstəxanaya çatdırılı. Təngnəfəslik, peroral sianoz qeyd olunub. Tənəffüs - dəqiqədə 60. Perkussiya zamanı - qutu səsi. Auskultasiya: çox saylı xırdaqabarcıqlı xırıltılar, nüfuz almada - krepitasiya. Ürək tonları karlaşı, ürək vurğularının sayı - dəqiqədə 140. Hərarət - 38,6 dərəcədir. Qarın ağrısız, qara ciyər qabırğa altından 2 sm. allənir. Nacis-N, diurez-N. Anamnezdən məlumdur ki, 3 aylığında KRX keçirib, müalicə alıb. RQ - ağ ciyərlərin sathında yüksək şaffaflıq (xüsusən periferik zonalarda)",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "YfgYj6aPBUGmezoTHhYAL",
+          "text": "A) Emfizema",
+          "isCorrect": false
+        },
+        {
+          "id": "GqAubT2HRswTf2G7r8XNu",
+          "text": "B) Kəskin bronxiolit",
+          "isCorrect": true
+        },
+        {
+          "id": "AtVHkRQL9KF9vQJPWw6AN",
+          "text": "C) Atelektaz",
+          "isCorrect": false
+        },
+        {
+          "id": "twXyUYZ3l2poxCQQ2qTL3",
+          "text": "D) Kəskin bronxit",
+          "isCorrect": false
+        },
+        {
+          "id": "oOlrXGPDxraxy0ESv_otq",
+          "text": "E) Pnevmoniya",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "B1OuHopNoSU2uNd-xIloF",
+      "text": "380) 4 yaş 5 aylıq uşaq təcili xəstəxanaya çatdırılı. Şikayətləri: yüksək hərarət və qarında ağrılardandır. Anamnezdən məlumdur ki, uşaq 1 gündür ki, xəstədir. Qəflətən hərarət 39,4°C qalxıb, ümumi vəziyyəti pisləşib. Əziyyətverici öskürək qatı, şüşəyəbənzər bəlğəm ifrazı ilə müşahidə olunur. Uşaq sağ tərəfindən olan ağrılardan şikayət edir. Baxış zamanı uşaqda tormozlanma, ümumi avazıma, yanaqların qızarması (xüsusən sağ tərəfdə), qarışıq tipli təngnəfəslik qeyd edilir. Uşaq, ayaqlarının qarnına yığılmış halda sağ böyr üstə uzanıb. Perkussiya zamanı - sağ tərəfdə perkutor səsinə qısalması, solda - qutu səsi qeyd edilir. Nəbzin nəfəs alməğa nisbəti 2:1 Qanın ümumi müayinəsi: leykositoz, EÇS artmışdır; RQ - sağ ağ ciyərin aşağı paylarında infiltrativ kölgə, solda - şaffaflıq",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "q3ezgwbe7dZcI4pkR95tN",
+          "text": "A) Obstruktiv bronxit",
+          "isCorrect": false
+        },
+        {
+          "id": "itSwd69E43RFdpIqnls02",
+          "text": "B) Bronxial astma",
+          "isCorrect": false
+        },
+        {
+          "id": "FnEB47JvPu_Pxhgjmkw3-",
+          "text": "C) Emfizema",
+          "isCorrect": false
+        },
+        {
+          "id": "3u2ccXrRtlzMPo1o-bGaF",
+          "text": "D) Lobar pnevmoniya",
+          "isCorrect": true
+        },
+        {
+          "id": "ZJr3AR9s5yhRddGFWucN1",
+          "text": "E) Atelektaz",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "IVZwTO9c48V3Ri6KwEvSo",
+      "text": "381) Müalicə taktikasını dəqiqləşdirmək üçün hansı əlavə müayinələr daha vacibdir: 4 yaş 5 aylıq uşaq təcili xəstəxanaya çatdırılı. Şikayətlər: yüksək hərarət və qarında ağrılar. Anamnezdən məlumdur ki, uşaq 1 gün xəstədir. Qəflətən hərarət 39,4°C qalxıb, ümumi vəziyyəti pisləşib, əziyyətverici öskürək qatı, şüşəyəbənzər bəlğəm ilə müşahidə olunur. Uşaq sağ böyründə ağrılardan şikayət edir. Baxış zamanı uşaqda tormozlanma, ümumi avazıma, yanaqların qızarması (xüsusən sağ tərəfdə), təngnəfəslik qarışıq tipli. Uşaq sağ böyr üstə uzanıb, ayaqları yığılmış halda. Perkussiya zamanı - sağ tərəfdə perkutor səsinə qısalması, solda - qutu səsi. Nəbzin nəfəs alməğa nisbəti 2:1 Qanın ümumi analizi: leykositoz, EÇS artmışdır; RQ - sağ ağ ciyərin aşağı paylarında infiltrativ kölgə, solda - şaffaflıq",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "-_BPNmvPvgWVT1unVuMSY",
+          "text": "A) Qastroduodenoskopiya",
+          "isCorrect": false
+        },
+        {
+          "id": "IYVfT3exQjDqRbMdrmyFV",
+          "text": "B) Neyrosonoqrafiya",
+          "isCorrect": false
+        },
+        {
+          "id": "F2fjBIGgn3VvZXESL8Yct",
+          "text": "C) Bəlğəmin əkilməsi və antibiotiklərə qarşı həssaslığının təyini",
+          "isCorrect": false
+        },
+        {
+          "id": "RWvo_aHOVjUHPm33k0rEH",
+          "text": "D) EKQ",
+          "isCorrect": false
+        },
+        {
+          "id": "Loy9se-7lZdTjRhlsNQeI",
+          "text": "E) Sidiyin ümumi analizi",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "_PmHotYehZx9__vfiNL8K",
+      "text": "382) Kodein nəcə təsir edir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "n1dtDynv0kWk5CH2mxm-0",
+          "text": "A) Hərarətsalıcı",
+          "isCorrect": false
+        },
+        {
+          "id": "Sm3Jag22RGhM9IhnHAUnA",
+          "text": "B) İltihab əleyhinə",
+          "isCorrect": false
+        },
+        {
+          "id": "TzXFOhYjbqw1-DgTonTLj",
+          "text": "C) Antihistamin",
+          "isCorrect": false
+        },
+        {
+          "id": "f6hTuCd3dZ538RsTwHfH9",
+          "text": "D) Antioksidant",
+          "isCorrect": false
+        },
+        {
+          "id": "hGsfBZMiQxv2VyTmV_SeZ",
+          "text": "E) Öskürək əleyhinə",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "qMhgvDnbwAeav7gl6Mc8u",
+      "text": "383) Xəstəxanadaxili pnevmoniya ehtimal edilən törədici pnevmokok olduğu halda, hazırkı xəstəlikdən əvvəl xəstəyə antibiotikoterapiya aparılmayıbsa, seçim preparatı hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "1FjfIbQ-dIyy1QfsX3clu",
+          "text": "A) Daxilə amoksisillin",
+          "isCorrect": false
+        },
+        {
+          "id": "Dl11bSvqiRIX1CS5qV9e_",
+          "text": "B) Aminoqlikozid parenteral",
+          "isCorrect": false
+        },
+        {
+          "id": "gvtgL32q0zizJ4vnMC31E",
+          "text": "C) Daxilə amoksisillin/klavulanat",
+          "isCorrect": false
+        },
+        {
+          "id": "ZKaQJRFrs32TCVGpRr3H6",
+          "text": "D) 3-4cü nəsil sefalosporin parenteral",
+          "isCorrect": false
+        },
+        {
+          "id": "I69OVZcgPeK3yQpw3_dyy",
+          "text": "E) Daxilə makrolid",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "JiuU0A1n4AX5mnR7uDVi0",
+      "text": "384) Xəstəxanadaxili pnevmoniya zamanı, hazırkı xəstəlikdən əvvəl xəstəyə amoksisillinlə müalicə aparılıbsa, seçim preparatı hansı olmalıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "i8u6-DmLIuTn_L2aD26KQ",
+          "text": "A) Parenteral ampisillin",
+          "isCorrect": false
+        },
+        {
+          "id": "-tFFJxwF1MY_NBWUPUILJ",
+          "text": "B) Parenteral karbapenem",
+          "isCorrect": false
+        },
+        {
+          "id": "85lNRBDDUzfa1As-vnMnG",
+          "text": "C) Parenteral sefazolin",
+          "isCorrect": true
+        },
+        {
+          "id": "grsMuaD3Yt6HmWaxPznN7",
+          "text": "D) Parenteral vankomisin",
+          "isCorrect": false
+        },
+        {
+          "id": "YobPPOMQk40PJ156Jbqnb",
+          "text": "E) Parenteral amoksisillin/klavulanat + daxilə makrolid",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "YFYs72x3tSbHmxJHGKU0u",
+      "text": "385) 1-6 aylıq uşaqlarda tipik xəstəxanaxarici pnevmoniya zamanı hansı preparat start preparatı kimi təyin olunmalıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "NVoYQBFvAGpHFacJr2O37",
+          "text": "A) Sefriakson",
+          "isCorrect": false
+        },
+        {
+          "id": "FnlCMsv3ZORZgslAB6a3t",
+          "text": "B) Ampisillin",
+          "isCorrect": true
+        },
+        {
+          "id": "VEMd8za1Hi0K_nvPdo2a5",
+          "text": "C) Ko-trimoksazol",
+          "isCorrect": false
+        },
+        {
+          "id": "5deEdzlA31NUoPBdB7yMM",
+          "text": "D) Jozamisin",
+          "isCorrect": false
+        },
+        {
+          "id": "OdfrQDpJLZGmwA0ISPsAc",
+          "text": "E) Amoksisillin/klavulanat",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "_QUYu8M21RrjSYXOnuaS0",
+      "text": "386) 1-6 aylıq uşaqlarda atipik xəstəxanaxarici pnevmoniya zamanı hansı preparat start preparatı kimi təyin olunmalıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "uls3sLKXeBudWq_TtC5zs",
+          "text": "A) İnyeksiya seftriakson",
+          "isCorrect": false
+        },
+        {
+          "id": "l4rkvo1e1D0wj_CyVmQDB",
+          "text": "B) Daxilə jozamisin",
+          "isCorrect": true
+        },
+        {
+          "id": "eIgnSdG5GejF7OuHzzueS",
+          "text": "C) İnyeksiya sefuroksim",
+          "isCorrect": false
+        },
+        {
+          "id": "GHnynKGw8u1kiQ4Sbbcqq",
+          "text": "D) Daxilə amoksisillin/klavulanat",
+          "isCorrect": false
+        },
+        {
+          "id": "pwNTI97uQqCOWIlvfA0-P",
+          "text": "E) İnyeksiya linkomisin",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "xINMAhoWVlAErsHdzYqL5",
+      "text": "387) Fallo tetradası olan uşaqlarda təngnəfəslik-sianotik tutmalar zamanı aşağıdakılardan hansı məqsədəuyğun deyildir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "pYJpxE7adNQ6F-otAf_tl",
+          "text": "A) Propranolol təyin etmək (anaprilin, obzidan)",
+          "isCorrect": false
+        },
+        {
+          "id": "-uiAm6kLymHLkIRXhVteT",
+          "text": "B) Promedol vurmaq",
+          "isCorrect": false
+        },
+        {
+          "id": "P5YQOHtDDxCaF_YFKGx0t",
+          "text": "C) Strofantin vurmaq",
+          "isCorrect": true
+        },
+        {
+          "id": "LEMe3-0-zgtknbu69Bnyf",
+          "text": "D) Əgər tutmalar davam edərsə - infuzion terapiyaya başlamaq",
+          "isCorrect": false
+        },
+        {
+          "id": "a1ZoNclDlcAhcQFREw-dt",
+          "text": "E) Oksigen vermək",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "fXu1-W1hEKM_Qu_-0b4EX",
+      "text": "388) Hansı anadangalmə ürək qüsuru ilə doğulan uşaq həyatının birinci ilində operativ müalicə olunmur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "iPrc9tOAVHP6kZBkoPkgr",
+          "text": "A) Fallo tetradası",
+          "isCorrect": false
+        },
+        {
+          "id": "ZP-NfCckxmehhe2SBeG77",
+          "text": "B) Aortanın kəarktasiyası",
+          "isCorrect": false
+        },
+        {
+          "id": "ymhhRMgy9rDYewLArcLaN",
+          "text": "C) Açıq oval pəncərə",
+          "isCorrect": true
+        },
+        {
+          "id": "lcN1wMPT803lOkaVammHe",
+          "text": "D) Açıq arterial axacaq",
+          "isCorrect": false
+        },
+        {
+          "id": "gF22VCysEdl5jWS0gM_d8",
+          "text": "E) İri damarların transpozisiyası",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "2lbAuwlTDHXZGhWw-dfm5",
+      "text": "389) Sistem qurdeşənəyində daha çox hansı diaqnostik əhəmiyyətə malikdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "r48KOLmpCu02-sr5dzhBz",
+          "text": "A) İmmunoqlobulinlərin artması",
+          "isCorrect": false
+        },
+        {
+          "id": "6LlhdIOb-6ipB_k0Av8wJ",
+          "text": "B) Disproteinemiya",
+          "isCorrect": false
+        },
+        {
+          "id": "v-yJDvwh9sG_ME6Tts5NM",
+          "text": "C) Sidikdə dəyişikliklər",
+          "isCorrect": false
+        },
+        {
+          "id": "8zT_jOscOk1Dy3EbZrg7j",
+          "text": "D) EÇS-in artması",
+          "isCorrect": false
+        },
+        {
+          "id": "VLNrq81Qmu6clZUDUJ9hQ",
+          "text": "E) LE-hüceyrələri",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "WRHbXhsJ8LNTBuPUCSM-S",
+      "text": "390) Aşağıdakılardan hansı revmatizmin əsas diaqnostik meyarlarından biridir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "qThSkZV_ZWg3nWwDzY3YR",
+          "text": "A) Ümumi halsızlıq",
+          "isCorrect": false
+        },
+        {
+          "id": "sDYcXsZFz8tJmxo7a9I--",
+          "text": "B) Qızdırma",
+          "isCorrect": false
+        },
+        {
+          "id": "rtKLcjKcgUMNkfPbTPexW",
+          "text": "C) Artralgiya",
+          "isCorrect": false
+        },
+        {
+          "id": "tG3epLfGxETuzwZ0czq-h",
+          "text": "D) Ocaqlı infeksiya",
+          "isCorrect": false
+        },
+        {
+          "id": "YKBppXW9DsNEY2flaeYbK",
+          "text": "E) Kardit",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "hE0sq7A4tnqadHxIoobT6",
+      "text": "391) Qeyri-steroid iltihab əleyhinə dərmanlar hansı halda məsləhət görülmür?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "QoQIBLbP7w1D0ZovGG-uq",
+          "text": "A) Verlhof xəstəliyində",
+          "isCorrect": true
+        },
+        {
+          "id": "-uLWsUwDq6TfLbXjhbc3x",
+          "text": "B) Revmatoid artritdə",
+          "isCorrect": false
+        },
+        {
+          "id": "vn4TTUQ0laNu9rN-ze-is",
+          "text": "C) Reaktiv artritdə",
+          "isCorrect": false
+        },
+        {
+          "id": "_BNAVjL_K27jWd7Al6Xos",
+          "text": "D) Revmatizmdə",
+          "isCorrect": false
+        },
+        {
+          "id": "70dP1lz0w45ZyxxfePaaq",
+          "text": "E) Posttravmatik artritdə",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "nmxyu2b6TQDFHajgsyXnI",
+      "text": "393) Qeyri-steroid iltihab əleyhinə dərmanlar qrupuna aid olmayan hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "X6Lww2FLQa465nOHp4xZi",
+          "text": "A) İndosid",
+          "isCorrect": false
+        },
+        {
+          "id": "iVrGgwsd8Q3InVm1bBRpj",
+          "text": "B) Lornoksikam",
+          "isCorrect": false
+        },
+        {
+          "id": "T6hYlnEfqCovITwkudNQ0",
+          "text": "C) Prednizolon",
+          "isCorrect": true
+        },
+        {
+          "id": "VXVRhkDrPrefwl1xYf8IS",
+          "text": "D) Asetilsalisil turşusu",
+          "isCorrect": false
+        },
+        {
+          "id": "WqU6pU1AReQKX1R4eo0lo",
+          "text": "E) Diklofenak",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "0RabWxHFIAfzxcwYtOmRF",
+      "text": "394) Ağciyərlərin ödemi zamanı nə müşahidə olunmur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "p_7pQsL9wJym5WkPBIuWG",
+          "text": "A) Ağciyərlərdə çox miqdarda yaş xırıltılar",
+          "isCorrect": false
+        },
+        {
+          "id": "hgAnGYlj3QgnSG2NvRLrx",
+          "text": "B) Təngnəfəslik",
+          "isCorrect": false
+        },
+        {
+          "id": "UErdwBACR5h1oKMPEoz9V",
+          "text": "C) Sidik ifrazının tezlaşməsi",
+          "isCorrect": true
+        },
+        {
+          "id": "cXXqarSyyZJrBPkwjK4wQ",
+          "text": "D) Ortopnoe",
+          "isCorrect": false
+        },
+        {
+          "id": "ebuHJg1jXonabznXZor_j",
+          "text": "E) Sidik ifrazının azalması",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "RgRzKZhXA5KdJ8aGThl9d",
+      "text": "395) Ortastatik kollapsı daha çox hansı preparat törədə bilər?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "2NOajQuKfMJG3Rp6PDCOG",
+          "text": "A) Prednizolon",
+          "isCorrect": false
+        },
+        {
+          "id": "M2b3wVeAvqwmNNKpJLgqT",
+          "text": "B) Nitratlar",
+          "isCorrect": false
+        },
+        {
+          "id": "PNbp20zBUKVFDgxrgUPcU",
+          "text": "C) Papaverin",
+          "isCorrect": false
+        },
+        {
+          "id": "JCe9JXdmjh9H1a5VQaUti",
+          "text": "D) Dibazol",
+          "isCorrect": false
+        },
+        {
+          "id": "LkBzV-QlcLDAJKTWA4KcH",
+          "text": "E) Prestarium",
+          "isCorrect": true
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "KV4hvf50xe6nzn2_j_WuV",
+      "text": "396) Kəskin üvək-damar çatışmazlığı zamanı hansı preparat göstərilə bilər?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "kS_k4jAMmzeNy0ujGruop",
+          "text": "A) Dopamin",
+          "isCorrect": false
+        },
+        {
+          "id": "ZDwCwIDfdVf0NZ_tHvODc",
+          "text": "B) Propranolol",
+          "isCorrect": true
+        },
+        {
+          "id": "GXyqxFRODdZVxq-kQKhpR",
+          "text": "C) İnfuzion terapiya",
+          "isCorrect": false
+        },
+        {
+          "id": "P5hVb-ij-rPLlWc5FnLMm",
+          "text": "D) Prednizolon",
+          "isCorrect": false
+        },
+        {
+          "id": "lM4jtEFLiJ_KJVXjSwn5K",
+          "text": "E) Mezaton",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "niIHig5AMzmZiz7xa2q7h",
+      "text": "397) Aortanın koarktasiyası zamanı hipertenziyanın differensial diaqnostikası üçün aşağıdakılardan hansı daha çox informativdir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "gOvfvK60q5qbNUFITAJsJ",
+          "text": "A) Sidikdə 17-ketosteroidlərin normal tərkibi müşahidə edilir",
+          "isCorrect": false
+        },
+        {
+          "id": "ZpmIC7aYY8jr1MZFyLaTj",
+          "text": "B) Arterial təzyiq yuxarı ətraflara nisbətən ayaqlarda yüksəkdir",
+          "isCorrect": false
+        },
+        {
+          "id": "5h2B6nCBhQ7FPB_ruHgAf",
+          "text": "C) Arterial təzyiq ayaqlarda yuxarı ətraflara nisbətən aşağıdır",
+          "isCorrect": true
+        },
+        {
+          "id": "b27vomKbySI6BVTadLCq1",
+          "text": "D) Sidikdə aldosteronun artması müşahidə edilir",
+          "isCorrect": false
+        },
+        {
+          "id": "jzxlbPGS5PX-aaYawAbxO",
+          "text": "E) Sidikdə katexolominlərin səviyyəsinin azalması müşahidə edilir",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "R4ICdKsqzd5iHaw-snVPF",
+      "text": "398) Paroksizmal taxikardiyanın diaqnostikası üçün təcili müayinə hansıdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "yd1CiKxE1PuLdaWl-lqKt",
+          "text": "A) FKQ",
+          "isCorrect": false
+        },
+        {
+          "id": "ivAtfJcHoQDrXddXAm9tV",
+          "text": "B) EXO-kardioqrafiya",
+          "isCorrect": false
+        },
+        {
+          "id": "GoTLnv4E7Xj89ygTRwnbd",
+          "text": "C) EKQ",
+          "isCorrect": true
+        },
+        {
+          "id": "c-YBAEXA6AH6xFg68SW8t",
+          "text": "D) Qanda kaliumun təyini",
+          "isCorrect": false
+        },
+        {
+          "id": "LGtMX-_IxWaT7XBmj2NzN",
+          "text": "E) Rentgenoqrafiya",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "7aU6yxRQTaKslqWwNWoEp",
+      "text": "399) Qan dövranı çatışmazlığı olan postvirus miokarditi zamanı nə təyin etmək lazımdır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "m9Cr623YSocF5i54n-jJw",
+          "text": "A) İderal (anaprilin)",
+          "isCorrect": false
+        },
+        {
+          "id": "ME17Oqr4Jju_EKoEW1ej_",
+          "text": "B) Kordiamin",
+          "isCorrect": false
+        },
+        {
+          "id": "hAjVi4x1E_2HGVhtpS-01",
+          "text": "C) Kapoten",
+          "isCorrect": false
+        },
+        {
+          "id": "3P7stnFSaKNSTKRc9jO01",
+          "text": "D) Diqoksin",
+          "isCorrect": true
+        },
+        {
+          "id": "upHre6SkYHuQPJTUtO0YT",
+          "text": "E) Kofein",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "EXCzuPIaaTvPVM7hnBlr5",
+      "text": "400) Mitral qapağın prolapsının diaqnostikası üçün hansı müayinə daha informativ sayılır?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "3jZuuUZtlvZuBID5-1pNm",
+          "text": "A) Ürəyin ultrasəs müayinəsi (EXO-kq)",
+          "isCorrect": true
+        },
+        {
+          "id": "nFf5yG8DNV8su4Pg-Bt_f",
+          "text": "B) FKQ",
+          "isCorrect": false
+        },
+        {
+          "id": "kDTiCAza4_D7cjT90t5Yy",
+          "text": "C) EKQ",
+          "isCorrect": false
+        },
+        {
+          "id": "Sa_UDDR9HaYp4TGw7Igtz",
+          "text": "D) Reoqram",
+          "isCorrect": false
+        },
+        {
+          "id": "u_ioyQUCIFBVHK0mOrd17",
+          "text": "E) Ürəyin rentgenoqramı",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "A4Iuk_dHankNHe25Q1lIS",
+      "text": "401) Aşağıdakılardan hansı düz antikoaqulyantlara aiddir?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "BUoI4odPY5TYrRkk8nQEW",
+          "text": "A) Varfarin",
+          "isCorrect": false
+        },
+        {
+          "id": "i3G0PCJa5Yn58W0ox7eGq",
+          "text": "B) Dikumarin",
+          "isCorrect": false
+        },
+        {
+          "id": "aARvZSe8E1uAOh_OPcHgO",
+          "text": "C) Heparin",
+          "isCorrect": true
+        },
+        {
+          "id": "rShEryU0hDJ6E-pHrMRUl",
+          "text": "D) Finilin",
+          "isCorrect": false
+        },
+        {
+          "id": "23lwuX4OXVnKsBuLJ9LOt",
+          "text": "E) Pelentan",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "YpXrDRnrlGl3dD_xO1T-S",
+      "text": "402) Aşağıdakılardan hansı qeyri-steroid iltihab əleyhinə dərmanlara aid deyil?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "sdRKkgiPH8sGz2896qE1r",
+          "text": "A) Piroksikam",
+          "isCorrect": false
+        },
+        {
+          "id": "kyb8G2MnYTQ1TUpJLEBGE",
+          "text": "B) Diklofenak",
+          "isCorrect": false
+        },
+        {
+          "id": "JAGWOqGcrZjUHFLR60Lyu",
+          "text": "C) Lornoksikam (ksefokam)",
+          "isCorrect": false
+        },
+        {
+          "id": "VmTPv8T0VXs_qoOFhsiJO",
+          "text": "D) Desferal",
+          "isCorrect": true
+        },
+        {
+          "id": "HOe12qzbBKKWoUzHgvbjB",
+          "text": "E) Naproksen",
+          "isCorrect": false
+        }
+      ],
+      "required": true,
+      "points": 1
+    },
+    {
+      "id": "u30sgxgf",
+      "text": "305) Südəmər dövrdə hansı dəyişikliklər olmur?",
+      "type": "multiple-choice",
+      "options": [
+        {
+          "id": "or43sidm",
+          "text": "A) Transplasentar immunitet tədricən azalır və özəl immunitet yaranır",
+          "isCorrect": false
+        },
+        {
+          "id": "rz02ovdn",
+          "text": "B) Neyropsixiki inkişaf sürətlə gedir",
+          "isCorrect": false
+        },
+        {
+          "id": "c67bk58s",
+          "text": "C) Katabolik prosesslər anabolik prosesslərdən üstün olur",
+          "isCorrect": true
+        },
+        {
+          "id": "dsy0sd8x",
+          "text": "D) Anabolik prosesslər üstünlük təşkil edir",
+          "isCorrect": false
+        },
+        {
+          "id": "4z45mx7b",
+          "text": "E) Fiziki inkişafı intensiv keçir",
+          "isCorrect": false
+        }
+      ],
+      "points": 1,
+      "required": true
     }
-    // Note: This file would contain 198 more questions in the same format
   ]
 }
