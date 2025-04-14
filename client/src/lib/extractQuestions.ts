@@ -9,7 +9,7 @@ export async function extractQuestionsFromDocument(file: File): Promise<{ title:
     // Send the file to the backend for processing
     // Use the dedicated Netlify function for file uploads in production
     const apiUrl = process.env.NODE_ENV === 'production'
-      ? '/.netlify/functions/upload/extract'
+      ? '/.netlify/functions/upload'
       : '/api/quizzes/extract';
 
     console.log('Sending file to:', apiUrl);

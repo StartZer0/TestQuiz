@@ -116,8 +116,17 @@ const upload = multer({
 // Create a middleware to handle the file upload
 const uploadMiddleware = upload.single('document');
 
+// Add a debug route
+app.get('/', (req, res) => {
+  res.status(200).json({ message: 'Upload function is running' });
+});
+
 // Create the route for document extraction
-app.post('/extract', (req, res, next) => {
+// The path needs to match the Netlify function path pattern
+app.post('/', (req, res, next) => {
+  console.log('Received upload request');
+  console.log('Headers:', JSON.stringify(req.headers));
+  console.log('Body type:', typeof req.body);
   uploadMiddleware(req, res, async (err) => {
     if (err) {
       console.error('Multer error:', err);

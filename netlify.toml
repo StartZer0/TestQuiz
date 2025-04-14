@@ -24,7 +24,7 @@
 # Specific redirect for file uploads
 [[redirects]]
   from = "/api/quizzes/extract"
-  to = "/.netlify/functions/upload/extract"
+  to = "/.netlify/functions/upload"
   status = 200
   force = true
 
