@@ -351,27 +351,31 @@ const QuizLibrary: React.FC = () => {
                   </div>
                 </div>
 
-                <div className="flex justify-center">
-                  <Button
-                    onClick={handleStartQuiz}
-                    disabled={loading}
-                    className="px-8 py-6 text-lg bg-gradient-to-r from-primary-500 to-primary-600 hover:from-primary-600 hover:to-primary-700 text-white shadow-md hover:shadow-lg transition-all duration-300"
-                  >
+                <div className="mt-8 pt-6 border-t border-gray-200">
+                  <div className="flex flex-col items-center">
+                    <h3 className="text-xl font-bold mb-3 text-indigo-700">Ready to Begin?</h3>
+                    <p className="text-gray-600 mb-4 text-center max-w-md">You've configured your quiz with {questionLimit} questions {shuffleQuestions ? 'in random order' : 'in original order'}.</p>
+                    <Button
+                      onClick={handleStartQuiz}
+                      disabled={loading}
+                      className="px-10 py-6 text-xl bg-gradient-to-r from-indigo-600 to-indigo-700 hover:from-indigo-700 hover:to-indigo-800 text-white shadow-lg hover:shadow-xl transition-all duration-300 rounded-xl w-full max-w-md"
+                    >
                     {loading ? (
                       <div className="flex items-center">
                         <div className="animate-spin rounded-full h-5 w-5 border-b-2 border-white mr-2"></div>
                         Loading...
                       </div>
                     ) : (
-                      <div className="flex items-center">
-                        <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <div className="flex items-center justify-center w-full">
+                        <svg xmlns="http://www.w3.org/2000/svg" className="h-7 w-7 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z" />
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                         </svg>
-                        Start Quiz
+                        START QUIZ NOW
                       </div>
                     )}
                   </Button>
+                  </div>
                 </div>
               </CardContent>
             </Card>
